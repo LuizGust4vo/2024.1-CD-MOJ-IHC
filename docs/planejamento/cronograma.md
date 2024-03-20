@@ -236,3 +236,15 @@ Na Tabela 18, está explicitado o cronograma executado das atividades da oitava 
 
 | Atividade | Período de desenvolvimento | Responsável | Revisão | Revisores | Data da Entrega |
 | --------- | -----------| ------------ | ------- | ------- | ------- |
+
+## Bibliografia
+
+> Cronograma Duolingo. Disponível em: <<https://interacao-humano-computador.github.io/2022.2-Lichess/>>. Acesso em 19 de março de 2024.
+
+> Cronograma Bilheteria Digital. Disponível em: <<https://interacao-humano-computador.github.io/2023.1-BilheteriaDigital/planejamento/cronograma/>>. Acesso em 19 de março de 2024.
+
+## Histórico de versão
+
+| Versão| Data | Descrição  | Autor(es)  | Revisor(es) |
+| ------- | ------ | ------- | -------- | -------- |
+| `1.0` | 20/03/2024 | Criação do cronograma. | [Eric Silveira](https://github.com/ericbky) | [João Artur](https://github.com/joao-artl) e [Arthur Alves](https://github.com/Arthrok)|
