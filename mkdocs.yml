@@ -25,7 +25,9 @@ nav:
   - Apresentações:
       - Apresentação 1: index.md
   - Atas: index.md
-  - Planejamento: index.md
+  - Planejamento:
+    - Cronograma: planejamento/cronograma.md
+    - Heatmap: planejamento/heatmap.md
 
 
 theme:
