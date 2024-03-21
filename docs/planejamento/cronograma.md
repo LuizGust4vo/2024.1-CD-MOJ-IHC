@@ -1,5 +1,10 @@
 # Cronograma
 
+## <a>Histórico de Versão</a>
+|Data|Data Prevista de Revisão|Versão|Descrição|Autor|Revisor|
+| :----------: |:-----------:| :------: | :-----------: | :---------: |:---------: |
+|20/03/2024|21/03/2024|1.0|Criação do Documento|[João Artur](https://github.com/joao-artl)|João Artur e Arthur Melo|
+
 ## Descrição
 
 O cronograma tem como objetivo estruturar todas as atividades a serem conduzidas durante o curso de Interação Humano-Computador. Dessa forma, as tarefas foram agrupadas de acordo com as etapas em que devem ser executadas. É importante ressaltar que os cronogramas serão revisados e atualizados conforme necessário durante o curso.
