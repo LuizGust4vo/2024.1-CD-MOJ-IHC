@@ -11,7 +11,7 @@ Neste documento está apresentado o quadro de disponibilidade dos integrantes do
 
 <center>
 
-<img src='../../assets/images/heatmap.png'></img>
+<img src='https://github.com/Interacao-Humano-Computador/2024.1-Grupo01/blob/git-pages/assets/images/heatmap.png?raw=true'></img>
 
 *Figura 1 - Mapa de calor (Figura do autor, 2024)*
 <br><br>
@@ -22,7 +22,7 @@ Na figura 2 abaixo, a legenda esclarece que números superiores a zero indicam a
 
 <center>
 
-<img src='../../assets/images/legendaHeatmap.png'></img><br>
+<img src='https://github.com/Interacao-Humano-Computador/2024.1-Grupo01/blob/git-pages/assets/images/legendaHeatmap.png?raw=true'></img><br>
 
 *Figura 2 - Legenda Heatmap  (Figura do autor, 2024)*
 
