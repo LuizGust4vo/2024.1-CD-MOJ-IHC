@@ -14,8 +14,11 @@ markdown_extensions:
       custom_checkbox: true
   - pymdownx.tilde
   - pymdownx.emoji:
-      emoji_index: !!python/name:materialx.emoji.twemoji
-      emoji_generator: !!python/name:materialx.emoji.to_svg
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+
+plugins:
+  - glightbox
 
 site_name: Grupo 01
 
@@ -23,8 +26,9 @@ site_name: Grupo 01
 nav:
   - Home: index.md
   - Apresentações:
-      - Apresentação 1: index.md
-  - Atas: index.md
+      - Apresentação 1: apresentacao/apresentacao1.md
+  - Atas:
+      - Ata 1: atas/ata1.md
   - Planejamento:
     - Cronograma: planejamento/cronograma.md
     - Heatmap: planejamento/heatmap.md
