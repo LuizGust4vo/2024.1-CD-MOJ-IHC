@@ -48,4 +48,4 @@ _Fonte: Autores._
 
 | Versão | Data       | Descrição                                 | Autor(es)                                                                                         | Revisor(es)                                    |
 | ------ | ---------- | ----------------------------------------- | ------------------------------------------------------------------------------------------------- | ---------------------------------------------- |
-| `1.0`  | 21/04/2023 | Criação da página de ferramentas.         | [Douglas Marinho](https://github.com/M4RINH0) |  [Diego Sousa](https://github.com/DiegoSousaLeite) |
+| `1.0`  | 26/03/2024 | Criação da página de ferramentas.         | [Douglas Marinho](https://github.com/M4RINH0) |  [Diego Sousa](https://github.com/DiegoSousaLeite) |
