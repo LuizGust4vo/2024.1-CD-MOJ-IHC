@@ -43,4 +43,9 @@ _Fonte: Autores._
 > <a id="FRM7" href="#anchor_7">7.</a> YouTube. Disponível em: [https://about.youtube/](). Acesso em: 21 de abr. de 2023.
 >
 > <a id="FRM8" href="#anchor_8">8.</a> Google Planilhas. Disponível em: [https://www.google.com/intl/pt-BR/sheets/about/](). Acesso em: 21 de abr. de 2023.
->
+
+## Histórico de Versões
+
+| Versão | Data       | Descrição                                 | Autor(es)                                                                                         | Revisor(es)                                    |
+| ------ | ---------- | ----------------------------------------- | ------------------------------------------------------------------------------------------------- | ---------------------------------------------- |
+| `1.0`  | 21/04/2023 | Criação da página de ferramentas.         | [Douglas Marinho](https://github.com/M4RINH0) |  [Diego Sousa](https://github.com/DiegoSousaLeite) |
