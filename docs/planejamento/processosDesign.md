@@ -75,7 +75,7 @@ Proposto por Preece, Sharp e Rogers. Esse modelo se concentra em quatro atividad
 
 ### Engenharia de Usabilidade de Mayhew
 
-<p style="text-align: justify;">Deborah Mayhew propôs esse modelo iterativo para a engenharia de usabilidade dividido em três etapas: análise de requisitos, design/avaliação/desenvolvimento e instalação. Na imagem a seguir é possível verificar o modelo proposto:</div>
+Deborah Mayhew propôs esse modelo iterativo para a engenharia de usabilidade dividido em três etapas: análise de requisitos, design/avaliação/desenvolvimento e instalação. Na imagem a seguir é possível verificar o modelo proposto:
 
 <figure style="text-align: center;">
     <p><b>Figura 3</b> - Atividades do Modelo de Ciclo de Vida de Mayhew.</p>
@@ -83,25 +83,25 @@ Proposto por Preece, Sharp e Rogers. Esse modelo se concentra em quatro atividad
     <figcaption>Fonte: BARBOSA e SILVA, 2021, p.119.</figcaption>
 </figure>
 
-<p style="text-align: justify;">Abaixo a definição de cada uma das etapas:</div>
+Abaixo a definição de cada uma das etapas:
 
 #### Análise de Requisitos
 
-<p style="text-align: justify;">Nesta fase, as metas de usabilidade são estabelecidas, levando em conta o perfil dos usuários, a análise das tarefas a serem executadas e as características da plataforma onde o sistema será utilizado, juntamente com os princípios de design de Interação Humano-Computador (IHC). Para assegurar a aplicação eficaz dessas metas ao longo do desenvolvimento, é comum consolidá-las em guias de estilo que abrangem diversos elementos da interface do usuário, como disposição, cores, tipografia, imagens, ícones e sons, fornecendo diretrizes claras e concisas para orientar o processo de design e desenvolvimento</div>
+Nesta fase, as metas de usabilidade são estabelecidas, levando em conta o perfil dos usuários, a análise das tarefas a serem executadas e as características da plataforma onde o sistema será utilizado, juntamente com os princípios de design de Interação Humano-Computador (IHC). Para assegurar a aplicação eficaz dessas metas ao longo do desenvolvimento, é comum consolidá-las em guias de estilo que abrangem diversos elementos da interface do usuário, como disposição, cores, tipografia, imagens, ícones e sons, fornecendo diretrizes claras e concisas para orientar o processo de design e desenvolvimento
 
 #### Design, avaliação, desenvolvimento
 
-<p style="text-align: justify;">Nesta etapa, a interface é desenvolvida para atender às metas de usabilidade estabelecidas anteriormente, seguindo um processo em três níveis de detalhamento. O designer começa com protótipos de baixa fidelidade para reimaginar as tarefas, avança para protótipos de média fidelidade estabelecendo padrões de design, e finaliza com projetos de alta fidelidade para implementação.</div>
+Nesta etapa, a interface é desenvolvida para atender às metas de usabilidade estabelecidas anteriormente, seguindo um processo em três níveis de detalhamento. O designer começa com protótipos de baixa fidelidade para reimaginar as tarefas, avança para protótipos de média fidelidade estabelecendo padrões de design, e finaliza com projetos de alta fidelidade para implementação.
 
 #### Instalação
 
-<p style="text-align: justify;">Nesta etapa, o processo inclui a obtenção de feedback dos usuários que utilizaram o sistema por um período, visando aprimorar futuras versões do sistema ou identificar a necessidade de desenvolver novos sistemas.</div>
+Nesta etapa, o processo inclui a obtenção de feedback dos usuários que utilizaram o sistema por um período, visando aprimorar futuras versões do sistema ou identificar a necessidade de desenvolver novos sistemas.
 
 ## Motivações para escolha
 
-<p style="text-align: justify;">Após análise dos modelos discutidos, o grupo concluiu que o Ciclo de Vida de Mayhew seria o melhor para o projeto. Suas etapas detalhadas e bem definidas minimizam a subjetividade, o que é crucial dada a inexperiência do grupo em IHC. Um modelo robusto e detalhado serve como guia confiável para nossa situação.</div>
+Após análise dos modelos discutidos, o grupo concluiu que o Ciclo de Vida de Mayhew seria o melhor para o projeto. Suas etapas detalhadas e bem definidas minimizam a subjetividade, o que é crucial dada a inexperiência do grupo em IHC. Um modelo robusto e detalhado serve como guia confiável para nossa situação.
 
-<p style="text-align: justify;">Considerando que o sistema já está em produção começaremos com a etapa de instalação do Ciclo de Vida de Mayhew. Aqui, identificaremos alguns problemas existentes no sistema, bem como suas possíveis melhorias. Em seguida, avançaremos para a fase de análise de requisitos, seguindo o fluxo previsto no modelo.</div>
+Considerando que o sistema já está em produção começaremos com a etapa de instalação do Ciclo de Vida de Mayhew. Aqui, identificaremos alguns problemas existentes no sistema, bem como suas possíveis melhorias. Em seguida, avançaremos para a fase de análise de requisitos, seguindo o fluxo previsto no modelo.
 
 ## <a>Referências Bibliográficas</a>
 > <a id="REF1" href="#anchor_1">1.</a>Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021)Interação Humano-Computador e Experiência do usuário.
