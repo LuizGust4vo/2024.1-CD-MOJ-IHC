@@ -2,7 +2,7 @@
 
 ## Introdução
 
-<div style="text-align: justify">Antes de adentrarmos no processo de design, é fundamental compreender o que design representa. Segundo Barbosa e Silva (2011, p.93), design é um processo composto por três atividades primordiais: análise da situação atual (identificação de um problema), síntese de uma intervenção e avaliação da nova situação (da intervenção).</div>
+<div style="text-align: justify">Antes de adentrarmos no processo de design, é fundamental compreender o que design representa. Segundo Barbosa e Silva (2021, p.107)<a id="anchor_1" href="#REF1"><sup>1<sup></a>, design é um processo composto por três atividades primordiais: análise da situação atual (identificação de um problema), síntese de uma intervenção e avaliação da nova situação (da intervenção).</div>
 
 <br>Os processos de design, portanto, são métodos que permitem a execução dessas atividades de maneira sistemática e iterativa, visando desenvolver soluções que atendam às demanda dos usuários. Dentre as várias técnicas disponíveis, destacam-se quatro principais: ciclo de vida simples, ciclo de vida em estrela, engenharia de usabilidade de Nielsen e engenharia de usabilidade de Mayhew.
 <br>
@@ -23,10 +23,10 @@
 
 Proposto por Preece, Sharp e Rogers. Esse modelo se concentra em quatro atividades: análise, design, implementação e avaliação. Conforme a imagem a seguir:
 
-<figure style="text-align: center;">
-    <p><b>Figura 1</b> - Atividades do Modelo de Ciclo de Vida Simples.</p>
-    <img src="./assets/cicloVidaSimples.png" alt="Ciclo de Vida Simples" style="width: 50%; display: block; margin: 0 auto;">
-    <figcaption>Fonte: BARBOSA e SILVA, 2021, p.115.</figcaption>
+<figure markdown>
+<font size="3"><p style="text-align: center"><b>Figura 1</b> - Atividades do Modelo de Ciclo de Vida Simples.</p></font>
+![Diagrama do Modelo de Ciclo de Vida Simples](./assets/cicloVidaSimples.png){width: 300}
+<figcaption><font size="3">Fonte: BARBOSA e SILVA, 2021, p.114.</font></figcaption>
 </figure>
 
 <div style="text-align: justify">O Ciclo de Vida Simples  consiste em quatro fases principais: análise, design, implementação e avaliação. Na fase de análise, são identificadas as necessidades e características dos usuários, juntamente com os requisitos do sistema. Em seguida, na fase de design, são criadas soluções de interface com base nessas informações, priorizando usabilidade e experiência do usuário. Posteriormente, na fase de implementação, o design é transformado em um sistema funcional. Por fim, na fase de avaliação, o sistema é testado e refinado com base no feedback dos usuários, podendo retornar às fases anteriores para ajustes.(BARBOSA e SILVA, 2021, p.114).</div>
@@ -35,10 +35,10 @@ Proposto por Preece, Sharp e Rogers. Esse modelo se concentra em quatro atividad
 
 <div style="text-align: justify">O Ciclo de Vida em Estrela foi desenvolvido por Hix e Hartson no início da década de 1990 (Hix e Hartson,1993), ele é composto por seis atividades conforme a figura a seguir:</div>
 
-<figure style="text-align: center;">
-    <p><b>Figura 2</b> - Atividades do Modelo de Ciclo de Vida em Estrela.</p>
-    <img src="./assets/cicloVidaEstrela.png" alt="Ciclo de Vida em Estrela" style="width: 50%; display: block; margin: 0 auto;">
-    <figcaption>Fonte: BARBOSA e SILVA, 2021, p.115.</figcaption>
+<figure markdown>
+<font size="3"><p style="text-align: center"><b>Figura 2</b> - Atividades do Modelo de Ciclo de Vida em Estrela.</p></font>
+![Diagrama do Modelo de Ciclo de Vida em Estrela](./assets/cicloVidaEstrela.png){width: 300}
+<figcaption><font size="3">Fonte: BARBOSA e SILVA, 2021, p.115.</font></figcaption>
 </figure>
 
 <div style="text-align: justify">Nesse modelo, o designer tem a responsabilidade de determinar a ordem das atividades, mas a avaliação é obrigatória após cada uma, independentemente da sequência escolhida. As atividades desempenham um papel crucial, pois são responsáveis por garantir que os dados coletados e os requisitos especificados atendam às necessidades do usuário. Além disso, as atividades são utilizadas para identificar problemas de usabilidade nos designs, protótipos e no sistema final.</div>
@@ -46,9 +46,9 @@ Proposto por Preece, Sharp e Rogers. Esse modelo se concentra em quatro atividad
 ### Engenharia de Usabilidade de Nielsen
 <p style="text-align: justify;">Segundo Jakob Nielsen, engenharia de usabilidade é um conjunto de atividades que devem acontecer durante todo o ciclo de vida do produto (BARBOSA e SILVA, 2021, p.116). A tabela 1 mostra as atividades definidas por Nielsen em seu ciclo de vida:</p>
 
-<figure markdown style="text-align: center;">
-    <font size="3"><p><b>Tabela 1</b> - Atividades da Engenharia de Usabilidade de Nielsen.</p></font>
-    <table style="margin: 0 auto;">
+<figure style="text-align: center;">
+    <p><b>Tabela 1</b> - Atividades da Engenharia de Usabilidade de Nielsen.</p>
+    <table style="margin: 0 auto; text-align: left;">
         <tr>
             <th>1. Conheça seu usuário</th>
             <th>6. Faça o design coordenado da interface como um todo</th>
@@ -70,38 +70,38 @@ Proposto por Preece, Sharp e Rogers. Esse modelo se concentra em quatro atividad
             <th>10. Pratique design iterativo</th>
         </tr>
     </table>
-    <figcaption><font size="3">Fonte: BARBOSA e SILVA, 2021, p.116.</font></figcaption>
+    <figcaption>Fonte: BARBOSA e SILVA, 2021, p.116.</figcaption>
 </figure>
 
 ### Engenharia de Usabilidade de Mayhew
 
-<p style="text-align: justify;">Deborah Mayhew propôs esse modelo iterativo para a engenharia de usabilidade dividido em três etapas: análise de requisitos, design/avaliação/desenvolvimento e instalação. Na imagem a seguir é possível verificar o modelo proposto:</div>
+Deborah Mayhew propôs esse modelo iterativo para a engenharia de usabilidade dividido em três etapas: análise de requisitos, design/avaliação/desenvolvimento e instalação. Na imagem a seguir é possível verificar o modelo proposto:
 
-<figure style="text-align: center;">
-    <p><b>Figura 3</b> - Atividades do Modelo de Ciclo de Vida de Mayhew.</p>
-    <img src="./assets/cicloVidaMayhew.png" alt="Ciclo de Vida de Mayhew" style="width: 50%; display: block; margin: 0 auto;">
-    <figcaption>Fonte: BARBOSA e SILVA, 2021, p.119.</figcaption>
+<figure markdown>
+<font size="3"><p style="text-align: center"><b>Figura 3</b> - Atividades do Modelo de Ciclo de Vida de Mayhew.</p></font>
+![Diagrama do Modelo de Ciclo de Vida de Mayhew](./assets/cicloVidaMayhew.png){width: 300}
+<figcaption><font size="3">Fonte: BARBOSA e SILVA, 2021, p.119.</font></figcaption>
 </figure>
 
-<p style="text-align: justify;">Abaixo a definição de cada uma das etapas:</div>
+Abaixo a definição de cada uma das etapas:
 
 #### Análise de Requisitos
 
-<p style="text-align: justify;">Nesta fase, as metas de usabilidade são estabelecidas, levando em conta o perfil dos usuários, a análise das tarefas a serem executadas e as características da plataforma onde o sistema será utilizado, juntamente com os princípios de design de Interação Humano-Computador (IHC). Para assegurar a aplicação eficaz dessas metas ao longo do desenvolvimento, é comum consolidá-las em guias de estilo que abrangem diversos elementos da interface do usuário, como disposição, cores, tipografia, imagens, ícones e sons, fornecendo diretrizes claras e concisas para orientar o processo de design e desenvolvimento</div>
+Nesta fase, as metas de usabilidade são estabelecidas, levando em conta o perfil dos usuários, a análise das tarefas a serem executadas e as características da plataforma onde o sistema será utilizado, juntamente com os princípios de design de Interação Humano-Computador (IHC). Para assegurar a aplicação eficaz dessas metas ao longo do desenvolvimento, é comum consolidá-las em guias de estilo que abrangem diversos elementos da interface do usuário, como disposição, cores, tipografia, imagens, ícones e sons, fornecendo diretrizes claras e concisas para orientar o processo de design e desenvolvimento
 
 #### Design, avaliação, desenvolvimento
 
-<p style="text-align: justify;">Nesta etapa, a interface é desenvolvida para atender às metas de usabilidade estabelecidas anteriormente, seguindo um processo em três níveis de detalhamento. O designer começa com protótipos de baixa fidelidade para reimaginar as tarefas, avança para protótipos de média fidelidade estabelecendo padrões de design, e finaliza com projetos de alta fidelidade para implementação.</div>
+Nesta etapa, a interface é desenvolvida para atender às metas de usabilidade estabelecidas anteriormente, seguindo um processo em três níveis de detalhamento. O designer começa com protótipos de baixa fidelidade para reimaginar as tarefas, avança para protótipos de média fidelidade estabelecendo padrões de design, e finaliza com projetos de alta fidelidade para implementação.
 
 #### Instalação
 
-<p style="text-align: justify;">Nesta etapa, o processo inclui a obtenção de feedback dos usuários que utilizaram o sistema por um período, visando aprimorar futuras versões do sistema ou identificar a necessidade de desenvolver novos sistemas.</div>
+Nesta etapa, o processo inclui a obtenção de feedback dos usuários que utilizaram o sistema por um período, visando aprimorar futuras versões do sistema ou identificar a necessidade de desenvolver novos sistemas.
 
 ## Motivações para escolha
 
-<p style="text-align: justify;">Após análise dos modelos discutidos, o grupo concluiu que o Ciclo de Vida de Mayhew seria o melhor para o projeto. Suas etapas detalhadas e bem definidas minimizam a subjetividade, o que é crucial dada a inexperiência do grupo em IHC. Um modelo robusto e detalhado serve como guia confiável para nossa situação.</div>
+Após análise dos modelos discutidos, o grupo concluiu que o Ciclo de Vida de Mayhew seria o melhor para o projeto. Suas etapas detalhadas e bem definidas minimizam a subjetividade, o que é crucial dada a inexperiência do grupo em IHC. Um modelo robusto e detalhado serve como guia confiável para nossa situação.
 
-<p style="text-align: justify;">Considerando que o sistema já está em produção começaremos com a etapa de instalação do Ciclo de Vida de Mayhew. Aqui, identificaremos alguns problemas existentes no sistema, bem como suas possíveis melhorias. Em seguida, avançaremos para a fase de análise de requisitos, seguindo o fluxo previsto no modelo.</div>
+Considerando que o sistema já está em produção começaremos com a etapa de instalação do Ciclo de Vida de Mayhew. Aqui, identificaremos alguns problemas existentes no sistema, bem como suas possíveis melhorias. Em seguida, avançaremos para a fase de análise de requisitos, seguindo o fluxo previsto no modelo.
 
 ## <a>Referências Bibliográficas</a>
 > <a id="REF1" href="#anchor_1">1.</a>Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021)Interação Humano-Computador e Experiência do usuário.
