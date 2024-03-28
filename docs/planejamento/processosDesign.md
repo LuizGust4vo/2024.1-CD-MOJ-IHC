@@ -6,11 +6,11 @@
 
 <br>Os processos de design, portanto, são métodos que permitem a execução dessas atividades de maneira sistemática e iterativa, visando desenvolver soluções que atendam às demanda dos usuários. Dentre as várias técnicas disponíveis, destacam-se quatro principais: ciclo de vida simples, ciclo de vida em estrela, engenharia de usabilidade de Nielsen e engenharia de usabilidade de Mayhew.
 
-# Modelo de Design
+## Modelo de Design
 <div style="text-align: justify">É importante ressaltar que o modelo de design adotado pelo grupo foi o Ciclo de Vida de Mayhew. No entanto, neste documento serão explorados os quatro principais processos de design, discutindo como podem ser aplicados para propor intervenções eficazes na resolução de problemas, bem como a motivação por trás da escolha do grupo para o projeto.</div>
 <br>
 
-# Projeto de Design
+## Projeto de Design
 
 <div style="text-align: justify">O projeto de Design de Interação Humano-Computador aborda três atividades básicas: análise, síntese e avaliação. A análise visa estudar e interpretar uma situação, planejando e executando intervenções, cujos efeitos são verificados durante a etapa de síntese, e posteriormente avaliados. Uma intervenção representa uma solução para um problema identificado e pode ser avaliada em todas as suas etapas, desde a concepção até após a implementação.</div>
 <br>
