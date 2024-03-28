@@ -2,7 +2,7 @@
 
 ## Introdução
 
-<div style="text-align: justify">Antes de adentrarmos no processo de design, é fundamental compreender o que design representa. Segundo Barbosa e Silva (2021, p.107)<a id="anchor_1" href="REF1"><sup>1<sup></a>, design é um processo composto por três atividades primordiais: análise da situação atual (identificação de um problema), síntese de uma intervenção e avaliação da nova situação (da intervenção).</div>
+<div style="text-align: justify">Antes de adentrarmos no processo de design, é fundamental compreender o que design representa. Segundo Barbosa e Silva (2021, p.107)<a id="anchor_1" href="#REF1"><sup>1<sup></a>, design é um processo composto por três atividades primordiais: análise da situação atual (identificação de um problema), síntese de uma intervenção e avaliação da nova situação (da intervenção).</div>
 
 <br>Os processos de design, portanto, são métodos que permitem a execução dessas atividades de maneira sistemática e iterativa, visando desenvolver soluções que atendam às demanda dos usuários. Dentre as várias técnicas disponíveis, destacam-se quatro principais: ciclo de vida simples, ciclo de vida em estrela, engenharia de usabilidade de Nielsen e engenharia de usabilidade de Mayhew.
 <br>
@@ -23,10 +23,10 @@
 
 Proposto por Preece, Sharp e Rogers. Esse modelo se concentra em quatro atividades: análise, design, implementação e avaliação. Conforme a imagem a seguir:
 
-<figure style="text-align: center;">
-    <p><b>Figura 1</b> - Atividades do Modelo de Ciclo de Vida Simples.</p>
-    <img src="./assets/cicloVidaSimples.png" alt="Ciclo de Vida Simples" style="width: 300px;">
-    <figcaption>Fonte: BARBOSA e SILVA, 2021, p.115.</figcaption>
+<figure markdown>
+<font size="3"><p style="text-align: center"><b>Figura 1</b> - Atividades do Modelo de Ciclo de Vida Simples.</p></font>
+![Diagrama do Modelo de Ciclo de Vida Simples](./assets/cicloVidaSimples.png){width: 300}
+<figcaption><font size="3">Fonte: BARBOSA e SILVA, 2021, p.114.</font></figcaption>
 </figure>
 
 <div style="text-align: justify">O Ciclo de Vida Simples  consiste em quatro fases principais: análise, design, implementação e avaliação. Na fase de análise, são identificadas as necessidades e características dos usuários, juntamente com os requisitos do sistema. Em seguida, na fase de design, são criadas soluções de interface com base nessas informações, priorizando usabilidade e experiência do usuário. Posteriormente, na fase de implementação, o design é transformado em um sistema funcional. Por fim, na fase de avaliação, o sistema é testado e refinado com base no feedback dos usuários, podendo retornar às fases anteriores para ajustes.(BARBOSA e SILVA, 2021, p.114).</div>
@@ -35,10 +35,10 @@ Proposto por Preece, Sharp e Rogers. Esse modelo se concentra em quatro atividad
 
 <div style="text-align: justify">O Ciclo de Vida em Estrela foi desenvolvido por Hix e Hartson no início da década de 1990 (Hix e Hartson,1993), ele é composto por seis atividades conforme a figura a seguir:</div>
 
-<figure style="text-align: center;">
-    <p><b>Figura 2</b> - Atividades do Modelo de Ciclo de Vida em Estrela.</p>
-    <img src="./assets/cicloVidaEstrela.png" alt="Ciclo de Vida em Estrela" style="width: 300px;">
-    <figcaption>Fonte: BARBOSA e SILVA, 2021, p.115.</figcaption>
+<figure markdown>
+<font size="3"><p style="text-align: center"><b>Figura 2</b> - Atividades do Modelo de Ciclo de Vida em Estrela.</p></font>
+![Diagrama do Modelo de Ciclo de Vida em Estrela](./assets/cicloVidaEstrela.png){width: 300}
+<figcaption><font size="3">Fonte: BARBOSA e SILVA, 2021, p.115.</font></figcaption>
 </figure>
 
 <div style="text-align: justify">Nesse modelo, o designer tem a responsabilidade de determinar a ordem das atividades, mas a avaliação é obrigatória após cada uma, independentemente da sequência escolhida. As atividades desempenham um papel crucial, pois são responsáveis por garantir que os dados coletados e os requisitos especificados atendam às necessidades do usuário. Além disso, as atividades são utilizadas para identificar problemas de usabilidade nos designs, protótipos e no sistema final.</div>
@@ -77,10 +77,10 @@ Proposto por Preece, Sharp e Rogers. Esse modelo se concentra em quatro atividad
 
 Deborah Mayhew propôs esse modelo iterativo para a engenharia de usabilidade dividido em três etapas: análise de requisitos, design/avaliação/desenvolvimento e instalação. Na imagem a seguir é possível verificar o modelo proposto:
 
-<figure style="text-align: center;">
-    <p><b>Figura 3</b> - Atividades do Modelo de Ciclo de Vida de Mayhew.</p>
-    <img src="./assets/cicloVidaMayhew.png" alt="Ciclo de Vida de Mayhew" style="width: 300px;">
-    <figcaption>Fonte: BARBOSA e SILVA, 2021, p.119.</figcaption>
+<figure markdown>
+<font size="3"><p style="text-align: center"><b>Figura 3</b> - Atividades do Modelo de Ciclo de Vida de Mayhew.</p></font>
+![Diagrama do Modelo de Ciclo de Vida de Mayhew](./assets/cicloVidaMayhew.png){width: 300}
+<figcaption><font size="3">Fonte: BARBOSA e SILVA, 2021, p.119.</font></figcaption>
 </figure>
 
 Abaixo a definição de cada uma das etapas:
