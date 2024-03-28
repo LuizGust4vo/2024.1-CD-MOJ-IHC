@@ -2,7 +2,7 @@
 
 ## Introdução
 
-<div style="text-align: justify">Antes de adentrarmos no processo de design, é fundamental compreender o que design representa. Segundo Barbosa e Silva (2011, p.93), design é um processo composto por três atividades primordiais: análise da situação atual (identificação de um problema), síntese de uma intervenção e avaliação da nova situação (da intervenção).</div>
+<div style="text-align: justify">Antes de adentrarmos no processo de design, é fundamental compreender o que design representa. Segundo Barbosa e Silva (2021, p.107)<a id="anchor_1" href="REF1"><sup>1<sup></a>, design é um processo composto por três atividades primordiais: análise da situação atual (identificação de um problema), síntese de uma intervenção e avaliação da nova situação (da intervenção).</div>
 
 <br>Os processos de design, portanto, são métodos que permitem a execução dessas atividades de maneira sistemática e iterativa, visando desenvolver soluções que atendam às demanda dos usuários. Dentre as várias técnicas disponíveis, destacam-se quatro principais: ciclo de vida simples, ciclo de vida em estrela, engenharia de usabilidade de Nielsen e engenharia de usabilidade de Mayhew.
 <br>
@@ -25,7 +25,7 @@ Proposto por Preece, Sharp e Rogers. Esse modelo se concentra em quatro atividad
 
 <figure style="text-align: center;">
     <p><b>Figura 1</b> - Atividades do Modelo de Ciclo de Vida Simples.</p>
-    <img src="./assets/cicloVidaSimples.png" alt="Ciclo de Vida Simples" style="width: 50%; display: block; margin: 0 auto;">
+    <img src="./assets/cicloVidaSimples.png" alt="Ciclo de Vida Simples" style="width: 300px;">
     <figcaption>Fonte: BARBOSA e SILVA, 2021, p.115.</figcaption>
 </figure>
 
@@ -37,7 +37,7 @@ Proposto por Preece, Sharp e Rogers. Esse modelo se concentra em quatro atividad
 
 <figure style="text-align: center;">
     <p><b>Figura 2</b> - Atividades do Modelo de Ciclo de Vida em Estrela.</p>
-    <img src="./assets/cicloVidaEstrela.png" alt="Ciclo de Vida em Estrela" style="width: 50%; display: block; margin: 0 auto;">
+    <img src="./assets/cicloVidaEstrela.png" alt="Ciclo de Vida em Estrela" style="width: 300px;">
     <figcaption>Fonte: BARBOSA e SILVA, 2021, p.115.</figcaption>
 </figure>
 
@@ -46,9 +46,9 @@ Proposto por Preece, Sharp e Rogers. Esse modelo se concentra em quatro atividad
 ### Engenharia de Usabilidade de Nielsen
 <p style="text-align: justify;">Segundo Jakob Nielsen, engenharia de usabilidade é um conjunto de atividades que devem acontecer durante todo o ciclo de vida do produto (BARBOSA e SILVA, 2021, p.116). A tabela 1 mostra as atividades definidas por Nielsen em seu ciclo de vida:</p>
 
-<figure markdown style="text-align: center;">
-    <font size="3"><p><b>Tabela 1</b> - Atividades da Engenharia de Usabilidade de Nielsen.</p></font>
-    <table style="margin: 0 auto;">
+<figure style="text-align: center;">
+    <p><b>Tabela 1</b> - Atividades da Engenharia de Usabilidade de Nielsen.</p>
+    <table style="margin: 0 auto; text-align: left;">
         <tr>
             <th>1. Conheça seu usuário</th>
             <th>6. Faça o design coordenado da interface como um todo</th>
@@ -70,7 +70,7 @@ Proposto por Preece, Sharp e Rogers. Esse modelo se concentra em quatro atividad
             <th>10. Pratique design iterativo</th>
         </tr>
     </table>
-    <figcaption><font size="3">Fonte: BARBOSA e SILVA, 2021, p.116.</font></figcaption>
+    <figcaption>Fonte: BARBOSA e SILVA, 2021, p.116.</figcaption>
 </figure>
 
 ### Engenharia de Usabilidade de Mayhew
@@ -79,7 +79,7 @@ Deborah Mayhew propôs esse modelo iterativo para a engenharia de usabilidade di
 
 <figure style="text-align: center;">
     <p><b>Figura 3</b> - Atividades do Modelo de Ciclo de Vida de Mayhew.</p>
-    <img src="./assets/cicloVidaMayhew.png" alt="Ciclo de Vida de Mayhew" style="width: 50%; display: block; margin: 0 auto;">
+    <img src="./assets/cicloVidaMayhew.png" alt="Ciclo de Vida de Mayhew" style="width: 300px;">
     <figcaption>Fonte: BARBOSA e SILVA, 2021, p.119.</figcaption>
 </figure>
 
