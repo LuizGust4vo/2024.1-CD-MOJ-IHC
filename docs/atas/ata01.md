@@ -64,9 +64,9 @@ Caso a primeira opção de site não dê certo por algum motivo, decidimos escol
 
 ## 5. Histórico de Versão
 
-| Versão | Alteração | Responsável | Revisor | Data |
+| Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | - | - | - | - | - |
-| 1.0 | Criação da Ata da Reunião | Luiz Gustavo | Eric Silveira | 25/03 |
+| `1.0` | 25/03 | Criação da Ata da Reunião | Luiz | Eric |
 
 ## 6. Links Úteis
 
