@@ -30,6 +30,7 @@ nav:
     - Cronograma: planejamento/cronograma.md
     - Heatmap: planejamento/heatmap.md
     - Ferramentas: planejamento/ferramentas.md
+    - Processos de Design: planejamento/processosDesign.md
 
 
 theme:
