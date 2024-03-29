@@ -2,21 +2,21 @@
 
 ## 1. Data, Horário, Duração e Local
 
-As informações sobre data, horário, duração e local estão detalhadas a seguir:
-- Data: 25/03/2024
-- Horário de início: 20:15
-- Duração: 45 minutos
-- Local: Teams, Online 
+As informações sobre data, horário, duração e local estão detalhadas a seguir: </br>
+- Data: 25/03/2024 </br>
+- Horário de início: 20:15 </br>
+- Duração: 45 minutos </br>
+- Local: Teams, Online </br>
 
 ## 2. Participantes
 
-Na reunião, todos os integrantes do grupo participaram, sendo então os presentes:
-- Arthur Melo
-- Diego Sousa
-- Douglas Marinho
-- Eric Silveira
-- João Artur  
-- Luiz Gustavo 
+Na reunião, todos os integrantes do grupo participaram, sendo então os presentes: </br>
+- Arthur Melo </br>
+- Diego Sousa </br>
+- Douglas Marinho </br>
+- Eric Silveira </br>
+- João Artur </br>
+- Luiz Gustavo </br>
 
 ## 3. Pontos de Discussão Importantes
 
@@ -32,7 +32,6 @@ Foram apresentados alguns sites para discutirmos, veja na tabela abaixo:
 | Luiz | Caixa Econômica Federal | Nada responsivo, acessibilidade requer melhorias, diversos erros ao utilizá-lo e falhas de segurança | 
 <p align="center"> Tabela 1. Sites </p>
 
-<br>
 As dúvidas geradas podem ser encontradas na tabela 2, onde cada dúvida tem o seu identificador Dn para rastreabilidade, sendo D de Dúvida e n o número da dúvida.
 
 | Identificador (Dn) | Dúvida |
