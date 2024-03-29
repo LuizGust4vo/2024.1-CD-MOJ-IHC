@@ -35,13 +35,18 @@ Foram apresentados alguns sites para discutirmos, veja na tabela abaixo:
 | Luiz | Caixa Econômica Federal | Nada responsivo, acessibilidade requer melhorias, diversos erros ao utilizá-lo e falhas de segurança | 
 <p align="center"> Tabela 1. Sites </p>
 
-As dúvidas geradas podem ser encontradas na tabela 2, onde cada dúvida tem o seu identificador Dn para rastreabilidade, sendo D de Dúvida e n o número da dúvida.
+
+</br> As dúvidas geradas podem ser encontradas na tabela 2, onde cada dúvida tem o seu identificador Dn para rastreabilidade, sendo D de Dúvida e n o número da dúvida.
+
+<center>
 
 | Identificador (Dn) | Dúvida |
 | - | - |
 | D1 | Qual site devemos escolher para trabalhar na matéria de IHC? | 
 | D2 | É melhor escolhermos um site que utilizamos na faculdade? |
 | D3 | Temos fácil acesso aos usuários? |
+
+</center>
 <p align="center"> Tabela 2. Dúvidas </p>
 
 ## 4. Decisões
