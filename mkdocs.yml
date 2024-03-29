@@ -25,7 +25,7 @@ nav:
   - Apresentações:
       - Apresentação 1: apresentacao/apresentacao1.md
   - Atas:
-      - Ata 1: docs/atas/ata01.md
+      - Ata 1: atas/ata01.md
   - Planejamento:
     - Cronograma: planejamento/cronograma.md
     - Heatmap: planejamento/heatmap.md
