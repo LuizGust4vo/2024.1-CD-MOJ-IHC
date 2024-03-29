@@ -35,7 +35,6 @@ Foram apresentados alguns sites para discutirmos, veja na tabela abaixo:
 | Luiz | Caixa Econômica Federal | Nada responsivo, acessibilidade requer melhorias, diversos erros ao utilizá-lo e falhas de segurança | 
 <p align="center"> Tabela 1. Sites </p>
 
-
 </br> As dúvidas geradas podem ser encontradas na tabela 2, onde cada dúvida tem o seu identificador Dn para rastreabilidade, sendo D de Dúvida e n o número da dúvida.
 
 <center>
@@ -65,7 +64,7 @@ Dessa forma, estão descritas na Tabela 3 as issues para o começo da disciplina
 | Tarefa 7 | Processo de Design | João e Luiz |
 <p align="center"> Tabela 3. Tarefas </p>
 
-Também foi decidido, por votação, o site que será trabalhado, dos 6 membros presentes na reunião, 3 votaram a favor do CD-MOJ, 2 a favor do Sigaa e 1 a favor do PAPEM. Levando em consideração que é um site utilizados por muitas pessoas na faculdade, inclusive nós mesmo, além disso, temos acesso aos professores responsáveis pelo site. Portanto, começaremos a trabalhar com ele nas próximas tarefas.
+</br>Também foi decidido, por votação, o site que será trabalhado, dos 6 membros presentes na reunião, 3 votaram a favor do CD-MOJ, 2 a favor do Sigaa e 1 a favor do PAPEM. Levando em consideração que é um site utilizados por muitas pessoas na faculdade, inclusive nós mesmo, além disso, temos acesso aos professores responsáveis pelo site. Portanto, começaremos a trabalhar com ele nas próximas tarefas.
 
 Caso a primeira opção de site não dê certo por algum motivo, decidimos escolher uma segunda opção, sendo assim, 4 votaram a favor do BRB Mobilidade, 1 a favor do Sigaa e 1 a favor do PAPEM. Decidido assim o BRB Mobilidade como segunda opção.   
 
