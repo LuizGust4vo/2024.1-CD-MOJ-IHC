@@ -25,7 +25,7 @@ nav:
   - Apresentações:
       - Apresentação 1: apresentacao/apresentacao1.md
   - Atas:
-      - Ata 1: docs/atas/ata01.md
+      - Ata 1: atas/ata01.md
   - Planejamento:
     - Cronograma: planejamento/cronograma.md
     - Heatmap: planejamento/heatmap.md
@@ -45,14 +45,14 @@ theme:
   palette:
 
     # Palette toggle for automatic mode
-    - media: "(prefers-color-scheme)"
-      toggle:
-        icon: material/brightness-auto
-        name: Mudar para o modo claro
+   # - media: "(prefers-color-scheme)"
+     # toggle:
+     #   icon: material/brightness-auto
+     #   name: Mudar para o modo claro
 
     # Palette toggle for light mode
     - media: "(prefers-color-scheme: light)"
-      scheme: default 
+      scheme: claro
       toggle:
         icon: material/brightness-7
         name: Mudar para o modo escuro
@@ -65,8 +65,8 @@ theme:
         name: Mudar para a preferência do sistema
 
   language: pt-BR
-  # favicon: assets/arquivo.png
-  # logo: assets/arquivo.png
+  favicon: assets/logoMoj.png
+  logo: assets/logoMoj.png
 
 extra:
   version:

@@ -3,26 +3,29 @@
 ## 1. Data, Horário, Duração e Local
 
 As informações sobre data, horário, duração e local estão detalhadas a seguir:
-- Data: 25/03/2024
-- Horário de início: 20:15
-- Duração: 45 minutos
-- Local: Teams, Online 
+
+- Data: 25/03/2024 </br>
+- Horário de início: 20:15 </br>
+- Duração: 45 minutos </br>
+- Local: Teams, Online
 
 ## 2. Participantes
 
 Na reunião, todos os integrantes do grupo participaram, sendo então os presentes:
-- Arthur Melo
-- Diego Sousa
-- Douglas Marinho
-- Eric Silveira
-- João Artur  
-- Luiz Gustavo 
+
+- Arthur Melo </br>
+- Diego Sousa </br>
+- Douglas Marinho </br>
+- Eric Silveira </br>
+- João Artur </br>
+- Luiz Gustavo
 
 ## 3. Pontos de Discussão Importantes
 
 Na primeira reunião com os integrantes, foram apresentadas as tarefas definidas para cada membro com base no cronograma da disciplina. Também foi discutido qual seriam os melhores dias e horários para realizar as reuniões.
 
 Foram apresentados alguns sites para discutirmos, veja na tabela abaixo:
+
 | Membro | Site(s) | Motivação |
 | - | - | - |
 | Diego | Ipasgo ou PAPEM | Interfaces ruins, arcaicas e pouca intuitivas |
@@ -32,14 +35,17 @@ Foram apresentados alguns sites para discutirmos, veja na tabela abaixo:
 | Luiz | Caixa Econômica Federal | Nada responsivo, acessibilidade requer melhorias, diversos erros ao utilizá-lo e falhas de segurança | 
 <p align="center"> Tabela 1. Sites </p>
 
-<br>
-As dúvidas geradas podem ser encontradas na tabela 2, onde cada dúvida tem o seu identificador Dn para rastreabilidade, sendo D de Dúvida e n o número da dúvida.
+</br> As dúvidas geradas podem ser encontradas na tabela 2, onde cada dúvida tem o seu identificador Dn para rastreabilidade, sendo D de Dúvida e n o número da dúvida.
+
+<center>
 
 | Identificador (Dn) | Dúvida |
 | - | - |
 | D1 | Qual site devemos escolher para trabalhar na matéria de IHC? | 
 | D2 | É melhor escolhermos um site que utilizamos na faculdade? |
 | D3 | Temos fácil acesso aos usuários? |
+
+</center>
 <p align="center"> Tabela 2. Dúvidas </p>
 
 ## 4. Decisões
@@ -58,7 +64,7 @@ Dessa forma, estão descritas na Tabela 3 as issues para o começo da disciplina
 | Tarefa 7 | Processo de Design | João e Luiz |
 <p align="center"> Tabela 3. Tarefas </p>
 
-Também foi decidido, por votação, o site que será trabalhado, dos 6 membros presentes na reunião, 3 votaram a favor do CD-MOJ, 2 a favor do Sigaa e 1 a favor do PAPEM. Levando em consideração que é um site utilizados por muitas pessoas na faculdade, inclusive nós mesmo, além disso, temos acesso aos professores responsáveis pelo site. Portanto, começaremos a trabalhar com ele nas próximas tarefas.
+</br>Também foi decidido, por votação, o site que será trabalhado, dos 6 membros presentes na reunião, 3 votaram a favor do CD-MOJ, 2 a favor do Sigaa e 1 a favor do PAPEM. Levando em consideração que é um site utilizados por muitas pessoas na faculdade, inclusive nós mesmo, além disso, temos acesso aos professores responsáveis pelo site. Portanto, começaremos a trabalhar com ele nas próximas tarefas.
 
 Caso a primeira opção de site não dê certo por algum motivo, decidimos escolher uma segunda opção, sendo assim, 4 votaram a favor do BRB Mobilidade, 1 a favor do Sigaa e 1 a favor do PAPEM. Decidido assim o BRB Mobilidade como segunda opção.   
 

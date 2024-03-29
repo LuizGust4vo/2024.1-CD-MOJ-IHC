@@ -1,12 +1,12 @@
 <font size="2"><p style="text-align: center">Figura 1: Logo.</p></font>
 
-<p align="center"><img style="border: 2px solid white; border-radius: 117px" img src="https://cdn-icons-png.flaticon.com/512/7193/7193073.png" width = 40%></p>
+<p align="center"><img style="border: 2px solid white; border-radius: 110px" img src="assets/logoMoj_preto.png" width = 40%></p>
 
-<font size="2"><p style="text-align: center">Fonte: [Google](https://www.google.com/?client=safari).</p></font>
+<font size="2"><p style="text-align: center">Fonte: [CD-MOJ](https://moj.naquadah.com.br/cgi-bin/index.sh).</p></font>
 
 
 # Sobre o projeto
-Este espaço é dedicado à documentação de todos os artefatos gerados pelo Grupo 01 na disciplina de Interação Humano-Computador (IHC) da Faculdade do Gama da Universidade de Brasília (FGA-UnB)durante o primeiro semestre de 2024. O propósito do projeto é realizar uma avaliação de IHC do site (Site ainda seá escolhido) e, aplicando os princípios aprendidos em sala de aula, propor melhorias em sua interface. (Texto explicativo sobre o site na próxima versão)
+Este espaço é dedicado à documentação de todos os artefatos gerados pelo Grupo 01 na disciplina de Interação Humano-Computador (IHC) da Faculdade do Gama da Universidade de Brasília (FGA-UnB) durante o primeiro semestre de 2024. O propósito do projeto é realizar uma avaliação de IHC do site CD-MOJ e, aplicando os princípios aprendidos em sala de aula, propor melhorias em sua interface. O site em questão, cuja logo está na Figura 1, é um juiz on-line, onde o principal objetivo é enviar códigos de usuários a outro juiz on-line, a fim de aproveitar a infraestrutura atual disponível.
 
 ## Equipe
 
@@ -25,4 +25,5 @@ Este espaço é dedicado à documentação de todos os artefatos gerados pelo Gr
 
 | Versão| Data | Descrição  | Autor(es)  | Revisor(es) |
 | ------- | ------ | ------- | -------- | -------- |
-| `1.0` | 20/03/2024 | Criação do cronograma. | [Diego Sousa](https://github.com/DiegoSousaLeite) | [João Artur](https://github.com/joao-artl) e [Arthur Alves](https://github.com/Arthrok)|
+| `1.0` | 20/03/2024 | Criação da git page. | [Diego Sousa](https://github.com/DiegoSousaLeite) | [João Artur](https://github.com/joao-artl) e [Arthur Alves](https://github.com/Arthrok)|
+| `1.1` | 29/03/2024 | Atualização do visual. | [Diego Sousa](https://github.com/DiegoSousaLeite) | [João Artur](https://github.com/joao-artl) e [Arthur Alves](https://github.com/Arthrok)|
