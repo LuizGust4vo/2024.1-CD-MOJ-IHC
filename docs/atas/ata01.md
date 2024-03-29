@@ -3,20 +3,20 @@
 ## 1. Data, Horário, Duração e Local
 
 As informações sobre data, horário, duração e local estão detalhadas a seguir: </br>
-- Data: 25/03/2024 </br>
-- Horário de início: 20:15 </br>
-- Duração: 45 minutos </br>
-- Local: Teams, Online </br>
+* Data: 25/03/2024 </br>
+* Horário de início: 20:15 </br>
+* Duração: 45 minutos </br>
+* Local: Teams, Online </br>
 
 ## 2. Participantes
 
 Na reunião, todos os integrantes do grupo participaram, sendo então os presentes: </br>
-- Arthur Melo </br>
-- Diego Sousa </br>
-- Douglas Marinho </br>
-- Eric Silveira </br>
-- João Artur </br>
-- Luiz Gustavo </br>
+* Arthur Melo </br>
+* Diego Sousa </br>
+* Douglas Marinho </br>
+* Eric Silveira </br>
+* João Artur </br>
+* Luiz Gustavo </br>
 
 ## 3. Pontos de Discussão Importantes
 
