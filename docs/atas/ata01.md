@@ -23,6 +23,7 @@ Na reunião, todos os integrantes do grupo participaram, sendo então os present
 Na primeira reunião com os integrantes, foram apresentadas as tarefas definidas para cada membro com base no cronograma da disciplina. Também foi discutido qual seriam os melhores dias e horários para realizar as reuniões.
 
 Foram apresentados alguns sites para discutirmos, veja na tabela abaixo:
+
 | Membro | Site(s) | Motivação |
 | - | - | - |
 | Diego | Ipasgo ou PAPEM | Interfaces ruins, arcaicas e pouca intuitivas |
