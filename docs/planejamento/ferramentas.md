@@ -1,6 +1,6 @@
 # Ferramentas
 
-## Histórico de Versões
+## <a>Histórico de Versão</a>
 
 | Versão | Data    | Data Prevista de Revisão  | Descrição   | Autor(es)   | Revisor(es)     |
 | ------ | ----------| ------ | ----------------------- | ------ | ------------ |

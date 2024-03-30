@@ -1,12 +1,12 @@
 # Ata da reunião de IHC do dia 25/03
 
-## 1. Histórico de Versão
+## <a>Histórico de Versão</a>
 
 | Versão | Data | Data Prevista de Revisão | Descrição | Autor(es) | Revisor(es) |
 | - | - | - | - | - | - |
 | `1.0` | 25/03/2024 | 26/03/2024 | Criação da Ata da Reunião | [Luiz Gustavo](https://github.com/LuizGust4vo) | [Eric Silveira](https://github.com/ericbky) |
 
-## 2. Data, Horário, Duração e Local
+## 1. Data, Horário, Duração e Local
 
 As informações sobre data, horário, duração e local estão detalhadas a seguir:
 
@@ -15,7 +15,7 @@ As informações sobre data, horário, duração e local estão detalhadas a seg
 - Duração: 45 minutos </br>
 - Local: Teams, Online
 
-## 3. Participantes
+## 2. Participantes
 
 Na reunião, todos os integrantes do grupo participaram, sendo então os presentes:
 
@@ -26,7 +26,7 @@ Na reunião, todos os integrantes do grupo participaram, sendo então os present
 - João Artur </br>
 - Luiz Gustavo
 
-## 4. Pontos de Discussão Importantes
+## 3. Pontos de Discussão Importantes
 
 Na primeira reunião com os integrantes, foram apresentadas as tarefas definidas para cada membro com base no cronograma da disciplina. Também foi discutido qual seriam os melhores dias e horários para realizar as reuniões.
 
@@ -54,7 +54,7 @@ Foram apresentados alguns sites para discutirmos, veja na tabela abaixo:
 </center>
 <p align="center"> Tabela 2. Dúvidas </p>
 
-## 5. Decisões
+## 4. Decisões
 A equipe definiu que as reuniões ocorrerão segunda (planning), quarta (daily) e sexta (review), com base no resultado do heatmap, com o horário podendo variar de acordo com a disponibilidade de todos.
 
 Dessa forma, estão descritas na Tabela 3 as issues para o começo da disciplina, onde cada tarefa tem o seu identificador para a rastreabilidade, sendo n o número da tarefa, e o(s) integrante(s) responsável(eis) pela realização da tarefa.
