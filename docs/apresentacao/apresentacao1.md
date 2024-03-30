@@ -7,6 +7,6 @@ O propósito desta página é hospedar o vídeo da apresentação da Primeira En
 
 ## Histórico de versão
 
-| Versão| Data | Descrição  | Autor(es)  | Revisor(es) |
-| ------- | ------ | ------- | -------- | -------- |
-| `1.0` | | | | |
+| Versão | Data    | Data Prevista de Revisão  | Descrição      | Autor(es)   | Revisor(es)     |
+| ------- | ------ | ------- | -------- | -------- | -------- |
+| `1.0` | | | | | |
