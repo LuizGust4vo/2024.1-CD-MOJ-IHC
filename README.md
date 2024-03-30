@@ -1,7 +1,5 @@
 <font size="2"><p style="text-align: center">Figura 1: Logo.</p></font>
 
-<p align="center"><img style="border: 2px solid white; border-radius: 110px" img src="assets/logoMoj_preto.png" width = 40%></p>
-
 <div style="align:center;">
     <img src="docs/assets/logoMoj_preto.png" alt="Logo MOJ" style="border-radius: 50%; width: 200px; height: 200px; align:center;">
 </div>
