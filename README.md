@@ -2,7 +2,9 @@
 
 <p align="center"><img style="border: 2px solid white; border-radius: 110px" img src="assets/logoMoj_preto.png" width = 40%></p>
 
-<font size="2"><p style="text-align: center">Fonte: [CD-MOJ](https://moj.naquadah.com.br/cgi-bin/index.sh).</p></font>
+<div style="align:center;">
+    <img src="docs/assets/logoMoj_preto.png" alt="Logo MOJ" style="border-radius: 50%; width: 200px; height: 200px; align:center;">
+</div>
 
 ## Equipe
 
