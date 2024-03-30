@@ -30,14 +30,14 @@ Na Tabela 1, tem-se o cronograma planejado para todas as atividades da primeira 
 | Implementação do Git Pages | Início dia 19/03 e Fim dia 03/04 | Arthur Alves, Diego Sousa, Douglas Marinho, Eric Silveira, João Artur, Luiz Gustavo | Início dia 04/04 e Fim dia 07/04 |Arthur Alves, Diego Sousa, Douglas Marinho, Eric Silveira, João Artur, Luiz Gustavo | 08/04 |
 |Correção pós apresentação|Início dia 09/04 e Fim dia 10/04|Arthur Alves, Diego Sousa, Douglas Marinho, Eric Silveira, João Artur, Luiz Gustavo|Início dia 09/04 e Fim dia 10/04|Arthur Alves, Diego Sousa, Douglas Marinho, Eric Silveira, João Artur, Luiz Gustavo|Não há entrega|
 
-### Executado
+<!-- ### Executado
 
 Na Tabela 2, está explicitado o cronograma executado das atividades da primeira entrega.
 
 <font size="3"><p style="text-align: center"><b>Tabela 2</b> - Planejamento do Projeto</p></font>
 
 | Atividade | Período de desenvolvimento | Responsável | Revisão | Revisores | Data da Entrega |
-| --------- | -----------| ------------ | ------- | ------- | ------- |
+| --------- | -----------| ------------ | ------- | ------- | ------- | -->
 
 ## Etapa 2 - Perfil dos Usuários
 
@@ -56,14 +56,14 @@ Na Tabela 3, tem-se o cronograma planejado para todas as atividades da segunda e
 |Período de gravação da apresentação|Início dia 20/04 e Fim dia 21/04|Douglas Marinho|Início dia 20/04 e Fim dia 21/04|Eric Silveira|22/04|
 |Correção pós apresentação|Início dia 23/04 e Fim dia 24/04|Arthur Alves, Diego Sousa, Douglas Marinho, Eric Silveira, João Artur, Luiz Gustavo|Início dia 23/04 e Fim dia 24/04|Arthur Alves, Diego Sousa, Douglas Marinho, Eric Silveira, João Artur, Luiz Gustavo|Não há entrega|
 
-### Executado
+<!--### Executado
 
 Na Tabela 4, está explicitado o cronograma executado das atividades da segunda entrega.
 
 <font size="3"><p style="text-align: center"><b>Tabela 4</b> - Perfil dos Usuários</p></font>
 
 | Atividade | Período de desenvolvimento | Responsável | Revisão | Revisores | Data da Entrega |
-| --------- | -----------| ------------ | ------- | ------- | ------- |
+| --------- | -----------| ------------ | ------- | ------- | ------- | -->
 
 ## Etapa 3 - Princípios gerais do projeto
 
@@ -83,14 +83,14 @@ Na Tabela 5, tem-se o cronograma planejado para todas as atividades da terceira 
 |Período de gravação da apresentação|Início dia 29/04 e Fim dia 29/04|Douglas Marinho|Início dia 29/04 e Fim dia 29/04|Eric Silveira|29/04|
 |Correção pós apresentação|Início dia 30/04 e Fim dia 01/05|Arthur Alves, Diego Sousa, Douglas Marinho, Eric Silveira, João Artur, Luiz Gustavo|Início dia 30/04 e Fim dia 01/05|Arthur Alves, Diego Sousa, Douglas Marinho, Eric Silveira, João Artur, Luiz Gustavo|Não há entrega|
 
-### Executado
+<!-- ### Executado
 
 Na Tabela 6, está explicitado o cronograma executado das atividades da terceira entrega.
 
 <font size="3"><p style="text-align: center"><b>Tabela 6</b> - Princípios gerais do projeto</p></font>
 
 | Atividade | Período de desenvolvimento | Responsável | Revisão | Revisores | Data da Entrega |
-| --------- | -----------| ------------ | ------- | ------- | ------- |
+| --------- | -----------| ------------ | ------- | ------- | ------- | -->
 
 ## Etapa 4 - Planejamento da avaliação do Storyboard
 
@@ -110,14 +110,14 @@ Na Tabela 7, tem-se o cronograma planejado para todas as atividades da quarta en
 |Período de gravação da apresentação|Início dia 07/04 e Fim dia 08/05|Douglas Marinho|Início dia 07/04 e Fim dia 08/05|Eric Silveira|08/05|
 |Correção pós apresentação|Início dia 09/05 e Fim dia 10/05|Arthur Alves, Diego Sousa, Douglas Marinho, Eric Silveira, João Artur, Luiz Gustavo|Início dia 09/05 e Fim dia 10/05|Arthur Alves, Diego Sousa, Douglas Marinho, Eric Silveira, João Artur, Luiz Gustavo|Não há entrega|
 
-### Executado
+<!-- ### Executado
 
 Na Tabela 8, está explicitado o cronograma executado das atividades da quarta entrega.
 
 <font size="3"><p style="text-align: center"><b>Tabela 8</b> - Planejamento da avaliação do Storyboard</p></font>
 
 | Atividade | Período de desenvolvimento | Responsável | Revisão | Revisores | Data da Entrega |
-| --------- | -----------| ------------ | ------- | ------- | ------- |
+| --------- | -----------| ------------ | ------- | ------- | ------- | -->
 
 ## Etapa 5 - Relato dos resultados do StoryBoard e da Análise de tarefas
 
@@ -136,14 +136,14 @@ Na Tabela 9, tem-se o cronograma planejado para todas as atividades da quinta en
 |Período de gravação da apresentação|Início dia 19/05 e Fim dia 20/05|Douglas Marinho|Início dia 19/04 e Fim dia 20/05|Eric Silveira|20/05|
 |Correção pós apresentação|Início dia 19/05 e Fim dia 20/05|Arthur Alves, Diego Sousa, Douglas Marinho, Eric Silveira, João Artur, Luiz Gustavo|Início dia 20/05 e Fim dia 10/05|Arthur Alves, Diego Sousa, Douglas Marinho, Eric Silveira, João Artur, Luiz Gustavo|Não há entrega|
 
-### Executado
+<!-- ### Executado
 
 Na Tabela 10, está explicitado o cronograma executado das atividades da quinta entrega.
 
 <font size="3"><p style="text-align: center"><b>Tabela 10</b> - Relato dos resultados do StoryBoard e da Análise de tarefas</p></font>
 
 | Atividade | Período de desenvolvimento | Responsável | Revisão | Revisores | Data da Entrega |
-| --------- | -----------| ------------ | ------- | ------- | ------- |
+| --------- | -----------| ------------ | ------- | ------- | ------- | -->
 
 ## Etapa 6.1 - Verificação dos Artefatos 1
 
@@ -160,14 +160,14 @@ Na Tabela 11, tem-se o cronograma planejado para todas as atividades da primeira
 |Período de gravação da apresentação|Início dia 26/05 e Fim dia 27/05|Douglas Marinho|Início dia 26/04 e Fim dia 27/05|Eric Silveira|27/05|
 |Correção pós apresentação|Início dia 27/05 e Fim dia 28/05|Arthur Alves, Diego Sousa, Douglas Marinho, Eric Silveira, João Artur, Luiz Gustavo|Início dia 27/05 e Fim dia 28/05|Arthur Alves, Diego Sousa, Douglas Marinho, Eric Silveira, João Artur, Luiz Gustavo|Não há entrega|
 
-### Executado
+<!-- ### Executado
 
 Na Tabela 12, está explicitado o cronograma executado das atividades da primeira metade da sexta entrega.
 
 <font size="3"><p style="text-align: center"><b>Tabela 12</b> - Verificação dos Artefatos 1</p></font>
 
 | Atividade | Período de desenvolvimento | Responsável | Revisão | Revisores | Data da Entrega |
-| --------- | -----------| ------------ | ------- | ------- | ------- |
+| --------- | -----------| ------------ | ------- | ------- | ------- | -->
 
 ## Etapa 6.2 - Verificação dos Artefatos 2
 
@@ -184,14 +184,14 @@ Na Tabela 13, tem-se o cronograma planejado para todas as atividades da segunda 
 |Período de gravação da apresentação|Início dia 09/06 e Fim dia 12/06|Douglas Marinho|Início dia 09/06 e Fim dia 12/06|Eric Silveira|12/06|
 |Correção pós apresentação|Início dia 13/05 e Fim dia 14/06|Arthur Alves, Diego Sousa, Douglas Marinho, Eric Silveira, João Artur, Luiz Gustavo|Início dia 13/05 e Fim dia 14/06|Arthur Alves, Diego Sousa, Douglas Marinho, Eric Silveira, João Artur, Luiz Gustavo|Não há entrega|
 
-### Executado
+<!-- ### Executado
 
 Na Tabela 14, está explicitado o cronograma executado das atividades da segunda metade da sexta entrega.
 
 <font size="3"><p style="text-align: center"><b>Tabela 14</b> - Verificação dos Artefatos 2</p></font>
 
 | Atividade | Período de desenvolvimento | Responsável | Revisão | Revisores | Data da Entrega |
-| --------- | -----------| ------------ | ------- | ------- | ------- |
+| --------- | -----------| ------------ | ------- | ------- | ------- | -->
 
 ## Etapa 7 - Relato do Protótipo de Papel
 
@@ -210,14 +210,14 @@ Na Tabela 15, tem-se o cronograma planejado para todas as atividades da sétima 
 |Período de gravação da apresentação|Início dia 03/06 e Fim dia 05/06|Douglas Marinho|Início dia 03/06 e Fim dia 05/06|Eric Silveira|05/06|
 |Correção pós apresentação|Início dia 06/06 e Fim dia 07/06|Arthur Alves, Diego Sousa, Douglas Marinho, Eric Silveira, João Artur, Luiz Gustavo|Início dia 06/06 e Fim dia 07/06|Arthur Alves, Diego Sousa, Douglas Marinho, Eric Silveira, João Artur, Luiz Gustavo|Não há entrega|
 
-### Executado
+<!-- ### Executado
 
 Na Tabela 16, está explicitado o cronograma executado das atividades da sétima entrega.
 
 <font size="3"><p style="text-align: center"><b>Tabela 16</b> - Relato do Protótipo de Papel</p></font>
 
 | Atividade | Período de desenvolvimento | Responsável | Revisão | Revisores | Data da Entrega |
-| --------- | -----------| ------------ | ------- | ------- | ------- |
+| --------- | -----------| ------------ | ------- | ------- | ------- | -->
 
 ## Etapa 8 - Relato do Protótipo de alta fidelidade
 
@@ -234,14 +234,14 @@ Na Tabela 17, tem-se o cronograma planejado para todas as atividades da oitava e
 |Período de gravação da apresentação|Início dia 18/06 e Fim dia 20/06|Douglas Marinho|Início dia 18/06 e Fim dia 20/06|Eric Silveira|20/06|
 |Correção pós apresentação e finalização do projeto|Início dia 20/06 e Fim dia 24/06|Arthur Alves, Diego Sousa, Douglas Marinho, Eric Silveira, João Artur, Luiz Gustavo|Início dia 20/06 e Fim dia 24/06|Arthur Alves, Diego Sousa, Douglas Marinho, Eric Silveira, João Artur, Luiz Gustavo|Não há entrega|
 
-### Executado
+<!-- ### Executado
 
 Na Tabela 18, está explicitado o cronograma executado das atividades da oitava entrega.
 
 <font size="3"><p style="text-align: center"><b>Tabela 18</b> - Relato do Protótipo de alta fidelidade</p></font>
 
 | Atividade | Período de desenvolvimento | Responsável | Revisão | Revisores | Data da Entrega |
-| --------- | -----------| ------------ | ------- | ------- | ------- |
+| --------- | -----------| ------------ | ------- | ------- | ------- | -->
 
 ## <a>Bibliografia</a>
 
