@@ -5,6 +5,7 @@
 | Versão| Data | Data Prevista de Revisão | Descrição  | Autor(es)  | Revisor(es) |
 | ------- | ------ | ---- | ------- | -------- | -------- |
 | `1.0` | 20/03/2024 | 21/03/2024 | Criação do cronograma. | [Eric Silveira](https://github.com/ericbky) | [João Artur](https://github.com/joao-artl) e [Arthur Alves](https://github.com/Arthrok)|
+| `1.1` | 30/03/2024 | 30/03/2024 | Adicionando Cronograma Executado | [João Artur](https://github.com/joao-artl) |[Arthur Alves](https://github.com/Arthrok)|
 
 ## Descrição
 
@@ -30,14 +31,23 @@ Na Tabela 1, tem-se o cronograma planejado para todas as atividades da primeira 
 | Implementação do Git Pages | Início dia 19/03 e Fim dia 03/04 | Arthur Alves, Diego Sousa, Douglas Marinho, Eric Silveira, João Artur, Luiz Gustavo | Início dia 04/04 e Fim dia 07/04 |Arthur Alves, Diego Sousa, Douglas Marinho, Eric Silveira, João Artur, Luiz Gustavo | 08/04 |
 |Correção pós apresentação|Início dia 09/04 e Fim dia 10/04|Arthur Alves, Diego Sousa, Douglas Marinho, Eric Silveira, João Artur, Luiz Gustavo|Início dia 09/04 e Fim dia 10/04|Arthur Alves, Diego Sousa, Douglas Marinho, Eric Silveira, João Artur, Luiz Gustavo|Não há entrega|
 
-<!-- ### Executado
+### Executado
 
 Na Tabela 2, está explicitado o cronograma executado das atividades da primeira entrega.
 
 <font size="3"><p style="text-align: center"><b>Tabela 2</b> - Planejamento do Projeto</p></font>
 
 | Atividade | Período de desenvolvimento | Responsável | Revisão | Revisores | Data da Entrega |
-| --------- | -----------| ------------ | ------- | ------- | ------- | -->
+| --------- | -----------| ------------ | ------- | ------- | ------- |
+| Planejamento do Projeto - Cronograma | Início dia 19/03 e Fim dia 20/03 | Eric Silveira | Início dia 21/03 e Fim dia 22/03 | João Artur e Arthur Melo | 08/04 |
+| Heatmap de disponibilidade dos integrantes | 20/03 | Arthur Alves | 20/03 | Arthur Alves, Diego Sousa, Douglas Marinho, Eric Silveira, João Artur, Luiz Gustavo | 08/04 |
+| Seleção dos sites |25/03 |Arthur Alves, Diego Sousa, Douglas Marinho, Eric Silveira, João Artur, Luiz Gustavo |25/03 |Arthur Alves, Diego Sousa, Douglas Marinho, Eric Silveira, João Artur, Luiz Gustavo |08/04 |
+| Ferramentas do projeto |26/03 |Douglas Marinho |27/03 |Diego Sousa |08/04 |
+| Processos de Design |Início dia 18/03 e Fim dia 20/03 |Luiz Gustavo e João Artur |21/03 |Arthur Alves, Eric Silveira |08/04 |
+| Documentação da Equipe |Início dia 20/03 e Fim dia 28/03 |Diego Sousa |Início dia 25/03 e Fim dia 29/03 |Arthur Alves, Diego Sousa, Douglas Marinho, Eric Silveira, João Artur, Luiz Gustavo |08/04 |
+| Período de gravação da apresentação |Início dia 04/04 e Fim dia 06/04 |Douglas Marinho |Início dia 07/04 e Fim dia 07/04 |Eric Silveira |08/04 |
+| Implementação do Git Pages | Início dia 19/03 e Fim dia 03/04 | Arthur Alves, Diego Sousa, Douglas Marinho, Eric Silveira, João Artur, Luiz Gustavo | Início dia 04/04 e Fim dia 07/04 |Arthur Alves, Diego Sousa, Douglas Marinho, Eric Silveira, João Artur, Luiz Gustavo | 08/04 |
+|Correção pós apresentação|Início dia 09/04 e Fim dia 10/04|Arthur Alves, Diego Sousa, Douglas Marinho, Eric Silveira, João Artur, Luiz Gustavo|Início dia 09/04 e Fim dia 10/04|Arthur Alves, Diego Sousa, Douglas Marinho, Eric Silveira, João Artur, Luiz Gustavo|Não há entrega|
 
 ## Etapa 2 - Perfil dos Usuários
 
