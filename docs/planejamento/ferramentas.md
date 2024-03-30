@@ -1,5 +1,11 @@
 # Ferramentas
 
+## <a>Histórico de Versão</a>
+
+| Versão | Data    | Data Prevista de Revisão  | Descrição   | Autor(es)   | Revisor(es)     |
+| ------ | ----------| ------ | ----------------------- | ------ | ------------ |
+| `1.0`  | 26/03/2024 | 27/03/2024 | Criação da página de ferramentas.   | [Douglas Marinho](https://github.com/M4RINH0) |  [Diego Sousa](https://github.com/DiegoSousaLeite) |
+
 ## Introdução
 
 <p style="text-align: justify;">&emsp;&emsp;Para que o projeto seja concluído com sucesso, foram utilizadas algumas ferramentas computacionais com a finalidade de facilitar a organização e gerenciamento da equipe, além da produção dos artefatos. As ferramentas selecionadas para a realização do projeto são apresentadas na Tabela 1.</p>
@@ -12,7 +18,7 @@
 
 |                                                                                                                                                                                                       | Ferramenta                | Finalidade                                                                                                  |
 | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | ------------------------- | ----------------------------------------------------------------------------------------------------------- |
-| ![Logo do GitHub](../assets/ferramentas/github.png#only-light){: style="height:100px;width:100px"}![Logo do GitHub](../assets/ferramentas/github-e.png#only-dark){: style="height:100px;width:100px"} | GitHub                    | Organizar, versionar e documentar artefatos produzidos para o projeto.<a id="anchor_1" href="#FRM1">^1^</a> |
+| ![Logo do GitHub](../assets/ferramentas/github.png#only-light){: style="height:100px;width:100px"}![Logo do GitHub](../assets/ferramentas/github.png#only-dark){: style="height:100px;width:100px"} | GitHub                    | Organizar, versionar e documentar artefatos produzidos para o projeto.<a id="anchor_1" href="#FRM1">^1^</a> |
 |                                                    ![Logo do Microsoft Teams](../assets/ferramentas/teams.png){: style="height:87px;width:100px"}                                                     | Microsoft Teams           | Realizações de reuniões e gravações de apresentações.<a id="anchor_2" href="#FRM2">^2^</a>                  |
 |                                                          ![Logo do Figma](../assets/ferramentas/figma.png){: style="height:94px;width:63px"}                                                          | Figma                     | Produção de artefatos gráficos.<a id="anchor_3" href="#FRM3">^3^</a>                                        |
 |                                                                          ![Logo do MkDocs](../assets/ferramentas/mkdocs.png)                                                                          | MkDocs                    | Criação das páginas de documentação.<a id="anchor_4" href="#FRM4">^4^</a>                                   |

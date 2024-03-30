@@ -24,8 +24,8 @@ nav:
   - Home: index.md
   - Apresentações:
       - Apresentação 1: apresentacao/apresentacao1.md
-  - Atas:
-      - Ata 1: atas/ata01.md
+  - Reuniões:
+      - Reunião 1: reuniao/reuniao01.md
   - Planejamento:
     - Cronograma: planejamento/cronograma.md
     - Heatmap: planejamento/heatmap.md

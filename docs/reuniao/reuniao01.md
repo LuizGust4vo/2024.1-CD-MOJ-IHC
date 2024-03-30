@@ -1,5 +1,11 @@
 # Ata da reunião de IHC do dia 25/03
 
+## <a>Histórico de Versão</a>
+
+| Versão | Data | Data Prevista de Revisão | Descrição | Autor(es) | Revisor(es) |
+| - | - | - | - | - | - |
+| `1.0` | 25/03/2024 | 26/03/2024 | Criação da Ata da Reunião | [Luiz Gustavo](https://github.com/LuizGust4vo) | [Eric Silveira](https://github.com/ericbky) |
+
 ## 1. Data, Horário, Duração e Local
 
 As informações sobre data, horário, duração e local estão detalhadas a seguir:
@@ -67,12 +73,6 @@ Dessa forma, estão descritas na Tabela 3 as issues para o começo da disciplina
 </br>Também foi decidido, por votação, o site que será trabalhado, dos 6 membros presentes na reunião, 3 votaram a favor do CD-MOJ, 2 a favor do Sigaa e 1 a favor do PAPEM. Levando em consideração que é um site utilizados por muitas pessoas na faculdade, inclusive nós mesmo, além disso, temos acesso aos professores responsáveis pelo site. Portanto, começaremos a trabalhar com ele nas próximas tarefas.
 
 Caso a primeira opção de site não dê certo por algum motivo, decidimos escolher uma segunda opção, sendo assim, 4 votaram a favor do BRB Mobilidade, 1 a favor do Sigaa e 1 a favor do PAPEM. Decidido assim o BRB Mobilidade como segunda opção.   
-
-## 5. Histórico de Versão
-
-| Versão | Data | Descrição | Autor(es) | Revisor(es) |
-| - | - | - | - | - |
-| `1.0` | 25/03 | Criação da Ata da Reunião | Luiz | Eric |
 
 ## 6. Links Úteis
 
