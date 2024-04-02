@@ -34,6 +34,7 @@ Foram apresentados alguns sites para discutirmos, veja na tabela abaixo:
 
 | Membro | Site(s) | Motivação |
 | - | - | - |
+| Arthur | IPHAN | Interfaces ruins, sem recursos de acessibilidade, sem responsividade |
 | Diego | Ipasgo ou PAPEM | Interfaces ruins, arcaicas e pouca intuitivas |
 | Douglas | CD-MOJ | Sem modo escuro, letras pequenas por padrão, sem zoom, baixa interatividade |
 | Eric | BRB Mobilidade | Pouco intuitivo, baixa interatividade e interface defasada |
