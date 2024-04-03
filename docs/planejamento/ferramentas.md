@@ -1,11 +1,5 @@
 # Ferramentas
 
-## <a>Histórico de Versão</a>
-
-| Versão | Data    | Data Prevista de Revisão  | Descrição   | Autor(es)   | Revisor(es)     |
-| ------ | ----------| ------ | ----------------------- | ------ | ------------ |
-| `1.0`  | 26/03/2024 | 27/03/2024 | Criação da página de ferramentas.   | [Douglas Marinho](https://github.com/M4RINH0) |  [Diego Sousa](https://github.com/DiegoSousaLeite) |
-
 ## Introdução
 
 <p style="text-align: justify;">&emsp;&emsp;Para que o projeto seja concluído com sucesso, foram utilizadas algumas ferramentas computacionais com a finalidade de facilitar a organização e gerenciamento da equipe, além da produção dos artefatos. As ferramentas selecionadas para a realização do projeto são apresentadas na Tabela 1.</p>
@@ -50,8 +44,8 @@ _Fonte: Autores._
 >
 > <a id="FRM8" href="#anchor_8">8.</a> Google Planilhas. Disponível em: [https://www.google.com/intl/pt-BR/sheets/about/](). Acesso em: 21 de abr. de 2023.
 
-## Histórico de Versões
+## <a>Histórico de Versão</a>
 
-| Versão | Data       | Descrição                                 | Autor(es)                                                                                         | Revisor(es)                                    |
-| ------ | ---------- | ----------------------------------------- | ------------------------------------------------------------------------------------------------- | ---------------------------------------------- |
-| `1.0`  | 26/03/2024 | Criação da página de ferramentas.         | [Douglas Marinho](https://github.com/M4RINH0) |  [Diego Sousa](https://github.com/DiegoSousaLeite) |
+| Versão | Data    | Data Prevista de Revisão  | Descrição   | Autor(es)   | Revisor(es)     |
+| ------ | ----------| ------ | ----------------------- | ------ | ------------ |
+| `1.0`  | 26/03/2024 | 27/03/2024 | Criação da página de ferramentas.   | [Douglas Marinho](https://github.com/M4RINH0) |  [Diego Sousa](https://github.com/DiegoSousaLeite) |
