@@ -103,7 +103,7 @@ Após análise dos modelos discutidos, o grupo concluiu que o Ciclo de Vida de M
 
 Considerando que o sistema já está em produção começaremos com a etapa de instalação do Ciclo de Vida de Mayhew. Aqui, identificaremos alguns problemas existentes no sistema, bem como suas possíveis melhorias. Em seguida, avançaremos para a fase de análise de requisitos, seguindo o fluxo previsto no modelo.
 
-## <a>Referências Bibliográficas</a>
+## <a>Bibliografia</a>
 > <a id="REF1" href="#anchor_1">1.</a>Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021)Interação Humano-Computador e Experiência do usuário.
 
 ## <a>Histórico de Versão</a>

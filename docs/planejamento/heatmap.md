@@ -23,7 +23,7 @@ Na figura 2 abaixo, a legenda esclarece que números superiores a zero indicam a
 </center>
 
 ## <a>Bibliografia</a>
-- HEATMAP. Disponível em: https://neilpatel.com/br/blog/heatmap-o-que-e Acesso em: 20 de março de 2024.
+- HEATMAP. Disponível em: <a href="https://neilpatel.com/br/blog/heatmap-o-que-e">https://neilpatel.com/br/blog/heatmap-o-que-e</a> Acesso em: 20 de março de 2024.
 
 ## <a>Histórico de Versão</a>
 
