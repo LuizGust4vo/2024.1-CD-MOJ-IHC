@@ -1,5 +1,7 @@
 # 2024.1-Grupo01
 
+<h1 style="text-align: center;">CD-MOJ</h1>
+
 <font size="2"><p style="text-align: center">Figura 1: Logo.</p></font>
 
 <p align="center"><img style="border: 2px solid white; border-radius: 110px" img src="docs\assets\logoMoj_preto.png" width = 40%></p>
