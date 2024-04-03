@@ -1,6 +1,6 @@
 # Heatmap
 
-## <a>Heatmap de quadro de indisponibilidade</a>
+## <a>Heatmap de quadro de disponibilidade</a>
 Neste documento está apresentado o quadro de disponibilidade dos integrantes do grupo. Os membros preencheram tabelas individuais indicando seus dias disponíveis (veja mais). Este processo permite a identificação dos períodos nos quais há maior disponibilidade coletiva, facilitando reunir o grupo em atividades que exigem a participação do maior número possível de integrantes. A figura 1 abaixo ilustra o quadro de disponibilidade, fornecendo uma visualização clara das informações.<br><br>
 
 <center>
