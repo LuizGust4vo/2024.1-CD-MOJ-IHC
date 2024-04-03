@@ -1,12 +1,5 @@
 # Cronograma
 
-## <a>Histórico de Versão</a>
-
-| Versão| Data | Data Prevista de Revisão | Descrição  | Autor(es)  | Revisor(es) |
-| ------- | ------ | ---- | ------- | -------- | -------- |
-| `1.0` | 20/03/2024 | 21/03/2024 | Criação do cronograma. | [Eric Silveira](https://github.com/ericbky) | [João Artur](https://github.com/joao-artl) e [Arthur Alves](https://github.com/Arthrok)|
-| `1.1` | 30/03/2024 | 30/03/2024 | Adicionando Cronograma Executado | [João Artur](https://github.com/joao-artl) |[Arthur Alves](https://github.com/Arthrok)|
-
 ## Descrição
 
 O cronograma tem como objetivo estruturar todas as atividades a serem conduzidas durante o curso de Interação Humano-Computador. Dessa forma, as tarefas foram agrupadas de acordo com as etapas em que devem ser executadas. É importante ressaltar que os cronogramas serão revisados e atualizados conforme necessário durante o curso.
@@ -258,3 +251,10 @@ Na Tabela 18, está explicitado o cronograma executado das atividades da oitava 
 > Cronograma Duolingo. Disponível em: <<https://interacao-humano-computador.github.io/2022.2-Lichess/>>. Acesso em 19 de março de 2024.
 
 > Cronograma Bilheteria Digital. Disponível em: <<https://interacao-humano-computador.github.io/2023.1-BilheteriaDigital/planejamento/cronograma/>>. Acesso em 19 de março de 2024.
+
+## <a>Histórico de Versão</a>
+
+| Versão| Data | Data Prevista de Revisão | Descrição  | Autor(es)  | Revisor(es) |
+| ------- | ------ | ---- | ------- | -------- | -------- |
+| `1.0` | 20/03/2024 | 21/03/2024 | Criação do cronograma. | [Eric Silveira](https://github.com/ericbky) | [João Artur](https://github.com/joao-artl) e [Arthur Alves](https://github.com/Arthrok)|
+| `1.1` | 30/03/2024 | 30/03/2024 | Adicionando Cronograma Executado | [João Artur](https://github.com/joao-artl) |[Arthur Alves](https://github.com/Arthrok)|
