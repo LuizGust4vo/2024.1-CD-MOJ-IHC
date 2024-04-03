@@ -110,4 +110,4 @@ Considerando que o sistema já está em produção começaremos com a etapa de i
 
 | Versão| Data | Data Prevista de Revisão| Descrição  | Autor(es)  | Revisor(es) |
 | ------- | ------ | ------ | ------- | -------- | -------- |
-| `1.0` | 20/03/2024 | 21/03/2024 | Criação do cronograma. | [João Artur](https://github.com/joao-artl) e [Luiz Gustavo](https://github.com/LuizGust4vo) | [Arthur Alves](https://github.com/Arthrok) e [Eric Silveira](https://github.com/ericbky) |
+| `1.0` | 20/03/2024 | 21/03/2024 | Criação do documento. | [João Artur](https://github.com/joao-artl) e [Luiz Gustavo](https://github.com/LuizGust4vo) | [Arthur Alves](https://github.com/Arthrok) e [Eric Silveira](https://github.com/ericbky) |
