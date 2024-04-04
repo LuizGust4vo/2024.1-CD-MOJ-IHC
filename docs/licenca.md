@@ -344,12 +344,12 @@ consider it more useful to permit linking proprietary applications with the
 library.  If this is what you want to do, use the GNU Lesser General
 Public License instead of this License.
 
+## <a>Bibliografia</a>
+
+> GNU General Public License v2.0. Disponível em: <https://github.com/cd-moj/cdmoj/blob/master/LICENSE>. Acesso: 04 de abril de 2024.
+
 ## Histórico de versão
 
 | Versão| Data | Descrição  | Autor(es)  | Revisor(es) |
 | ------- | ------ | ------- | -------- | -------- |
 | `1.0` | 04/04/2024 | Criação e inserção da Licença |[Eric Silveira](https://github.com/ericbky)|     --- |
-
-## <a>Bibliografia</a>
-
-> GNU General Public License v2.0. Disponível em: <https://github.com/cd-moj/cdmoj/blob/master/LICENSE>. Acesso: 04 de abril de 2024.
