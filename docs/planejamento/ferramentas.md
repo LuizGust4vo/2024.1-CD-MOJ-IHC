@@ -22,7 +22,7 @@
 |                                                   ![Logo do Google Planilhas](../assets/ferramentas/gsheets.png){: style="height:94px;width:72px"}                                                    | Google Planilhas          | Criação de planilhas relacionadas ao cronograma e horários. <a id="anchor_8" href="#FRM8">^8^</a>           |                        |                                   |
 
 
-_Fonte: Autores._
+_Fonte: [Douglas Marinho](https://github.com/M4RINH0)_
 
 </center>
 
