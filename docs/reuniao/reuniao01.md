@@ -80,4 +80,4 @@ Caso a primeira opção de site não dê certo por algum motivo, decidimos escol
 | Versão | Data | Data Prevista de Revisão | Descrição | Autor(es) | Revisor(es) |
 | - | - | - | - | - | - |
 | `1.0` | 25/03/2024 | 26/03/2024 | Criação da Ata da Reunião | [Luiz Gustavo](https://github.com/LuizGust4vo) | [Eric Silveira](https://github.com/ericbky) |
-| `1.1` | 25/03/2024 | 04/04/2024 | Vídeo da Reunião | [Luiz Gustavo](https://github.com/LuizGust4vo) | [Douglas Marinho](https://github.com/M4RINH0) |
+| `1.1` | 25/03/2024 | 04/04/2024 | Vídeo da Reunião | [Douglas Marinho](https://github.com/M4RINH0) | [Luiz Gustavo](https://github.com/LuizGust4vo) |
