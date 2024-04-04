@@ -64,7 +64,8 @@ Dessa forma, está descrito na tabela 2 a divisão das atividades do grupo, com 
 <p align="center"> Tabela 2. Atividades </p>
 
 ## 5. Gravação da Reunião
-<iframe src="https://drive.google.com/file/d/1VRC8MYyOAhqVH1EViY6ePl3KitEpZ8Up/view" width="640" height="480" allow="autoplay"></iframe>
+<iframe src="https://drive.google.com/file/d/1VRC8MYyOAhqVH1EViY6ePl3KitEpZ8Up/view?usp=sharing" width="640" height="480" allow="autoplay"></iframe>
+
 
 ## <a> 6. Bibliografia </a>
 
