@@ -1,11 +1,5 @@
 # Processos de Design
 
-## <a>Histórico de Versão</a>
-
-| Versão| Data | Data Prevista de Revisão| Descrição  | Autor(es)  | Revisor(es) |
-| ------- | ------ | ------ | ------- | -------- | -------- |
-| `1.0` | 20/03/2024 | 21/03/2024 | Criação do cronograma. | [João Artur](https://github.com/joao-artl) e [Luiz Gustavo](https://github.com/LuizGust4vo) | [Arthur Alves](https://github.com/Arthrok) e [Eric Silveira](https://github.com/ericbky) |
-
 ## Introdução
 
 <div style="text-align: justify">Antes de adentrarmos no processo de design, é fundamental compreender o que design representa. Segundo Barbosa e Silva (2021, p.107)<a id="anchor_1" href="#REF1"><sup>1<sup></a>, design é um processo composto por três atividades primordiais: análise da situação atual (identificação de um problema), síntese de uma intervenção e avaliação da nova situação (da intervenção).</div>
@@ -109,5 +103,11 @@ Após análise dos modelos discutidos, o grupo concluiu que o Ciclo de Vida de M
 
 Considerando que o sistema já está em produção começaremos com a etapa de instalação do Ciclo de Vida de Mayhew. Aqui, identificaremos alguns problemas existentes no sistema, bem como suas possíveis melhorias. Em seguida, avançaremos para a fase de análise de requisitos, seguindo o fluxo previsto no modelo.
 
-## <a>Referências Bibliográficas</a>
+## <a>Bibliografia</a>
 > <a id="REF1" href="#anchor_1">1.</a>Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021)Interação Humano-Computador e Experiência do usuário.
+
+## <a>Histórico de Versão</a>
+
+| Versão| Data | Data Prevista de Revisão| Descrição  | Autor(es)  | Revisor(es) |
+| ------- | ------ | ------ | ------- | -------- | -------- |
+| `1.0` | 20/03/2024 | 21/03/2024 | Criação do documento. | [João Artur](https://github.com/joao-artl) e [Luiz Gustavo](https://github.com/LuizGust4vo) | [Arthur Alves](https://github.com/Arthrok) e [Eric Silveira](https://github.com/ericbky) |

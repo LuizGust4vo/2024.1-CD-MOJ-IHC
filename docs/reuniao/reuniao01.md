@@ -1,11 +1,5 @@
 # Ata da reunião de IHC do dia 25/03
 
-## <a>Histórico de Versão</a>
-
-| Versão | Data | Data Prevista de Revisão | Descrição | Autor(es) | Revisor(es) |
-| - | - | - | - | - | - |
-| `1.0` | 25/03/2024 | 26/03/2024 | Criação da Ata da Reunião | [Luiz Gustavo](https://github.com/LuizGust4vo) | [Eric Silveira](https://github.com/ericbky) |
-
 ## 1. Data, Horário, Duração e Local
 
 As informações sobre data, horário, duração e local estão detalhadas a seguir:
@@ -79,3 +73,9 @@ Caso a primeira opção de site não dê certo por algum motivo, decidimos escol
 
 * [Link da reunião gravada]() </br>
 * [Link do GitHub Pages](https://interacao-humano-computador.github.io/2024.1-CD-MOJ/)
+
+## <a>Histórico de Versão</a>
+
+| Versão | Data | Data Prevista de Revisão | Descrição | Autor(es) | Revisor(es) |
+| - | - | - | - | - | - |
+| `1.0` | 25/03/2024 | 26/03/2024 | Criação da Ata da Reunião | [Luiz Gustavo](https://github.com/LuizGust4vo) | [Eric Silveira](https://github.com/ericbky) |
