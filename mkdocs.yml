@@ -24,7 +24,9 @@ site_name: Grupo 01
 
 
 nav:
-  - Home: index.md
+  - Inicio: 
+      - Inicio: index.md
+      - Licença: licenca.md
   - Apresentações:
       - Apresentação 1: apresentacao/apresentacao1.md
   - Reuniões:
