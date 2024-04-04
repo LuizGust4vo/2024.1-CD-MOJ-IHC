@@ -36,7 +36,7 @@ Foram apresentados alguns sites para discutirmos, veja na tabela abaixo:
 | Luiz | Caixa Econômica Federal | Nada responsivo, acessibilidade requer melhorias, diversos erros ao utilizá-lo e falhas de segurança | 
 <p align="center"> Tabela 1. Sites </p>
 
-</br> As dúvidas geradas podem ser encontradas na tabela 2, onde cada dúvida tem o seu identificador Dn para rastreabilidade, sendo D de Dúvida e n o número da dúvida.
+As dúvidas geradas podem ser encontradas na tabela 2, onde cada dúvida tem o seu identificador Dn para rastreabilidade, sendo D de Dúvida e n o número da dúvida.
 
 <center>
 
@@ -57,25 +57,27 @@ Dessa forma, estão descritas na Tabela 3 as issues para o começo da disciplina
 | Identificador (Tarefa n) | Tarefa | Integrante(s) responsável(eis) |
 | - | - | - |
 | Tarefa 1 | Montar o cronograma do grupo | Eric |
-| Tarefa 2 | Documentar o projeto | Todos os integrantes | 
+| Tarefa 2 | Documentar o projeto | Arthur Alves, Diego Sousa, Douglas Marinho, Eric Silveira, João Artur, Luiz Gustavo | 
 | Tarefa 3 | Estruturar Heatmap e coletar dados dos integrantes | Arthur |
-| Tarefa 4 | Listar pelo menos um site | Todos os integrantes |
+| Tarefa 4 | Listar pelo menos um site | Arthur Alves, Diego Sousa, Douglas Marinho, Eric Silveira, João Artur, Luiz Gustavo |
 | Tarefa 5 | Apresentar as ferramentas do projeto | Douglas |
 | Tarefa 6 | Criar ata da reunião do dia 25/03 | Eric e Luiz |
 | Tarefa 7 | Processo de Design | João e Luiz |
 <p align="center"> Tabela 3. Tarefas </p>
 
-</br>Também foi decidido, por votação, o site que será trabalhado, dos 6 membros presentes na reunião, 3 votaram a favor do CD-MOJ, 2 a favor do Sigaa e 1 a favor do PAPEM. Levando em consideração que é um site utilizados por muitas pessoas na faculdade, inclusive nós mesmo, além disso, temos acesso aos professores responsáveis pelo site. Portanto, começaremos a trabalhar com ele nas próximas tarefas.
+Também foi decidido, por votação, o site que será trabalhado, dos 6 membros presentes na reunião, 3 votaram a favor do CD-MOJ, 2 a favor do Sigaa e 1 a favor do PAPEM. Levando em consideração que é um site utilizados por muitas pessoas na faculdade, inclusive nós mesmo, além disso, temos acesso aos professores responsáveis pelo site. Portanto, começaremos a trabalhar com ele nas próximas tarefas.
 
 Caso a primeira opção de site não dê certo por algum motivo, decidimos escolher uma segunda opção, sendo assim, 4 votaram a favor do BRB Mobilidade, 1 a favor do Sigaa e 1 a favor do PAPEM. Decidido assim o BRB Mobilidade como segunda opção.   
 
-## 6. Links Úteis
+## 5. Gravação da Reunião
+<iframe src="" width="640" height="480" allow="autoplay"></iframe>
 
-* [Link da reunião gravada]() </br>
-* [Link do GitHub Pages](https://interacao-humano-computador.github.io/2024.1-CD-MOJ/)
+## <a> 6. Bibliografia </a>
 
-## <a>Histórico de Versão</a>
+
+## Histórico de Versão
 
 | Versão | Data | Data Prevista de Revisão | Descrição | Autor(es) | Revisor(es) |
 | - | - | - | - | - | - |
 | `1.0` | 25/03/2024 | 26/03/2024 | Criação da Ata da Reunião | [Luiz Gustavo](https://github.com/LuizGust4vo) | [Eric Silveira](https://github.com/ericbky) |
+| `1.1` | 25/03/2024 | 04/04/2024 | Vídeo da Reunião | [Luiz Gustavo](https://github.com/LuizGust4vo) | [Douglas Marinho](https://github.com/M4RINH0) |
