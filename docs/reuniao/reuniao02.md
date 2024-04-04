@@ -36,7 +36,6 @@ As dúvidas geradas podem ser encontradas na tabela 2, onde cada dúvida tem o s
 | - | - |
 | D1 | Vamos precisar de pessoas para testar o método? | 
 | D2 | Qual será o perfil de usuário? |
-| D3 |  |
 
 </center>
 <p align="center"> Tabela 1. Dúvidas </p>
