@@ -246,6 +246,8 @@ Na Tabela 18, está explicitado o cronograma executado das atividades da oitava 
 
 ## <a>Bibliografia</a>
 
+> Plano de Ensino da disciplina Interação Humano Computador, Dr. André Barros de Sales. [Plano de Ensino](https://aprender3.unb.br/pluginfile.php/2843624/mod_resource/content/48/Plano_de_Ensino%20FIHC%20012024%20Turma%201.pdf)
+
 > Cronograma Duolingo. Disponível em: <<https://interacao-humano-computador.github.io/2022.2-Lichess/>>. Acesso em 19 de março de 2024.
 
 > Cronograma Bilheteria Digital. Disponível em: <<https://interacao-humano-computador.github.io/2023.1-BilheteriaDigital/planejamento/cronograma/>>. Acesso em 19 de março de 2024.
