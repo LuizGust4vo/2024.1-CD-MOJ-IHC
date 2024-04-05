@@ -1,27 +1,24 @@
 # Ata da reunião de IHC do dia 25/03
 
 ## 1. Data, Horário, Duração e Local
-
 As informações sobre data, horário, duração e local estão detalhadas a seguir:
 
-- Data: 25/03/2024 </br>
-- Horário de início: 20:15 </br>
-- Duração: 45 minutos </br>
-- Local: Teams, Online
+- Data: 25/03/2024
+- Horário de início: 20:15
+- Duração: 45 minutos
+- Local: Microsoft Teams, Online
 
 ## 2. Participantes
-
 Na reunião, todos os integrantes do grupo participaram, sendo então os presentes:
 
-- Arthur Melo </br>
-- Diego Sousa </br>
-- Douglas Marinho </br>
-- Eric Silveira </br>
-- João Artur </br>
+- Arthur Melo
+- Diego Sousa
+- Douglas Marinho
+- Eric Silveira
+- João Artur
 - Luiz Gustavo
 
 ## 3. Pontos de Discussão Importantes
-
 Na primeira reunião com os integrantes, foram apresentadas as tarefas definidas para cada membro com base no cronograma da disciplina. Também foi discutido qual seriam os melhores dias e horários para realizar as reuniões.
 
 Foram apresentados alguns sites para discutirmos, veja na tabela abaixo:
@@ -35,6 +32,8 @@ Foram apresentados alguns sites para discutirmos, veja na tabela abaixo:
 | João | Alistamento Militar ou Sigaa | Nenhum recurso de acessibilidade (Alistamento Militar). Fácil comunicação com os administradores e usuários, além de ser código aberto (Sigaa) |
 | Luiz | Caixa Econômica Federal | Nada responsivo, acessibilidade requer melhorias, diversos erros ao utilizá-lo e falhas de segurança | 
 <p align="center"> Tabela 1. Sites </p>
+
+</br>
 
 As dúvidas geradas podem ser encontradas na tabela 2, onde cada dúvida tem o seu identificador Dn para rastreabilidade, sendo D de Dúvida e n o número da dúvida.
 
@@ -72,12 +71,10 @@ Caso a primeira opção de site não dê certo por algum motivo, decidimos escol
 ## 5. Gravação da Reunião
 <iframe src="" width="640" height="480" allow="autoplay"></iframe>
 
-## <a> 6. Bibliografia </a>
-
-
-## Histórico de Versão
+## <a>Histórico de Versão</a>
 
 | Versão | Data | Data Prevista de Revisão | Descrição | Autor(es) | Revisor(es) |
-| - | - | - | - | - | - |
+| :------: | :----------: | :-----------: | :-----------: | :---------: | :---------: |
 | `1.0` | 25/03/2024 | 26/03/2024 | Criação da Ata da Reunião | [Luiz Gustavo](https://github.com/LuizGust4vo) | [Eric Silveira](https://github.com/ericbky) |
 | `1.1` | 25/03/2024 | 04/04/2024 | Vídeo da Reunião | [Douglas Marinho](https://github.com/M4RINH0) | [Luiz Gustavo](https://github.com/LuizGust4vo) |
+| `1.2` | 05/04/2024 | ------ | Padronização do histórico de versão | [Luiz Gustavo](https://github.com/LuizGust4vo) | ------ |
