@@ -23,10 +23,11 @@ Na figura 2 abaixo, a legenda esclarece que números superiores a zero indicam a
 </center>
 
 ## <a>Bibliografia</a>
-- HEATMAP. Disponível em: <a href="https://neilpatel.com/br/blog/heatmap-o-que-e">https://neilpatel.com/br/blog/heatmap-o-que-e</a> Acesso em: 20 de março de 2024.
+> HEATMAP. Disponível em: <a href="https://neilpatel.com/br/blog/heatmap-o-que-e">https://neilpatel.com/br/blog/heatmap-o-que-e</a> Acesso em: 20 de março de 2024.
 
 ## <a>Histórico de Versão</a>
 
 |Versão|Data|Data Prevista de Revisão|Descrição|Autor|Revisor|
 | :----------: |:-----------:| :------: | :-----------: | :---------: |:---------: |
 |`1.0`|20/03/2024|21/03/2024|Criação do Documento|[Arthur Alves Melo](https://github.com/Arthrok)|[Arthur Alves Melo](https://github.com/Arthrok), [Diego Sousa](https://github.com/DiegoSousaLeite), [Douglas Marinho](https://github.com/M4RINH0), [Eric Silveira](https://github.com/ericbky), [João Artur](https://github.com/joao-artl), [Luiz Gustavo](https://github.com/LuizGust4vo)|
+|`1.1`|05/04/2024|-------|Revisão da Bibliografia|[Eric Silveira](https://github.com/ericbky)| --------- |
