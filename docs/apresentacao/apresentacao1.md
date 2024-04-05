@@ -2,6 +2,12 @@
 
 O propósito desta página é hospedar o vídeo da apresentação da Primeira Entrega. Caso não seja viável assistir ao vídeo diretamente nesta página, por favor, clique no link fornecido para acessá-lo.
 
+## Vídeo de Apresentação
+
+Link...
+
+## Tale de Critérios para a entrega 1
+A apresentação objetiva mostrar o que foi feito para a entrega 1, obedecendo aos critérios na Tabela 1 solicitados pelo professor no plano de ensino.
 
 Tabela 1: Critérios para a Entrega 1
 
@@ -23,16 +29,19 @@ Tabela 1: Critérios para a Entrega 1
 |14 – Os artefatos: planejamento do projeto, equipe, lista de sites avaliados, site selecionado para o projeto da disciplina, ferramentas do projeto, processo de design, cronograma das atividades?	|Sim|
 |15 – A justificativa da escolha do Processo de Design?	|Sim|
 
-Fonte: [Plano de Ensino da disciplina de IHC](https://aprender3.unb.br/pluginfile.php/2843624/mod_resource/content/48/Plano_de_Ensino%20FIHC%20012024%20Turma%201.pdf)
+Fonte: Plano de Ensino da disciplina de Requisitos de Software. BARROS, André.
 
 ## <a>Bbliografia</a>
 > Plano de Ensino da disciplina Interação Humano Computador, Dr. André Barros de Sales. [Plano de Ensino](https://aprender3.unb.br/pluginfile.php/2843624/mod_resource/content/48/Plano_de_Ensino%20FIHC%20012024%20Turma%201.pdf)
+> 
+> Apresentação 1, Bilheteria Digital. Disponível em: <https://interacao-humano-computador.github.io/2023.1-BilheteriaDigital/apresentacao/apresentacao1/>. Acesso em 19 de março de 2024.
 >
-> Apresentação 1, Bilheteria Digital. Disponível em: <https://interacao-humano-computador.github.io/2023.1-BilheteriaDigital/planejamento/cronograma/>. Acesso em 19 de março de 2024.
+> Apresentação 1, Diário Oficial da União. Disponível em: <https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/apresentacao/apresentacao1/>.  Acesso em 05 de abril de 2024.
 
 
 ## <a>Histórico de Versão</a>
 
 | Versão | Data    | Data Prevista de Revisão  | Descrição      | Autor(es)   | Revisor(es)     |
 | ------- | ------ | ------- | -------- | -------- | -------- |
-| `1.0` | | | | | |
+| `1.0` | 05/04/204 | 09/04/2024| Organização inicial da página de apresentação, referente a primeira entrega. | [Eric Silveira](https://github.com/ericbky) |[Arthur Alves Melo](https://github.com/Arthrok), [Diego Sousa](https://github.com/DiegoSousaLeite), [Douglas Marinho](https://github.com/M4RINH0), [Eric Silveira](https://github.com/ericbky), [João Artur](https://github.com/joao-artl) e [Luiz Gustavo](https://github.com/LuizGust4vo)|
+
