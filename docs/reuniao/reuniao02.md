@@ -30,7 +30,7 @@ As dúvidas geradas podem ser encontradas na tabela 1, onde cada dúvida tem o s
 <center>
 
 | Identificador (Dn) | Dúvida |
-| - | - |
+| :------: | :------: |
 | D1 | Vamos precisar de pessoas para testar o método? | 
 | D2 | Qual será o perfil de usuário? |
 
@@ -49,7 +49,7 @@ Por último, realizamos correções no GitPages, mais especificamente nas padron
 Dessa forma, está descrito na tabela 2 a divisão das atividades do grupo, com base nas melhorias necessárias e seguindo o cronograma da disciplina:
 
 | Atividade | Responsável(eis) | Revisor(es) |
-| - | - | - |
+| :------: | :------: | :------: |
 | Documentação dos sites escolhidos | Diego Sousa | ------ |
 | Revisão do projeto | Arthur Alves, Diego Sousa, Douglas Marinho, Eric Silveira, João Artur e Luiz Gustavo | ------ |
 | Gravação da apresentação | Arthur Alves, Diego Sousa, Douglas Marinho, Eric Silveira, João Artur e Luiz Gustavo | ------ |
@@ -67,4 +67,4 @@ Dessa forma, está descrito na tabela 2 a divisão das atividades do grupo, com 
 | :------: | :----------: | :-----------: | :-----------: | :---------: | :---------: |
 | `1.0` | 02/04/2024 | 04/04/2024 | Criação da Ata da Reunião | [Luiz Gustavo](https://github.com/LuizGust4vo) | [Eric Silveira](https://github.com/ericbky) |
 | `1.1` | 02/04/2024 | 04/04/2024 | Video da Reunião | [Arthur Alves](https://github.com/arthrok) | [Luiz Gustavo](https://github.com/LuizGust4vo) |
-| `1.2` | 05/04/2024 | ------ | Padronização do histórico de versão | [Luiz Gustavo](https://github.com/LuizGust4vo) | ------ |
+| `1.2` | 05/04/2024 | ------ | Padronização do histórico de versão e tabelas | [Luiz Gustavo](https://github.com/LuizGust4vo) | ------ |
