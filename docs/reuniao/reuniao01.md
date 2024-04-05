@@ -24,7 +24,7 @@ Na primeira reunião com os integrantes, foram apresentadas as tarefas definidas
 Foram apresentados alguns sites para discutirmos, veja na tabela abaixo:
 
 | Membro | Site(s) | Motivação |
-| - | - | - |
+| :------: | :----------: | :-----------: |
 | Arthur | IPHAN | Interfaces ruins, sem recursos de acessibilidade, sem responsividade |
 | Diego | Ipasgo ou PAPEM | Interfaces ruins, arcaicas e pouca intuitivas |
 | Douglas | CD-MOJ | Sem modo escuro, letras pequenas por padrão, sem zoom, baixa interatividade |
@@ -40,7 +40,7 @@ As dúvidas geradas podem ser encontradas na tabela 2, onde cada dúvida tem o s
 <center>
 
 | Identificador (Dn) | Dúvida |
-| - | - |
+| :------: | :----------: |
 | D1 | Qual site devemos escolher para trabalhar na matéria de IHC? | 
 | D2 | É melhor escolhermos um site que utilizamos na faculdade? |
 | D3 | Temos fácil acesso aos usuários? |
@@ -54,7 +54,7 @@ A equipe definiu que as reuniões ocorrerão segunda (planning), quarta (daily) 
 Dessa forma, estão descritas na Tabela 3 as issues para o começo da disciplina, onde cada tarefa tem o seu identificador para a rastreabilidade, sendo n o número da tarefa, e o(s) integrante(s) responsável(eis) pela realização da tarefa.
 
 | Identificador (Tarefa n) | Tarefa | Integrante(s) responsável(eis) |
-| - | - | - |
+| :------: | :----------: | :-----------: |
 | Tarefa 1 | Montar o cronograma do grupo | Eric |
 | Tarefa 2 | Documentar o projeto | Arthur Alves, Diego Sousa, Douglas Marinho, Eric Silveira, João Artur, Luiz Gustavo | 
 | Tarefa 3 | Estruturar Heatmap e coletar dados dos integrantes | Arthur |
@@ -77,4 +77,4 @@ Caso a primeira opção de site não dê certo por algum motivo, decidimos escol
 | :------: | :----------: | :-----------: | :-----------: | :---------: | :---------: |
 | `1.0` | 25/03/2024 | 26/03/2024 | Criação da Ata da Reunião | [Luiz Gustavo](https://github.com/LuizGust4vo) | [Eric Silveira](https://github.com/ericbky) |
 | `1.1` | 25/03/2024 | 04/04/2024 | Vídeo da Reunião | [Douglas Marinho](https://github.com/M4RINH0) | [Luiz Gustavo](https://github.com/LuizGust4vo) |
-| `1.2` | 05/04/2024 | ------ | Padronização do histórico de versão | [Luiz Gustavo](https://github.com/LuizGust4vo) | ------ |
+| `1.2` | 05/04/2024 | ------ | Padronização do histórico de versão e tabelas | [Luiz Gustavo](https://github.com/LuizGust4vo) | ------ |
