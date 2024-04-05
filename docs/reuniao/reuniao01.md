@@ -53,7 +53,7 @@ A equipe definiu que as reuniões ocorrerão segunda (planning), quarta (daily) 
 
 Dessa forma, estão descritas na Tabela 3 as issues para o começo da disciplina, onde cada tarefa tem o seu identificador para a rastreabilidade, sendo n o número da tarefa, e o(s) integrante(s) responsável(eis) pela realização da tarefa.
 
-| Identificador (Tarefa n) | Tarefa | Integrante(s) responsável(eis) |
+| Identificador (Tarefa n) | Tarefa(s) | Integrante(s) responsável(eis) |
 | :------: | :----------: | :-----------: |
 | Tarefa 1 | Montar o cronograma do grupo | Eric |
 | Tarefa 2 | Documentar o projeto | Arthur Alves, Diego Sousa, Douglas Marinho, Eric Silveira, João Artur, Luiz Gustavo | 
