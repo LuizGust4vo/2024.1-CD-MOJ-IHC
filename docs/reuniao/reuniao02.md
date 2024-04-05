@@ -50,10 +50,10 @@ Dessa forma, está descrito na tabela 2 a divisão das atividades do grupo, com 
 
 | Atividade | Responsável(eis) | Revisor(es) |
 | - | - | - |
-| Documentação dos sites escolhidos | Diego Sousa | Arthur Alves, Diego Sousa, Douglas Marinho, Eric Silveira, João Artur, Luiz Gustavo |
-| Revisão do projeto | Arthur Alves, Diego Sousa, Douglas Marinho, Eric Silveira, João Artur, Luiz Gustavo | Arthur Alves, Diego Sousa, Douglas Marinho, Eric Silveira, João Artur, Luiz Gustavo |
-| Gravação da apresentação | Arthur Alves, Diego Sousa, Douglas Marinho, Eric Silveira, João Artur, Luiz Gustavo | Arthur Alves, Diego Sousa, Douglas Marinho, Eric Silveira, João Artur, Luiz Gustavo |
-| Criar Issues no GitHub | Arthur Alves | Arthur Alves, Diego Sousa, Douglas Marinho, Eric Silveira, João Artur, Luiz Gustavo |
+| Documentação dos sites escolhidos | Diego Sousa | ------ |
+| Revisão do projeto | Arthur Alves, Diego Sousa, Douglas Marinho, Eric Silveira, João Artur e Luiz Gustavo | ------ |
+| Gravação da apresentação | Arthur Alves, Diego Sousa, Douglas Marinho, Eric Silveira, João Artur e Luiz Gustavo | ------ |
+| Criar Issues no GitHub | Arthur Alves | Diego Sousa, Douglas Marinho, Eric Silveira, João Artur e Luiz Gustavo |
 | Criar ata da reunião | Luiz Gustavo | Eric Silveira e Arthur Alves |
 
 <p align="center"> Tabela 2. Atividades </p>
