@@ -61,6 +61,7 @@ Dessa forma, está descrito na tabela 2 a divisão das atividades do grupo, com 
 ## 5. Gravação da Reunião
 <iframe src="https://drive.google.com/file/d/1VRC8MYyOAhqVH1EViY6ePl3KitEpZ8Up/preview" width="640" height="480" allow="autoplay"></iframe>
 
+
 ## <a>Histórico de Versão</a>
 
 | Versão | Data | Data Prevista de Revisão | Descrição | Autor(es) | Revisor(es) |
