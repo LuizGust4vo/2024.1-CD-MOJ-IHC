@@ -28,6 +28,12 @@ A avaliação de IHC executada pelo grupo, guiada pelo framework DECIDE e pelas 
 * Feedback de Submissões: O feedback fornecido após a submissão de tarefas é confuso, com uso de siglas não explicadas, porcentagens fora do padrão e mistura de idiomas, como datas em inglês.
 
 ###  [Link para a avaliação de IHC completa do site.](avaliacoes/avaliacao_CD-MOJ.pdf)
+
+## Bibliografia
+
+> <a id="FRM1" href="#anchor_1">1.</a> CD-MOJ. Disponível em: [https://moj.naquadah.com.br/cgi-bin/index.sh](). Acesso em: 20 de mar. de 2024.
+
+
 ## <a>Histórico de Versão</a>
 
 | Versão| Data | Data Prevista de Revisão| Descrição  | Autor(es)  | Revisor(es) |
