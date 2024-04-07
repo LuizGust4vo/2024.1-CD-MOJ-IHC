@@ -43,13 +43,16 @@ Quase sempre deve-se abrir um pull request, em especial, nas seguintes ocasiões
 
 Além disso, é importante ressaltar que um pull request não significa exatamente um trabalho finalizado. Ele também é uma forma de acompanhar o progresso do desenvolvimento de algum artefato ou ideia, ou seja, é também uma forma dos outros acompanharem aquilo que está fazendo. Um pull request antes de ser aprovado ainda recebe commits posteriores ao seu levantamento. Sendo assim, é importante que o revisor faça as alterações necessárias na branch específica e faça o merge.
 
+
+## Bibliografia
+>ALVES, Isaque, ROCHA, Carla. Qualifying Software Engineers Undergraduates in DevOps - Challenges of introducing technical and non-technical conceptss in a project-oriented course. **Arxiv**. [S. l.], v.1, 2021. Disponível em: <<https://arxiv.org/abs/2102.06662>>. Acesso em: 16/04/2023.
+>INTERAÇÃO HUMANO-COMPUTADOR. Bilheteria Digital - Metodologia de Desenvolvimento. [S. l.], 2023.1. Disponível em: <https://interacao-humano-computador.github.io/2023.1-BilheteriaDigital/planejamento/metodologia/>. Acesso em: 06/04/2024.
+
+
+
 ## Histórico de Versões
 
 Versão  | Data | Descrição | Autor(es) | Revisor(es)
 -------- | ------ | ------ | ---------- | ----------
  `1.0` | 06/04/2024 | Descrição da Metodologia | [Douglas Marinho](https://github.com/M4RINH0) | [João Artur](https://github.com/joao-artl)
-
-
-## Bibliografia
->ALVES, Isaque, ROCHA, Carla. Qualifying Software Engineers Undergraduates in DevOps - Challenges of introducing technical and non-technical conceptss in a project-oriented course. **Arxiv**. [S. l.], v.1, 2021. Disponível em: <<https://arxiv.org/abs/2102.06662>>. Acesso em: 16/04/2023.
->INTERAÇÃO HUMANO-COMPUTADOR. Bilheteria Digital - Metodologia de Desenvolvimento. [S. l.], 2023.1. Disponível em: <https://interacao-humano-computador.github.io/2023.1-BilheteriaDigital/planejamento/metodologia/>. Acesso em: 06/04/2024.
+ `1.0` | 07/04/2024 | Arrumando o histórico de versão e Bibliografia | [Eric Silveira](https://github.com/ericbky) | ----- |
