@@ -31,7 +31,7 @@ Tabela 1: Critérios para a Entrega 1
 
 Fonte: Plano de Ensino da disciplina de Requisitos de Software. BARROS, André.
 
-## <a>Bbliografia</a>
+## <a>Bibliografia</a>
 > Plano de Ensino da disciplina Interação Humano Computador, Dr. André Barros de Sales. [Plano de Ensino](https://aprender3.unb.br/pluginfile.php/2843624/mod_resource/content/48/Plano_de_Ensino%20FIHC%20012024%20Turma%201.pdf)
 > 
 > Apresentação 1, Bilheteria Digital. Disponível em: <https://interacao-humano-computador.github.io/2023.1-BilheteriaDigital/apresentacao/apresentacao1/>. Acesso em 19 de março de 2024.
