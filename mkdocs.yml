@@ -13,24 +13,33 @@ markdown_extensions:
   - pymdownx.tasklist:
       custom_checkbox: true
   - pymdownx.tilde
-  - pymdownx.emoji:
-      emoji_index: !!python/name:material.extensions.emoji.twemoji
-      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+  # - pymdownx.emoji:
+  #     emoji_index: !!python/name:material.extensions.emoji.twemoji
+  #     emoji_generator: !!python/name:material.extensions.emoji.to_svg
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
 
 site_name: Grupo 01
 
 
 nav:
-  - Home: index.md
+  - Inicio: 
+      - Inicio: index.md
+      - Licença: licenca.md
   - Apresentações:
       - Apresentação 1: apresentacao/apresentacao1.md
   - Reuniões:
       - Reunião 1: reuniao/reuniao01.md
+      - Reunião 2: reuniao/reuniao02.md
   - Planejamento:
     - Cronograma: planejamento/cronograma.md
     - Heatmap: planejamento/heatmap.md
     - Ferramentas: planejamento/ferramentas.md
+    - Metodologia: planejamento/metodologia.md
     - Processos de Design: planejamento/processosDesign.md
+    - Sites Avaliados: planejamento/sitesAvaliados.md
+    - Site Escolhido: planejamento/siteEscolhido.md
 
 
 theme:

@@ -23,7 +23,8 @@ Este espaço é dedicado à documentação de todos os artefatos gerados pelo Gr
 
 ## Histórico de versão
 
-| Versão| Data | Descrição  | Autor(es)  | Revisor(es) |
-| ------- | ------ | ------- | -------- | -------- |
-| `1.0` | 20/03/2024 | Criação da git page. | [Diego Sousa](https://github.com/DiegoSousaLeite) | [João Artur](https://github.com/joao-artl) e [Arthur Alves](https://github.com/Arthrok)|
-| `1.1` | 29/03/2024 | Atualização do visual. | [Diego Sousa](https://github.com/DiegoSousaLeite) | [João Artur](https://github.com/joao-artl) e [Arthur Alves](https://github.com/Arthrok)|
+| Versão| Data |Data Prevista de Revisão| Descrição  | Autor(es)  | Revisor(es) |
+| ------- | ------ | ------ | ------- | -------- | -------- |
+| `1.0` | 20/03/2024 |------ | Criação e configuração do pages. |[Arthur Alves](https://github.com/Arthrok)| [João Artur](https://github.com/joao-artl) e [Diego Sousa](https://github.com/DiegoSousaLeite) |
+| `1.1` | 29/03/2024 |------ | Atualização do visual. | [Diego Sousa](https://github.com/DiegoSousaLeite) | [João Artur](https://github.com/joao-artl) e [Arthur Alves](https://github.com/Arthrok)|
+| `1.2` | 29/03/2024 |------ | Adicionando a Licença e Revisando históricos de versão| [Eric Silveira](https://github.com/ericbky) | ----- |
