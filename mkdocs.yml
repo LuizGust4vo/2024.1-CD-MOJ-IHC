@@ -32,6 +32,7 @@ nav:
   - Reuniões:
       - Reunião 1: reuniao/reuniao01.md
       - Reunião 2: reuniao/reuniao02.md
+      - Reunião 3: reuniao/reuniao03.md
   - Planejamento:
     - Cronograma: planejamento/cronograma.md
     - Heatmap: planejamento/heatmap.md
@@ -40,6 +41,9 @@ nav:
     - Processos de Design: planejamento/processosDesign.md
     - Sites Avaliados: planejamento/sitesAvaliados.md
     - Site Escolhido: planejamento/siteEscolhido.md
+  - Analise de Requisitos:
+    - Aspectos Éticos: analise-de-requisitos/aspectosEticos.md
+
 
 
 theme:

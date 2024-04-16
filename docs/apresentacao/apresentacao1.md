@@ -4,7 +4,7 @@ O propósito desta página é hospedar o vídeo da apresentação da Primeira En
 
 ## Vídeo de Apresentação
 
-Link...
+<iframe width="1280" height="720" src="https://www.youtube.com/embed/nZCt_58S3Qw" title="entrega1 youtube" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## Tale de Critérios para a entrega 1
 A apresentação objetiva mostrar o que foi feito para a entrega 1, obedecendo aos critérios na Tabela 1 solicitados pelo professor no plano de ensino.
@@ -44,4 +44,5 @@ Fonte: Plano de Ensino da disciplina de Requisitos de Software. BARROS, André.
 | Versão | Data    | Data Prevista de Revisão  | Descrição      | Autor(es)   | Revisor(es)     |
 | ------- | ------ | ------- | -------- | -------- | -------- |
 | `1.0` | 05/04/204 | 09/04/2024| Organização inicial da página de apresentação, referente a primeira entrega. | [Eric Silveira](https://github.com/ericbky) |[Arthur Alves Melo](https://github.com/Arthrok), [Diego Sousa](https://github.com/DiegoSousaLeite), [Douglas Marinho](https://github.com/M4RINH0), [Eric Silveira](https://github.com/ericbky), [João Artur](https://github.com/joao-artl) e [Luiz Gustavo](https://github.com/LuizGust4vo)|
+| `1.1` | 08/03/2024 | --- | Vídeo da apresentação | [Arthur Alves](https://github.com/arthrok) | [Luiz Gustavo](https://github.com/LuizGust4vo) |
 
