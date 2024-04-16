@@ -41,6 +41,9 @@ nav:
     - Processos de Design: planejamento/processosDesign.md
     - Sites Avaliados: planejamento/sitesAvaliados.md
     - Site Escolhido: planejamento/siteEscolhido.md
+  - Analise de Requisitos:
+    - Aspectos Éticos: analise-de-requisitos/aspectosEticos.md
+
 
 
 theme:
