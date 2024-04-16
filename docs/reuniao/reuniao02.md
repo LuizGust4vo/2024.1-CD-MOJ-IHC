@@ -29,13 +29,16 @@ As dúvidas geradas podem ser encontradas na tabela 1, onde cada dúvida tem o s
 
 <center>
 
+**Tabela 1**- Dúvidas
+
 | Identificador (Dn) | Dúvida |
 | :------: | :------: |
 | D1 | Vamos precisar de pessoas para testar o método? | 
 | D2 | Qual será o perfil de usuário? |
 
+_Fonte: [Luiz Gustavo](https://github.com/LuizGust4vo)_
+
 </center>
-<p align="center"> Tabela 1. Dúvidas </p>
 
 ## 4. Decisões
 Decidimos mudar a posição do histórico de versão para o final da página e adicionar uma nova coluna de data de revisão. 
@@ -48,6 +51,10 @@ Por último, realizamos correções no GitPages, mais especificamente nas padron
 
 Dessa forma, está descrito na tabela 2 a divisão das atividades do grupo, com base nas melhorias necessárias e seguindo o cronograma da disciplina:
 
+<center>
+
+**Tabela 2**- Atividades
+
 | Atividade | Responsável(eis) | Revisor(es) |
 | :------: | :------: | :------: |
 | Documentação dos sites escolhidos | Diego Sousa | ------ |
@@ -56,11 +63,12 @@ Dessa forma, está descrito na tabela 2 a divisão das atividades do grupo, com 
 | Criar Issues no GitHub | Arthur Alves | Diego Sousa, Douglas Marinho, Eric Silveira, João Artur e Luiz Gustavo |
 | Criar ata da reunião | Luiz Gustavo | Eric Silveira e Arthur Alves |
 
-<p align="center"> Tabela 2. Atividades </p>
+_Fonte: [Luiz Gustavo](https://github.com/LuizGust4vo)_
+
+</center>
 
 ## 5. Gravação da Reunião
 <iframe src="https://drive.google.com/file/d/1VRC8MYyOAhqVH1EViY6ePl3KitEpZ8Up/preview" width="640" height="480" allow="autoplay"></iframe>
-
 
 ## <a>Histórico de Versão</a>
 
@@ -69,3 +77,4 @@ Dessa forma, está descrito na tabela 2 a divisão das atividades do grupo, com 
 | `1.0` | 02/04/2024 | 04/04/2024 | Criação da Ata da Reunião | [Luiz Gustavo](https://github.com/LuizGust4vo) | [Eric Silveira](https://github.com/ericbky) |
 | `1.1` | 02/04/2024 | 04/04/2024 | Video da Reunião | [Arthur Alves](https://github.com/arthrok) | [Luiz Gustavo](https://github.com/LuizGust4vo) |
 | `1.2` | 05/04/2024 | ------ | Padronização do histórico de versão e tabelas | [Luiz Gustavo](https://github.com/LuizGust4vo) | ------ |
+| `1.3` | 16/04/2024 | 16/04/2024 | Correção das tabelas | [Luiz Gustavo](https://github.com/LuizGust4vo) | [Arthur Alves](https://github.com/arthrok) |
