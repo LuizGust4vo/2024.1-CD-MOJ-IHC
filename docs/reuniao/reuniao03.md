@@ -47,7 +47,7 @@ Para as entregas dessa etapa, iremos nos basear no livro da disciplina de IHC: B
 Interação Humano-Computador e Experiência do usuário. Autopublicação. ISBN: 978-65-00-19677-1. Com foco nos capítulos 7. Identificação de Necessidades dos Usuários e Definição dos Requisitos de IHC e 8. Organização do Espaço de Problema.
 
 ## 5. Gravação da Reunião
-<iframe src="" width="640" height="48çç" allow="autoplay"></iframe>
+<iframe src="" width="640" height="480" allow="autoplay"></iframe>
 
 ## <a> Histórico de Versão </a>
 
