@@ -86,11 +86,11 @@ Caso a primeira opção de site não dê certo por algum motivo, decidimos escol
 ## 5. Gravação da Reunião
 <iframe src="https://drive.google.com/file/d/1zekxTIHLdGQ0s6xEw65QPsaKjAQLCUld/preview" width="640" height="480" allow="autoplay"></iframe>
 
-## <a>Histórico de Versão</a>
+## <a> Histórico de Versão </a>
 
 | Versão | Data | Data Prevista de Revisão | Descrição | Autor(es) | Revisor(es) |
 | :------: | :----------: | :-----------: | :-----------: | :---------: | :---------: |
 | `1.0` | 25/03/2024 | 26/03/2024 | Criação da Ata da Reunião | [Luiz Gustavo](https://github.com/LuizGust4vo) | [Eric Silveira](https://github.com/ericbky) |
-| `1.1` | 25/03/2024 | 04/04/2024 | Vídeo da Reunião | [Arthur Alves](https://github.com/arthrok) | [Luiz Gustavo](https://github.com/LuizGust4vo) |
+| `1.1` | 25/03/2024 | 04/04/2024 | Adicionado o Vídeo da Reunião | [Arthur Alves](https://github.com/arthrok) | [Luiz Gustavo](https://github.com/LuizGust4vo) |
 | `1.2` | 05/04/2024 | ------ | Padronização do histórico de versão e tabelas | [Luiz Gustavo](https://github.com/LuizGust4vo) | ------ |
 | `1.3` | 16/04/2024 | 16/04/2024 | Correção das tabelas | [Luiz Gustavo](https://github.com/LuizGust4vo) | [Arthur Alves](https://github.com/arthrok) |
