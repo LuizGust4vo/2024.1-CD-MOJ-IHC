@@ -7,7 +7,7 @@ A Análise Hierárquica de Tarefas (HTA) é uma técnica de análise que decomp�
 <figure markdown>
 <font size="3"><p style="text-align: center"><b>Figura 1</b> - Notação diagrama HTA.</p></font>
 
-![Diagrama HTA](./assets/diagramaHTA.png){width: 300}
+![Diagrama HTA](./assets/diagramaHTA.png){width: 340}
 
 <font size="3"><p style="text-align: center">Fonte: BARBOSA e SILVA, 2021, p.179.<a id=anchor_1 href="#REF1"><sup>1</sup></a></p></font>
 
@@ -20,6 +20,8 @@ No que diz respeito às tarefas para análise com o método HTA, foram escolhida
 ### <a>Submissão de Problema</a>
 
 Nesta tarefa, o usuário tem o objetivo de submeter uma solução para um problema de programação. A seguir, apresentamos o diagrama e a tabela HTA desta tarefa.
+
+<center>
 
 <!--<figure markdown>
 <font size="3"><b>Figura 2</b> - Diagrama HTA de Submissão de Problemas.</font>
@@ -41,13 +43,15 @@ Nesta tarefa, o usuário tem o objetivo de submeter uma solução para um proble
 | **4. Submeter solução** | **Input:** Usuário clica em 'Submeter'.<br>**Feedback:** Solução é enviada para avaliação. |
 | **5. Receber feedback** | **Feedback:** Resultados da avaliação (correto, erro de execução, tempo excedido, etc.). |
 
-<div style="text-align: center">
 <font size="3">Fonte: [João Artur](https://github.com/joao-artl).</font>
-</div>
+
+</center>
 
 ### <a>Login em Contest</a>
 
 Para o acesso a competições ou "contests", o usuário deve realizar o login no sistema. Esta é uma etapa crucial para garantir que apenas participantes autorizados possam entrar e competir. Abaixo, você encontrará o diagrama e a tabela HTA para a tarefa de Login em Contest.
+
+<center>
 
 <!--<figure markdown>
 <font size="3"><b>Figura 3</b> - Diagrama HTA de Login em Contest.</font>
@@ -68,13 +72,15 @@ Para o acesso a competições ou "contests", o usuário deve realizar o login no
 | **3. Autenticar** | **Input:** Clique em 'Entrar'.<br>**Feedback:** Verificação de credenciais e redirecionamento para a página do contest. |
 | **4. Acessar página do contest** | **Feedback:** Exibição das informações do contest e participação habilitada. |
 
-<div style="text-align: center">
 <font size="3">Fonte: [João Artur](https://github.com/joao-artl).</font>
-</div>
+
+</center>
 
 ### <a>Criação de Problema (Administrador)</a>
 
 Nesta tarefa, o administrador cria e configura novos problemas para os usuários resolverem. Incluímos o diagrama e a tabela HTA desta tarefa.
+
+<center>
 
 <!--<figure markdown>
 <font size="3"><b>Figura 4</b> - Diagrama HTA de Criação de Problema.</font>
@@ -95,13 +101,15 @@ Nesta tarefa, o administrador cria e configura novos problemas para os usuários
 | **3. Definir restrições** | **Input:** Limites de tempo e memória.<br>**Feedback:** Restrições registradas no sistema. |
 | **4. Publicar problema** | **Input:** Clique em 'Publicar'.<br>**Feedback:** Problema disponível para usuários. |
 
-<div style="text-align: center">
 <font size="3">Fonte: [João Artur](https://github.com/joao-artl).</font>
-</div>
+
+</center>
 
 ### <a>Criação de Contest (Administrador)</a>
 
 Nesta tarefa, o administrador organiza competições (contests) que agregam diversos problemas para serem resolvidos pelos participantes dentro de um tempo definido. Abaixo estão o diagrama e a tabela HTA desta tarefa.
+
+<center>
 
 <!--<figure markdown>
 <font size="3"><b>Figura 5</b> - Diagrama HTA de Criação de Contest.</font>
@@ -121,9 +129,9 @@ Nesta tarefa, o administrador organiza competições (contests) que agregam dive
 | **4. Definir regras de pontuação** | **Input:** Estabelecer critérios de pontuação e penalidades.<br>**Feedback:** Regras estabelecidas para o contest. |
 | **5. Publicar contest** | **Input:** Clique em 'Publicar'.<br>**Feedback:** Contest disponível para inscrição ou participação direta. |
 
-<div style="text-align: center">
 <font size="3">Fonte: [João Artur](https://github.com/joao-artl).</font>
-</div>
+
+</center>
 
 ## <a>Bibliografia</a>
 > <a id="REF1" href="#anchor_1">1.</a>Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021)Interação Humano-Computador e Experiência do usuário.
