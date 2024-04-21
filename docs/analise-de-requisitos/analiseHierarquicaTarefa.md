@@ -7,7 +7,7 @@ A Análise Hierárquica de Tarefas (HTA) é uma técnica de análise que decomp�
 <figure markdown>
 <font size="3"><p style="text-align: center"><b>Figura 1</b> - Notação diagrama HTA.</p></font>
 
-![Diagrama HTA](docs/analise-de-requisitos/assets/diagramaHTA.png){width: 300}
+![Diagrama HTA](./assets/diagramaHTA.png){width: 300}
 
 <font size="3"><p style="text-align: center">Fonte: BARBOSA e SILVA, 2021, p.179.<a id=anchor_1 href="#REF1"><sup>1</sup></a></p></font>
 
@@ -21,14 +21,14 @@ No que diz respeito às tarefas para análise com o método HTA, foram escolhida
 
 Nesta tarefa, o usuário tem o objetivo de submeter uma solução para um problema de programação. A seguir, apresentamos o diagrama e a tabela HTA desta tarefa.
 
-<figure markdown>
+<!--<figure markdown>
 <font size="3"><b>Figura 2</b> - Diagrama HTA de Submissão de Problemas.</font>
 
 ![Diagrama HTA](docs/analise-de-requisitos/assets/diagramaHTA.png){width: 300}
 
 <font size="3"><p style="text-align: center">Fonte: [João Artur](https://github.com/joao-artl).</p></font>
 
-</figure>
+</figure> -->
 
 <font size="3"><p style="text-align: center"><b>Tabela 1</b> - Tabela HTA de Submissão de Problema</p></font>
 
@@ -47,14 +47,14 @@ Nesta tarefa, o usuário tem o objetivo de submeter uma solução para um proble
 
 Para o acesso a competições ou "contests", o usuário deve realizar o login no sistema. Esta é uma etapa crucial para garantir que apenas participantes autorizados possam entrar e competir. Abaixo, você encontrará o diagrama e a tabela HTA para a tarefa de Login em Contest.
 
-<figure markdown>
+<!--<figure markdown>
 <font size="3"><b>Figura 3</b> - Diagrama HTA de Login em Contest.</font>
 
 ![Diagrama HTA](docs/analise-de-requisitos/assets/diagramaHTA.png){width: 300}
 
 <font size="3"><p style="text-align: center">Fonte: [João Artur](https://github.com/joao-artl).</p></font>
 
-</figure>
+</figure> -->
 
 <font size="3"><p style="text-align: center"><b>Tabela 2</b> - Tabela HTA de Login em Contest</p></font>
 
@@ -72,14 +72,14 @@ Para o acesso a competições ou "contests", o usuário deve realizar o login no
 
 Nesta tarefa, o administrador cria e configura novos problemas para os usuários resolverem. Incluímos o diagrama e a tabela HTA desta tarefa.
 
-<figure markdown>
+<!--<figure markdown>
 <font size="3"><b>Figura 4</b> - Diagrama HTA de Criação de Problema.</font>
 
 ![Diagrama HTA](docs/analise-de-requisitos/assets/diagramaHTA.png){width: 300}
 
 <font size="3"><p style="text-align: center">Fonte: [João Artur](https://github.com/joao-artl).</p></font>
 
-</figure>
+</figure> -->
 
 <font size="3"><p style="text-align: center"><b>Tabela 3</b> - Tabela HTA de Criação de Problema</p></font>
 
@@ -97,12 +97,12 @@ Nesta tarefa, o administrador cria e configura novos problemas para os usuários
 
 Nesta tarefa, o administrador organiza competições (contests) que agregam diversos problemas para serem resolvidos pelos participantes dentro de um tempo definido. Abaixo estão o diagrama e a tabela HTA desta tarefa.
 
-<figure markdown>
+<!--<figure markdown>
 <font size="3"><b>Figura 5</b> - Diagrama HTA de Criação de Contest.</font>
 
 ![Diagrama HTA](docs/analise-de-requisitos/assets/diagramaHTA.png){width: 300}
 
-<font size="3"><p style="text-align: center">Fonte: [João Artur](https://github.com/joao-artl).</p></font>
+<font size="3"><p style="text-align: center">Fonte: [João Artur](https://github.com/joao-artl).</p></font> -->
 
 <font size="3"><p style="text-align: center"><b>Tabela 4</b> - Tabela HTA de Criação de Contest</p></font>
 
