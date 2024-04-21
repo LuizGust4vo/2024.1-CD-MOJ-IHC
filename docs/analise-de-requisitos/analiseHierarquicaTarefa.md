@@ -7,7 +7,7 @@ A Análise Hierárquica de Tarefas (HTA) é uma técnica de análise que decomp�
 <figure markdown>
 <font size="3"><p style="text-align: center"><b>Figura 1</b> - Notação diagrama HTA.</p></font>
 
-![Diagrama HTA](./assets/diagramaHTA.png){width: 340}
+![Diagrama HTA](./assets/diagramaHTA.png){width: 350}
 
 <font size="3"><p style="text-align: center">Fonte: BARBOSA e SILVA, 2021, p.179.<a id=anchor_1 href="#REF1"><sup>1</sup></a></p></font>
 
@@ -49,7 +49,7 @@ Nesta tarefa, o usuário tem o objetivo de submeter uma solução para um proble
 
 ### <a>Login em Contest</a>
 
-Para o acesso a competições ou "contests", o usuário deve realizar o login no sistema. Esta é uma etapa crucial para garantir que apenas participantes autorizados possam entrar e competir. Abaixo, você encontrará o diagrama e a tabela HTA para a tarefa de Login em Contest.
+Para o acesso a competições ou "contests", o usuário deve realizar o login no sistema. Esta é uma etapa crucial para garantir que apenas participantes autorizados possam entrar e competir. Abaixo, está o diagrama e a tabela HTA para a tarefa de Login em Contest.
 
 <center>
 
@@ -76,14 +76,14 @@ Para o acesso a competições ou "contests", o usuário deve realizar o login no
 
 </center>
 
-### <a>Criação de Problema (Administrador)</a>
+### <a>Verificação de Submissões</a>
 
-Nesta tarefa, o administrador cria e configura novos problemas para os usuários resolverem. Incluímos o diagrama e a tabela HTA desta tarefa.
+Nesta tarefa, o usuário ou o administrador verifica o resultado das submissões feitas durante um contest. Abaixo, está o diagrama e a tabela HTA desta tarefa:
 
 <center>
 
 <!--<figure markdown>
-<font size="3"><b>Figura 4</b> - Diagrama HTA de Criação de Problema.</font>
+<font size="3"><b>Figura 4</b> - Diagrama HTA de Verificação de Submissões.</font>
 
 ![Diagrama HTA](docs/analise-de-requisitos/assets/diagramaHTA.png){width: 300}
 
@@ -91,7 +91,65 @@ Nesta tarefa, o administrador cria e configura novos problemas para os usuários
 
 </figure> -->
 
-<font size="3"><p style="text-align: center"><b>Tabela 3</b> - Tabela HTA de Criação de Problema</p></font>
+<font size="3"><p style="text-align: center"><b>Tabela 3</b> - Tabela HTA de Verificação de Submissões</p></font>
+
+| Objetivos/Operações | Problemas e Recomendações |
+|---------------------|---------------------------|
+| **0. Verificar submissões** | |
+| **1. Acessar lista de submissões** | **Input:** Usuário ou administrador acessa a lista de submissões do contest.<br>**Feedback:** Lista de submissões exibida. |
+| **2. Analisar resultado** | **Input:** Seleção de uma submissão específica.<br>**Feedback:** Detalhes do resultado da submissão (correto, erro, tempo excedido, etc.). |
+| **3. Verificar logs de execução** | **Input:** Acesso aos logs de execução para detalhamento de erros.<br>**Feedback:** Logs exibidos para diagnóstico. |
+
+<font size="3">Fonte: [João Artur](https://github.com/joao-artl).</font>
+
+</center>
+
+### <a>Ranking de Contest</a>
+
+Esta tarefa aborda como os resultados dos participantes são calculados e exibidos em forma de ranking durante ou após um contest.
+
+<center>
+
+<!--<figure markdown>
+<font size="3"><b>Figura 5</b> - Diagrama HTA de Ranking de Contest.</font>
+
+![Diagrama HTA](docs/analise-de-requisitos/assets/diagramaHTA.png){width: 300}
+
+<font size="3"><p style="text-align: center">Fonte: [João Artur](https://github.com/joao-artl).</p></font>
+
+</figure> -->
+
+<font size="3"><p style="text-align: center"><b>Tabela 4</b> - Tabela HTA de Ranking de Contest</p></font>
+
+| Objetivos/Operações | Problemas e Recomendações |
+|---------------------|---------------------------|
+| **0. Exibir ranking** | |
+| **1. Calcular pontos** | **Input:** Sistema processa os resultados das submissões.<br>**Feedback:** Pontuação calculada com base em critérios predefinidos. |
+| **2. Ordenar resultados** | **Input:** Sistema ordena participantes com base na pontuação e outros critérios.<br>**Feedback:** Ranking atualizado e exibido. |
+| **3. Exibir detalhes** | **Input:** Usuário acessa detalhes de performance individual e comparações.<br>**Feedback:** Detalhes exibidos incluem tempo de submissão, número de tentativas, etc. |
+| **4. Atualizar ranking em tempo real** | **Input:** Sistema atualiza o ranking conforme novas submissões são processadas.<br>**Feedback:** Ranking dinâmico e sempre atualizado. |
+
+<font size="3">Fonte: [João Artur](https://github.com/joao-artl).</font>
+
+</center>
+
+
+### <a>Criação de Problema (Administrador)</a>
+
+Nesta tarefa, o administrador cria e configura novos problemas para os usuários resolverem. Incluímos o diagrama e a tabela HTA desta tarefa.
+
+<center>
+
+<!--<figure markdown>
+<font size="3"><b>Figura 6</b> - Diagrama HTA de Criação de Problema.</font>
+
+![Diagrama HTA](docs/analise-de-requisitos/assets/diagramaHTA.png){width: 300}
+
+<font size="3"><p style="text-align: center">Fonte: [João Artur](https://github.com/joao-artl).</p></font>
+
+</figure> -->
+
+<font size="3"><p style="text-align: center"><b>Tabela 5</b> - Tabela HTA de Criação de Problema</p></font>
 
 | Objetivos/Operações | Problemas e Recomendações |
 |---------------------|---------------------------|
@@ -112,13 +170,13 @@ Nesta tarefa, o administrador organiza competições (contests) que agregam dive
 <center>
 
 <!--<figure markdown>
-<font size="3"><b>Figura 5</b> - Diagrama HTA de Criação de Contest.</font>
+<font size="3"><b>Figura 7</b> - Diagrama HTA de Criação de Contest.</font>
 
 ![Diagrama HTA](docs/analise-de-requisitos/assets/diagramaHTA.png){width: 300}
 
 <font size="3"><p style="text-align: center">Fonte: [João Artur](https://github.com/joao-artl).</p></font> -->
 
-<font size="3"><p style="text-align: center"><b>Tabela 4</b> - Tabela HTA de Criação de Contest</p></font>
+<font size="3"><p style="text-align: center"><b>Tabela 6</b> - Tabela HTA de Criação de Contest</p></font>
 
 | Objetivos/Operações | Problemas e Recomendações |
 |---------------------|---------------------------|
