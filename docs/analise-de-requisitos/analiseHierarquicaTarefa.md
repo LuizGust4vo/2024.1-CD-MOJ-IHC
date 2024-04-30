@@ -23,14 +23,14 @@ Nesta tarefa, o usuário tem o objetivo de submeter uma solução para um proble
 
 <center>
 
-<!--<figure markdown>
+<figure markdown>
 <font size="3"><b>Figura 2</b> - Diagrama HTA de Submissão de Problemas.</font>
 
-![Diagrama HTA](docs/analise-de-requisitos/assets/diagramaHTA.png){width: 300}
+![Diagrama HTA 1](docs/analise-de-requisitos/assets/HTA_01.png){width: 300}
 
 <font size="3"><p style="text-align: center">Fonte: [João Artur](https://github.com/joao-artl).</p></font>
 
-</figure> -->
+</figure>
 
 <font size="3"><p style="text-align: center"><b>Tabela 1</b> - Tabela HTA de Submissão de Problema</p></font>
 
@@ -53,14 +53,14 @@ Para o acesso a competições ou "contests", o usuário deve realizar o login no
 
 <center>
 
-<!--<figure markdown>
+<figure markdown>
 <font size="3"><b>Figura 3</b> - Diagrama HTA de Login em Contest.</font>
 
-![Diagrama HTA](docs/analise-de-requisitos/assets/diagramaHTA.png){width: 300}
+![Diagrama HTA 2](docs/analise-de-requisitos/assets/HTA_02.png){width: 300}
 
 <font size="3"><p style="text-align: center">Fonte: [João Artur](https://github.com/joao-artl).</p></font>
 
-</figure> -->
+</figure>
 
 <font size="3"><p style="text-align: center"><b>Tabela 2</b> - Tabela HTA de Login em Contest</p></font>
 
@@ -82,14 +82,14 @@ Nesta tarefa, o usuário ou o administrador verifica o resultado das submissões
 
 <center>
 
-<!--<figure markdown>
+<figure markdown>
 <font size="3"><b>Figura 4</b> - Diagrama HTA de Verificação de Submissões.</font>
 
-![Diagrama HTA](docs/analise-de-requisitos/assets/diagramaHTA.png){width: 300}
+![Diagrama HTA 3](docs/analise-de-requisitos/assets/HTA_03.png){width: 300}
 
 <font size="3"><p style="text-align: center">Fonte: [João Artur](https://github.com/joao-artl).</p></font>
 
-</figure> -->
+</figure>
 
 <font size="3"><p style="text-align: center"><b>Tabela 3</b> - Tabela HTA de Verificação de Submissões</p></font>
 
