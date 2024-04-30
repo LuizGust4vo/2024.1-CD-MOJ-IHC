@@ -26,7 +26,7 @@ Nesta tarefa, o usuário tem o objetivo de submeter uma solução para um proble
 <figure markdown>
 <font size="3"><b>Figura 2</b> - Diagrama HTA de Submissão de Problemas.</font>
 
-![Diagrama HTA 1](docs/analise-de-requisitos/assets/HTA_01.png){width: 300}
+![Diagrama HTA 1](./assets/HTA_01.png){width: 300}
 
 <font size="3"><p style="text-align: center">Fonte: [João Artur](https://github.com/joao-artl).</p></font>
 
@@ -56,7 +56,7 @@ Para o acesso a competições ou "contests", o usuário deve realizar o login no
 <figure markdown>
 <font size="3"><b>Figura 3</b> - Diagrama HTA de Login em Contest.</font>
 
-![Diagrama HTA 2](docs/analise-de-requisitos/assets/HTA_02.png){width: 300}
+![Diagrama HTA 2](./assets/HTA_02.png){width: 300}
 
 <font size="3"><p style="text-align: center">Fonte: [João Artur](https://github.com/joao-artl).</p></font>
 
@@ -85,7 +85,7 @@ Nesta tarefa, o usuário ou o administrador verifica o resultado das submissões
 <figure markdown>
 <font size="3"><b>Figura 4</b> - Diagrama HTA de Verificação de Submissões.</font>
 
-![Diagrama HTA 3](docs/analise-de-requisitos/assets/HTA_03.png){width: 300}
+![Diagrama HTA 3](./assets/HTA_03.png){width: 300}
 
 <font size="3"><p style="text-align: center">Fonte: [João Artur](https://github.com/joao-artl).</p></font>
 
@@ -113,7 +113,7 @@ Esta tarefa aborda como os resultados dos participantes são calculados e exibid
 <!--<figure markdown>
 <font size="3"><b>Figura 5</b> - Diagrama HTA de Ranking de Contest.</font>
 
-![Diagrama HTA](docs/analise-de-requisitos/assets/diagramaHTA.png){width: 300}
+![Diagrama HTA 4](./assets/HTA_04.png){width: 300}
 
 <font size="3"><p style="text-align: center">Fonte: [João Artur](https://github.com/joao-artl).</p></font>
 
@@ -143,7 +143,7 @@ Nesta tarefa, o administrador cria e configura novos problemas para os usuários
 <!--<figure markdown>
 <font size="3"><b>Figura 6</b> - Diagrama HTA de Criação de Problema.</font>
 
-![Diagrama HTA](docs/analise-de-requisitos/assets/diagramaHTA.png){width: 300}
+![Diagrama HTA 5](./assets/HTA_05.png){width: 300}
 
 <font size="3"><p style="text-align: center">Fonte: [João Artur](https://github.com/joao-artl).</p></font>
 
@@ -172,7 +172,7 @@ Nesta tarefa, o administrador organiza competições (contests) que agregam dive
 <!--<figure markdown>
 <font size="3"><b>Figura 7</b> - Diagrama HTA de Criação de Contest.</font>
 
-![Diagrama HTA](docs/analise-de-requisitos/assets/diagramaHTA.png){width: 300}
+![Diagrama HTA 6](./assets/HTA_06.png){width: 300}
 
 <font size="3"><p style="text-align: center">Fonte: [João Artur](https://github.com/joao-artl).</p></font> -->
 
