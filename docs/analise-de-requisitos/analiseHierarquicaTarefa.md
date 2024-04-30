@@ -199,3 +199,4 @@ Nesta tarefa, o administrador organiza competições (contests) que agregam dive
 | Versão| Data | Data Prevista de Revisão| Descrição  | Autor(es)  | Revisor(es) |
 | ------- | ------ | ------ | ------- | -------- | -------- |
 | `1.0` | 13/04/2024 | 20/04/2024 | Criação da página de Análise Hierárquica de Tarefas.| [João Artur](https://github.com/joao-artl)|[Diego Sousa](https://github.com/DiegoSousaLeite)|
+| `1.1` | 21/04/2024 | 23/04/2024 | Adicionando imagem dos diagramas.| [João Artur](https://github.com/joao-artl)|[Diego Sousa](https://github.com/DiegoSousaLeite)|
