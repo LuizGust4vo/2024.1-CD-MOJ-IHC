@@ -23,14 +23,14 @@ Nesta tarefa, o usuário tem o objetivo de submeter uma solução para um proble
 
 <center>
 
-<!--<figure markdown>
+<figure markdown>
 <font size="3"><b>Figura 2</b> - Diagrama HTA de Submissão de Problemas.</font>
 
-![Diagrama HTA](docs/analise-de-requisitos/assets/diagramaHTA.png){width: 300}
+![Diagrama HTA 1](./assets/HTA_01.png){width: 300}
 
 <font size="3"><p style="text-align: center">Fonte: [João Artur](https://github.com/joao-artl).</p></font>
 
-</figure> -->
+</figure>
 
 <font size="3"><p style="text-align: center"><b>Tabela 1</b> - Tabela HTA de Submissão de Problema</p></font>
 
@@ -53,14 +53,14 @@ Para o acesso a competições ou "contests", o usuário deve realizar o login no
 
 <center>
 
-<!--<figure markdown>
+<figure markdown>
 <font size="3"><b>Figura 3</b> - Diagrama HTA de Login em Contest.</font>
 
-![Diagrama HTA](docs/analise-de-requisitos/assets/diagramaHTA.png){width: 300}
+![Diagrama HTA 2](./assets/HTA_02.png){width: 300}
 
 <font size="3"><p style="text-align: center">Fonte: [João Artur](https://github.com/joao-artl).</p></font>
 
-</figure> -->
+</figure>
 
 <font size="3"><p style="text-align: center"><b>Tabela 2</b> - Tabela HTA de Login em Contest</p></font>
 
@@ -82,14 +82,14 @@ Nesta tarefa, o usuário ou o administrador verifica o resultado das submissões
 
 <center>
 
-<!--<figure markdown>
+<figure markdown>
 <font size="3"><b>Figura 4</b> - Diagrama HTA de Verificação de Submissões.</font>
 
-![Diagrama HTA](docs/analise-de-requisitos/assets/diagramaHTA.png){width: 300}
+![Diagrama HTA 3](./assets/HTA_03.png){width: 300}
 
 <font size="3"><p style="text-align: center">Fonte: [João Artur](https://github.com/joao-artl).</p></font>
 
-</figure> -->
+</figure>
 
 <font size="3"><p style="text-align: center"><b>Tabela 3</b> - Tabela HTA de Verificação de Submissões</p></font>
 
@@ -113,7 +113,7 @@ Esta tarefa aborda como os resultados dos participantes são calculados e exibid
 <!--<figure markdown>
 <font size="3"><b>Figura 5</b> - Diagrama HTA de Ranking de Contest.</font>
 
-![Diagrama HTA](docs/analise-de-requisitos/assets/diagramaHTA.png){width: 300}
+![Diagrama HTA 4](./assets/HTA_04.png){width: 300}
 
 <font size="3"><p style="text-align: center">Fonte: [João Artur](https://github.com/joao-artl).</p></font>
 
@@ -143,7 +143,7 @@ Nesta tarefa, o administrador cria e configura novos problemas para os usuários
 <!--<figure markdown>
 <font size="3"><b>Figura 6</b> - Diagrama HTA de Criação de Problema.</font>
 
-![Diagrama HTA](docs/analise-de-requisitos/assets/diagramaHTA.png){width: 300}
+![Diagrama HTA 5](./assets/HTA_05.png){width: 300}
 
 <font size="3"><p style="text-align: center">Fonte: [João Artur](https://github.com/joao-artl).</p></font>
 
@@ -172,7 +172,7 @@ Nesta tarefa, o administrador organiza competições (contests) que agregam dive
 <!--<figure markdown>
 <font size="3"><b>Figura 7</b> - Diagrama HTA de Criação de Contest.</font>
 
-![Diagrama HTA](docs/analise-de-requisitos/assets/diagramaHTA.png){width: 300}
+![Diagrama HTA 6](./assets/HTA_06.png){width: 300}
 
 <font size="3"><p style="text-align: center">Fonte: [João Artur](https://github.com/joao-artl).</p></font> -->
 
@@ -199,3 +199,4 @@ Nesta tarefa, o administrador organiza competições (contests) que agregam dive
 | Versão| Data | Data Prevista de Revisão| Descrição  | Autor(es)  | Revisor(es) |
 | ------- | ------ | ------ | ------- | -------- | -------- |
 | `1.0` | 13/04/2024 | 20/04/2024 | Criação da página de Análise Hierárquica de Tarefas.| [João Artur](https://github.com/joao-artl)|[Diego Sousa](https://github.com/DiegoSousaLeite)|
+| `1.1` | 21/04/2024 | 23/04/2024 | Adicionando imagem dos diagramas.| [João Artur](https://github.com/joao-artl)|[Diego Sousa](https://github.com/DiegoSousaLeite)|

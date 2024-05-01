@@ -350,6 +350,7 @@ Public License instead of this License.
 
 ## Histórico de versão
 
-| Versão| Data | Descrição  | Autor(es)  | Revisor(es) |
-| ------- | ------ | ------- | -------- | -------- |
-| `1.0` | 04/04/2024 | Criação e inserção da Licença |[Eric Silveira](https://github.com/ericbky)|     --- |
+| Versão| Data |Data Prevista de Revisão| Descrição  | Autor(es)  | Revisor(es) |
+| ------- | ------ | ------- | -------- | -------- | --------- |
+| `1.0` | 04/04/2024 | 06/04/2024 |Criação e inserção da Licença |[Eric Silveira](https://github.com/ericbky)|     --- |
+| `1.1` | 30/04/2024 | 30/04/2024 | Padronizando histórico de versão |[João Artur](https://github.com/joao-artl)| [Eric Silveira](https://github.com/ericbky)|
