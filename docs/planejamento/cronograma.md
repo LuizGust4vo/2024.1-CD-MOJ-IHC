@@ -46,8 +46,6 @@ O cronograma tem como objetivo estruturar todas as atividades a serem conduzidas
 
 ## Etapa 2 - Perfil dos Usuários
 
-### Planejado
-
 Na Tabela 3, tem-se o cronograma planejado para todas as atividades da segunda entrega.
 
 <font size="3"><p style="text-align: center"><b>Tabela 3</b> - Perfil dos Usuários</p></font>
@@ -77,8 +75,6 @@ Na Tabela 4, está explicitado o cronograma executado das atividades da segunda 
 -->
 
 ## Etapa 3 - Princípios gerais do projeto
-
-### Planejado
 
 Na Tabela 5, tem-se o cronograma planejado para todas as atividades da terceira entrega.
 
@@ -111,8 +107,6 @@ Na Tabela 6, está explicitado o cronograma executado das atividades da terceira
 
 ## Etapa 4 - Planejamento da avaliação do Storyboard
 
-### Planejado
-
 Na Tabela 7, tem-se o cronograma planejado para todas as atividades da quarta entrega.
 
 <font size="3"><p style="text-align: center"><b>Tabela 7</b> - Planejamento da avaliação do Storyboard</p></font>
@@ -143,8 +137,6 @@ Na Tabela 8, está explicitado o cronograma executado das atividades da quarta e
 
 ## Etapa 5 - Relato dos resultados do StoryBoard e da Análise de tarefas
 
-### Planejado
-
 Na Tabela 9, tem-se o cronograma planejado para todas as atividades da quinta entrega.
 
 <font size="3"><p style="text-align: center"><b>Tabela 9</b> - Relato dos resultados do StoryBoard e da Análise de tarefas</p></font>
@@ -174,8 +166,6 @@ Na Tabela 10, está explicitado o cronograma executado das atividades da quinta 
 
 ## Etapa 6.1 - Verificação dos Artefatos 1
 
-### Planejado
-
 Na Tabela 11, tem-se o cronograma planejado para todas as atividades da primeira metade da sexta entrega.
 
 <font size="3"><p style="text-align: center"><b>Tabela 11</b> - Verificação dos Artefatos 1</p></font>
@@ -203,8 +193,6 @@ Na Tabela 12, está explicitado o cronograma executado das atividades da primeir
 
 ## Etapa 6.2 - Verificação dos Artefatos 2
 
-### Planejado
-
 Na Tabela 13, tem-se o cronograma planejado para todas as atividades da segunda metade da sexta entrega.
 
 <font size="3"><p style="text-align: center"><b>Tabela 13</b> - Verificação dos Artefatos 2</p></font>
@@ -231,8 +219,6 @@ Na Tabela 14, está explicitado o cronograma executado das atividades da segunda
 -->
 
 ## Etapa 7 - Relato do Protótipo de Papel
-
-### Planejado
 
 Na Tabela 15, tem-se o cronograma planejado para todas as atividades da sétima entrega.
 
@@ -262,8 +248,6 @@ Na Tabela 16, está explicitado o cronograma executado das atividades da sétima
 -->
 
 ## Etapa 8 - Relato do Protótipo de alta fidelidade
-
-### Planejado
 
 Na Tabela 17, tem-se o cronograma planejado para todas as atividades da oitava entrega.
 
