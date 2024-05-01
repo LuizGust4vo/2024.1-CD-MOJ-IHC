@@ -75,9 +75,7 @@ Contudo, após a análise desses resultados obtidos do questionário e dos docum
 | Faixa Etária                     | Maioria entre 18 e 34 anos.                                           |
 | Qual é a sua ocupação atual? | Predominantemente estudantes.                 |
 |Nível de ensino| Majoritariamente alunos ou formandos de graduação. |
-| Principais objetivos ao utilizar o CD-MOJ? | Cumprir suas atividades
-acadêmicas, unicamente e preparar-se para competições de
-programação. |
+| Principais objetivos ao utilizar o CD-MOJ? | Cumprir suas atividades acadêmicas, unicamente e preparar-se para competições de programação. |
 | Frequência de utilização do CD-MOJ | Esporadicamente e Semanalmente. |
 | Qual recurso do CD-MOJ você mais utiliza?       | Nenhum e melhoria nas habilidades de programação |
 | Nível de satisfação do CD-MOJ?       | Bem variado, sendo o principal a opção do completamente satisfatório. |
