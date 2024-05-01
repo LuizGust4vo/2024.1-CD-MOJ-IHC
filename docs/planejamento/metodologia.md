@@ -1,6 +1,6 @@
 # Metodologia
 
-## Descrição 
+## <a>Introdução</a>
 
 A metodologia do projeto é a forma como o processo foi realizado, ou seja, as práticas e as estratégias utilizadas para o planejamento e a execução das etapas que as compõem. Sendo assim, para o desenvolvimento deste projeto, o grupo se baseou no método Scrum, devido à familiaridade da equipe com tal.
 

@@ -1,6 +1,6 @@
 # Cronograma
 
-## Descrição
+## <a>Introdução</a>
 
 O cronograma tem como objetivo estruturar todas as atividades a serem conduzidas durante o curso de Interação Humano-Computador. Dessa forma, as tarefas foram agrupadas de acordo com as etapas em que devem ser executadas. É importante ressaltar que os cronogramas serão revisados e atualizados conforme necessário durante o curso.
 
