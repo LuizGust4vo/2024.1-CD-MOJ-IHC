@@ -1,10 +1,12 @@
 # Site Escolhido
 
 ## Introdução
+
 No início do processo da disciplina, alguns integrantes do grupo apresentaram possíveis candidatos e seus respectivos argumentos para escolha. Posteriormente, foi feita uma revisão em que cada site passava por alguns critérios com o objetivo de se chegar a um consenso.
 [Aqui](sitesAvaliados.md) é possível verificar com mais detalhes as alternativas apresentadas pelos outros integrantes do grupo. 
 
 ## Critérios para escolha
+
 * Novidade para a disciplina, garantindo que não repetíssemos um trabalho anterior.
 * Facilidade de contato com o público-alvo.
 * Uma interface que se distancie dos padrões tradicionalmente estudados até então na disciplina. 
@@ -12,6 +14,7 @@ No início do processo da disciplina, alguns integrantes do grupo apresentaram p
 * Importância do site.
 
 ## Motivações de escolha
+
 Com base nos critérios definidos anteriormente, o site [CD-MOJ](https://moj.naquadah.com.br/cgi-bin/index.sh) (Contest-Driven Meta Online Judge) foi selecionado para o projeto, pelas seguintes razões principais:
 
 * Público-alvo amplo e de fácil acesso. Visto que o site é amplamente utilizado pelos alunos da Faculdade UnB Gama (FGA).
@@ -19,6 +22,7 @@ Com base nos critérios definidos anteriormente, o site [CD-MOJ](https://moj.naq
 * Um nível de complexidade adequado, que apresenta desafios além de simples páginas informativas, incluindo sistemas de submissão de códigos e avaliação automática.
 
 ## Preâmbulo
+
 A avaliação de IHC executada pelo grupo, guiada pelo framework DECIDE e pelas heurísticas de Nielsen, encontrou alguns entraves, como por exemplo:
 
 * Acessibilidade: O site não apresenta recursos de acessibilidade, dificultando ou mesmo impossibilitando o uso por pessoas com necessidades especiais.
@@ -32,7 +36,6 @@ A avaliação de IHC executada pelo grupo, guiada pelo framework DECIDE e pelas 
 ## Bibliografia
 
 > <a id="FRM1" href="#anchor_1">1.</a> CD-MOJ. Disponível em: [https://moj.naquadah.com.br/cgi-bin/index.sh](). Acesso em: 20 de mar. de 2024.
-
 
 ## <a>Histórico de Versão</a>
 

@@ -1,6 +1,6 @@
 # Metodologia
 
-## Descrição 
+## <a>Introdução</a>
 
 A metodologia do projeto é a forma como o processo foi realizado, ou seja, as práticas e as estratégias utilizadas para o planejamento e a execução das etapas que as compõem. Sendo assim, para o desenvolvimento deste projeto, o grupo se baseou no método Scrum, devido à familiaridade da equipe com tal.
 
@@ -48,11 +48,11 @@ Além disso, é importante ressaltar que um pull request não significa exatamen
 >ALVES, Isaque, ROCHA, Carla. Qualifying Software Engineers Undergraduates in DevOps - Challenges of introducing technical and non-technical conceptss in a project-oriented course. **Arxiv**. [S. l.], v.1, 2021. Disponível em: <<https://arxiv.org/abs/2102.06662>>. Acesso em: 16/04/2023.
 >INTERAÇÃO HUMANO-COMPUTADOR. Bilheteria Digital - Metodologia de Desenvolvimento. [S. l.], 2023.1. Disponível em: <https://interacao-humano-computador.github.io/2023.1-BilheteriaDigital/planejamento/metodologia/>. Acesso em: 06/04/2024.
 
+## <a>Histórico de Versão</a>
 
+| Versão| Data | Data Prevista de Revisão| Descrição  | Autor(es)  | Revisor(es) |
+| ------- | ------ | ------ | ------- | -------- | -------- |
+| `1.0` | 06/04/2024 | 07/04/2024  |Descrição da Metodologia | [Douglas Marinho](https://github.com/M4RINH0) | [João Artur](https://github.com/joao-artl)|
+|`1.1` | 07/04/2024 | 08/04/2024 |Arrumando o histórico de versão e Bibliografia | [Eric Silveira](https://github.com/ericbky) | [João Artur](https://github.com/joao-artl) |
+|`1.2` | 01/05/2024 | 02/05/2024 |Arrumando o histórico de versão| [João Artur](https://github.com/joao-artl) | [Douglas Marinho](https://github.com/M4RINH0) |
 
-## Histórico de Versões
-
-Versão  | Data | Descrição | Autor(es) | Revisor(es)
--------- | ------ | ------ | ---------- | ----------
- `1.0` | 06/04/2024 | Descrição da Metodologia | [Douglas Marinho](https://github.com/M4RINH0) | [João Artur](https://github.com/joao-artl)
- `1.0` | 07/04/2024 | Arrumando o histórico de versão e Bibliografia | [Eric Silveira](https://github.com/ericbky) | ----- |
