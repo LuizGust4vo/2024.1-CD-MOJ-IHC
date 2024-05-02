@@ -27,5 +27,5 @@ _Fonte: [Diego Sousa](https://github.com/DiegoSousaLeite), 2024_
 
 | Versão| Data | Data Prevista de Revisão| Descrição  | Autor(es)  | Revisor(es) |
 | ------- | ------ | ------ | ------- | -------- | -------- |
-| `1.0` | 16/04/2024 | 18/04/2024 | Criação da página aspectos éticos. | [Diego Sousa](https://github.com/DiegoSousaLeite) | [Arthur Alves](https://github.com/Arthrok) e [Eric Silveira](https://github.com/ericbky) |
+| `1.0` | 16/04/2024 | 18/04/2024 | Criação da página aspectos éticos. | [Diego Sousa](https://github.com/DiegoSousaLeite) | [Douglas Marinho](https://github.com/M4RINH0) e [Eric Silveira](https://github.com/ericbky) |
 | `1.2` | 02/05/2024 | 03/05/2024 | Adição Termo de Consentimento | [Diego Sousa](https://github.com/DiegoSousaLeite) | [Arthur Alves](https://github.com/Arthrok) e [Eric Silveira](https://github.com/ericbky) |
