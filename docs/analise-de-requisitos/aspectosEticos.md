@@ -10,7 +10,14 @@ Uma pesquisa ética deve priorizar o respeito pela dignidade e autonomia dos par
 - Justiça e Equidade: Relaciona-se com a importância social da pesquisa e busca garantir benefícios significativos para os participantes, ao mesmo tempo que minimiza o ônus para os mais vulneráveis. É essencial assegurar que os interesses de todos os envolvidos sejam considerados igualmente em todas as fases do estudo.
 
 ## Termo de Consentimento 
+<center>
+<figure markdown>
+<font size="3"><p style="text-align: center"><b>Figura 1</b> - Termo de Consentimento.</p></font>
+![Termo de Consentimento](./assets/termoConsentimento.png){width: 300}
+</figure>
 
+_Fonte: [Diego Sousa](https://github.com/DiegoSousaLeite), 2024_
+<center>
 
 ## Bibliografia
 
@@ -21,3 +28,4 @@ Uma pesquisa ética deve priorizar o respeito pela dignidade e autonomia dos par
 | Versão| Data | Data Prevista de Revisão| Descrição  | Autor(es)  | Revisor(es) |
 | ------- | ------ | ------ | ------- | -------- | -------- |
 | `1.0` | 16/04/2024 | 18/04/2024 | Criação da página aspectos éticos. | [Diego Sousa](https://github.com/DiegoSousaLeite) | [Arthur Alves](https://github.com/Arthrok) e [Eric Silveira](https://github.com/ericbky) |
+| `1.2` | 02/05/2024 | 03/05/2024 | Adição Termo de Consentimento | [Diego Sousa](https://github.com/DiegoSousaLeite) | [Arthur Alves](https://github.com/Arthrok) e [Eric Silveira](https://github.com/ericbky) |
