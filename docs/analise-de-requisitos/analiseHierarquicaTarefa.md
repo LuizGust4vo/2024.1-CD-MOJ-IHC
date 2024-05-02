@@ -17,9 +17,9 @@ A Análise Hierárquica de Tarefas (HTA) é uma técnica de análise que decomp�
 
 No que diz respeito às tarefas para análise com o método HTA, foram escolhidas a criação de problemas e contests, o login e a submissão de respostas, conforme explicitado nas figuras de 2 a 7 e nas tabelas de 1 a 6.
 
-### <a>Submissão de Problema</a>
+### <a>1. Submissão de Problema</a>
 
-Nesta tarefa, o usuário tem o objetivo de submeter uma solução para um problema de programação. A seguir, apresentamos o diagrama e a tabela HTA desta tarefa.
+Nesta tarefa, o usuário tem o objetivo de submeter uma solução para um problema de programação. Abaixo estão o diagrama e a tabela HTA desta tarefa.
 
 <center>
 
@@ -47,14 +47,14 @@ Nesta tarefa, o usuário tem o objetivo de submeter uma solução para um proble
 
 </center>
 
-### <a>Login em Contest</a>
+### <a>2. Tutorial de Resolução de Questões Pós-Contest</a>
 
-Para o acesso a competições ou "contests", o usuário deve realizar o login no sistema. Esta é uma etapa crucial para garantir que apenas participantes autorizados possam entrar e competir. Abaixo, está o diagrama e a tabela HTA para a tarefa de Login em Contest.
+Nesta tarefa, o usuário ou administrador fornece um passo a passo detalhado das soluções para os problemas apresentados após o fim de um contest. Esta atividade é essencial para o aprendizado e aprimoramento das habilidades de programação dos participantes. Abaixo estão o diagrama e a tabela HTA desta tarefa.
 
 <center>
 
 <figure markdown>
-<font size="3"><b>Figura 3</b> - Diagrama HTA de Login em Contest.</font>
+<font size="3"><b>Figura 3</b> - Diagrama HTA de Tutorial de Resolução de Questões Pós-Contestt.</font>
 
 ![Diagrama HTA 2](./assets/HTA_02.png){width: 300}
 
@@ -62,23 +62,23 @@ Para o acesso a competições ou "contests", o usuário deve realizar o login no
 
 </figure>
 
-<font size="3"><p style="text-align: center"><b>Tabela 2</b> - Tabela HTA de Login em Contest</p></font>
+<font size="3"><p style="text-align: center"><b>Tabela 2</b> - Tabela HTA de Tutorial de Resolução de Questões Pós-Contest</p></font>
 
 | Objetivos/Operações | Problemas e Recomendações |
 |---------------------|---------------------------|
-| **0. Acessar contest** | |
-| **1. Abrir a página de login** | **Input:** Usuário acessa a página de login.<br>**Feedback:** Página de login exibida. |
-| **2. Inserir credenciais** | **Input:** Usuário insere nome de usuário e senha.<br>**Feedback:** Visualização de caracteres de senha opcional. |
-| **3. Autenticar** | **Input:** Clique em 'Entrar'.<br>**Feedback:** Verificação de credenciais e redirecionamento para a página do contest. |
-| **4. Acessar página do contest** | **Feedback:** Exibição das informações do contest e participação habilitada. |
+| **0. Acessar soluções pós-contest** | |
+| **1. Selecionar o contest encerrado** | **Input:** Usuário acessa a lista de contests encerrados.<br>**Feedback:** Lista de contests com seus respectivos problemas e soluções disponíveis é exibida. |
+| **2. Escolher problema para revisar** | **Input:** Usuário escolhe um problema específico para aprender a solução.<br>**Feedback:** Detalhes do problema e soluções passo a passo são disponibilizados. |
+| **3. Estudar a solução** | **Feedback:** Usuário segue o tutorial que explica cada parte da solução, incluindo as técnicas utilizadas, lógica de programação e otimizações possíveis. |
+| **4. Acessar discussões e comentários** | **Input:** Usuário pode participar de fóruns ou seções de comentários para discutir a solução e tirar dúvidas.<br>**Feedback:** Comunicação com outros usuários para aprofundamento do entendimento. |
 
 <font size="3">Fonte: [João Artur](https://github.com/joao-artl).</font>
 
 </center>
 
-### <a>Verificação de Submissões</a>
+### <a>3. Verificação de Submissões</a>
 
-Nesta tarefa, o usuário ou o administrador verifica o resultado das submissões feitas durante um contest. Abaixo, está o diagrama e a tabela HTA desta tarefa:
+Nesta tarefa, o usuário ou o administrador verifica o resultado das submissões feitas durante um contest. Abaixo estão o diagrama e a tabela HTA desta tarefa.
 
 <center>
 
@@ -104,20 +104,20 @@ Nesta tarefa, o usuário ou o administrador verifica o resultado das submissões
 
 </center>
 
-### <a>Ranking de Contest</a>
+### <a>4. Ranking de Contest</a>
 
-Esta tarefa aborda como os resultados dos participantes são calculados e exibidos em forma de ranking durante ou após um contest.
+Esta tarefa aborda como os resultados dos participantes são calculados e exibidos em forma de ranking durante ou após um contest. Abaixo estão o diagrama e a tabela HTA desta tarefa.
 
 <center>
 
-<!--<figure markdown>
+<figure markdown>
 <font size="3"><b>Figura 5</b> - Diagrama HTA de Ranking de Contest.</font>
 
 ![Diagrama HTA 4](./assets/HTA_04.png){width: 300}
 
 <font size="3"><p style="text-align: center">Fonte: [João Artur](https://github.com/joao-artl).</p></font>
 
-</figure> -->
+</figure>
 
 <font size="3"><p style="text-align: center"><b>Tabela 4</b> - Tabela HTA de Ranking de Contest</p></font>
 
@@ -134,20 +134,20 @@ Esta tarefa aborda como os resultados dos participantes são calculados e exibid
 </center>
 
 
-### <a>Criação de Problema (Administrador)</a>
+### <a>5. Criação de Problema (Administrador)</a>
 
-Nesta tarefa, o administrador cria e configura novos problemas para os usuários resolverem. Incluímos o diagrama e a tabela HTA desta tarefa.
+Nesta tarefa, o administrador cria e configura novos problemas para os usuários resolverem. Abaixo estão o diagrama e a tabela HTA desta tarefa.
 
 <center>
 
-<!--<figure markdown>
+<figure markdown>
 <font size="3"><b>Figura 6</b> - Diagrama HTA de Criação de Problema.</font>
 
 ![Diagrama HTA 5](./assets/HTA_05.png){width: 300}
 
 <font size="3"><p style="text-align: center">Fonte: [João Artur](https://github.com/joao-artl).</p></font>
 
-</figure> -->
+</figure>
 
 <font size="3"><p style="text-align: center"><b>Tabela 5</b> - Tabela HTA de Criação de Problema</p></font>
 
@@ -163,18 +163,18 @@ Nesta tarefa, o administrador cria e configura novos problemas para os usuários
 
 </center>
 
-### <a>Criação de Contest (Administrador)</a>
+### <a>6. Criação de Contest (Administrador)</a>
 
 Nesta tarefa, o administrador organiza competições (contests) que agregam diversos problemas para serem resolvidos pelos participantes dentro de um tempo definido. Abaixo estão o diagrama e a tabela HTA desta tarefa.
 
 <center>
 
-<!--<figure markdown>
+<figure markdown>
 <font size="3"><b>Figura 7</b> - Diagrama HTA de Criação de Contest.</font>
 
 ![Diagrama HTA 6](./assets/HTA_06.png){width: 300}
 
-<font size="3"><p style="text-align: center">Fonte: [João Artur](https://github.com/joao-artl).</p></font> -->
+<font size="3"><p style="text-align: center">Fonte: [João Artur](https://github.com/joao-artl).</p></font>
 
 <font size="3"><p style="text-align: center"><b>Tabela 6</b> - Tabela HTA de Criação de Contest</p></font>
 
