@@ -10,6 +10,9 @@ Uma pesquisa ética deve priorizar o respeito pela dignidade e autonomia dos par
 - Justiça e Equidade: Relaciona-se com a importância social da pesquisa e busca garantir benefícios significativos para os participantes, ao mesmo tempo que minimiza o ônus para os mais vulneráveis. É essencial assegurar que os interesses de todos os envolvidos sejam considerados igualmente em todas as fases do estudo.
 
 ## Termo de Consentimento 
+
+Os Termos de Consentimento Livre e Esclarecido (TCLE) são fundamentais para esclarecer detalhadamente aos participantes de uma pesquisa sobre o que ela envolve, incluindo possíveis riscos e benefícios. Essa clareza permite que os indivíduos tomem uma decisão informada e voluntária sobre sua participação. O TCLE é essencial para garantir que os participantes estejam plenamente cientes e concordem com os termos antes de participar. Adicionalmente, em situações que envolvam gravações, incluindo o uso de voz e/ou imagem, a permissão explícita será obtida e documentada. Para pesquisas que envolvem seres humanos, é comum o uso de um modelo de TCLE, como o exemplificado na Figura 1, sempre que necessário.
+
 <center>
 <figure markdown>
 <font size="3"><p style="text-align: center"><b>Figura 1</b> - Termo de Consentimento.</p></font>
