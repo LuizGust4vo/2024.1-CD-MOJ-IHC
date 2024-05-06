@@ -27,7 +27,7 @@ Assim, isso nos ajudou a definir um perfil de foco na qual poderiam ser candidat
 
 O resultado do questionário reflete as respostas obtidas de grupos específicos de usuários do site do CD-MOJ. Estes grupos incluem professores e estudantes do nosso meio acadêmico, tendo em vista que o CD-MOJ é um sistema criado por um dos professores da Universidade de Brasília e está sendo utilizado principalmente para fins acadêmicos, como exercícios e avaliações.
 
-Abaixo, seguem os resultados do questionário:
+Abaixo, as figuras de 1 a 5 mostram os resultados do questionário:
 
 </br>
 Figura 01: Primeira parte dos resultados do relatório do Perfil de Usuário
@@ -51,14 +51,14 @@ Figura 03: Terceira parte dos resultados do relatório do Perfil de Usuário
 Fonte: [Eric Silveira](https://github.com/ericbky)
 
 </br>
-Figura 03: Terceira parte dos resultados do relatório do Perfil de Usuário
+Figura 04: Terceira parte dos resultados do relatório do Perfil de Usuário
 
 ![Relatori04][def4]
 
 Fonte: [Eric Silveira](https://github.com/ericbky)
 
 </br>
-Figura 03: Terceira parte dos resultados do relatório do Perfil de Usuário
+Figura 05: Terceira parte dos resultados do relatório do Perfil de Usuário
 
 ![Relatori05][def5]
 
@@ -66,9 +66,10 @@ Fonte: [Eric Silveira](https://github.com/ericbky)
 
 ### Conclusão
 
-Contudo, após a análise desses resultados obtidos do questionário e dos documentos disponibilizados como o relatório, concluímos que:
+Contudo, após a análise desses resultados obtidos do questionário e dos documentos disponibilizados como o relatório, conforme a tabela 1, concluímos que:
 
 ### Resultados do Questionário
+font size="3"><p style="text-align: center"><b>Tabela 1</b> - Análise da Pesquisa</p></font>
 
 | Aspecto                         | Resultado                                                          |
 |---------------------------------|-----------------------------------------------------------------------|
@@ -79,6 +80,8 @@ Contudo, após a análise desses resultados obtidos do questionário e dos docum
 | Frequência de utilização do CD-MOJ | Esporadicamente e Semanalmente. |
 | Qual recurso do CD-MOJ você mais utiliza?       | Nenhum e melhoria nas habilidades de programação |
 | Nível de satisfação do CD-MOJ?       | Bem variado, sendo o principal a opção do completamente satisfatório. |
+
+<font size="3"><p style="text-align: center"><b>Fonte:</b> Eric Silveira</p></font>
 
 
 Contudo:
