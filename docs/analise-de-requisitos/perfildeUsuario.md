@@ -32,35 +32,35 @@ Abaixo, as figuras de 1 a 5 mostram os resultados do questionário:
 </br>
 Figura 01: Primeira parte dos resultados do relatório do Perfil de Usuário
 
-![Relatori01][def]
+![Relatori01](https://github.com/Interacao-Humano-Computador/2024.1-CD-MOJ/blob/git-pages/assets/images/relatorio01.png?raw=true)
 
 Fonte: [Eric Silveira](https://github.com/ericbky)
 
 </br>
 Figura 02: Segunda parte dos resultados do relatório do Perfil de Usuário
 
-![Relatori02][def2]
+![Relatori02](https://github.com/Interacao-Humano-Computador/2024.1-CD-MOJ/blob/git-pages/assets/images/relatorio02.png?raw=true)
 
 Fonte: [Eric Silveira](https://github.com/ericbky)
 
 </br>
 Figura 03: Terceira parte dos resultados do relatório do Perfil de Usuário
 
-![Relatori03][def3]
+![Relatori03](https://github.com/Interacao-Humano-Computador/2024.1-CD-MOJ/blob/git-pages/assets/images/relatorio03.png?raw=true)
 
 Fonte: [Eric Silveira](https://github.com/ericbky)
 
 </br>
 Figura 04: Terceira parte dos resultados do relatório do Perfil de Usuário
 
-![Relatori04][def4]
+![Relatori04](https://github.com/Interacao-Humano-Computador/2024.1-CD-MOJ/blob/git-pages/assets/images/relatorio04.png?raw=true)
 
 Fonte: [Eric Silveira](https://github.com/ericbky)
 
 </br>
 Figura 05: Terceira parte dos resultados do relatório do Perfil de Usuário
 
-![Relatori05][def5]
+![Relatori05](https://github.com/Interacao-Humano-Computador/2024.1-CD-MOJ/blob/git-pages/assets/images/relatorio05.png?raw=true)
 
 Fonte: [Eric Silveira](https://github.com/ericbky)
 
