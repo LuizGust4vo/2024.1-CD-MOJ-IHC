@@ -1,6 +1,6 @@
-# Aspectos Éticos
+# <a>Aspectos Éticos</a>
 
-## Introdução
+## <a>Introdução</a>
 
 Uma pesquisa ética deve priorizar o respeito pela dignidade e autonomia dos participantes, reconhecendo sua vulnerabilidade e garantindo que sua participação seja voluntária e informada. No Brasil, a Resolução [resolução nº 466/2012](./reso466.pdf) do Conselho Nacional de Saúde<a id="anchor_1" href="#REF1">^1^</a> estabelece diretrizes éticas para pesquisas envolvendo seres humanos, baseadas nos seguintes princípios:
 
@@ -10,6 +10,9 @@ Uma pesquisa ética deve priorizar o respeito pela dignidade e autonomia dos par
 - Justiça e Equidade: Relaciona-se com a importância social da pesquisa e busca garantir benefícios significativos para os participantes, ao mesmo tempo que minimiza o ônus para os mais vulneráveis. É essencial assegurar que os interesses de todos os envolvidos sejam considerados igualmente em todas as fases do estudo.
 
 ## Termo de Consentimento 
+
+Os Termos de Consentimento Livre e Esclarecido (TCLE) são fundamentais para esclarecer detalhadamente aos participantes de uma pesquisa sobre o que ela envolve, incluindo possíveis riscos e benefícios. Essa clareza permite que os indivíduos tomem uma decisão informada e voluntária sobre sua participação. O TCLE é essencial para garantir que os participantes estejam plenamente cientes e concordem com os termos antes de participar. Adicionalmente, em situações que envolvam gravações, incluindo o uso de voz e/ou imagem, a permissão explícita será obtida e documentada. Para pesquisas que envolvem seres humanos, é comum o uso de um modelo de TCLE, como o exemplificado na Figura 1, sempre que necessário.
+
 <center>
 <figure markdown>
 <font size="3"><p style="text-align: center"><b>Figura 1</b> - Termo de Consentimento.</p></font>
@@ -19,7 +22,7 @@ Uma pesquisa ética deve priorizar o respeito pela dignidade e autonomia dos par
 _Fonte: [Diego Sousa](https://github.com/DiegoSousaLeite), 2024_
 <center>
 
-## Bibliografia
+## <a>Bibliografia</a>
 
 > <a id="REF1" href="#anchor_1">1.</a> BRASIL. Resolução nº 466, de 12 de dezembro de 2012, que trata de pesquisas em seres humanos e atualiza a resolução 196. Brasília, DF: Diário Oficial da União, 2013. Disponível em: <<https://conselho.saude.gov.br/resolucoes/2012/Reso466.pdf>>. Acesso em: 06/05/2023.
 
@@ -27,5 +30,5 @@ _Fonte: [Diego Sousa](https://github.com/DiegoSousaLeite), 2024_
 
 | Versão| Data | Data Prevista de Revisão| Descrição  | Autor(es)  | Revisor(es) |
 | ------- | ------ | ------ | ------- | -------- | -------- |
-| `1.0` | 16/04/2024 | 18/04/2024 | Criação da página aspectos éticos. | [Diego Sousa](https://github.com/DiegoSousaLeite) | [Douglas Marinho](https://github.com/M4RINH0) e [Eric Silveira](https://github.com/ericbky) |
+| `1.0` | 16/04/2024 | 18/04/2024 | Criação da página aspectos éticos. | [Diego Sousa](https://github.com/DiegoSousaLeite) | [Arthur Alves](https://github.com/Arthrok) e [Eric Silveira](https://github.com/ericbky) |
 | `1.2` | 02/05/2024 | 03/05/2024 | Adição Termo de Consentimento | [Diego Sousa](https://github.com/DiegoSousaLeite) | [Arthur Alves](https://github.com/Arthrok) e [Eric Silveira](https://github.com/ericbky) |
