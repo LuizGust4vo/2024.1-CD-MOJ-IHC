@@ -108,7 +108,7 @@ O entendimento do perfil dos usuários do CD-MOJ permite direcionar melhorias es
 ## Histórico de versão
 |Versão|Data|Data Prevista de Revisão|Descrição|Autor|Revisor|
 | :------: | :----------: |:-----------: | :----------------------: | :---------: |:---------: |
-| `1.0` | 01/05/2024 | 02/05/2024 |Criação da Documentação do Perfil dos Usuários | [Eric Silveira](https://github.com/ericbky) | [Arthur Alves](https://github.com/Arthrok) |
+| `1.0` | 01/05/2024 | 02/05/2024 |Criação da Documentação do Perfil dos Usuários | [Arthur Alves](https://github.com/Arthrok) e [Eric Silveira](https://github.com/ericbky) | Luiz Gustavo |
 | `1.1` | 03/05/2024 | 03/05/2024 |Finalização Documentação do Perfil dos Usuários | [Eric Silveira](https://github.com/ericbky) | [Arthur Alves](https://github.com/Arthrok)|
 
 [def]: https://github.com/Interacao-Humano-Computador/2024.1-CD-MOJ/blob/git-pages/assets/images/relatorio01.png

@@ -131,4 +131,4 @@ Esta abordagem assegura que o sistema atenda de forma eficaz às diversas necess
 ## Histórico de versão
 |Versão|Data|Data Prevista de Revisão|Descrição|Autor|Revisor|
 | :------: | :----------: |:-----------: | :----------------------: | :---------: |:---------: |
-| `1.0` | 04/05/2024 | 04/05/2024 |Criação da Documentação das Personas | [Arthur Alves](https://github.com/Arthrok) | [Eric Silveira](https://github.com/ericbky) |
+| `1.0` | 04/05/2024 | 04/05/2024 |Criação da Documentação das Personas | [Arthur Alves](https://github.com/Arthrok) e [Eric Silveira](https://github.com/ericbky) | Luiz Gustavo |
