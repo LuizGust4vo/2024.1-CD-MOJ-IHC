@@ -69,7 +69,7 @@ Fonte: [Eric Silveira](https://github.com/ericbky)
 Contudo, após a análise desses resultados obtidos do questionário e dos documentos disponibilizados como o relatório, conforme a tabela 1, concluímos que:
 
 ### Resultados do Questionário
-font size="3"><p style="text-align: center"><b>Tabela 1</b> - Análise da Pesquisa</p></font>
+<font size="3"><p style="text-align: center"><b>Tabela 1</b> - Análise da Pesquisa</p></font>
 
 | Aspecto                         | Resultado                                                          |
 |---------------------------------|-----------------------------------------------------------------------|
