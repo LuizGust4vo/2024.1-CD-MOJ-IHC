@@ -43,7 +43,9 @@ nav:
     - Site Escolhido: planejamento/siteEscolhido.md
   - Analise de Requisitos:
     - Aspectos Éticos: analise-de-requisitos/aspectosEticos.md
-    - Análise Hierárquica de Tarefas: analise-de-requisitos/analise-de-tarefas/analiseHierarquicaTarefa.md
+    - Análise de Tarefas:
+      - Análise Hierárquica de Tarefas: analise-de-requisitos/analise-de-tarefas/analiseHierarquicaTarefa.md
+      - GOMS: analise-de-requisitos/analise-de-tarefas/analiseHierarquicaTarefa.md
     - Perfil de Usuário: analise-de-requisitos/perfildeUsuario.md
     - Personas: analise-de-requisitos/personas.md
 
