@@ -50,7 +50,7 @@ Esta abordagem assegura que o sistema atenda de forma eficaz às diversas necess
     <font size="3"><p style="text-align: center"><b>Fonte:</b> Arthur Alves</p></font>
 
 === "Pedro Martins"
-    Pedro Martins é um estudante de Ciência da Computação que usa o CD-MOJ para aprimorar suas habilidades de programação e se preparar para competições acadêmicas. Pedro espera uma plataforma de fácil acesso com desafios variados e feedback instantâneo, representando alunos que buscam excelência e eficácia no aprendizado. Confira na tabela 2:
+    Pedro Martins é um estudante de Engenharia de Software que usa o CD-MOJ para aprimorar suas habilidades de programação e se preparar para competições acadêmicas. Pedro espera uma plataforma de fácil acesso com desafios variados e feedback instantâneo, representando alunos que buscam excelência e eficácia no aprendizado. Confira na tabela 2:
 
     <font size="3"><p style="text-align: center"><b>Tabela 2</b> - Persona Primária Pedro Martins</p></font>
 
@@ -61,7 +61,7 @@ Esta abordagem assegura que o sistema atenda de forma eficaz às diversas necess
     | Gênero              | Masculino          |
     | Idade               | 20                |
     | Profissão           | Estudante de graduação |
-    | Escolaridade        | 	Bacharelado em Ciência da Computação |
+    | Escolaridade        | Bacharelado em Engenharia de Software |
     | Habilidades         | Lógica de programação, trabalho em equipe, rápida aprendizagem |
     | Relacionamento      | Colegas de curso, professores |
     | Objetivo            | Usar o CD-MOJ para melhorar habilidades de programação |
@@ -72,7 +72,7 @@ Esta abordagem assegura que o sistema atenda de forma eficaz às diversas necess
     <font size="3"><p style="text-align: center"><b>Fonte:</b> Arthur Alves</p></font>
 
 === "Ana Torres"
-    Ana Torres, estudante de Sistemas de Informação, utiliza o CD-MOJ para desenvolver suas habilidades de resolução de problemas. Ela aprecia uma interface amigável e problemas realistas, representando alunos focados em aplicar conhecimentos teóricos em cenários práticos do mercado de trabalho. Confira na tabela 3:
+    Ana Torres, estudante de Ciências da Computação, utiliza o CD-MOJ para desenvolver suas habilidades de resolução de problemas. Ela aprecia uma interface amigável e problemas realistas, representando alunos focados em aplicar conhecimentos teóricos em cenários práticos do mercado de trabalho. Confira na tabela 3:
 
     <font size="3"><p style="text-align: center"><b>Tabela 3</b> - Persona Secundária Ana Torres</p></font>
 
@@ -83,7 +83,7 @@ Esta abordagem assegura que o sistema atenda de forma eficaz às diversas necess
     | Gênero | Feminino |
     | Idade | 22 |
     | Profissão | Estudante de graduação |
-    | Escolaridade | Bacharelado em Engenharia de Software |
+    | Escolaridade | Bacharelado em Ciências da Computação |
     | Habilidades | Programação em Python, análise de dados, criatividade |
     | Relacionamento | Colegas de curso, mentores |
     | Objetivo | Aprimorar habilidades de resolução de problemas em preparação para o mercado de trabalho |
@@ -131,4 +131,4 @@ Esta abordagem assegura que o sistema atenda de forma eficaz às diversas necess
 ## Histórico de versão
 |Versão|Data|Data Prevista de Revisão|Descrição|Autor|Revisor|
 | :------: | :----------: |:-----------: | :----------------------: | :---------: |:---------: |
-| `1.0` | 04/05/2024 | 04/05/2024 |Criação da Documentação das Personas | [Arthur Alves](https://github.com/Arthrok) e [Eric Silveira](https://github.com/ericbky) | João Artur, Luiz Gustavo |
+| `1.0` | 04/05/2024 | 04/05/2024 |Criação da Documentação das Personas | [Arthur Alves](https://github.com/Arthrok) | [Eric Silveira](https://github.com/ericbky) |
