@@ -8,7 +8,7 @@ Ao construir cenários, é essencial detalhar os elementos que caracterizam uma 
 
 ### Submissão de Problema
 
-<a href="https://interacao-humano-computador.github.io/2024.1-CD-MOJ/analise-de-requisitos/personas/#__tabbed_1_2">Pedro Martins</a>, um estudante de graduação em Engenharia de Software, está dedicado a melhorar suas habilidades de programação através do site CD-MOJ. Em uma tarde tranquila, ele decide tentar resolver um problema de programação que envolve complexidade algorítmica. Após escolher um problema de sua lista de favoritos, ele se dedica a escrever uma solução em C++. Com sua solução pronta, João a testa em seu computador local antes de submetê-la no CD-MOJ. Ele acessa a plataforma, faz login e segue para a seção de submissão de problemas, onde carrega seu arquivo de código e aguarda o resultado da avaliação automática. Momentos depois, ele recebe o feedback: sua solução é correta, mas poderia ser otimizada para rodar mais rápido. João anota as sugestões para refinar seu código.
+<a href="https://interacao-humano-computador.github.io/2024.1-CD-MOJ/analise-de-requisitos/personas/#__tabbed_1_2">Pedro Martins</a>, um estudante de graduação em Engenharia de Software, está dedicado a melhorar suas habilidades de programação através do site CD-MOJ. Em uma tarde tranquila, ele decide tentar resolver um problema de programação que envolve complexidade algorítmica. Após escolher um problema de sua lista de favoritos, ele se dedica a escrever uma solução em C++. Com sua solução pronta, Pedro a testa em seu computador local antes de submetê-la no CD-MOJ. Ele acessa a plataforma, faz login e segue para a seção de submissão de problemas, onde carrega seu arquivo de código e aguarda o resultado da avaliação automática. Momentos depois, ele recebe o feedback: sua solução é correta, mas poderia ser otimizada para rodar mais rápido. João anota as sugestões para refinar seu código.
 
 ### Tutorial de Resolução de Questões Pós-Contest
 
@@ -38,7 +38,9 @@ Ao construir cenários, é essencial detalhar os elementos que caracterizam uma 
 
 > <a id="REF3" href="#anchor_3">3.</a> BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011.
 
+## <a>Histórico de Versão</a>
 
 | Versão| Data | Data Prevista de Revisão| Descrição  | Autor(es)  | Revisor(es) |
 | ------- | ------ | ------ | ------- | -------- | -------- |
-| `1.0` | 03/04/2024 | 04/04/2024 | Criação dos cenários. | [Diego Sousa](https://github.com/DiegoSousaLeite) | [Arthur Alves](https://github.com/Arthrok)  |
+| `1.0` | 03/05/2024 | 04/05/2024 | Criação dos cenários. | [Diego Sousa](https://github.com/DiegoSousaLeite) | [Arthur Alves](https://github.com/Arthrok)  |
+| `1.1` | 07/05/2024 | 07/05/2024 | Correção nos textos. | [Diego Sousa](https://github.com/DiegoSousaLeite) | [João Artur](https://github.com/joao-artl)  |
