@@ -8,7 +8,7 @@ A seguir segue o ciclo de vida para engenharia de usabilidade de Mayhew:
 
 Figura 1: Ciclo de vida para a engenharia de usabilidade (adaptado de Mayhew, 1999)
 
-![Ciclo de Vida para engenharia de usabilidade](https://github.com/Interacao-Humano-Computador/2024.1-CD-MOJ/blob/git-pages/assets/images/cicloEngenhariadeUsabilidade.png?raw=True)
+![Ciclo de Vida para engenharia de usabilidade](https://github.com/Interacao-Humano-Computador/2024.1-CD-MOJ/blob/git-pages/assets/images/engenhariadeUsabilidade.png?raw=True)
 
 <font size="3"><p style="text-align: center"><b>Fonte:</b>
 BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011.
