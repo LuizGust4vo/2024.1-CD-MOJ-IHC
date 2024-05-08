@@ -50,7 +50,7 @@ Na Tabela 3, tem-se o cronograma planejado para todas as atividades da segunda e
 
 <font size="3"><p style="text-align: center"><b>Tabela 3</b> - Perfil dos Usuários</p></font>
 === "Cronograma Planejado"
-    Na Tabela 1, tem-se o cronograma planejado para todas as atividades da segunda entrega.
+    Na Tabela 3, tem-se o cronograma planejado para todas as atividades da segunda entrega.
 
     | Atividade | Período de desenvolvimento | Responsável | Revisão | Revisores | Data da Entrega |
     | --------- | -----------| ------------ | ------- | ------- | ------- |
@@ -62,7 +62,7 @@ Na Tabela 3, tem-se o cronograma planejado para todas as atividades da segunda e
     |Correção pós apresentação|Início dia 07/05 e Fim dia 08/05|Arthur Alves, Diego Sousa, Douglas Marinho, Eric Silveira, João Artur, Luiz Gustavo|Início dia 07/05 e Fim dia 08/05|Arthur Alves, Diego Sousa, Douglas Marinho, Eric Silveira, João Artur, Luiz Gustavo|Não há entrega|
 
 === "Cronograma Executado"
-    Na Tabela 2, está explicitado o cronograma executado das atividades da segunda entrega.
+    Na Tabela 4, está explicitado o cronograma executado das atividades da segunda entrega.
 
 
     | Atividade | Período de desenvolvimento executado | Responsável | Revisão executada | Revisores | Data da Entrega Executada |
