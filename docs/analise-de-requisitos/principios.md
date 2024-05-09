@@ -9,17 +9,27 @@ Para cada tópico analisado, identificamos a principal contrariedade no site que
 ## Correspondência com as Expectativas dos Usuários
 
 ### Definição
-
+Neste tópico, o foco é a fluidez e naturalidade com que o usuário interage com o sistema projetado. É essencial analisar as variáveis psicológicas e físicas que influenciam a interação dentro do ambiente do sistema. Assim, é importante garantir que o usuário possa claramente entender as seguintes relações: entre suas intenções e as ações possíveis; entre as ações executadas e seus respectivos efeitos no sistema; entre o estado real do sistema e o que é percebido pelos sentidos do usuário, como visão, audição ou tato; e entre o estado percebido do sistema e as necessidades, intenções e expectativas do usuário<a id="anchor_1" href="#REF1">^1^</a>.
 
 
 ### Violação
+Na Figura 1, observa-se uma violação do princípio de Correspondência com a Expectativa do Usuário, pois no canto superior da tela, o texto "acmICPC" parece ser clicável e gera a expectativa de direcionar para um link útil. No entanto, ao clicar, o usuário é redirecionado para uma página que exibe o erro 403, conforme ilustrado na Figura 2.
 
+<p style="text-align: center">Figura 1 - Violação Correspondência</p>
+<figure markdown>![correspondencia](../assets/cdmoj.png){:style="height:550px;width:750px;border-radius:5px"}<figcaption>Fonte: [CD-MOJ](https://moj.naquadah.com.br/cgi-bin/index.sh).</figcaption></figure>
 
+<p style="text-align: center">Figura 2 - Violação Correspondência</p>
+<figure markdown>![correspondencia](../assets/error.png){:style="height:550px;width:750px;border-radius:5px"}<figcaption>Fonte: [CD-MOJ](https://moj.naquadah.com.br/cgi-bin/index.sh).</figcaption></figure>
 
 ## Simplicidade nas Estruturas das Tarefas
 
 ### Definição
+A simplificação do planejamento e resolução de problemas é crucial para diminuir a complexidade das tarefas, que podem ser desnecessariamente complicadas. Para isso, a simplificação pode ser abordada de quatro maneiras distintas<a id="anchor_1" href="#REF1">^1^</a>:
 
+- Preservar a essência da tarefa enquanto se adicionam ferramentas que auxiliam na sua execução;
+- Tornar visíveis elementos anteriormente obscuros para o usuário, melhorando assim seu controle sobre a tarefa e o feedback que ele recebe;
+- Automatizar a tarefa total ou parcialmente;
+- Modificar a natureza da tarefa para torná-la mais acessível.
 
 
 ### Violação
@@ -29,7 +39,7 @@ Para cada tópico analisado, identificamos a principal contrariedade no site que
 ## Equilíbrio entre Controle e Liberdade do Usuário
 
 ### Definição
-
+Baseando-se na noção de que o usuário é o proprietário do computador, da interface e do ambiente de trabalho, um sistema responsivo que faz com que o usuário sinta-se no controle pode facilitar uma aprendizagem rápida e proporcionar uma sensação de domínio. No entanto, é crucial encontrar um equilíbrio, pois enquanto as restrições são necessárias para orientar o usuário e prevenir o excesso de informações — que pode levar a confusão —, o sistema deve sutilmente conduzir o usuário a perceber que existe uma opção predominante<a id="anchor_2" href="#REF2">^2^</a>.
 
 
 ### Violação
@@ -38,7 +48,7 @@ Para cada tópico analisado, identificamos a principal contrariedade no site que
 ## Consistência e Padronização
 
 ### Definição
-
+Para promover o aprendizado e a usabilidade de um sistema, é aconselhável manter um padrão consistente dentro do modelo conceitual e da interface<a id="anchor_1" href="#REF1">^1^</a>. Contudo, em situações onde a consistência é inviável devido à natureza do sistema, torna-se necessário estabelecer mapeamentos arbitrários para padronizar as interações<a id="anchor_2" href="#REF2">^2^</a>.
 
 ### Violação
 
@@ -116,3 +126,4 @@ JAO VOCE COMEÇA AQUI
 | Versão| Data | Data Prevista de Revisão| Descrição  | Autor(es)  | Revisor(es) |
 | ------- | ------ | ------ | ------- | -------- | -------- |
 | `1.0` | 07/05/2024 | 07/05/2024 | Criação da página aspectos éticos. | [Diego Sousa](https://github.com/DiegoSousaLeite)| [João Artur](https://github.com/joao-artl)  |
+| `1.1` | 08/05/2024 | 10/05/2024 | Implementação de principios. | [Diego Sousa](https://github.com/DiegoSousaLeite)| [Arthur Alves](https://github.com/Arthrok) e [Eric Silveira](https://github.com/ericbky)  |

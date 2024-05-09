@@ -49,15 +49,32 @@ O cronograma tem como objetivo estruturar todas as atividades a serem conduzidas
 Na Tabela 3, tem-se o cronograma planejado para todas as atividades da segunda entrega.
 
 <font size="3"><p style="text-align: center"><b>Tabela 3</b> - Perfil dos Usuários</p></font>
+=== "Cronograma Planejado"
+    Na Tabela 3, tem-se o cronograma planejado para todas as atividades da segunda entrega.
 
-| Atividade | Período de desenvolvimento | Responsável | Revisão | Revisores | Data da Entrega |
-| --------- | -----------| ------------ | ------- | ------- | ------- |
-|Perfil dos usuários|Início dia 11/04 e Fim dia 16/04|Arthur Alves e Eric Silveira|Início dia 16/04 e Fim dia 18/04|João Artur e Luiz Gustavo|22/04|
-|Aspectos Éticos de Pesquisas Envolvendo Pessoas|Início dia 11/04 e Fim dia 16/04|Diego Sousa e Douglas Marinho|Início dia 29/04 e Fim dia 18/04|Luiz Gustavo|02/04|
-|Análise de Tarefas|Início dia 11/04 e Fim dia 16/04|Luiz Gustavo e João Artur|Início dia 16/04 e Fim dia 30/04|Diego Sousa|03/05|
-|Iteração do Git Pages|Início dia 30/04 e Fim dia 01/05|Arthur Alves, Diego Sousa, Douglas Marinho, Eric Silveira, João Artur, Luiz Gustavo|Início dia 30/04 e Fim dia 03/05| Arthur Alves, Diego Sousa, Douglas Marinho, Eric Silveira, João Artur, Luiz Gustavo|03/05|
-|Período de gravação da apresentação|Início dia 03/05 e Fim dia 05/05|Douglas Marinho|Início dia 05/05 e Fim dia 06/05|Eric Silveira|06/05|
-|Correção pós apresentação|Início dia 07/05 e Fim dia 08/05|Arthur Alves, Diego Sousa, Douglas Marinho, Eric Silveira, João Artur, Luiz Gustavo|Início dia 07/05 e Fim dia 08/05|Arthur Alves, Diego Sousa, Douglas Marinho, Eric Silveira, João Artur, Luiz Gustavo|Não há entrega|
+    | Atividade | Período de desenvolvimento | Responsável | Revisão | Revisores | Data da Entrega |
+    | --------- | -----------| ------------ | ------- | ------- | ------- |
+    |Perfil dos usuários|Início dia 11/04 e Fim dia 16/04|Arthur Alves e Eric Silveira|Início dia 16/04 e Fim dia 18/04|João Artur e Luiz Gustavo|06/05|
+    |Aspectos Éticos de Pesquisas Envolvendo Pessoas|Início dia 11/04 e Fim dia 16/04|Diego Sousa e Douglas Marinho|Início dia 29/04 e Fim dia 18/04|Luiz Gustavo|06/05|
+    |Análise de Tarefas|Início dia 11/04 e Fim dia 16/04|Luiz Gustavo e João Artur|Início dia 16/04 e Fim dia 30/04|Diego Sousa|06/05|
+    |Iteração do Git Pages|Início dia 30/04 e Fim dia 01/05|Arthur Alves, Diego Sousa, Douglas Marinho, Eric Silveira, João Artur, Luiz Gustavo|Início dia 30/04 e Fim dia 03/05| Arthur Alves, Diego Sousa, Douglas Marinho, Eric Silveira, João Artur, Luiz Gustavo|06/05|
+    |Período de gravação da apresentação|Início dia 03/05 e Fim dia 05/05|Douglas Marinho|Início dia 05/05 e Fim dia 06/05|Eric Silveira|06/05|
+    |Correção pós apresentação|Início dia 07/05 e Fim dia 08/05|Arthur Alves, Diego Sousa, Douglas Marinho, Eric Silveira, João Artur, Luiz Gustavo|Início dia 07/05 e Fim dia 08/05|Arthur Alves, Diego Sousa, Douglas Marinho, Eric Silveira, João Artur, Luiz Gustavo|Não há entrega|
+
+=== "Cronograma Executado"
+    Na Tabela 4, está explicitado o cronograma executado das atividades da segunda entrega.
+
+
+    | Atividade | Período de desenvolvimento executado | Responsável | Revisão executada | Revisores | Data da Entrega Executada |
+    | --------- | ------------------------------------ | ------------ | ----------------- | --------- | ------------------------- |
+    | Perfil dos usuários | Início 11/04 e Fim 15/04 | Arthur Alves e Eric Silveira | Início 16/04 e Fim 17/04 | João Artur e Luiz Gustavo | 06/05 |
+    | Aspectos Éticos de Pesquisas Envolvendo Pessoas | Início 12/04 e Fim 14/04 | Diego Sousa e Douglas Marinho | Início 15/04 e Fim 17/04 | Luiz Gustavo | 06/05 |
+    | Análise de Tarefas | Início 11/04 e Fim 15/04 | Luiz Gustavo e João Artur | Início 16/04 e Fim 28/04 | Diego Sousa | 06/05 |
+    | Iteração do Git Pages | Início 30/04 e Fim 02/05 | Arthur Alves, Diego Sousa, Douglas Marinho, Eric Silveira, João Artur, Luiz Gustavo | Início 02/05 e Fim 03/05 | Arthur Alves, Diego Sousa, Douglas Marinho, Eric Silveira, João Artur, Luiz Gustavo | 06/05 |
+    | Período de gravação da apresentação | Início 04/05 e Fim 05/05 | Douglas Marinho | Início 05/05 e Fim 06/05 | Eric Silveira | 06/05 |
+    | Correção pós apresentação | Início 07/05 e Fim 08/05 | Arthur Alves, Diego Sousa, Douglas Marinho, Eric Silveira, João Artur, Luiz Gustavo | Início 08/05 e Fim 09/05 | Arthur Alves, Diego Sousa, Douglas Marinho, Eric Silveira, João Artur, Luiz Gustavo | Não há entrega |
+
+
 
 <font size="3"><p style="text-align: center">Fonte: Autores.</p></font>
 
@@ -290,3 +307,4 @@ Na Tabela 18, está explicitado o cronograma executado das atividades da oitava 
 | `1.1` | 30/03/2024 | 30/03/2024 | Adicionando Cronograma Executado | [João Artur](https://github.com/joao-artl) |[Arthur Alves](https://github.com/Arthrok)|
 | `1.2` | 01/05/2024 | 02/05/2024 | Adicionando fonte nas tabelas| [João Artur](https://github.com/joao-artl) |[Arthur Alves](https://github.com/Arthrok)|
 | `1.3` | 01/05/2024 | 02/05/2024 | Atualização de datas do cronograma planejado| [Douglas Marinho](https://github.com/M4RINH0) |[Arthur Alves](https://github.com/Arthrok)|
+| `1.4` | 01/05/2024 | 02/05/2024 | Cronograma executado da segunda entrega| [Eric Silveira](https://github.com/ericbky) |[João Artur](https://github.com/joao-artl)|
