@@ -34,7 +34,10 @@ A simplificação do planejamento e resolução de problemas é crucial para dim
 
 ### Violação
 
+A violação do princípio da Simplicidade nas Estruturas das Tarefas fica clara na Figura 3, onde, ao analisar a resposta de um problema, o usuário não consegue determinar quais entradas estão provocando o erro de "time limit exceeded" ou compreender as causas de outros tipos de falhas.
 
+<p style="text-align: center">Figura 3 - Violação Simplicidade</p>
+<figure markdown>![correspondencia](../assets/respostaCdmoj.png){:style="height:550px;width:750px;border-radius:5px"}<figcaption>Fonte: [CD-MOJ](https://moj.naquadah.com.br/cgi-bin/index.sh).</figcaption></figure>
 
 ## Equilíbrio entre Controle e Liberdade do Usuário
 
@@ -43,7 +46,10 @@ Baseando-se na noção de que o usuário é o proprietário do computador, da in
 
 
 ### Violação
+Neste tópico, a principal questão é a limitação na liberdade do usuário. O site limita a capacidade dos usuários de alterarem seus logins e senhas, sendo possível apenas através de intervenção do professor. Mesmo nesses casos, cada aluno recebe credenciais fixas e exclusivas para cada matéria. Isso força o usuário a memorizar várias combinações de login e senha, em vez de permitir o uso de um único conjunto de credenciais mestre para todas as suas disciplinas, conforme demonstrado na figura 4.
 
+<p style="text-align: center">Figura 4 - Violação Liberdade</p>
+<figure markdown>![correspondencia](../assets/login.png){:style="height:550px;width:750px;border-radius:5px"}<figcaption>Fonte: [CD-MOJ](https://moj.naquadah.com.br/cgi-bin/index.sh).</figcaption></figure>
 
 ## Consistência e Padronização
 
@@ -51,7 +57,10 @@ Baseando-se na noção de que o usuário é o proprietário do computador, da in
 Para promover o aprendizado e a usabilidade de um sistema, é aconselhável manter um padrão consistente dentro do modelo conceitual e da interface<a id="anchor_1" href="#REF1">^1^</a>. Contudo, em situações onde a consistência é inviável devido à natureza do sistema, torna-se necessário estabelecer mapeamentos arbitrários para padronizar as interações<a id="anchor_2" href="#REF2">^2^</a>.
 
 ### Violação
+Uma violação da padronização ocorre quando, ao exibir as respostas, o sistema usualmente mostra a porcentagem de acertos do usuário, mas ocasionalmente falha em apresentar essas informações, demonstrando inconsistência na forma como os resultados são fornecidos ao usuário. Essa falta de padronização na resposta pode confundir e frustrar os usuários, conforme ilustrado na figura 5.
 
+<p style="text-align: center">Figura 5 - Violação Padronização</p>
+<figure markdown>![correspondencia](../assets/padronizacao.png){:style="height:550px;width:750px;border-radius:5px"}<figcaption>Fonte: [CD-MOJ](https://moj.naquadah.com.br/cgi-bin/index.sh).</figcaption></figure>
 
 ## Promoção da Eficiência do Usuário
 JAO VOCE COMEÇA AQUI
