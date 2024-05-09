@@ -21,6 +21,8 @@ Na reunião, todos os integrantes do grupo participaram, sendo então os present
 ## 3. Pontos de Discussão Importantes
 Nesta breve reunião de alinhamento, discutimos as possíveis melhorias no projeto e definimos as atividades para cada membro do grupo, referentes a entrega da Etapa 3 - Princípios gerais do projeto, para segunda-feira (13/05). 
 
+Com base no feedback dos monitores, e na apresentação de outro grupos, decidimos melhorar a padronização de alguns documentos e do nosso GitPages. 
+
 ## 4. Divisão das atividades
 Segue na tabela abaixo a divisão das atividades entre os integrantes do grupo, com base na disponibilidade e no cronograma da disciplina.
 
