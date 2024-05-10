@@ -69,7 +69,7 @@ Este princípio enfatiza a importância de um sistema ser eficiente o suficiente
 No exemplo do site analisado, uma violação desse princípio pode ser observada na interface de submissão de tarefas, onde múltiplas etapas redundantes são necessárias para concluir uma simples submissão. Isso resulta em um processo lento e frustrante, especialmente para usuários que realizam essas tarefas frequentemente.
 
 <p style="text-align: center">Figura 6 - Promoção da Eficiência do Usuário</p>
-<figure markdown>![correspondencia](../assets/promocaoEficiencia.png){:style="height:550px;width:750px;border-radius:5px"}<figcaption>Fonte: [CD-MOJ](https://moj.naquadah.com.br/cgi-bin/index.sh).</figcaption></figure>
+<figure markdown>![correspondencia](../assets/promocaoEficiencia.png){width: 300}<figcaption>Fonte: [CD-MOJ](https://moj.naquadah.com.br/cgi-bin/index.sh).</figcaption></figure>
 
 ## Antecipação
 
@@ -80,7 +80,7 @@ A antecipação envolve projetar sistemas que preveem as necessidades do usuári
 Uma violação do princípio de antecipação ocorre quando o sistema falha em oferecer informações claras e úteis sobre erros ou problemas que o usuário encontra. Isso pode incluir mensagens de erro genéricas ou incompletas que não orientam o usuário sobre como corrigir um problema específico ou quando o sistema não prevê erros comuns que poderiam ser automaticamente detectados e corrigidos.
 
 <p style="text-align: center">Figura 7 - Violação Antecipação</p>
-<figure markdown>![correspondencia](../assets/antecipacao.png){:style="height:550px;width:750px;border-radius:5px"}<figcaption>Fonte: [CD-MOJ](https://moj.naquadah.com.br/cgi-bin/index.sh).</figcaption></figure>
+<figure markdown>![correspondencia](../assets/antecipacao.png){width: 300}<figcaption>Fonte: [CD-MOJ](https://moj.naquadah.com.br/cgi-bin/index.sh).</figcaption></figure>
 
 ## Visibilidade e Reconhecimento
 
@@ -92,7 +92,7 @@ Este princípio trata da capacidade dos usuários de reconhecer facilmente o que
 Na página de estatísticas, uma violação significativa do princípio de Visibilidade e Reconhecimento ocorre devido à ocultação de botões importantes. Esses botões, que permitem aos usuários baixar documentos das questões em PDF, mas estão inesperadamente escondidos em um menu pouco intuitivo. Esta escolha de design faz com que muitos usuários não percebam a disponibilidade desses documentos, já que os botões não estão visíveis de imediato.
 
 <p style="text-align: center">Figura 8 - Violação Visibilidade e Reconhecimento</p>
-<figure markdown>![correspondencia](../assets/visibilidadeReconhecimento.png){:style="height:550px;width:750px;border-radius:5px"}<figcaption>Fonte: [CD-MOJ](https://moj.naquadah.com.br/cgi-bin/index.sh).</figcaption></figure>
+<figure markdown>![correspondencia](../assets/visibilidadeReconhecimento.png){width: 300}<figcaption>Fonte: [CD-MOJ](https://moj.naquadah.com.br/cgi-bin/index.sh).</figcaption></figure>
 
 ## Conteúdo Relevante e Expressão Adequada
 
@@ -111,10 +111,10 @@ Uma clara violação deste princípio acontece quando o sistema apresenta inform
 Este princípio aborda a necessidade de sistemas serem projetados considerando a possibilidade de erros por parte do usuário, oferecendo mecanismos robustos de recuperação e mensagens de erro claras que guiam o usuário para a resolução do problema.
 
 ### Violação
-Um exemplo de violação deste princípio envolve várias páginas que contêm links que supostamente direcionariam o usuário a recursos adicionais ou páginas relacionadas. No entanto, ao clicar nesses links, o usuário se depara com a mensagem de erro "404 Página Não Encontrada". Esse tipo de erro não só interrompe a navegação do usuário, mas também diminui a confiança na qualidade e confiabilidade do site.
+Um exemplo de violação deste princípio envolve várias páginas que contêm links que supostamente direcionariam o usuário a recursos adicionais ou páginas relacionadas. No entanto, ao clicar nesses links, o usuário se depara com a mensagem de erro "Página Não Encontrada". Esse tipo de erro não só interrompe a navegação do usuário, mas também diminui a confiança na qualidade e confiabilidade do site.
 
 <p style="text-align: center">Figura 10 - Violação Projeto para Erros</p>
-<figure markdown>![correspondencia](../assets/projetoErro.png){:style="height:550px;width:750px;border-radius:5px"}<figcaption>Fonte: [CD-MOJ](https://moj.naquadah.com.br/cgi-bin/index.sh).</figcaption></figure>
+<figure markdown>![correspondencia](../assets/projetoErro.png){width: 300}<figcaption>Fonte: [CD-MOJ](https://moj.naquadah.com.br/cgi-bin/index.sh).</figcaption></figure>
 
 ## Bibliografia
 
