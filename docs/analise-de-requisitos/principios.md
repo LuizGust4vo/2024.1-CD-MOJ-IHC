@@ -11,7 +11,6 @@ Para cada tópico analisado, identificamos a principal contrariedade no site que
 ### Definição
 Neste tópico, o foco é a fluidez e naturalidade com que o usuário interage com o sistema projetado. É essencial analisar as variáveis psicológicas e físicas que influenciam a interação dentro do ambiente do sistema. Assim, é importante garantir que o usuário possa claramente entender as seguintes relações: entre suas intenções e as ações possíveis; entre as ações executadas e seus respectivos efeitos no sistema; entre o estado real do sistema e o que é percebido pelos sentidos do usuário, como visão, audição ou tato; e entre o estado percebido do sistema e as necessidades, intenções e expectativas do usuário<a id="anchor_1" href="#REF1">^1^</a>.
 
-
 ### Violação
 Na Figura 1, observa-se uma violação do princípio de Correspondência com a Expectativa do Usuário, pois no canto superior da tela, o texto "acmICPC" parece ser clicável e gera a expectativa de direcionar para um link útil. No entanto, ao clicar, o usuário é redirecionado para uma página que exibe o erro 403, conforme ilustrado na Figura 2.
 
@@ -30,7 +29,6 @@ A simplificação do planejamento e resolução de problemas é crucial para dim
 - Tornar visíveis elementos anteriormente obscuros para o usuário, melhorando assim seu controle sobre a tarefa e o feedback que ele recebe;
 - Automatizar a tarefa total ou parcialmente;
 - Modificar a natureza da tarefa para torná-la mais acessível.
-
 
 ### Violação
 
@@ -63,58 +61,60 @@ Uma violação da padronização ocorre quando, ao exibir as respostas, o sistem
 <figure markdown>![correspondencia](../assets/padronizacao.png){:style="height:550px;width:750px;border-radius:5px"}<figcaption>Fonte: [CD-MOJ](https://moj.naquadah.com.br/cgi-bin/index.sh).</figcaption></figure>
 
 ## Promoção da Eficiência do Usuário
-JAO VOCE COMEÇA AQUI
-
 
 ### Definição
-
-
+Este princípio enfatiza a importância de um sistema ser eficiente o suficiente para permitir que os usuários alcancem seus objetivos com o mínimo de esforço e no menor tempo possível. Isso envolve otimizar os processos mais comuns para serem rápidos e fáceis, além de fornecer atalhos ou métodos avançados para usuários experientes.
 
 ### Violação
+No exemplo do site analisado, uma violação desse princípio pode ser observada na interface de submissão de tarefas, onde múltiplas etapas redundantes são necessárias para concluir uma simples submissão. Isso resulta em um processo lento e frustrante, especialmente para usuários que realizam essas tarefas frequentemente.
 
+<p style="text-align: center">Figura 6 - Promoção da Eficiência do Usuário</p>
+<figure markdown>![correspondencia](../assets/promocaoEficiencia.png){:style="height:550px;width:750px;border-radius:5px"}<figcaption>Fonte: [CD-MOJ](https://moj.naquadah.com.br/cgi-bin/index.sh).</figcaption></figure>
 
 ## Antecipação
 
 ### Definição
-
-
+A antecipação envolve projetar sistemas que preveem as necessidades do usuário e facilitam a realização de tarefas antes mesmo que o usuário reconheça a necessidade de fazê-las. Isso pode incluir sugestões inteligentes, preenchimento automático de dados e adaptações contextuais que simplificam a interação.
 
 ### Violação
+Uma violação do princípio de antecipação ocorre quando o sistema falha em oferecer informações claras e úteis sobre erros ou problemas que o usuário encontra. Isso pode incluir mensagens de erro genéricas ou incompletas que não orientam o usuário sobre como corrigir um problema específico ou quando o sistema não prevê erros comuns que poderiam ser automaticamente detectados e corrigidos.
 
-
-
-
+<p style="text-align: center">Figura 7 - Violação Antecipação</p>
+<figure markdown>![correspondencia](../assets/antecipacao.png){:style="height:550px;width:750px;border-radius:5px"}<figcaption>Fonte: [CD-MOJ](https://moj.naquadah.com.br/cgi-bin/index.sh).</figcaption></figure>
 
 ## Visibilidade e Reconhecimento
 
 ### Definição
-
+Este princípio trata da capacidade dos usuários de reconhecer facilmente o que precisam fazer em uma interface, sem a necessidade de lembrar informações de uma parte da interação para outra. Isso inclui ter elementos de interface visíveis e facilmente acessíveis quando necessário.
 
 ### Violação
 
+Na página de estatísticas, uma violação significativa do princípio de Visibilidade e Reconhecimento ocorre devido à ocultação de botões importantes. Esses botões, que permitem aos usuários baixar documentos das questões em PDF, mas estão inesperadamente escondidos em um menu pouco intuitivo. Esta escolha de design faz com que muitos usuários não percebam a disponibilidade desses documentos, já que os botões não estão visíveis de imediato.
 
+<p style="text-align: center">Figura 8 - Violação Visibilidade e Reconhecimento</p>
+<figure markdown>![correspondencia](../assets/visibilidadeReconhecimento.png){:style="height:550px;width:750px;border-radius:5px"}<figcaption>Fonte: [CD-MOJ](https://moj.naquadah.com.br/cgi-bin/index.sh).</figcaption></figure>
 
-
-## Conteúdo Relavante e Expressão Adequada
+## Conteúdo Relevante e Expressão Adequada
 
 ### Definição
-
-
+Esse princípio foca em apresentar ao usuário apenas as informações relevantes para a tarefa em mãos, usando uma linguagem clara e concisa que é facilmente compreendida pelo público-alvo.
 
 ### Violação
+Uma clara violação deste princípio acontece quando o sistema apresenta informações utilizando terminologia técnica ou especializada sem oferecer definições adequadas ou explicações contextuais. Esse excesso de jargão especializado pode alienar usuários que não possuem conhecimento prévio na área, tornando a interface menos acessível e intuitiva.
 
-
+<p style="text-align: center">Figura 9 - Violação Conteúdo Relevante e Expressão Adequada</p>
+<figure markdown>![correspondencia](../assets/expressaoAdequada.png){:style="height:550px;width:750px;border-radius:5px"}<figcaption>Fonte: [CD-MOJ](https://moj.naquadah.com.br/cgi-bin/index.sh).</figcaption></figure>
 
 ## Projeto para Erros
 
 ### Definição
-
-
+Este princípio aborda a necessidade de sistemas serem projetados considerando a possibilidade de erros por parte do usuário, oferecendo mecanismos robustos de recuperação e mensagens de erro claras que guiam o usuário para a resolução do problema.
 
 ### Violação
+Um exemplo de violação deste princípio envolve várias páginas que contêm links que supostamente direcionariam o usuário a recursos adicionais ou páginas relacionadas. No entanto, ao clicar nesses links, o usuário se depara com a mensagem de erro "404 Página Não Encontrada". Esse tipo de erro não só interrompe a navegação do usuário, mas também diminui a confiança na qualidade e confiabilidade do site.
 
-
-
+<p style="text-align: center">Figura 10 - Violação Projeto para Erros</p>
+<figure markdown>![correspondencia](../assets/projetoErro.png){:style="height:550px;width:750px;border-radius:5px"}<figcaption>Fonte: [CD-MOJ](https://moj.naquadah.com.br/cgi-bin/index.sh).</figcaption></figure>
 
 ## Bibliografia
 
@@ -136,3 +136,4 @@ JAO VOCE COMEÇA AQUI
 | ------- | ------ | ------ | ------- | -------- | -------- |
 | `1.0` | 07/05/2024 | 07/05/2024 | Criação da página aspectos éticos. | [Diego Sousa](https://github.com/DiegoSousaLeite)| [João Artur](https://github.com/joao-artl)  |
 | `1.1` | 08/05/2024 | 10/05/2024 | Implementação de principios. | [Diego Sousa](https://github.com/DiegoSousaLeite)| [Arthur Alves](https://github.com/Arthrok) e [Eric Silveira](https://github.com/ericbky)  |
+| `1.2` | 09/05/2024 | 10/05/2024 | Implementação dos demais principios. | [João Artur](https://github.com/joao-artl)| [Arthur Alves](https://github.com/Arthrok) e [Eric Silveira](https://github.com/ericbky)  |
