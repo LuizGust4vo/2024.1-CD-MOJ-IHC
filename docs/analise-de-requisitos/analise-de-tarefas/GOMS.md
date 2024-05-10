@@ -50,6 +50,127 @@ que auxilie a decomposição.
 
 Dentre as vantagens do CTT com relação a outros modelos de tarefas, destacamos a possibilidade do registro explícito das relações entre as tarefas. Observamos que, uma vez que há tarefas interativas, do sistema e do usuário, o CTT vai além da análise de tarefas tradicional para representar uma solução de design da interação. Uma desvantagem com relação a modelos especificamente projetados para a interação é a ausência de elementos destinados à representação de mecanismos de prevenção e tratamento de erros na interação usuário–sistema.
 
+## <a> Análise de Tarefas - GOMS </a> 
+
+### <a> 1. Submissão de Problema </a> 
+
+**Objetivo Geral:** Submeter uma solução para um problema de programação.
+
+```
+GOAL 0: Submeter solução para um problema de programação
+    GOAL 1: Selecionar problema
+        OP 1.1: Escolher problema da lista
+        OP 1.2: Visualizar detalhes do problema
+    GOAL 2: Escrever código
+        OP 2.1: Digitar código no editor integrado
+        OP 2.2: Utilizar realce de sintaxe e visualizar erros em tempo real
+    GOAL 3: Testar código
+        OP 3.1: Executar testes locais
+        OP 3.2: Observar resultados dos testes
+    GOAL 4: Submeter solução
+        OP 4.1: Clicar em 'Submeter'
+        OP 4.2: Aguardar envio e processamento
+    GOAL 5: Receber feedback
+        OP 5.1: Receber e analisar resultados da avaliação
+```
+
+### <a> 2. Tutorial de Resolução de Questões Pós-Contest </a> 
+
+**Objetivo Geral:** Aprender a resolver problemas apresentados após o término de um contest.
+
+```
+GOAL 0: Aprender resolução de problemas pós-contest
+    GOAL 1: Selecionar contest encerrado
+        OP 1.1: Acessar lista de contests encerrados
+        OP 1.2: Escolher contest específico
+    GOAL 2: Escolher problema para revisão
+        OP 2.1: Visualizar detalhes do problema
+        OP 2.2: Acessar soluções passo a passo
+    GOAL 3: Estudar solução detalhadamente
+        OP 3.1: Seguir tutorial explicativo
+        OP 3.2: Compreender técnicas e lógica utilizadas
+    GOAL 4: Participar de discussões
+        OP 4.1: Acessar fóruns ou seções de comentários
+        OP 4.2: Interagir com outros usuários para aprofundamento
+```
+### <a> 3. Verificação de Submissões </a> 
+
+**Objetivo Geral:** Verificar e analisar os resultados das submissões realizadas durante um contest.
+
+```
+GOAL 0: Verificar submissões de um contest
+    GOAL 1: Acessar lista de submissões
+        OP 1.1: Navegar até a lista de submissões do contest
+        OP 1.2: Visualizar lista completa de submissões
+    GOAL 2: Analisar resultado de uma submissão específica
+        OP 2.1: Selecionar submissão específica
+        OP 2.2: Analisar detalhes do resultado (correto, erro, tempo excedido)
+    GOAL 3: Verificar logs de execução
+        OP 3.1: Acessar logs de execução
+        OP 3.2: Diagnosticar erros com base nos logs
+```
+### <a> 4. Ranking de Contest </a> 
+
+**Objetivo Geral:** Calcular e exibir o ranking dos participantes de um contest.
+
+```
+GOAL 0: Exibir ranking de Contest
+    GOAL 1: Calcular pontos das submissões
+        OP 1.1: Processar resultados das submissões
+        OP 1.2: Aplicar critérios de pontuação
+    GOAL 2: Ordenar resultados
+        OP 2.1: Aplicar critérios de ordenação
+        OP 2.2: Atualizar ranking exibido
+    GOAL 3: Acessar detalhes de performance
+        OP 3.1: Clicar em participante para detalhes
+        OP 3.2: Visualizar informações detalhadas
+    GOAL 4: Atualizar ranking em tempo real
+        OP 4.1: Receber novas submissões
+        OP 4.2: Recalcular e atualizar ranking
+```
+### <a> 5. Criação de Problema (Administrador) </a> 
+
+**Objetivo Geral:** Criar e configurar novos problemas de programação.
+
+```
+GOAL 0: Criar novo problema de programação
+    GOAL 1: Escrever enunciado do problema
+        OP 1.1: Digitar o texto do enunciado
+        OP 1.2: Revisar o enunciado
+    GOAL 2: Configurar testes
+        OP 2.1: Definir entradas e saídas esperadas
+        OP 2.2: Salvar testes
+    GOAL 3: Definir restrições técnicas
+        OP 3.1: Estabelecer limites de tempo e memória
+        OP 3.2: Salvar restrições
+    GOAL 4: Publicar problema
+        OP 4.1: Revisar todas as configurações
+        OP 4.2: Publicar problema para usuários
+```
+
+### <a> 6. Criação de Contest (Administrador) </a> 
+
+**Objetivo Geral:** Organizar e configurar uma competição de programação.
+
+```
+GOAL 0: Organizar uma nova competição de programação
+    GOAL 1: Definir informações básicas do contest
+        OP 1.1: Inserir nome, duração, e tipo de acesso
+        OP 1.2: Registrar informações
+    GOAL 2: Selecionar problemas
+        OP 2.1: Escolher problemas existentes ou criar novos
+        OP 2.2: Adicionar problemas ao contest
+    GOAL 3: Configurar participantes
+        OP 3.1: Definir acesso aberto ou restrito
+        OP 3.2: Salvar configurações de participantes
+    GOAL 4: Definir regras de pontuação
+        OP 4.1: Estabelecer critérios de pontuação e penalidades
+        OP 4.2: Salvar regras de pontuação
+    GOAL 5: Publicar contest
+        OP 5.1: Verificar configurações finais
+        OP 5.2: Publicar contest
+```
+
 ## <a> Bibliografia </a>
 > <a id="REF1" href="#anchor_1">1. </a> Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) Interação Humano-Computador e Experiência do usuário.
 >
@@ -60,3 +181,4 @@ Dentre as vantagens do CTT com relação a outros modelos de tarefas, destacamos
 | Versão | Data | Data Prevista de Revisão | Descrição  | Autor(es)  | Revisor(es) |
 | ------- | ------ | ------ | ------- | -------- | -------- |
 | `1.0` | 06/05/2024 | 06/05/2024 | Criação da página de Metas, Operadores, Métodos e Regras de Seleção.| [Luiz Gustavo](https://github.com/LuizGust4vo) | [João Artur](https://github.com/joao-artl) |
+| `1.1` | 10/05/2024 | 11/05/2024 | Adicionando análise de tarefas usando o método GOMS | [João Artur](https://github.com/joao-artl) | [Luiz Gustavo](https://github.com/LuizGust4vo)|
