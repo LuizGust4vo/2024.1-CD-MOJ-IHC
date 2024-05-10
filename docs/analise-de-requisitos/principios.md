@@ -103,7 +103,7 @@ Esse princípio foca em apresentar ao usuário apenas as informações relevante
 Uma clara violação deste princípio acontece quando o sistema apresenta informações utilizando terminologia técnica ou especializada sem oferecer definições adequadas ou explicações contextuais. Esse excesso de jargão especializado pode alienar usuários que não possuem conhecimento prévio na área, tornando a interface menos acessível e intuitiva.
 
 <p style="text-align: center">Figura 9 - Violação Conteúdo Relevante e Expressão Adequada</p>
-<figure markdown>![correspondencia](../assets/expressaoAdequada.png){:style="height:550px;width:750px;border-radius:5px"}<figcaption>Fonte: [CD-MOJ](https://moj.naquadah.com.br/cgi-bin/index.sh).</figcaption></figure>
+<figure markdown>![correspondencia](../assets/expressaoAdequada.png){width: 300}<figcaption>Fonte: [CD-MOJ](https://moj.naquadah.com.br/cgi-bin/index.sh).</figcaption></figure>
 
 ## Projeto para Erros
 
