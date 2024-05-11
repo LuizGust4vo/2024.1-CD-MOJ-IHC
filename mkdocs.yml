@@ -52,8 +52,8 @@ nav:
     - Personas: analise-de-requisitos/personas.md
     - Cenários: analise-de-requisitos/cenario.md
     - Princípios Gerais: analise-de-requisitos/principios.md
-    - Caracteristicas da plataforma: analise-de-requisitos/caracteristicasPlataforma.md
-
+    - Caracteristicas da Plataforma: analise-de-requisitos/caracteristicasPlataforma.md
+    - Guia de Estilo: analise-de-requisitos/guia_estilo.md
 
 
 theme:
