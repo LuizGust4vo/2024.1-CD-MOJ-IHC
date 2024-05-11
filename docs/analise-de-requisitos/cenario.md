@@ -30,7 +30,7 @@ Ao construir cenários, é essencial detalhar os elementos que caracterizam uma 
 
 <a href="https://interacao-humano-computador.github.io/2024.1-CD-MOJ/analise-de-requisitos/personas/#__tabbed_1_1">Carlos Silva</a>, professor universitário de Engenharia de Software, está organizando uma nova competição temática que será lançada no próximo mês. Ela seleciona cuidadosamente uma série de problemas que testam diversas habilidades de programação, desde lógica básica até algoritmos complexos. Após escolher e configurar os problemas, Laura define as regras do contest, incluindo tempo de duração, pontuação por problema, e penalidades por submissões incorretas. Tudo é meticulosamente configurado através do painel administrativo. Com o contest pronto, ela anuncia a competição na plataforma e através de newsletters, incentivando a participação da comunidade de programadores.
 
-## <a>Bibliografia</a>
+## <a> Bibliografia </a>
 
 > <a id="REF1" href="#anchor_1">1.</a> ROSSON, M.B., CARROL, J.M. Usability engineering: scenario-based development of human-computer interaction. Morgan Kaufmann, 2002.
 
@@ -38,7 +38,7 @@ Ao construir cenários, é essencial detalhar os elementos que caracterizam uma 
 
 > <a id="REF3" href="#anchor_3">3.</a> BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011.
 
-## <a>Histórico de Versão</a>
+## <a> Histórico de Versão </a>
 
 | Versão| Data | Data Prevista de Revisão| Descrição  | Autor(es)  | Revisor(es) |
 | ------- | ------ | ------ | ------- | -------- | -------- |

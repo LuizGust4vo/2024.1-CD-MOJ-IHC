@@ -124,11 +124,11 @@ Esta abordagem assegura que o sistema atenda de forma eficaz às diversas necess
 > <a id="FRM3" href="#anchor_3">3.</a> Imagem gerada através da aplicação This Person Doesn't Exist. Disponível em: <a href="https://this-person-does-not-exist.com/">https://this-person-does-not-exist.com/</a>. Acesso em: 04/05/2024.
 
 
-## <a>Bibliografia</a>
+## <a> Bibliografia </a>
 
 > FERREIRA, A. L. H. et al. Perfil do Usuário. Repositório da disciplina de Requisitos de Software da Universidade de Brasília, 2022. Disponível em: <a href="https://requisitos-de-software.github.io/2022.2-MEI/Elicitacao/perfil/">https://requisitos-de-software.github.io/2022.2-MEI/Elicitacao/perfil/</a>. Acesso em: 04/05/2024.
 
-## Histórico de versão
+## <a> Histórico de versão </a>
 |Versão|Data|Data Prevista de Revisão|Descrição|Autor|Revisor|
 | :------: | :----------: |:-----------: | :----------------------: | :---------: |:---------: |
-| `1.0` | 04/05/2024 | 04/05/2024 |Criação da Documentação das Personas | [Arthur Alves](https://github.com/Arthrok) e [Eric Silveira](https://github.com/ericbky) | Luiz Gustavo |
+| `1.0` | 04/05/2024 | 04/05/2024 |Criação da Documentação das Personas | [Arthur Alves](https://github.com/Arthrok) e [Eric Silveira](https://github.com/ericbky) | [Luiz Gustavo](https://github.com/LuizGust4vo) |

@@ -93,10 +93,7 @@ Os usuários valorizam a usabilidade do CD-MOJ, com muitos expressando satisfaç
 O entendimento do perfil dos usuários do CD-MOJ permite direcionar melhorias específicas para aprimorar a experiência e utilidade da plataforma, garantindo que ela continue sendo uma ferramenta valiosa para o desenvolvimento de habilidades de programação.
 
 
-
-
-
-## <a>Referência Bibliográfica</a>
+## <a> Referência Bibliográfica </a>
 
 > <a id="FRM1" href="#anchor_1">1.</a> Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, capítulo 8, tópico 8.1 Perfil de Usuário, página 166, G. D. J. (2021) *Interação Humano-Computador e Experiência do usuário.* Autopublicação. ISBN: 978-65-00-19677-1.
 
@@ -108,10 +105,10 @@ O entendimento do perfil dos usuários do CD-MOJ permite direcionar melhorias es
 
 > <a id="FRM5" href="#anchor_5">5.</a> Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, capítulo 7, tópico 7.5 Como Coletar Dados dos Usuários?, página 144, G. D. J. (2021) *Interação Humano-Computador e Experiência do usuário.* Autopublicação. ISBN: 978-65-00-19677-1.
 
-## Histórico de versão
+## <a> Histórico de versão </a>
 |Versão|Data|Data Prevista de Revisão|Descrição|Autor|Revisor|
 | :------: | :----------: |:-----------: | :----------------------: | :---------: |:---------: |
-| `1.0` | 01/05/2024 | 02/05/2024 |Criação da Documentação do Perfil dos Usuários | [Arthur Alves](https://github.com/Arthrok) e [Eric Silveira](https://github.com/ericbky) | Luiz Gustavo |
+| `1.0` | 01/05/2024 | 02/05/2024 |Criação da Documentação do Perfil dos Usuários | [Arthur Alves](https://github.com/Arthrok) e [Eric Silveira](https://github.com/ericbky) | [Luiz Gustavo](https://github.com/LuizGust4vo) |
 | `1.1` | 03/05/2024 | 03/05/2024 |Finalização Documentação do Perfil dos Usuários | [Eric Silveira](https://github.com/ericbky) | [Arthur Alves](https://github.com/Arthrok)|
 
 [def]: https://github.com/Interacao-Humano-Computador/2024.1-CD-MOJ/blob/git-pages/assets/images/relatorio01.png
