@@ -24,7 +24,6 @@ Na planning de segunda-feira, primeiramente, discutimos sobre as correções nec
 Também alinhamos as ideias e organizamos as tarefas para a entrega da "Etapa 2 - Perfil dos Usuários".
 
 ## 4. Divisão das atividades
-
 Segue na tabela abaixo a divisão das atividades entre os integrantes do grupo, com base na disponibilidade e cronograma da disciplina.
 
 <center>
