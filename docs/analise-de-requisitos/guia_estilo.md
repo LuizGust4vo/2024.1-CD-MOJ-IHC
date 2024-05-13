@@ -51,7 +51,7 @@ Os elementos sobre disposição espacial e grid, janelas, tipografia, logos, cor
 <figure markdown><p style="text-align: center">Figura 1 - Elementos da Interface.</p>
 <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fdesign%2FbwoKZ2iiQ7sG0mmyLaCTlv%2FGuia-De-Estilo-CD-MOJ%3Fnode-id%3D0%253A1%26t%3DcRPkvMwcXPlMNW8L-1" allowfullscreen></iframe><figcaption> Fonte: [Douglas Marinho](https://github.com/M4RINH0), 2024.</figcaption></figure>
 
-## <a> Elementos de Interação </a>
+## <a> 4. Elementos de Interação </a>
 
 ### <a> Estilo de Interação </a>
 
@@ -65,7 +65,7 @@ A escolha do estilo do CD-MOJ tem a interface simples e minimalista, focada nos 
 
 No site não foram encontradas teclas de atalho.
 
-## <a> Elementos de Ação </a>
+## <a> 5. Elementos de Ação </a>
 
 ### <a> Preenchimento de Campos </a>
 
@@ -79,7 +79,7 @@ Há alguns elementos de seleção como por exemplo seleção de problema para en
 
 Incluem botões, links e outros elementos clicáveis. No site encontramos elementos como botões de redirecionamento de orgãos que auxiliam e hosteam e _hyperlinks_.
 
-## <a> Vocabulários e padrões </a>
+## <a> 6. Vocabulários e padrões </a>
 
 ### <a> Tipos de Tela </a>
 
@@ -89,7 +89,7 @@ As telas seguem um padrão simples e minimalista, elas não destoam muito uma da
 
 As sequências seguem um padrão, os botões de confirmação e cancelamento são semelhantes em páginas diferentes.
 
-## <a> Propostas de Intervenção </a>
+## <a> 7. Propostas de Intervenção </a>
 
 As propostas de intervenção foram desenvolvidas com base nas [Metas de Usabilidade](https://interacao-humano-computador.github.io/2024.1-CD-MOJ/analise-de-requisitos/metasDeUsabilidade/) e nos [Princípios Gerais](https://interacao-humano-computador.github.io/2024.1-CD-MOJ/analise-de-requisitos/principios/) definidos para o projeto da Bilheteria Digital. Essas diretrizes foram utilizadas como referência para identificar áreas de melhoria e sugerir mudanças que visam aprimorar a usabilidade e a experiência do usuário.
 
