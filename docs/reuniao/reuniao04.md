@@ -43,11 +43,11 @@ _Fonte: [Luiz Gustavo](https://gith3ub.com/LuizGust4vo)_
 </center>
 
 ## 5. Gravação da Reunião
-<iframe src="" width="640" height="480" allow="autoplay"></iframe>
+<iframe width="1280" height="720" src="https://www.youtube.com/embed/qYi-Xw1M-z0" title="4ª Reunão - Grupo 01 (CD-MOJ) - Interação Humano-Computador" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## <a> Histórico de Versão </a>
 
 | Versão | Data | Data Prevista de Revisão | Descrição | Autor(es) | Revisor(es) |
 | :------: | :----------: | :-----------: | :-----------: | :---------: | :---------: |
 | `1.0` | 07/05/2024 | 09/05/2024 | Criação da Ata da Reunião | [Luiz Gustavo](https://github.com/LuizGust4vo) | [Arthur Alves](https://github.com/arthrok) |
-| `1.1` | ------ | ------ | Adicionado o Vídeo da Reunião | [Arthur Alves](https://github.com/arthrok) | [João Artur](https://github.com/joao-artl) e [Luiz Gustavo](https://github.com/LuizGust4vo) |
+| `1.1` | 13/05/2024 | 13/05/2024 | Adicionado o Vídeo da Reunião | [Arthur Alves](https://github.com/arthrok) | [João Artur](https://github.com/joao-artl) e [Luiz Gustavo](https://github.com/LuizGust4vo) |

@@ -28,8 +28,9 @@ nav:
       - Inicio: index.md
       - Licença: licenca.md
   - Apresentações:
-      - Apresentação 1: apresentacao/apresentacao1.md
-      - Apresentação 2: apresentacao/apresentacao2.md
+      - Apresentação 1: apresentacao/apresentacao01.md
+      - Apresentação 2: apresentacao/apresentacao02.md
+      - Apresentação 3: apresentacao/apresentacao03.md
   - Reuniões:
       - Reunião 1: reuniao/reuniao01.md
       - Reunião 2: reuniao/reuniao02.md
@@ -52,8 +53,9 @@ nav:
     - Personas: analise-de-requisitos/personas.md
     - Cenários: analise-de-requisitos/cenario.md
     - Princípios Gerais: analise-de-requisitos/principios.md
-    - Caracteristicas da plataforma: analise-de-requisitos/caracteristicasPlataforma.md
-
+    - Metas de Usabilidade: analise-de-requisitos/metasDeUsabilidade.md
+    - Caracteristicas da Plataforma: analise-de-requisitos/caracteristicasPlataforma.md
+    - Guia de Estilo: analise-de-requisitos/guia_estilo.md
 
 
 theme:
