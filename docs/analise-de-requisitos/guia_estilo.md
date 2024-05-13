@@ -38,11 +38,9 @@ O guia de estilo é um documento dinâmico que precisa de manutenção recorrent
 
 - Avaliação e feedback dos usuários: Devemos buscar constantemente o feedback dos usuários sobre a usabilidade da interface. As percepções e necessidades dos usuários podem mudar ao longo do tempo, portanto, é importante estar aberto a sugestões e críticas construtivas para aprimorar o guia de estilo e a experiência do usuário.
 
-
 ## <a> 2. Resultados de Análise </a>
 
 ### Descrição do ambiente de trabalho do usuário
-
 O CD-MOJ é uma plataforma dedicada principalmente a usuários que a acessam através de computadores desktop e notebooks. É crucial, portanto, que o design da interface seja especialmente ajustado para essas configurações de hardware, assegurando uma experiência de usuário fluida e eficaz. Isso inclui adaptações da interface para diferentes resoluções e tamanhos de tela, a seleção de elementos visuais apropriados e a incorporação de funcionalidades que sejam tanto intuitivas quanto de fácil acesso. Detalhes adicionais sobre os elementos da interface podem ser encontrados na figura 1.
 
 ## <a> 3. Elementos de interface </a>
@@ -54,51 +52,40 @@ Os elementos sobre disposição espacial e grid, janelas, tipografia, logos, cor
 ## <a> 4. Elementos de Interação </a>
 
 ### <a> Estilo de Interação </a>
-
 Os usuários podem interagir com o site na seleção de contests, login, submissão de problemas, confirmação de resultado e score. Os quais são feitos através de botões e/ou _hiperlinks_.
 
 ### <a> Seleção de Estilos </a>
-
 A escolha do estilo do CD-MOJ tem a interface simples e minimalista, focada nos objetivos de encontrar um contest e submeter seus codigos de resposta, tanto que suas páginas não destoam muito umas das outras, com botões semelhantes.
 
 ### <a> Aceleradores (Teclas de Atalho) </a>
-
 No site não foram encontradas teclas de atalho.
 
 ## <a> 5. Elementos de Ação </a>
 
 ### <a> Preenchimento de Campos </a>
-
 Os campos de preenchimento disponíveis na interface do sistema exigem que o usuário insira informações manualmente, de acordo com suas necessidades e objetivos. Esses campos podem incluir a caixa de texto para login e senha, que são exemplos de campos que exigem entrada de texto e também caixa de seleção de arquivos locais para envio de codigos para submissão.
 
 ### <a> Seleção </a>
-
 Há alguns elementos de seleção como por exemplo seleção de problema para envio de arquivo, seleção do contest.
 
 ### <a> Ativação </a>
-
 Incluem botões, links e outros elementos clicáveis. No site encontramos elementos como botões de redirecionamento de orgãos que auxiliam e hosteam e _hyperlinks_.
 
 ## <a> 6. Vocabulários e padrões </a>
 
 ### <a> Tipos de Tela </a>
-
 As telas seguem um padrão simples e minimalista, elas não destoam muito uma das outras, seguindo a mesma identidade visual.
 
 ### <a> Sequência de Diálogos </a>
-
 As sequências seguem um padrão, os botões de confirmação e cancelamento são semelhantes em páginas diferentes.
 
 ## <a> 7. Propostas de Intervenção </a>
-
 As propostas de intervenção foram desenvolvidas com base nas [Metas de Usabilidade](https://interacao-humano-computador.github.io/2024.1-CD-MOJ/analise-de-requisitos/metasDeUsabilidade/) e nos [Princípios Gerais](https://interacao-humano-computador.github.io/2024.1-CD-MOJ/analise-de-requisitos/principios/) definidos para o projeto da Bilheteria Digital. Essas diretrizes foram utilizadas como referência para identificar áreas de melhoria e sugerir mudanças que visam aprimorar a usabilidade e a experiência do usuário.
 
 ### Metas de Usabilidade
-
 Com base nas [Metas de Usabilidade](https://interacao-humano-computador.github.io/2024.1-CD-MOJ/analise-de-requisitos/metasDeUsabilidade/) foram levantados pontos específicos que podem ser aprimorados no sistema. Para a meta de utilidade, foi proposto melhoras em eficácia, eficiência, segurança, utilidade e aprendizagem.
 
 ### Princípios Gerais
-
 Em relação aos princípios, que envolvem consistência, feedback, prevenção de erros, flexibilidade e simplicidade, foram consideradas mudanças que promovam a simplicidade nas estruturas de tarefas e correspondência com as expectativas do usuário. Por exemplo uma violação do princípio de Correspondência com a Expectativa do Usuário pois no canto superior da tela, o texto "acmICPC" parece ser clicável e gera a expectativa de direcionar para um link útil. No entanto, ao clicar, o usuário é redirecionado para uma página que exibe o erro 403 que pode ser visto em [Princípios Gerais](https://interacao-humano-computador.github.io/2024.1-CD-MOJ/analise-de-requisitos/principios/).
 
 Outros aspecto importante são o equilíbrio entre o controle e liberdade do usuário. Pode-se observar no site a limitação da capacidade dos usuários de alterarem seus logins e senhas, sendo possível apenas através de intervenção do professor. Onde causa dificuldade para os usuários decorarem diversas senhas e logins em geral um para cada contest.
@@ -115,4 +102,4 @@ Outros aspecto importante são o equilíbrio entre o controle e liberdade do usu
 | ------- | ------ | ------ | ------- | -------- | -------- |
 | `1.0` | 10/05/2024 | 11/05/2024 | Criação da introdução do guia de estilo | [Luiz Gustavo](https://github.com/LuizGust4vo) | [Douglas Marinho](https://github.com/M4RINH0) |
 | `1.1` | 13/05/2024 | 13/05/2024 | Adição dos resultados da analise | [Douglas Marinho](https://github.com/M4RINH0) | [Diego Sousa](https://github.com/DiegoSousaLeite) |
-| `1.2` | 13/05/2024 | 13/05/2024 | adicionar hyperlink em titulos | [Douglas Marinho](https://github.com/M4RINH0) | [Diego Sousa](https://github.com/DiegoSousaLeite) |
+| `1.2` | 13/05/2024 | 13/05/2024 | Adicionar hyperlink em titulos | [Douglas Marinho](https://github.com/M4RINH0) | [Diego Sousa](https://github.com/DiegoSousaLeite) |
