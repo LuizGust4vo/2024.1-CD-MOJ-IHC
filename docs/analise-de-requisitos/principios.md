@@ -105,7 +105,7 @@ Uma clara violação deste princípio acontece quando o sistema apresenta inform
 <p style="text-align: center">Figura 9 - Violação Conteúdo Relevante e Expressão Adequada</p>
 <figure markdown>![correspondencia](../assets/expressaoAdequada.png){width: 300}<figcaption>Fonte: [CD-MOJ](https://moj.naquadah.com.br/cgi-bin/index.sh).</figcaption></figure>
 
-## Projeto para Erros </a>
+## <a> Projeto para Erros </a>
 
 ### <a>  Definição </a>
 Este princípio aborda a necessidade de sistemas serem projetados considerando a possibilidade de erros por parte do usuário, oferecendo mecanismos robustos de recuperação e mensagens de erro claras que guiam o usuário para a resolução do problema.

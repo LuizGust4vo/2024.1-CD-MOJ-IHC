@@ -29,8 +29,6 @@ As metas descritas abaixo proporcionam uma compreensão clara sobre os principai
 
 ## <a>Avaliação das Metas de Usabilidade no CD-MOJ</a>
 
-texto
-
 ### Eficácia
 #### Pergunta Chave
 O sistema serve ao propósito principal?
