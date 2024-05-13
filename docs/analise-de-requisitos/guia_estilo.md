@@ -114,5 +114,5 @@ Outros aspecto importante são o equilíbrio entre o controle e liberdade do usu
 | Versão| Data | Data Prevista de Revisão| Descrição  | Autor(es)  | Revisor(es) |
 | ------- | ------ | ------ | ------- | -------- | -------- |
 | `1.0` | 10/05/2024 | 11/05/2024 | Criação da introdução do guia de estilo | [Luiz Gustavo](https://github.com/LuizGust4vo) | [Douglas Marinho](https://github.com/M4RINH0) |
-| `1.1` | 13/05/2024 | 11/05/2024 | Adição dos resultados da analise | [Douglas Marinho](https://github.com/M4RINH0) | [Diego Sousa](https://github.com/DiegoSousaLeite) |
-| `1.2` | 13/05/2024 | 11/05/2024 | adicionar hyperlink em titulos | [Douglas Marinho](https://github.com/M4RINH0) | [Diego Sousa](https://github.com/DiegoSousaLeite) |
+| `1.1` | 13/05/2024 | 13/05/2024 | Adição dos resultados da analise | [Douglas Marinho](https://github.com/M4RINH0) | [Diego Sousa](https://github.com/DiegoSousaLeite) |
+| `1.2` | 13/05/2024 | 13/05/2024 | adicionar hyperlink em titulos | [Douglas Marinho](https://github.com/M4RINH0) | [Diego Sousa](https://github.com/DiegoSousaLeite) |
