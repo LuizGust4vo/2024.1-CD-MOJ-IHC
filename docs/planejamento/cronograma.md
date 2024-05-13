@@ -101,9 +101,9 @@ O cronograma tem como objetivo estruturar todas as atividades a serem conduzidas
 
 === "Cronograma Executado"
 
-    Na Tabela 6, está explicitado o cronograma executado das atividades da terceira entrega.
-
     <font size="3"><p style="text-align: center"><b>Tabela 6</b> - Princípios gerais do projeto</p></font>
+
+    Na Tabela 6, está explicitado o cronograma executado das atividades da terceira entrega.
 
     | Atividade | Período de desenvolvimento | Responsável | Revisão | Revisores | Data da Entrega |
     | --------- | -----------| ------------ | ------- | ------- | ------- |
