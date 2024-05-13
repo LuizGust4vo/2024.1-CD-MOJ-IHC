@@ -36,7 +36,7 @@ A apresentação objetiva mostrar o que foi feito para a entrega 3, obedecendo a
 > 
 > Apresentação 3, Bilheteria Digital. Disponível em: <https://interacao-humano-computador.github.io/2023.1-BilheteriaDigital/apresentacao/apresentacao3/>. Acesso em 13 de maio de 2024.
 >
-> Apresentação 3, Diário Oficial da União. Disponível em: <https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/apresentacao/apresentacao3/>.  Acesso em 13 de maio de 2024.
+> Apresentação 2, Diário Oficial da União. Disponível em: <https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/apresentacao/apresentacao2/>.  Acesso em 13 de maio de 2024.
 
 ## <a>Histórico de Versão</a>
 
