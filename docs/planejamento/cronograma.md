@@ -46,11 +46,12 @@ O cronograma tem como objetivo estruturar todas as atividades a serem conduzidas
 
 ## Etapa 2 - Perfil dos Usuários
 
-Na Tabela 3, tem-se o cronograma planejado para todas as atividades da segunda entrega.
 
-<font size="3"><p style="text-align: center"><b>Tabela 3</b> - Perfil dos Usuários</p></font>
 === "Cronograma Planejado"
+
     Na Tabela 3, tem-se o cronograma planejado para todas as atividades da segunda entrega.
+
+    <font size="3"><p style="text-align: center"><b>Tabela 3</b> - Perfil dos Usuários</p></font>
 
     | Atividade | Período de desenvolvimento | Responsável | Revisão | Revisores | Data da Entrega |
     | --------- | -----------| ------------ | ------- | ------- | ------- |
@@ -62,8 +63,10 @@ Na Tabela 3, tem-se o cronograma planejado para todas as atividades da segunda e
     |Correção pós apresentação|Início dia 07/05 e Fim dia 08/05|Arthur Alves, Diego Sousa, Douglas Marinho, Eric Silveira, João Artur, Luiz Gustavo|Início dia 07/05 e Fim dia 08/05|Arthur Alves, Diego Sousa, Douglas Marinho, Eric Silveira, João Artur, Luiz Gustavo|Não há entrega|
 
 === "Cronograma Executado"
+
     Na Tabela 4, está explicitado o cronograma executado das atividades da segunda entrega.
 
+    <font size="3"><p style="text-align: center"><b>Tabela 4</b> - Perfil dos Usuários</p></font>
 
     | Atividade | Período de desenvolvimento executado | Responsável | Revisão executada | Revisores | Data da Entrega Executada |
     | --------- | ------------------------------------ | ------------ | ----------------- | --------- | ------------------------- |
@@ -74,53 +77,46 @@ Na Tabela 3, tem-se o cronograma planejado para todas as atividades da segunda e
     | Período de gravação da apresentação | Início 04/05 e Fim 05/05 | Douglas Marinho | Início 05/05 e Fim 06/05 | Eric Silveira | 06/05 |
     | Correção pós apresentação | Início 07/05 e Fim 08/05 | Arthur Alves, Diego Sousa, Douglas Marinho, Eric Silveira, João Artur, Luiz Gustavo | Início 08/05 e Fim 09/05 | Arthur Alves, Diego Sousa, Douglas Marinho, Eric Silveira, João Artur, Luiz Gustavo | Não há entrega |
 
-
-
-<font size="3"><p style="text-align: center">Fonte: Autores.</p></font>
-
-<!--### Executado
-
-Na Tabela 4, está explicitado o cronograma executado das atividades da segunda entrega.
-
-<font size="3"><p style="text-align: center"><b>Tabela 4</b> - Perfil dos Usuários</p></font>
-
-| Atividade | Período de desenvolvimento | Responsável | Revisão | Revisores | Data da Entrega |
-| --------- | -----------| ------------ | ------- | ------- | ------- | 
-
-<font size="3"><p style="text-align: center">Fonte: Autores.</p></font>
-
--->
+    <font size="3"><p style="text-align: center">Fonte: [Eric Silveira](https://github.com/ericbky).</p></font>
 
 ## Etapa 3 - Princípios gerais do projeto
 
-Na Tabela 5, tem-se o cronograma planejado para todas as atividades da terceira entrega.
+=== "Cronograma Planejado"
 
-<font size="3"><p style="text-align: center"><b>Tabela 5</b> - Princípios gerais do projeto</p></font>
+    <font size="3"><p style="text-align: center"><b>Tabela 5</b> - Princípios gerais do projeto</p></font>
 
-| Atividade | Período de desenvolvimento | Responsável | Revisão | Revisores | Data da Entrega |
-| --------- | -----------| ------------ | ------- | ------- | ------- |
-|Princípios Gerais de Projeto|Início dia 08/05 e Fim dia 10/05|Diego Sousa e João Artur|Início dia 11/05 e Fim dia 11/05|Arthur Alves e Eric Silveira|12/05|
-|Metas de usabilidade|Início dia 08/05 e Fim dia 10/05|Arthur Alves|Início dia 11/05 e Fim dia 11/05|Luiz Gustavo e Diego Sousa|12/05|
-|Guia de Estilo|Início dia 08/05 e Fim dia 10/05|Douglas Marinho e Luiz Gustavo|Início dia 11/05 e Fim dia 11/05|Diego Sousa|12/05|
-|Características da plataforma para o projeto|Início dia 08/05 e Fim dia 10/05|Eric Silveira e João Artur|Início dia 11/05 e Fim dia 11/05|Arthur Alves, Diego Sousa, Douglas Marinho, Eric Silveira, João Artur, Luiz Gustavo|12/05|
-|Iteração do Git Pages|Início dia 12/05 e Fim dia 12/05 |Arthur Alves, Diego Sousa, Douglas Marinho, Eric Silveira, João Artur, Luiz Gustavo|Início dia 12/05 e Fim dia 12/05|Arthur Alves, Diego Sousa, Douglas Marinho, Eric Silveira, João Artur, Luiz Gustavo|13/05|
-|Período de gravação da apresentação|Início dia 13/05 e Fim dia 13/05|Douglas Marinho|Início dia 14/05 e Fim dia 14/05|Eric Silveira|14/05|
-|Correção pós apresentação|Início dia 15/05 e Fim dia 16/05|Arthur Alves, Diego Sousa, Douglas Marinho, Eric Silveira, João Artur, Luiz Gustavo|Início dia 15/04 e Fim dia 16/05|Arthur Alves, Diego Sousa, Douglas Marinho, Eric Silveira, João Artur, Luiz Gustavo|Não há entrega|
+    Na Tabela 5, tem-se o cronograma planejado para todas as atividades da terceira entrega.
 
-<font size="3"><p style="text-align: center">Fonte: Autores.</p></font>
+    | Atividade | Período de desenvolvimento | Responsável | Revisão | Revisores | Data da Entrega |
+    | --------- | -----------| ------------ | ------- | ------- | ------- |
+    |Princípios Gerais de Projeto|Início dia 08/05 e Fim dia 10/05|Diego Sousa e João Artur|Início dia 11/05 e Fim dia 11/05|Arthur Alves e Eric Silveira|12/05|
+    |Metas de usabilidade|Início dia 08/05 e Fim dia 10/05|Arthur Alves|Início dia 11/05 e Fim dia 11/05|Luiz Gustavo e Diego Sousa|12/05|
+    |Guia de Estilo|Início dia 08/05 e Fim dia 10/05|Douglas Marinho e Luiz Gustavo|Início dia 11/05 e Fim dia 11/05|Diego Sousa|12/05|
+    |Características da plataforma para o projeto|Início dia 08/05 e Fim dia 10/05|Eric Silveira e João Artur|Início dia 11/05 e Fim dia 11/05|Arthur Alves, Diego Sousa, Douglas Marinho, Eric Silveira, João Artur, Luiz Gustavo|12/05|
+    |Iteração do Git Pages|Início dia 12/05 e Fim dia 12/05 |Arthur Alves, Diego Sousa, Douglas Marinho, Eric Silveira, João Artur, Luiz Gustavo|Início dia 12/05 e Fim dia 12/05|Arthur Alves, Diego Sousa, Douglas Marinho, Eric Silveira, João Artur, Luiz Gustavo|13/05|
+    |Período de gravação da apresentação|Início dia 13/05 e Fim dia 13/05|Douglas Marinho|Início dia 14/05 e Fim dia 14/05|Eric Silveira|14/05|
+    |Correção pós apresentação|Início dia 15/05 e Fim dia 16/05|Arthur Alves, Diego Sousa, Douglas Marinho, Eric Silveira, João Artur, Luiz Gustavo|Início dia 15/04 e Fim dia 16/05|Arthur Alves, Diego Sousa, Douglas Marinho, Eric Silveira, João Artur, Luiz Gustavo|Não há entrega|
 
-<!-- ### Executado
+    <font size="3"><p style="text-align: center">Fonte: Autores.</p></font>
 
-Na Tabela 6, está explicitado o cronograma executado das atividades da terceira entrega.
+=== "Cronograma Executado"
 
-<font size="3"><p style="text-align: center"><b>Tabela 6</b> - Princípios gerais do projeto</p></font>
+    Na Tabela 6, está explicitado o cronograma executado das atividades da terceira entrega.
 
-| Atividade | Período de desenvolvimento | Responsável | Revisão | Revisores | Data da Entrega |
-| --------- | -----------| ------------ | ------- | ------- | ------- | 
+    <font size="3"><p style="text-align: center"><b>Tabela 6</b> - Princípios gerais do projeto</p></font>
 
-<font size="3"><p style="text-align: center">Fonte: Autores.</p></font>
+    | Atividade | Período de desenvolvimento | Responsável | Revisão | Revisores | Data da Entrega |
+    | --------- | -----------| ------------ | ------- | ------- | ------- |
+    |Princípios Gerais de Projeto|Início dia 07/05 e Fim dia 09/05|Diego Sousa e João Artur|Início dia 07/05 e Fim dia 10/05|Arthur Alves, João Artur e Eric Silveira|13/05|
+    |Metas de usabilidade|13/05|Arthur Alves|13/05|Luiz Gustavo e Diego Sousa|13/05|
+    |Guia de Estilo|Início dia 10/05 e Fim dia 13/05|Luiz Gustavo|Início dia 10/05 e Fim dia 13/05|Douglas Marinho|13/05|
+    |Características da plataforma para o projeto|Início dia 08/05 e Fim dia 10/05|Eric Silveira|11/05|Arthur Alves, Diego Sousa, Douglas Marinho, Eric Silveira, João Artur, Luiz Gustavo|13/05|
+    |Iteração do Git Pages|Início dia 12/05 e Fim dia 13/05 |Arthur Alves, Diego Sousa, Douglas Marinho, Eric Silveira, João Artur, Luiz Gustavo|Início dia 12/05 e Fim dia 13/05|Arthur Alves, Diego Sousa, Douglas Marinho, Eric Silveira, João Artur, Luiz Gustavo|13/05|
+    |Período de gravação da apresentação|13/05|Douglas Marinho|13/05|Eric Silveira|13/05|
+    |Correção pós apresentação|Início dia 14/05 e Fim dia 16/05|Arthur Alves, Diego Sousa, Douglas Marinho, Eric Silveira, João Artur, Luiz Gustavo|Início dia 14/04 e Fim dia 17/05|Arthur Alves, Diego Sousa, Douglas Marinho, Eric Silveira, João Artur, Luiz Gustavo|Não há entrega| 
 
--->
+    <font size="3"><p style="text-align: center">Fonte: [João Artur](https://github.com/joao-artl).</p></font>
+
 
 ## Etapa 4 - Planejamento da avaliação do Storyboard
 
@@ -308,3 +304,4 @@ Na Tabela 18, está explicitado o cronograma executado das atividades da oitava 
 | `1.2` | 01/05/2024 | 02/05/2024 | Adicionando fonte nas tabelas| [João Artur](https://github.com/joao-artl) |[Arthur Alves](https://github.com/Arthrok)|
 | `1.3` | 01/05/2024 | 02/05/2024 | Atualização de datas do cronograma planejado| [Douglas Marinho](https://github.com/M4RINH0) |[Arthur Alves](https://github.com/Arthrok)|
 | `1.4` | 01/05/2024 | 02/05/2024 | Cronograma executado da segunda entrega| [Eric Silveira](https://github.com/ericbky) |[João Artur](https://github.com/joao-artl)|
+| `1.5` | 30/03/2024 | 30/03/2024 |  Cronograma executado da terceira entrega | [João Artur](https://github.com/joao-artl) |[Eric Silveira](https://github.com/ericbky)|
