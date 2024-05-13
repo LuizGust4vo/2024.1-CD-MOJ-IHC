@@ -82,13 +82,48 @@ A plataforma disponibiliza as ferramentas essenciais para que o usuário alcance
 É fácil aprender a usar?
 
 #### Avaliação
-Embora o CD-MOJ permita realizar as funções principais, ele apresenta desafios significativos para novos usuários, particularmente na localização de contests específicos. Informações críticas como "Time Limit Exceeded" e "Runtime Error" são apresentadas sem explicações detalhadas ou fácil acesso ao FAQ enquanto se está com a página aberta no contest, veja na figura 3. Isso dificulta a compreensão dos erros, deixando o usuário confuso e impactando negativamente a curva de aprendizagem. A clareza na apresentação de informações e a acessibilidade de recursos de ajuda são essenciais para facilitar o processo de aprendizagem na plataforma.
+Embora o CD-MOJ permita realizar as funções principais, ele apresenta desafios significativos para novos usuários, como na localização de contests específicos. Informações críticas como "Time Limit Exceeded", "Compilation Error" e "Runtime Error" são apresentadas sem explicações detalhadas ou fácil acesso ao FAQ enquanto se está com a página aberta no contest, veja na figura 3. Isso dificulta a compreensão dos erros, deixando o usuário confuso e impactando negativamente a curva de aprendizagem. A clareza na apresentação de informações e a acessibilidade de recursos de ajuda são essenciais para facilitar o processo de aprendizagem na plataforma.
 
 <center>
     <figure markdown>
     <font size="3"><p style="text-align: center"><b>Figura 3</b> -  Meta de usabilidade Aprendizagem.</p></font>
-    ![Meta de usabilidade Aprendizagem](){width: 300}
+    ![Meta de usabilidade Aprendizagem](./assets/metas-faq.png){width: 300}
     </figure>
 
   Fonte: [CD-MOJ](https://moj.naquadah.com.br/cgi-bin/index.sh).
 </center>
+
+### Memorização
+#### Pergunta Chave
+Que tipo de suporte é oferecido ao usuário para auxiliá-lo na realização das tarefas, especialmente os itens não recorrentes?
+
+*A maior regra para essa meta é: O usuário não deve ser obrigado a reaprender a usar o serviço toda vez que o acessa.*
+
+#### Avaliação
+A capacidade de memorização da plataforma CD-MOJ é boa, permitindo que os usuários relembram procedimentos básicos após um período de inatividade. No entanto, a experiência de memorização não é isenta de problemas. Os usuários enfrentam dificuldades devido a falhas e a falta de suporte direto em tarefas básicas. Apesar de uma vez aprendidos os processos se tornarem mais acessíveis, a presença de inconsistências e a ausência de guias de suporte mais visíveis podem comprometer a eficiência com que os usuários retomam suas atividades na plataforma após pausas prolongadas.
+
+
+### Conclusão
+Neste documento, avaliamos várias metas de usabilidade essenciais para o CD-MOJ, um sistema destinado à avaliação de estudantes. Constatamos se que a plataforma atende bem à meta de Eficácia, executando suas funções conforme o esperado. No entanto, identificamos áreas que necessitam de melhoria significativa em relação às outras metas, especialmente Eficiência, Segurança e Aprendizado.
+
+Áreas de Melhoria:
+
+- Eficiência: Implementar uma barra de pesquisa e filtros avançados ajudaria os usuários a localizar contests de forma mais rápida e eficaz. Isso poderia reduzir o tempo gasto na navegação e melhorar a experiência geral do usuário.
+- Segurança: Para minimizar os erros de submissão, seria útil adicionar etiquetas claras que especifiquem as linguagens de programação aceitas para cada problema. Além disso, poderia ser implementada uma validação no lado do servidor para rejeitar arquivos que não correspondam às especificações requeridas, assim evitando submissões erradas.
+- Aprendizado: Melhorar a visibilidade e o acesso às FAQs durante as sessões ativas poderia ajudar os usuários a compreenderem melhor os processos e erros comuns. Incluir tooltips ou uma seção de ajuda contextual poderia também fornecer orientações imediatas aos usuários conforme eles navegam pela plataforma.
+
+## <a>Referência Bibliográfica</a>
+
+> <a id="FRM1" href="#anchor_1">1.</a> NIELSEN, Jacob. Designing Web Usability: The Practice of Simplicity Peachpit Press, la edição 1999
+
+> <a id="FRM2" href="#anchor_2">2.</a> Diana Fournier. As 6 metas de Usabilidade. MEDIUM, 2016. Disponível em: https://medium.com/vivareal-ux-chapter/as-6-metas-de-usabilidade-9491442fd56a. Acesso em: 21 out. 2023.
+
+
+## <a> Bibliografia </a>
+
+> HENRIQUE, Matheus; FERREIRA, Rafael. Metas de Usabilidade. Repositório do Grupo Bilheteria Digital da disciplina de Interação Humano Computador da Universidade de Brasília, 2023. Disponível em: https://github.com/Interacao-Humano-Computador/2023.1-BilheteriaDigital/blob/main/docs/analise-de-requisitos/metas-usabilidade.md. Acesso em: 13/05/2024.
+
+## <a> Histórico de versão </a>
+|Versão|Data|Data Prevista de Revisão|Descrição|Autor|Revisor|
+| :------: | :----------: |:-----------: | :----------------------: | :---------: |:---------: |
+| `1.0` | 12/05/2024 | 13/05/2024 |Criação da Documentação das Metas de Usabilidade | [Arthur Alves](https://github.com/Arthrok) | Luiz Gustavo e Diego Sousa |
