@@ -1,15 +1,15 @@
 ## Introdução
 
-O propósito desta página é hospedar o vídeo da apresentação da Segunda Entrega. Caso não seja viável assistir ao vídeo diretamente nesta página, por favor, clique no link fornecido para acessá-lo.
+O propósito desta página é hospedar o vídeo da apresentação da Terceira Entrega. Caso não seja viável assistir ao vídeo diretamente nesta página, por favor, clique no link fornecido para acessá-lo.
 
 ## Vídeo de Apresentação
 
-<iframe width="1280" height="720" src="https://www.youtube.com/embed/Wah62a3Ww_s" title="Apresentação Entrega 02 - IHC - Grupo 01 (CDMOJ)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="1280" height="720" src="" title="Apresentação Entrega 03 - IHC - Grupo 01 (CDMOJ)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-## Tabela de Critérios para a entrega 2
-A apresentação objetiva mostrar o que foi feito para a entrega 2, obedecendo aos critérios na Tabela 1 solicitados pelo professor no plano de ensino.
+## Tabela de Critérios para a entrega 3
+A apresentação objetiva mostrar o que foi feito para a entrega 3, obedecendo aos critérios na Tabela 1 solicitados pelo professor no plano de ensino.
 
-Tabela 1: Critérios para a Entrega 2
+<font size="3"><p style="text-align: center"><b>Tabela 1</b> - Critérios para a Entrega 3</p></font>
 
 | Número | Questão | Resposta |
 |:---:|---|---|
@@ -28,15 +28,15 @@ Tabela 1: Critérios para a Entrega 2
 |13|As metas de usabilidade que devem ser alcançadas no projeto?|**Sim**|
 |14|A razão da seleção das metas de usabilidade?|**Sim**|
 
-Fonte: Plano de Ensino da disciplina de Requisitos de Software. BARROS, André.
+<font size="3"><p style="text-align: center"><b>Fonte</b> - Plano de Ensino da disciplina de Requisitos de Software. BARROS, André.</p></font>
 
 ## <a>Bibliografia</a>
+
 > Plano de Ensino da disciplina Interação Humano Computador, Dr. André Barros de Sales. [Plano de Ensino](https://aprender3.unb.br/pluginfile.php/2843624/mod_resource/content/48/Plano_de_Ensino%20FIHC%20012024%20Turma%201.pdf)
 > 
-> Apresentação 3, Bilheteria Digital. Disponível em: <https://interacao-humano-computador.github.io/2023.1-BilheteriaDigital/apresentacao/apresentacao3/>. Acesso em 19 de março de 2024.
+> Apresentação 3, Bilheteria Digital. Disponível em: <https://interacao-humano-computador.github.io/2023.1-BilheteriaDigital/apresentacao/apresentacao3/>. Acesso em 13 de maio de 2024.
 >
-> Apresentação 3, Diário Oficial da União. Disponível em: <https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/apresentacao/apresentacao3/>.  Acesso em 05 de abril de 2024.
-
+> Apresentação 3, Diário Oficial da União. Disponível em: <https://requisitos-de-software.github.io/2024.1-DiarioOficialdaUniao/apresentacao/apresentacao3/>.  Acesso em 13 de maio de 2024.
 
 ## <a>Histórico de Versão</a>
 

@@ -9,7 +9,7 @@ O propósito desta página é hospedar o vídeo da apresentação da Segunda Ent
 ## Tabela de Critérios para a entrega 2
 A apresentação objetiva mostrar o que foi feito para a entrega 2, obedecendo aos critérios na Tabela 1 solicitados pelo professor no plano de ensino.
 
-Tabela 1: Critérios para a Entrega 2
+<font size="3"><p style="text-align: center"><b>Tabela 1</b> - Critérios para a Entrega 2</p></font>
 
 | Número | Questão | Resposta |
 |:---:|---|---|
@@ -34,12 +34,10 @@ Tabela 1: Critérios para a Entrega 2
 | 19     | Uma atividade para cada integrante do grupos que deve estar modelizado em ao menos duas técnicas para especificar as tarefas? <br> • O HTA com diagrama, legenda e representação em tabela. <br> • GOMS (Goals, Operators, Methods, and Selection Rules) representado pelos modelos: KLM, CMNGOMS, CPM-GOMS, CTT | **Sim**  |
 | 20     | Utilizaram alguma técnica para especificar as tarefas?                                                                          |**Sim**|
 
-
-
-
-Fonte: Plano de Ensino da disciplina de Requisitos de Software. BARROS, André.
+<font size="3"><p style="text-align: center"><b>Fonte</b> - Plano de Ensino da disciplina de Requisitos de Software. BARROS, André.</p></font>
 
 ## <a>Bibliografia</a>
+
 > Plano de Ensino da disciplina Interação Humano Computador, Dr. André Barros de Sales. [Plano de Ensino](https://aprender3.unb.br/pluginfile.php/2843624/mod_resource/content/48/Plano_de_Ensino%20FIHC%20012024%20Turma%201.pdf)
 > 
 > Apresentação 2, Bilheteria Digital. Disponível em: <https://interacao-humano-computador.github.io/2023.1-BilheteriaDigital/apresentacao/apresentacao2/>. Acesso em 19 de março de 2024.
