@@ -110,7 +110,7 @@ O cronograma tem como objetivo estruturar todas as atividades a serem conduzidas
     |Princípios Gerais de Projeto|Início dia 07/05 e Fim dia 09/05|Diego Sousa e João Artur|Início dia 07/05 e Fim dia 10/05|Arthur Alves, João Artur e Eric Silveira|13/05|
     |Metas de usabilidade|13/05|Arthur Alves|13/05|Luiz Gustavo e Diego Sousa|13/05|
     |Guia de Estilo|Início dia 10/05 e Fim dia 13/05|Luiz Gustavo|Início dia 10/05 e Fim dia 13/05|Douglas Marinho|13/05|
-    |Características da plataforma para o projeto|Início dia 08/05 e Fim dia 10/05|Eric Silveira|11/05|Arthur Alves, Diego Sousa, Douglas Marinho, Eric Silveira, João Artur, Luiz Gustavo|13/05|
+    |Características da plataforma para o projeto|Início dia 08/05 e Fim dia 10/05|Eric Silveira|11/05|Arthur Alves|13/05|
     |Iteração do Git Pages|Início dia 12/05 e Fim dia 13/05 |Arthur Alves, Diego Sousa, Douglas Marinho, Eric Silveira, João Artur, Luiz Gustavo|Início dia 12/05 e Fim dia 13/05|Arthur Alves, Diego Sousa, Douglas Marinho, Eric Silveira, João Artur, Luiz Gustavo|13/05|
     |Período de gravação da apresentação|13/05|Douglas Marinho|13/05|Eric Silveira|13/05|
     |Correção pós apresentação|Início dia 14/05 e Fim dia 16/05|Arthur Alves, Diego Sousa, Douglas Marinho, Eric Silveira, João Artur, Luiz Gustavo|Início dia 14/04 e Fim dia 17/05|Arthur Alves, Diego Sousa, Douglas Marinho, Eric Silveira, João Artur, Luiz Gustavo|Não há entrega| 
