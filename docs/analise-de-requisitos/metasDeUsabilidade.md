@@ -64,7 +64,7 @@ O CD-MOJ implementa alguns mecanismos de segurança, como o registro das submiss
 <center>
     <figure markdown>
     <font size="3"><p style="text-align: center"><b>Figura 2</b> -  Meta de usabilidade Segurança.</p></font>
-    ![Meta de usabilidade Segurança](){width: 300}
+    ![Meta de usabilidade Segurança](./assets/metas-fig3.jpg){width: 300}
     </figure>
 
   Fonte: [CD-MOJ](https://moj.naquadah.com.br/cgi-bin/index.sh).
