@@ -28,8 +28,9 @@ nav:
       - Inicio: index.md
       - Licença: licenca.md
   - Apresentações:
-      - Apresentação 1: apresentacao/apresentacao1.md
-      - Apresentação 2: apresentacao/apresentacao2.md
+      - Apresentação 1: apresentacao/apresentacao01.md
+      - Apresentação 2: apresentacao/apresentacao02.md
+      - Apresentação 3: apresentacao/apresentacao03.md
   - Reuniões:
       - Reunião 1: reuniao/reuniao01.md
       - Reunião 2: reuniao/reuniao02.md
