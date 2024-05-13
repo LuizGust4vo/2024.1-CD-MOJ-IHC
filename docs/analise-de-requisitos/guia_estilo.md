@@ -51,45 +51,45 @@ Os elementos sobre disposição espacial e grid, janelas, tipografia, logos, cor
 <figure markdown><p style="text-align: center">Figura 1 - Elementos da Interface.</p>
 <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fdesign%2FbwoKZ2iiQ7sG0mmyLaCTlv%2FGuia-De-Estilo-CD-MOJ%3Fnode-id%3D0%253A1%26t%3DcRPkvMwcXPlMNW8L-1" allowfullscreen></iframe><figcaption> Fonte: [Douglas Marinho](https://github.com/M4RINH0), 2024.</figcaption></figure>
 
-## Elementos de Interação
+## <a> Elementos de Interação </a>
 
-### Estilo de Interação
+### <a> Estilo de Interação </a>
 
 Os usuários podem interagir com o site na seleção de contests, login, submissão de problemas, confirmação de resultado e score. Os quais são feitos através de botões e/ou _hiperlinks_.
 
-### Seleção de Estilos
+### <a> Seleção de Estilos </a>
 
 A escolha do estilo do CD-MOJ tem a interface simples e minimalista, focada nos objetivos de encontrar um contest e submeter seus codigos de resposta, tanto que suas páginas não destoam muito umas das outras, com botões semelhantes.
 
-### Aceleradores (Teclas de Atalho)
+### <a> Aceleradores (Teclas de Atalho) </a>
 
 No site não foram encontradas teclas de atalho.
 
-## Elementos de Ação
+## <a> Elementos de Ação </a>
 
-### Preenchimento de Campos
+### <a> Preenchimento de Campos </a>
 
 Os campos de preenchimento disponíveis na interface do sistema exigem que o usuário insira informações manualmente, de acordo com suas necessidades e objetivos. Esses campos podem incluir a caixa de texto para login e senha, que são exemplos de campos que exigem entrada de texto e também caixa de seleção de arquivos locais para envio de codigos para submissão.
 
-### Seleção
+### <a> Seleção </a>
 
 Há alguns elementos de seleção como por exemplo seleção de problema para envio de arquivo, seleção do contest.
 
-### Ativação
+### <a> Ativação </a>
 
 Incluem botões, links e outros elementos clicáveis. No site encontramos elementos como botões de redirecionamento de orgãos que auxiliam e hosteam e _hyperlinks_.
 
-## Vocabulários e padrões
+## <a> Vocabulários e padrões </a>
 
-### Tipos de Tela
+### <a> Tipos de Tela </a>
 
 As telas seguem um padrão simples e minimalista, elas não destoam muito uma das outras, seguindo a mesma identidade visual.
 
-### Sequência de Diálogos
+### <a> Sequência de Diálogos </a>
 
 As sequências seguem um padrão, os botões de confirmação e cancelamento são semelhantes em páginas diferentes.
 
-## Propostas de Intervenção
+## <a> Propostas de Intervenção </a>
 
 As propostas de intervenção foram desenvolvidas com base nas [Metas de Usabilidade](https://interacao-humano-computador.github.io/2024.1-CD-MOJ/analise-de-requisitos/metasDeUsabilidade/) e nos [Princípios Gerais](https://interacao-humano-computador.github.io/2024.1-CD-MOJ/analise-de-requisitos/principios/) definidos para o projeto da Bilheteria Digital. Essas diretrizes foram utilizadas como referência para identificar áreas de melhoria e sugerir mudanças que visam aprimorar a usabilidade e a experiência do usuário.
 
@@ -114,4 +114,5 @@ Outros aspecto importante são o equilíbrio entre o controle e liberdade do usu
 | Versão| Data | Data Prevista de Revisão| Descrição  | Autor(es)  | Revisor(es) |
 | ------- | ------ | ------ | ------- | -------- | -------- |
 | `1.0` | 10/05/2024 | 11/05/2024 | Criação da introdução do guia de estilo | [Luiz Gustavo](https://github.com/LuizGust4vo) | [Douglas Marinho](https://github.com/M4RINH0) |
-| `1.1` | 10/05/2024 | 11/05/2024 | Adição dos resultados da analise | [Douglas Marinho](https://github.com/M4RINH0) | [Diego Sousa](https://github.com/DiegoSousaLeite) |
+| `1.1` | 13/05/2024 | 11/05/2024 | Adição dos resultados da analise | [Douglas Marinho](https://github.com/M4RINH0) | [Diego Sousa](https://github.com/DiegoSousaLeite) |
+| `1.2` | 13/05/2024 | 11/05/2024 | adicionar hyperlink em titulos | [Douglas Marinho](https://github.com/M4RINH0) | [Diego Sousa](https://github.com/DiegoSousaLeite) |
