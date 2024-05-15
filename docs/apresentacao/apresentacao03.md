@@ -4,7 +4,7 @@ O propósito desta página é hospedar o vídeo da apresentação da Terceira En
 
 ## Vídeo de Apresentação
 
-<iframe width="1280" height="720" src="" title="Apresentação Entrega 03 - IHC - Grupo 01 (CDMOJ)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="1280" height="720" src="https://www.youtube.com/embed/_LB2xDB-MRs" title="Apresentação 3ª Entrega - Grupo 01 (CD-MOJ) - Interação Humano-Computador" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## Tabela de Critérios para a entrega 3
 A apresentação objetiva mostrar o que foi feito para a entrega 3, obedecendo aos critérios na Tabela 1 solicitados pelo professor no plano de ensino.
