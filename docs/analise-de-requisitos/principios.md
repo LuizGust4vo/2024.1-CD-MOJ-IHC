@@ -71,6 +71,9 @@ No exemplo do site analisado, uma violação desse princípio pode ser observada
 <p style="text-align: center">Figura 6 - Promoção da Eficiência do Usuário</p>
 <figure markdown>![correspondencia](../assets/promocaoEficiencia.png){width: 300}<figcaption>Fonte: [CD-MOJ](https://moj.naquadah.com.br/cgi-bin/index.sh).</figcaption></figure>
 
+### <a> Solução </a>
+Simplificar o processo de submissão de tarefas, reduzindo o número de etapas necessárias e eliminando redundâncias. Introduzir atalhos e opções de submissão rápida para usuários frequentes.
+
 ## <a> Antecipação </a>
 
 ### <a> Definição </a>
@@ -81,6 +84,9 @@ Uma violação do princípio de antecipação ocorre quando o sistema falha em o
 
 <p style="text-align: center">Figura 7 - Violação Antecipação</p>
 <figure markdown>![correspondencia](../assets/antecipacao.png){width: 300}<figcaption>Fonte: [CD-MOJ](https://moj.naquadah.com.br/cgi-bin/index.sh).</figcaption></figure>
+
+### <a> Solução </a>
+Melhorar as mensagens de erro para que sejam mais detalhadas e orientativas, ajudando os usuários a compreender e resolver os problemas de forma mais eficaz. Implementar sugestões automáticas para corrigir erros comuns.
 
 ## <a> Visibilidade e Reconhecimento </a>
 
@@ -94,6 +100,9 @@ Na página de estatísticas, uma violação significativa do princípio de Visib
 <p style="text-align: center">Figura 8 - Violação Visibilidade e Reconhecimento</p>
 <figure markdown>![correspondencia](../assets/visibilidadeReconhecimento.png){width: 300}<figcaption>Fonte: [CD-MOJ](https://moj.naquadah.com.br/cgi-bin/index.sh).</figcaption></figure>
 
+### <a> Solução </a>
+Tornar os botões importantes visíveis e acessíveis diretamente na interface principal. Evitar esconder funcionalidades críticas em menus ou submenus, facilitando o acesso dos usuários.
+
 ## <a> Conteúdo Relevante e Expressão Adequada </a>
 
 ### <a> Definição </a>
@@ -105,6 +114,9 @@ Uma clara violação deste princípio acontece quando o sistema apresenta inform
 <p style="text-align: center">Figura 9 - Violação Conteúdo Relevante e Expressão Adequada</p>
 <figure markdown>![correspondencia](../assets/expressaoAdequada.png){width: 300}<figcaption>Fonte: [CD-MOJ](https://moj.naquadah.com.br/cgi-bin/index.sh).</figcaption></figure>
 
+### <a> Solução </a>
+Simplificar a linguagem usada na interface, oferecendo definições e explicações contextuais para termos técnicos. Utilizar uma linguagem clara e acessível para todos os níveis de usuários.
+
 ## <a> Projeto para Erros </a>
 
 ### <a>  Definição </a>
@@ -115,6 +127,9 @@ Um exemplo de violação deste princípio envolve várias páginas que contêm l
 
 <p style="text-align: center">Figura 10 - Violação Projeto para Erros</p>
 <figure markdown>![correspondencia](../assets/projetoErro.png){width: 300}<figcaption>Fonte: [CD-MOJ](https://moj.naquadah.com.br/cgi-bin/index.sh).</figcaption></figure>
+
+### <a> Solução </a>
+Verificar e corrigir todos os links para garantir que direcionem para páginas válidas. Implementar uma página de erro personalizada que ofereça opções úteis para o usuário caso ele encontre um link quebrado.
 
 ## <a> Referência Bibliográfica </a>
 
@@ -138,3 +153,4 @@ Um exemplo de violação deste princípio envolve várias páginas que contêm l
 | `1.1` | 08/05/2024 | 10/05/2024 | Implementação de principios. | [Diego Sousa](https://github.com/DiegoSousaLeite)| [Arthur Alves](https://github.com/Arthrok) e [Eric Silveira](https://github.com/ericbky)  |
 | `1.2` | 09/05/2024 | 10/05/2024 | Implementação dos demais principios. | [João Artur](https://github.com/joao-artl)| [Arthur Alves](https://github.com/Arthrok) e [Eric Silveira](https://github.com/ericbky)  |
 | `1.3` | 13/05/2024 | 13/05/2024 | Melhoria do estilo da página. | [Diego Sousa](https://github.com/DiegoSousaLeite)| [Arthur Alves](https://github.com/Arthrok) e [Eric Silveira](https://github.com/ericbky)  |
+| `1.4` | 14/05/2024 | 15/05/2024 | Adicionando Soluções | [João Artur](https://github.com/joao-artl)|[Diego Sousa](https://github.com/DiegoSousaLeite) |
