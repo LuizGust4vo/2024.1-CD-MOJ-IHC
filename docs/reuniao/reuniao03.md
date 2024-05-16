@@ -1,6 +1,6 @@
 # Ata da reunião de IHC do dia 15/04
 
-## 1. Data, Horário, Duração e Local
+## <a>1. Data, Horário, Duração e Local</a>
 As informações sobre data, horário, duração e local estão detalhadas a seguir:
 
 - Data: 15/04/2024
@@ -8,7 +8,7 @@ As informações sobre data, horário, duração e local estão detalhadas a seg
 - Duração aproximada: 10 minutos
 - Local: Microsoft Teams, Online
 
-## 2. Participantes
+## <a>2. Participantes</a>
 Na reunião, todos os integrantes do grupo participaram, sendo então os presentes:
 
 - Arthur Melo
@@ -18,12 +18,12 @@ Na reunião, todos os integrantes do grupo participaram, sendo então os present
 - João Artur
 - Luiz Gustavo
 
-## 3. Pontos de Discussão Importantes
+## <a>3. Pontos de Discussão Importantes</a>
 Na planning de segunda-feira, primeiramente, discutimos sobre as correções necessárias do Git Pages.
 
 Também alinhamos as ideias e organizamos as tarefas para a entrega da "Etapa 2 - Perfil dos Usuários".
 
-## 4. Divisão das atividades
+## <a>4. Divisão das atividades</a>
 
 Segue na tabela abaixo a divisão das atividades entre os integrantes do grupo, com base na disponibilidade e cronograma da disciplina.
 
@@ -46,7 +46,7 @@ _Fonte: [Luiz Gustavo](https://github.com/LuizGust4vo)_
 Para as entregas dessa etapa, iremos nos basear no livro da disciplina de IHC: Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021)
 Interação Humano-Computador e Experiência do usuário. Autopublicação. ISBN: 978-65-00-19677-1. Com foco nos capítulos 7. Identificação de Necessidades dos Usuários e Definição dos Requisitos de IHC e 8. Organização do Espaço de Problema.
 
-## 5. Gravação da Reunião
+## <a>5. Gravação da Reunião</a>
 <iframe src="" width="640" height="480" allow="autoplay"></iframe>
 
 ## <a> Histórico de Versão </a>

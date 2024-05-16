@@ -1,6 +1,6 @@
 # Ata da reunião de IHC do dia 25/03
 
-## 1. Data, Horário, Duração e Local
+## <a>1. Data, Horário, Duração e Local</a>
 As informações sobre data, horário, duração e local estão detalhadas a seguir:
 
 - Data: 25/03/2024
@@ -8,7 +8,7 @@ As informações sobre data, horário, duração e local estão detalhadas a seg
 - Duração: 45 minutos
 - Local: Microsoft Teams, Online
 
-## 2. Participantes
+## <a>2. Participantes</a>
 Na reunião, todos os integrantes do grupo participaram, sendo então os presentes:
 
 - Arthur Melo
@@ -18,7 +18,7 @@ Na reunião, todos os integrantes do grupo participaram, sendo então os present
 - João Artur
 - Luiz Gustavo
 
-## 3. Pontos de Discussão Importantes
+## <a>3. Pontos de Discussão Importantes</a>
 Na primeira reunião com os integrantes, foram apresentadas as tarefas definidas para cada membro com base no cronograma da disciplina. Também foi discutido qual seriam os melhores dias e horários para realizar as reuniões. Foram apresentados alguns sites para discutirmos, veja abaixo.
 
 <center>
@@ -56,7 +56,7 @@ _Fonte: [Luiz Gustavo](https://github.com/LuizGust4vo)_
 
 </center>
 
-## 4. Decisões
+## <a>4. Decisões</a>
 A equipe definiu que as reuniões ocorrerão segunda (planning), quarta (daily) e sexta (review), com base no resultado do heatmap, com o horário podendo variar de acordo com a disponibilidade de todos.
 
 Dessa forma, estão descritas na Tabela 3 as issues para o começo da disciplina, onde cada tarefa tem o seu identificador para a rastreabilidade, sendo n o número da tarefa, e o(s) integrante(s) responsável(eis) pela realização da tarefa.
@@ -83,7 +83,7 @@ Também foi decidido, por votação, o site que será trabalhado, dos 6 membros 
 
 Caso a primeira opção de site não dê certo por algum motivo, decidimos escolher uma segunda opção, sendo assim, 4 votaram a favor do BRB Mobilidade, 1 a favor do Sigaa e 1 a favor do PAPEM. Decidido assim o BRB Mobilidade como segunda opção.   
 
-## 5. Gravação da Reunião
+## <a>5. Gravação da Reunião</a>
 <iframe src="https://drive.google.com/file/d/1zekxTIHLdGQ0s6xEw65QPsaKjAQLCUld/preview" width="640" height="480" allow="autoplay"></iframe>
 
 ## <a> Histórico de Versão </a>

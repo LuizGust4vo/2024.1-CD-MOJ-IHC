@@ -1,12 +1,12 @@
-## Introdução
+## <a>Introdução</a>
 
 O propósito desta página é hospedar o vídeo da apresentação da Terceira Entrega. Caso não seja viável assistir ao vídeo diretamente nesta página, por favor, clique no link fornecido para acessá-lo.
 
-## Vídeo de Apresentação
+## <a>Vídeo de Apresentação</a>
 
 <iframe width="1280" height="720" src="https://www.youtube.com/embed/_LB2xDB-MRs" title="Apresentação 3ª Entrega - Grupo 01 (CD-MOJ) - Interação Humano-Computador" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-## Tabela de Critérios para a entrega 3
+## <a>Tabela de Critérios para a entrega 3</a>
 A apresentação objetiva mostrar o que foi feito para a entrega 3, obedecendo aos critérios na Tabela 1 solicitados pelo professor no plano de ensino.
 
 <font size="3"><p style="text-align: center"><b>Tabela 1</b> - Critérios para a Entrega 3</p></font>

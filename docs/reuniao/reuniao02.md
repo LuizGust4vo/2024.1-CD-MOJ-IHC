@@ -1,6 +1,6 @@
 # Ata da reunião de IHC do dia 02/04
 
-## 1. Data, Horário, Duração e Local
+## <a>1. Data, Horário, Duração e Local</a>
 As informações sobre data, horário, duração e local estão detalhadas a seguir:
 
 - Data: 02/04/2024
@@ -8,7 +8,7 @@ As informações sobre data, horário, duração e local estão detalhadas a seg
 - Duração: 15 minutos
 - Local: Microsoft Teams, Online
 
-## 2. Participantes
+## <a>2. Participantes</a>
 Na reunião, todos os integrantes do grupo participaram, sendo então os presentes:
 
 - Arthur Melo
@@ -18,7 +18,7 @@ Na reunião, todos os integrantes do grupo participaram, sendo então os present
 - João Artur
 - Luiz Gustavo
 
-## 3. Pontos de Discussão Importantes
+## <a>3. Pontos de Discussão Importantes</a>
 Na segunda reunião com os integrantes, foram feitas revisões e correções nos históricos de versões e no GitPages.
 
 Foi feito um planejamento para a próxima apresentação, com base na tabela apresentada na aula do dia 02/04.
@@ -40,7 +40,7 @@ _Fonte: [Luiz Gustavo](https://github.com/LuizGust4vo)_
 
 </center>
 
-## 4. Decisões
+## <a>4. Decisões</a>
 Decidimos mudar a posição do histórico de versão para o final da página e adicionar uma nova coluna de data de revisão. 
 
 Para a organização das tarefas do grupo, decidimos continuar utilizando a metodologia Kanban, porém, vamos fazer isso pela aba de Issues no GitHub.
@@ -67,7 +67,7 @@ _Fonte: [Luiz Gustavo](https://github.com/LuizGust4vo)_
 
 </center>
 
-## 5. Gravação da Reunião
+## <a>5. Gravação da Reunião</a>
 <iframe src="https://drive.google.com/file/d/1VRC8MYyOAhqVH1EViY6ePl3KitEpZ8Up/preview" width="640" height="480" allow="autoplay"></iframe>
 
 ## <a> Histórico de Versão </a>
