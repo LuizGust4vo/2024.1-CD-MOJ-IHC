@@ -4,7 +4,7 @@
 
 O cronograma tem como objetivo estruturar todas as atividades a serem conduzidas durante o curso de Interação Humano-Computador. Dessa forma, as tarefas foram agrupadas de acordo com as etapas em que devem ser executadas. É importante ressaltar que os cronogramas serão revisados e atualizados conforme necessário durante o curso.
 
-## Etapa 1 - Planejamento do Projeto
+## <a>Etapa 1 - Planejamento do Projeto</a>
 
 === "Cronograma Planejado"
     Na Tabela 1, tem-se o cronograma planejado para todas as atividades da primeira entrega.
@@ -44,7 +44,7 @@ O cronograma tem como objetivo estruturar todas as atividades a serem conduzidas
 
     <font size="3"><p style="text-align: center">Fonte: [João Artur](https://github.com/joao-artl).</p></font>
 
-## Etapa 2 - Perfil dos Usuários
+## <a>Etapa 2 - Perfil dos Usuários</a>
 
 Na Tabela 3, tem-se o cronograma planejado para todas as atividades da segunda entrega.
 
@@ -91,7 +91,7 @@ Na Tabela 4, está explicitado o cronograma executado das atividades da segunda 
 
 -->
 
-## Etapa 3 - Princípios gerais do projeto
+## <a>Etapa 3 - Princípios gerais do projeto</a>
 === "Cronograma Planejado"
     Na Tabela 5, tem-se o cronograma planejado para todas as atividades da terceira entrega.
 
@@ -128,7 +128,7 @@ Na Tabela 4, está explicitado o cronograma executado das atividades da segunda 
 
 
 
-## Etapa 4 - Planejamento da avaliação do Storyboard
+## <a>Etapa 4 - Planejamento da avaliação do Storyboard</a>
 
 Na Tabela 7, tem-se o cronograma planejado para todas as atividades da quarta entrega.
 
@@ -158,7 +158,7 @@ Na Tabela 8, está explicitado o cronograma executado das atividades da quarta e
 <font size="3"><p style="text-align: center">Fonte: Autores.</p></font>
 -->
 
-## Etapa 5 - Relato dos resultados do StoryBoard e da Análise de tarefas
+## <a>Etapa 5 - Relato dos resultados do StoryBoard e da Análise de tarefas</a>
 
 Na Tabela 9, tem-se o cronograma planejado para todas as atividades da quinta entrega.
 
@@ -187,7 +187,7 @@ Na Tabela 10, está explicitado o cronograma executado das atividades da quinta 
 <font size="3"><p style="text-align: center">Fonte: Autores.</p></font>
 -->
 
-## Etapa 6.1 - Verificação dos Artefatos 1
+## <a>Etapa 6.1 - Verificação dos Artefatos 1</a>
 
 Na Tabela 11, tem-se o cronograma planejado para todas as atividades da primeira metade da sexta entrega.
 
@@ -214,7 +214,7 @@ Na Tabela 12, está explicitado o cronograma executado das atividades da primeir
 <font size="3"><p style="text-align: center">Fonte: Autores.</p></font>
 -->
 
-## Etapa 6.2 - Verificação dos Artefatos 2
+## <a>Etapa 6.2 - Verificação dos Artefatos 2</a>
 
 Na Tabela 13, tem-se o cronograma planejado para todas as atividades da segunda metade da sexta entrega.
 
@@ -241,7 +241,7 @@ Na Tabela 14, está explicitado o cronograma executado das atividades da segunda
 <font size="3"><p style="text-align: center">Fonte: Autores.</p></font>
 -->
 
-## Etapa 7 - Relato do Protótipo de Papel
+## <a>Etapa 7 - Relato do Protótipo de Papel</a>
 
 Na Tabela 15, tem-se o cronograma planejado para todas as atividades da sétima entrega.
 
@@ -270,7 +270,7 @@ Na Tabela 16, está explicitado o cronograma executado das atividades da sétima
 <font size="3"><p style="text-align: center">Fonte: Autores.</p></font>
 -->
 
-## Etapa 8 - Relato do Protótipo de alta fidelidade
+## <a>Etapa 8 - Relato do Protótipo de alta fidelidade</a>
 
 Na Tabela 17, tem-se o cronograma planejado para todas as atividades da oitava entrega.
 
