@@ -32,45 +32,45 @@ O resultado do questionário reflete as respostas obtidas de grupos específicos
 Abaixo, as figuras de 1 a 5 mostram os resultados do questionário:
 
 </br>
-Figura 01: Primeira parte dos resultados do relatório do Perfil de Usuário
+<center>Figura 01: Primeira parte dos resultados do relatório do Perfil de Usuário</center>
 
 ![Relatori01](https://github.com/Interacao-Humano-Computador/2024.1-CD-MOJ/blob/git-pages/assets/images/relatorio01.png?raw=true)
 
-Fonte: [Eric Silveira](https://github.com/ericbky)
+<center>Fonte: [Eric Silveira](https://github.com/ericbky)</center>
 
 </br>
-Figura 02: Segunda parte dos resultados do relatório do Perfil de Usuário
+<center>Figura 02: Segunda parte dos resultados do relatório do Perfil de Usuário</center>
 
 ![Relatori02](https://github.com/Interacao-Humano-Computador/2024.1-CD-MOJ/blob/git-pages/assets/images/relatorio02.png?raw=true)
 
 Fonte: [Eric Silveira](https://github.com/ericbky)
 
 </br>
-Figura 03: Terceira parte dos resultados do relatório do Perfil de Usuário
+<center>Figura 03: Terceira parte dos resultados do relatório do Perfil de Usuário</center>
 
 ![Relatori03](https://github.com/Interacao-Humano-Computador/2024.1-CD-MOJ/blob/git-pages/assets/images/relatorio03.png?raw=true)
 
-Fonte: [Eric Silveira](https://github.com/ericbky)
+<center>Fonte: [Eric Silveira](https://github.com/ericbky)</center>
 
 </br>
-Figura 04: Terceira parte dos resultados do relatório do Perfil de Usuário
+<center>Figura 04: Terceira parte dos resultados do relatório do Perfil de Usuário</center>
 
 ![Relatori04](https://github.com/Interacao-Humano-Computador/2024.1-CD-MOJ/blob/git-pages/assets/images/relatorio04.png?raw=true)
 
-Fonte: [Eric Silveira](https://github.com/ericbky)
+<center>Fonte: [Eric Silveira](https://github.com/ericbky)</center>
 
 </br>
-Figura 05: Terceira parte dos resultados do relatório do Perfil de Usuário
+<center>Figura 05: Terceira parte dos resultados do relatório do Perfil de Usuário</center>
 
 ![Relatori05](https://github.com/Interacao-Humano-Computador/2024.1-CD-MOJ/blob/git-pages/assets/images/relatorio05.png?raw=true)
 
-Fonte: [Eric Silveira](https://github.com/ericbky)
+<center>Fonte: [Eric Silveira](https://github.com/ericbky)</center>
 
-### Conclusão
+### <a>Conclusão</a>
 
 Contudo, após a análise desses resultados obtidos do questionário e dos documentos disponibilizados como o relatório, conforme a tabela 1, concluímos que:
 
-### Resultados do Questionário
+### <a>Resultados do Questionário</a>
 <font size="3"><p style="text-align: center"><b>Tabela 1</b> - Análise da Pesquisa</p></font>
 
 | Aspecto                         | Resultado                                                          |
@@ -86,16 +86,13 @@ Contudo, após a análise desses resultados obtidos do questionário e dos docum
 <font size="3"><p style="text-align: center"><b>Fonte:</b> Eric Silveira</p></font>
 
 
-Contudo:
+## <a>Contudo:</a>
 
 O CD-MOJ é predominantemente usado por jovens entre 18 e 34 anos, majoritariamente estudantes de graduação, que utilizam a plataforma principalmente para atividades acadêmicas e preparação para competições de programação. A maioria dos usuários acessa o CD-MOJ esporadicamente ou semanalmente, e reportam uma experiência geralmente satisfatória, indicando que a plataforma é eficaz em atender suas necessidades de programação.
 
 Os usuários valorizam a usabilidade do CD-MOJ, com muitos expressando satisfação completa. As funcionalidades mais utilizadas estão focadas em aprimorar habilidades de programação, alinhadas com os objetivos acadêmicos e competitivos dos usuários.
 
 O entendimento do perfil dos usuários do CD-MOJ permite direcionar melhorias específicas para aprimorar a experiência e utilidade da plataforma, garantindo que ela continue sendo uma ferramenta valiosa para o desenvolvimento de habilidades de programação.
-
-
-
 
 
 ## <a>Referência Bibliográfica</a>
@@ -110,7 +107,7 @@ O entendimento do perfil dos usuários do CD-MOJ permite direcionar melhorias es
 
 > <a id="FRM5" href="#anchor_5">5.</a> Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, capítulo 7, tópico 7.5 Como Coletar Dados dos Usuários?, página 144, G. D. J. (2021) *Interação Humano-Computador e Experiência do usuário.* Autopublicação. ISBN: 978-65-00-19677-1.
 
-## Histórico de versão
+## <a>Histórico de versão</a>
 |Versão|Data|Data Prevista de Revisão|Descrição|Autor|Revisor|
 | :------: | :----------: |:-----------: | :----------------------: | :---------: |:---------: |
 | `1.0` | 01/05/2024 | 02/05/2024 |Criação da Documentação do Perfil dos Usuários | [Arthur Alves](https://github.com/Arthrok) e [Eric Silveira](https://github.com/ericbky) | Luiz Gustavo |

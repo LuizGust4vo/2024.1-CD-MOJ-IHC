@@ -48,7 +48,7 @@ Para garantir uma experiência de usuário consistente e segura, o sistema CD-MO
 > <a id="FRM3" href="#anchor_3">3.</a> Ribas, Bruno. Contest-Driven Meta Online Judge. Disponível em: <https://moj.naquadah.com.br/about.shtml>. Acesso em 08/05/2024.
 
 
-## Histórico de versão
+## <a>Histórico de versão</a>
 |Versão|Data|Data Prevista de Revisão|Descrição|Autor|Revisor|
 | :------: | :----------: |:-----------: | :----------------------: | :---------: |:---------: |
 | `1.0` | 08/05/2024 | 09/05/2024 |Criação da documentação das Características da plataforma | [Eric Silveira](https://github.com/ericbky) | [Arthur Alves](https://github.com/Arthrok) |

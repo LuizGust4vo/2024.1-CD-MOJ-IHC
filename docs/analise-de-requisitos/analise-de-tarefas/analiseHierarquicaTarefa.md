@@ -1,4 +1,4 @@
-# <a>Análise Hierárquica de Tarefas (HTA)</a>
+# Análise Hierárquica de Tarefas (HTA)
 
 ## <a>Introdução</a>
 

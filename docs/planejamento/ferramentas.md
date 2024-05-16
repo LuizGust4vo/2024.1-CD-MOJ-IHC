@@ -1,32 +1,32 @@
 # Ferramentas
 
-## Introdução
+## <a>Introdução</a>
 
 <p style="text-align: justify;">&emsp;&emsp;Para que o projeto seja concluído com sucesso, foram utilizadas algumas ferramentas computacionais com a finalidade de facilitar a organização e gerenciamento da equipe, além da produção dos artefatos. As ferramentas selecionadas para a realização do projeto são apresentadas na Tabela 1.</p>
 
-## Ferramentas Utilizadas
+## <a>Ferramentas Utilizadas</a>
 
 <center>
 
 **Tabela 1** - Ferramentas Utilizadas no Projeto
 
-|                                                                                                                                                                                                       | Ferramenta                | Finalidade                                                                                                  |
+|      | Ferramenta   | Finalidade     |
 | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | ------------------------- | ----------------------------------------------------------------------------------------------------------- |
-| ![Logo do GitHub](../assets/ferramentas/github.png#only-light){: style="height:100px;width:100px"}![Logo do GitHub](../assets/ferramentas/github.png#only-dark){: style="height:100px;width:100px"} | GitHub                    | Organizar, versionar e documentar artefatos produzidos para o projeto.<a id="anchor_1" href="#FRM1">^1^</a> |
-|                                                    ![Logo do Microsoft Teams](../assets/ferramentas/teams.png){: style="height:87px;width:100px"}                                                     | Microsoft Teams           | Realizações de reuniões e gravações de apresentações.<a id="anchor_2" href="#FRM2">^2^</a>                  |
-|                                                          ![Logo do Figma](../assets/ferramentas/figma.png){: style="height:94px;width:63px"}                                                          | Figma                     | Produção de artefatos gráficos.<a id="anchor_3" href="#FRM3">^3^</a>                                        |
-|                                                                          ![Logo do MkDocs](../assets/ferramentas/mkdocs.png)                                                                          | MkDocs                    | Criação das páginas de documentação.<a id="anchor_4" href="#FRM4">^4^</a>                                   |
-|                                                   ![Logo do Visual Studio Code](../assets/ferramentas/vscode.png){: style="height:85px;width:85px"}                                                   | Visual Studio Code        | Edição dos arquivos de documentação. <a id="anchor_5" href="#FRM5">^5^</a>                                  |
-|                                                       ![Logo do WhatsApp](../assets/ferramentas/whatsapp.png){: style="height:85px;width:85px"}                                                       | WhatsApp                  | Utilizado como principal canal de comunicação. <a id="anchor_6" href="#FRM6">^6^</a>                        |
-|                                                        ![Logo do Youtube](../assets/ferramentas/youtube.png){: style="height:85px;width:95px"}                                                        | YouTube                   | Hospedagem de vídeos produzidos. <a id="anchor_7" href="#FRM7">^7^</a>                                      |
-|                                                   ![Logo do Google Planilhas](../assets/ferramentas/gsheets.png){: style="height:94px;width:72px"}                                                    | Google Planilhas          | Criação de planilhas relacionadas ao cronograma e horários. <a id="anchor_8" href="#FRM8">^8^</a>           |                        |                                   |
+| ![Logo do GitHub](../assets/ferramentas/github.png#only-light){: style="height:100px;width:100px"}![Logo do GitHub](../assets/ferramentas/github.png#only-dark){: style="height:100px;width:100px"} | GitHub| Organizar, versionar e documentar artefatos produzidos para o projeto.<a id="anchor_1" href="#FRM1">^1^</a> |
+|            ![Logo do Microsoft Teams](../assets/ferramentas/teams.png){: style="height:87px;width:100px"}| Microsoft Teams           | Realizações de reuniões e gravações de apresentações.<a id="anchor_2" href="#FRM2">^2^</a>     |
+|     ![Logo do Figma](../assets/ferramentas/figma.png){: style="height:94px;width:63px"}     | Figma | Produção de artefatos gráficos.<a id="anchor_3" href="#FRM3">^3^</a>|
+| ![Logo do MkDocs](../assets/ferramentas/mkdocs.png) | MkDocs| Criação das páginas de documentação.<a id="anchor_4" href="#FRM4">^4^</a>  |
+|           ![Logo do Visual Studio Code](../assets/ferramentas/vscode.png){: style="height:85px;width:85px"}           | Visual Studio Code        | Edição dos arquivos de documentação. <a id="anchor_5" href="#FRM5">^5^</a> |
+|  ![Logo do WhatsApp](../assets/ferramentas/whatsapp.png){: style="height:85px;width:85px"}  | WhatsApp     | Utilizado como principal canal de comunicação. <a id="anchor_6" href="#FRM6">^6^</a>    |
+|   ![Logo do Youtube](../assets/ferramentas/youtube.png){: style="height:85px;width:95px"}   | YouTube      | Hospedagem de vídeos produzidos. <a id="anchor_7" href="#FRM7">^7^</a>     |
+|           ![Logo do Google Planilhas](../assets/ferramentas/gsheets.png){: style="height:94px;width:72px"}            | Google Planilhas          | Criação de planilhas relacionadas ao cronograma e horários. <a id="anchor_8" href="#FRM8">^8^</a>           |
 
 
 _Fonte: [Douglas Marinho](https://github.com/M4RINH0)_
 
 </center>
 
-## Bibliografia
+## <a>Bibliografia</a>
 
 > <a id="FRM1" href="#anchor_1">1.</a> GitHub. Disponível em: [https://docs.github.com/pt](). Acesso em: 21 de abr. de 2023.
 >

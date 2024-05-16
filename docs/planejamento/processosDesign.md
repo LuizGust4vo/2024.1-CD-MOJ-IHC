@@ -1,15 +1,15 @@
 # Processos de Design
 
-## Introdução
+## <a>Introdução</a>
 
 <div style="text-align: justify">Antes de adentrarmos no processo de design, é fundamental compreender o que design representa. Segundo Barbosa e Silva (2021, p.107)<a id="anchor_1" href="#REF1"><sup>1<sup></a>, design é um processo composto por três atividades primordiais: análise da situação atual (identificação de um problema), síntese de uma intervenção e avaliação da nova situação (da intervenção).</div>
 
 <br>Os processos de design, portanto, são métodos que permitem a execução dessas atividades de maneira sistemática e iterativa, visando desenvolver soluções que atendam às demanda dos usuários. Dentre as várias técnicas disponíveis, destacam-se quatro principais: ciclo de vida simples, ciclo de vida em estrela, engenharia de usabilidade de Nielsen e engenharia de usabilidade de Mayhew.
 <br>
-## Modelo de Design
+## <a>Modelo de Design</a>
 <div style="text-align: justify">É importante ressaltar que o modelo de design adotado pelo grupo foi o Ciclo de Vida de Mayhew. No entanto, neste documento serão explorados os quatro principais processos de design, discutindo como podem ser aplicados para propor intervenções eficazes na resolução de problemas, bem como a motivação por trás da escolha do grupo para o projeto.</div>
 
-## Projeto de Design
+## <a>Projeto de Design</a>
 
 <div style="text-align: justify">O projeto de Design de Interação Humano-Computador aborda três atividades básicas: análise, síntese e avaliação. A análise visa estudar e interpretar uma situação, planejando e executando intervenções, cujos efeitos são verificados durante a etapa de síntese, e posteriormente avaliados. Uma intervenção representa uma solução para um problema identificado e pode ser avaliada em todas as suas etapas, desde a concepção até após a implementação.</div>
 <br>
@@ -17,9 +17,9 @@
 <br/>
 <div style="text-align: justify">Para atender ao princípio do foco no usuário, é essencial que o designer estude o perfil dos usuários do sistema. O processo deve permitir a realização de experimentos para coletar dados sobre a performance e as reações dos usuários ao utilizar o sistema. Além disso, as etapas do processo de design podem ser repetidas conforme surgem novas necessidades, garantindo a adaptabilidade e a eficácia das soluções propostas.</div>
 
-## Modelos
+## <a>Modelos</a>
 
-### Ciclo de Vida Simples
+### <a>Ciclo de Vida Simples</a>
 
 Proposto por Preece, Sharp e Rogers. Esse modelo se concentra em quatro atividades: análise, design, implementação e avaliação. Conforme a imagem a seguir:
 
@@ -31,7 +31,7 @@ Proposto por Preece, Sharp e Rogers. Esse modelo se concentra em quatro atividad
 
 <div style="text-align: justify">O Ciclo de Vida Simples  consiste em quatro fases principais: análise, design, implementação e avaliação. Na fase de análise, são identificadas as necessidades e características dos usuários, juntamente com os requisitos do sistema. Em seguida, na fase de design, são criadas soluções de interface com base nessas informações, priorizando usabilidade e experiência do usuário. Posteriormente, na fase de implementação, o design é transformado em um sistema funcional. Por fim, na fase de avaliação, o sistema é testado e refinado com base no feedback dos usuários, podendo retornar às fases anteriores para ajustes.(BARBOSA e SILVA, 2021, p.114).</div>
 
-### Ciclo de Vida em Estrela
+### <a>Ciclo de Vida em Estrela</a>
 
 <div style="text-align: justify">O Ciclo de Vida em Estrela foi desenvolvido por Hix e Hartson no início da década de 1990 (Hix e Hartson,1993), ele é composto por seis atividades conforme a figura a seguir:</div>
 
@@ -43,7 +43,7 @@ Proposto por Preece, Sharp e Rogers. Esse modelo se concentra em quatro atividad
 
 <div style="text-align: justify">Nesse modelo, o designer tem a responsabilidade de determinar a ordem das atividades, mas a avaliação é obrigatória após cada uma, independentemente da sequência escolhida. As atividades desempenham um papel crucial, pois são responsáveis por garantir que os dados coletados e os requisitos especificados atendam às necessidades do usuário. Além disso, as atividades são utilizadas para identificar problemas de usabilidade nos designs, protótipos e no sistema final.</div>
 
-### Engenharia de Usabilidade de Nielsen
+### <a>Engenharia de Usabilidade de Nielsen</a>
 <p style="text-align: justify;">Segundo Jakob Nielsen, engenharia de usabilidade é um conjunto de atividades que devem acontecer durante todo o ciclo de vida do produto (BARBOSA e SILVA, 2021, p.116). A tabela 1 mostra as atividades definidas por Nielsen em seu ciclo de vida:</p>
 
 <figure style="text-align: center;">
@@ -73,7 +73,7 @@ Proposto por Preece, Sharp e Rogers. Esse modelo se concentra em quatro atividad
     <figcaption>Fonte: BARBOSA e SILVA, 2021, p.116.</figcaption>
 </figure>
 
-### Engenharia de Usabilidade de Mayhew
+### <a>Engenharia de Usabilidade de Mayhew</a>
 
 Deborah Mayhew propôs esse modelo iterativo para a engenharia de usabilidade dividido em três etapas: análise de requisitos, design/avaliação/desenvolvimento e instalação. Na imagem a seguir é possível verificar o modelo proposto:
 
@@ -85,19 +85,19 @@ Deborah Mayhew propôs esse modelo iterativo para a engenharia de usabilidade di
 
 Abaixo a definição de cada uma das etapas:
 
-#### Análise de Requisitos
+#### <a>Análise de Requisitos</a>
 
 Nesta fase, as metas de usabilidade são estabelecidas, levando em conta o perfil dos usuários, a análise das tarefas a serem executadas e as características da plataforma onde o sistema será utilizado, juntamente com os princípios de design de Interação Humano-Computador (IHC). Para assegurar a aplicação eficaz dessas metas ao longo do desenvolvimento, é comum consolidá-las em guias de estilo que abrangem diversos elementos da interface do usuário, como disposição, cores, tipografia, imagens, ícones e sons, fornecendo diretrizes claras e concisas para orientar o processo de design e desenvolvimento
 
-#### Design, avaliação, desenvolvimento
+#### <a>Design, avaliação, desenvolvimento</a>
 
 Nesta etapa, a interface é desenvolvida para atender às metas de usabilidade estabelecidas anteriormente, seguindo um processo em três níveis de detalhamento. O designer começa com protótipos de baixa fidelidade para reimaginar as tarefas, avança para protótipos de média fidelidade estabelecendo padrões de design, e finaliza com projetos de alta fidelidade para implementação.
 
-#### Instalação
+#### <a>Instalação</a>
 
 Nesta etapa, o processo inclui a obtenção de feedback dos usuários que utilizaram o sistema por um período, visando aprimorar futuras versões do sistema ou identificar a necessidade de desenvolver novos sistemas.
 
-## Motivações para escolha
+## <a>Motivações para escolha</a>
 
 Após análise dos modelos discutidos, o grupo concluiu que o Ciclo de Vida de Mayhew seria o melhor para o projeto. Suas etapas detalhadas e bem definidas minimizam a subjetividade, o que é crucial dada a inexperiência do grupo em IHC. Um modelo robusto e detalhado serve como guia confiável para nossa situação.
 

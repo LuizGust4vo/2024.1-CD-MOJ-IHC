@@ -1,4 +1,4 @@
-# <a> Metas, Operadores, Métodos e Regras de Seleção (GOMS) </a>
+# Metas, Operadores, Métodos e Regras de Seleção (GOMS)
 
 ## <a> Introdução </a>
 

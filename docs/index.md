@@ -5,10 +5,10 @@
 <font size="2"><p style="text-align: center">Fonte: [CD-MOJ](https://moj.naquadah.com.br/cgi-bin/index.sh).</p></font>
 
 
-# Sobre o projeto
+# <a>Sobre o projeto</a>
 Este espaço é dedicado à documentação de todos os artefatos gerados pelo Grupo 01 na disciplina de Interação Humano-Computador (IHC) da Faculdade do Gama da Universidade de Brasília (FGA-UnB) durante o primeiro semestre de 2024. O propósito do projeto é realizar uma avaliação de IHC do site CD-MOJ e, aplicando os princípios aprendidos em sala de aula, propor melhorias em sua interface. O site em questão, cuja logo está na Figura 1, é um juiz on-line, onde o principal objetivo é enviar códigos de usuários a outro juiz on-line, a fim de aproveitar a infraestrutura atual disponível.
 
-## Equipe
+## <a>Equipe</a>
 
 <table>
   <tr>
@@ -21,7 +21,7 @@ Este espaço é dedicado à documentação de todos os artefatos gerados pelo Gr
   </tr>
 </table>
 
-## Histórico de versão
+## <a>Histórico de versão</a>
 
 | Versão| Data |Data Prevista de Revisão| Descrição  | Autor(es)  | Revisor(es) |
 | ------- | ------ | ------ | ------- | -------- | -------- |

@@ -1,8 +1,8 @@
-##Observação
+## <a>Observação</a>
 
 Conversamos com um dos administradores do CD-MOJ e foi autorizado a utilização do site para fins de estudo dessa matéria.
 
-##Licença
+## <a>Licença</a>
 
                     GNU GENERAL PUBLIC LICENSE
                        Version 2, June 1991
@@ -348,7 +348,7 @@ Public License instead of this License.
 
 > GNU General Public License v2.0. Disponível em: <https://github.com/cd-moj/cdmoj/blob/master/LICENSE>. Acesso: 04 de abril de 2024.
 
-## Histórico de versão
+## <a>Histórico de versão</a>
 
 | Versão| Data |Data Prevista de Revisão| Descrição  | Autor(es)  | Revisor(es) |
 | ------- | ------ | ------- | -------- | -------- | --------- |

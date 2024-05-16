@@ -1,11 +1,11 @@
 # Site Escolhido
 
-## Introdução
+## <a>Introdução</a>
 
 No início do processo da disciplina, alguns integrantes do grupo apresentaram possíveis candidatos e seus respectivos argumentos para escolha. Posteriormente, foi feita uma revisão em que cada site passava por alguns critérios com o objetivo de se chegar a um consenso.
 [Aqui](sitesAvaliados.md) é possível verificar com mais detalhes as alternativas apresentadas pelos outros integrantes do grupo. 
 
-## Critérios para escolha
+## <a>Critérios para escolha</a>
 
 * Novidade para a disciplina, garantindo que não repetíssemos um trabalho anterior.
 * Facilidade de contato com o público-alvo.
@@ -13,7 +13,7 @@ No início do processo da disciplina, alguns integrantes do grupo apresentaram p
 * Acesso facilitado às informações necessárias para a análise.
 * Importância do site.
 
-## Motivações de escolha
+## <a>Motivações de escolha</a>
 
 Com base nos critérios definidos anteriormente, o site [CD-MOJ](https://moj.naquadah.com.br/cgi-bin/index.sh) (Contest-Driven Meta Online Judge) foi selecionado para o projeto, pelas seguintes razões principais:
 
@@ -21,7 +21,7 @@ Com base nos critérios definidos anteriormente, o site [CD-MOJ](https://moj.naq
 * Identificação de problemas na interface que poderiam ser melhorados durante o projeto, oferecendo um campo rico para aplicação dos conhecimentos adquiridos na disciplina.
 * Um nível de complexidade adequado, que apresenta desafios além de simples páginas informativas, incluindo sistemas de submissão de códigos e avaliação automática.
 
-## Preâmbulo
+## <a>Preâmbulo</a>
 
 A avaliação de IHC executada pelo grupo, guiada pelo framework DECIDE e pelas heurísticas de Nielsen, encontrou alguns entraves, como por exemplo:
 
@@ -33,7 +33,7 @@ A avaliação de IHC executada pelo grupo, guiada pelo framework DECIDE e pelas 
 
 ###  [Link para a avaliação de IHC completa do site.](avaliacoes/avaliacao_CD-MOJ.pdf)
 
-## Bibliografia
+## <a>Bibliografia</a>
 
 > <a id="FRM1" href="#anchor_1">1.</a> CD-MOJ. Disponível em: [https://moj.naquadah.com.br/cgi-bin/index.sh](). Acesso em: 20 de mar. de 2024.
 

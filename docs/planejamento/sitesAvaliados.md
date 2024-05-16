@@ -1,6 +1,6 @@
 # Sites Avaliados
 
-## Introdução
+## <a>Introdução</a>
 
 Cada integrante realizou o planejamento e execução de alguns sites candidatos a escolhidos para o projeto. A Tabela 1, a seguir, apresenta o site que cada integrante escolheu:
 
@@ -23,14 +23,14 @@ Cada integrante realizou o planejamento e execução de alguns sites candidatos 
 
 <font size="2"><p style="text-align: center">Fonte: [Diego Sousa](https://github.com/DiegoSousaLeite) .</p></font>
 
-## LinkedIn
+## <a>LinkedIn</a>
 
 A avaliação do [LinkedIn](https://www.linkedin.com/), conduzida por [Arthur Alves](https://github.com/Arthrok) teve como principal objetivo aprofundar a compreensão sobre a usabilidade e interação dos usuários dentro desta renomada plataforma de networking profissional. Com um olhar criterioso sob a ótica das heurísticas de Nielsen, a análise buscou desvendar como a plataforma facilita ou obstaculiza a conexão entre profissionais, a busca por oportunidades de emprego, e o compartilhamento de conhecimentos dentro de sua comunidade vasta e diversificada.A análise revelou a seguinte infração:
 
 * Liberdade e Controle do Usuário: A quantidade excessiva de opções nas configurações leva a um desperdício de tempo.
 * [Link para a avaliação detalhada.](avaliacoes/avaliacao_Likedin.pdf)
   
-## IPASGO
+## <a>IPASGO</a>
 
 A avaliação do [Ipasgo (Instituto de Assistência dos Servidores Públicos do Estado de Goiás)](https://www.ipasgo.go.gov.br), conduzida por [Diego Sousa](https://github.com/DiegoSousaLeite), focou na usabilidade e acessibilidade para os servidores públicos estaduais acessarem serviços de saúde online. Os principais problemas identificados foram:
 
@@ -39,7 +39,7 @@ A avaliação do [Ipasgo (Instituto de Assistência dos Servidores Públicos do 
 * Estética e Design Minimalista: Um excesso de elementos visuais na página inicial, como banners de notícias, distrai os usuários das informações essenciais.
 * [Link para a avaliação detalhada.](avaliacoes/avaliacao_Ipasgo.pdf)
 
-## CD-MOJ
+## <a>CD-MOJ</a>
 
 A avaliação do [CD-MOJ](https://moj.naquadah.com.br/cgi-bin/index.sh), conduzida por [Douglas Marinho](https://github.com/M4RINH0), focou no intuito de identificar problemas de usabilidade e acessibilidade. Esta análise teve como objetivos principais identificar falhas na interação e interface que pudessem prejudicar a experiência do usuário, verificar a conformidade com padrões de acessibilidade, assegurar que os usuários pudessem efetuar suas tarefas sem obstáculos e identificar áreas para melhoria na navegação do site. A análise revelou diversas infrações:
 
@@ -50,7 +50,7 @@ A avaliação do [CD-MOJ](https://moj.naquadah.com.br/cgi-bin/index.sh), conduzi
 * Feedback de Submissões: O feedback fornecido após a submissão de tarefas é confuso, com uso de siglas não explicadas, porcentagens fora do padrão e mistura de idiomas, como datas em inglês.
 * [Link para a avaliação detalhada.](avaliacoes/avaliacao_CD-MOJ.pdf)
 
-## SIGAA
+## <a>SIGAA</a>
 
 A avaliação do [Sistema Integrado de Gestão de Atividades Acadêmicas da UnB (SIGAA)](https://autenticacao.unb.br/sso-server/login?service=https%3A%2F%2Fsig.unb.br%2Fsigaa%2Flogin%2Fcas) foi conduzida por [Eric Silveira](https://github.com/ericbky), com o intuito de analisar a interação do usuário com a interface do sistema sob as heurísticas de Nielsen. O SIGAA, sendo uma plataforma essencial para a gestão acadêmica, tem enfrentado críticas quanto ao seu design e usabilidade. O estudo teve como principais objetivos identificar barreiras na interação entre usuário e sistema, avaliar a conformidade com padrões de usabilidade, e sugerir melhorias para facilitar o acesso e uso do site. A análise revelou diversas infrações:
 
@@ -61,7 +61,7 @@ A avaliação do [Sistema Integrado de Gestão de Atividades Acadêmicas da UnB 
 * Usabilidade Geral: A falta de intuitividade, sobrecarga de informações e  interface simplista.
 * [Link para a avaliação detalhada.](avaliacoes/avaliacao_SIGAA.pdf)
   
-## Alistamento Militar Online
+## <a>Alistamento Militar Online</a>
 
 O site do [Alistamento Militar Online](https://alistamento.eb.mil.br) teve sua avaliação conduzida pelo integrante [João Artur](https://github.com/joao-artl), visando examinar o compromisso do site do Alistamento Militar Online com o atendimento a variadas faixas da população. Foram explorados três aspectos-chave da interação no site: o processo de alistamento, o acompanhamento do alistamento e a solicitação do certificado de dispensa. A análise revelou diversas infrações e seus respectivos níveis de severidade:
 
@@ -71,7 +71,7 @@ O site do [Alistamento Militar Online](https://alistamento.eb.mil.br) teve sua a
 * Estética e Design Minimalista: Embora menos enfatizado, a apresentação visual do site e sua estética também foram considerados aspectos que poderiam ser melhorados para uma navegação mais clara e direta (Leve).
 * [Link para a avaliação detalhada.](avaliacoes/avaliacao_Alistamento_Militar_Online.pdf)
 
-## Caixa
+## <a>Caixa</a>
 
 A avaliação do site da [Caixa](https://www.caixa.gov.br/Paginas/home-caixa.aspx), conduzida por [Luiz Gustavo](https://github.com/LuizGust4vo), se concentrou em identificar e melhorar aspectos da usabilidade e da interação usuário-sistema. O estudo utilizou o método heurístico de Nielsen, evidenciando desafios enfrentados pelos usuários, incluindo a dificuldade de encontrar informações, problemas de acessibilidade, e a inconsistência na experiência de navegação.
 
