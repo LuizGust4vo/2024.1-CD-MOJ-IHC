@@ -52,6 +52,12 @@ nav:
     - Cenários: analise-de-requisitos/cenario.md
     - Princípios Gerais: analise-de-requisitos/principios.md
     - Caracteristicas da plataforma: analise-de-requisitos/caracteristicasPlataforma.md
+  - Design, Avaliação e Desenvolvimento:
+    - Nível 1:
+      - Análise de Tarefas: 
+        - Planejamento da Avaliação: desing-avaliacao-desenvolvimento/nivel1/analiseTarefas/planejamentoAvaliacao.md
+      - Storyboard:
+        - Planejamento da Avaliação: desing-avaliacao-desenvolvimento/nivel1/storyboard/planejamentoAvaliacao.md
 
 
 
