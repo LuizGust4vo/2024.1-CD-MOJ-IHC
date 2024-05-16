@@ -43,7 +43,7 @@ Abaixo, as figuras de 1 a 5 mostram os resultados do questionário:
 
 ![Relatori02](https://github.com/Interacao-Humano-Computador/2024.1-CD-MOJ/blob/git-pages/assets/images/relatorio02.png?raw=true)
 
-Fonte: [Eric Silveira](https://github.com/ericbky)
+<center>Fonte: [Eric Silveira](https://github.com/ericbky)</center>
 
 </br>
 <center>Figura 03: Terceira parte dos resultados do relatório do Perfil de Usuário</center>

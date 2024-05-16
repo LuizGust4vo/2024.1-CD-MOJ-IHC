@@ -23,7 +23,7 @@ Nesta breve reunião de alinhamento, discutimos as possíveis melhorias no proje
 
 Com base no feedback dos monitores, e na apresentação de outro grupos, decidimos melhorar a padronização de alguns documentos e do nosso GitPages. 
 
-## <a>4. Divisão das atividades
+## <a>4. Divisão das atividades</a>
 Segue na tabela abaixo a divisão das atividades entre os integrantes do grupo, com base na disponibilidade e no cronograma da disciplina.
 
 <center>
