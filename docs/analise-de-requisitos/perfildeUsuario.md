@@ -83,7 +83,7 @@ Contudo, após a análise desses resultados obtidos do questionário e dos docum
 | Qual recurso do CD-MOJ você mais utiliza?       | Nenhum e melhoria nas habilidades de programação |
 | Nível de satisfação do CD-MOJ?       | Bem variado, sendo o principal a opção do completamente satisfatório. |
 
-<font size="3"><p style="text-align: center"><b>Fonte:</b> Eric Silveira</p></font>
+<center>Fonte: [Eric Silveira](https://github.com/ericbky)</center>
 
 
 ## <a>Contudo:</a>
