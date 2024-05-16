@@ -1,10 +1,12 @@
+
+## <a>Introdução</a>
+
+De acordo com Silva: "*Devemos identificar características de interesse como cargo, função, experiência, faixa etária entre outros e conduzir um estudo para coletar dados, a fim de agregar valor a esses grupos na qual os usuários estão inseridos*". <a id="anchor_1" href="#FRM1">^1^</a>
+Assim, esse seria o objetivo do perfil dos usuários que iremos descrever no artefato a seguir, cujo traçamos com base nos materiais base da disciplina, para fins de estudo e avaliações da plataforma CD-MOJ.
+
 ## <a>O que é o perfil do usuário?</a>
 
 O perfil de usuário é uma descrição detalhada das características dos usuários cujos objetivos devem ser apoiados pelo sistema sendo projetado (Silva & Barbosa, 2010)<a id="anchor_3" href="#FRM3">^3^</a>.
-
-## <a>Objetivo do perfil do usuário?</a>
-
-De acordo com Silva: "*Devemos identificar características de interesse como cargo, função, experiência, faixa etária entre outros e conduzir um estudo para coletar dados, a fim de agregar valor a esses grupos na qual os usuários estão inseridos*". <a id="anchor_1" href="#FRM1">^1^</a>
 
 ## <a>Metodologia</a>
 
