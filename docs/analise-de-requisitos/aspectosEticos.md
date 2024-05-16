@@ -24,7 +24,7 @@ _Fonte: [Diego Sousa](https://github.com/DiegoSousaLeite), 2024_
 
 ## <a>Bibliografia</a>
 
-> <a id="REF1" href="#anchor_1">1.</a> BRASIL. Resolução nº 466, de 12 de dezembro de 2012, que trata de pesquisas em seres humanos e atualiza a resolução 196. Brasília, DF: Diário Oficial da União, 2013. Disponível em: <<https://conselho.saude.gov.br/resolucoes/2012/Reso466.pdf>>. Acesso em: 06/05/2023.
+> <a id="REF1" href="#anchor_1">1.</a> BRASIL. Resolução nº 466, de 12 de dezembro de 2012, que trata de pesquisas em seres humanos e atualiza a resolução 196. Brasília, DF: Diário Oficial da União, 2013. Disponível em: <https://conselho.saude.gov.br/resolucoes/2012/Reso466.pdf>. Acesso em: 06/05/2023.
 
 ## <a>Histórico de Versão</a>
 
