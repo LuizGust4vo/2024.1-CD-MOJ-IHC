@@ -51,8 +51,10 @@ nav:
       - GOMS: analise-de-requisitos/analise-de-tarefas/GOMS.md
     - Perfil de Usuário: analise-de-requisitos/perfildeUsuario.md
     - Personas: analise-de-requisitos/personas.md
+    - Guia de Estilo: analise-de-requisitos/guiaEstilo.md
     - Cenários: analise-de-requisitos/cenario.md
     - Princípios Gerais: analise-de-requisitos/principios.md
+    - Metas de Usabilidade: analise-de-requisitos/metasDeUsabilidade.md
     - Caracteristicas da plataforma: analise-de-requisitos/caracteristicasPlataforma.md
   - Design, Avaliação e Desenvolvimento:
     - Nível 1:
