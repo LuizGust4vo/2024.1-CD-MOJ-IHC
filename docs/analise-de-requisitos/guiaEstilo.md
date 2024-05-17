@@ -82,7 +82,7 @@ As sequências seguem um padrão, os botões de confirmação e cancelamento sã
 ## <a> 7. Propostas de Intervenção </a>
 As propostas de intervenção foram desenvolvidas com base nas [Metas de Usabilidade](https://interacao-humano-computador.github.io/2024.1-CD-MOJ/analise-de-requisitos/metasDeUsabilidade/) e nos [Princípios Gerais](https://interacao-humano-computador.github.io/2024.1-CD-MOJ/analise-de-requisitos/principios/) definidos para o projeto da Bilheteria Digital. Essas diretrizes foram utilizadas como referência para identificar áreas de melhoria e sugerir mudanças que visam aprimorar a usabilidade e a experiência do usuário.
 
-### Metas de Usabilidade
+### <a>Metas de Usabilidade</a>
 Com base nas [Metas de Usabilidade](https://interacao-humano-computador.github.io/2024.1-CD-MOJ/analise-de-requisitos/metasDeUsabilidade/) foram levantados pontos específicos que podem ser aprimorados no sistema. Para a meta de utilidade, foi proposto melhoras em eficácia, eficiência, segurança, utilidade e aprendizagem.
 
 ### <a>Princípios Gerais</a>
