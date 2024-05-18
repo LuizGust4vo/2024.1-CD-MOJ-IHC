@@ -218,9 +218,9 @@ Nesta tarefa, o administrador cria contests que reúnem uma variedade de problem
 <font size="3"><p style="text-align: center"><b>Fonte:</b> [Eric Silveira](https://github.com/ericbky) e [Douglas Marinho](https://github.com/M4RINH0).</p></font>
 
 <br><br>
-Já a figura 5 a seguir representa o storyboard desenvolvido para esta tarefa:
+Já a figura 7 a seguir representa o storyboard desenvolvido para esta tarefa:
 
-<font size="3"><p style="text-align: center"><b>Figura 8</b> - Criação de Contest (Administrador).</p></font>
+<font size="3"><p style="text-align: center"><b>Figura 7</b> - Criação de Contest (Administrador).</p></font>
 <center>
 ![Criação de contest storyboard](https://github.com/Interacao-Humano-Computador/2024.1-CD-MOJ/blob/git-pages/docs/desing-avaliacao-desenvolvimento/nivel1/assets/storyboardDouglas2.png?raw=true)
 </center>
