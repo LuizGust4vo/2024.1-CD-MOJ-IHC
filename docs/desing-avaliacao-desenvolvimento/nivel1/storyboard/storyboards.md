@@ -240,17 +240,6 @@ Já a figura 7 a seguir representa o storyboard desenvolvido para esta tarefa:
 </center>
 <font size="3"><p style="text-align: center"><b>Fonte:</b> [Douglas Marinho](https://github.com/M4RINH0).</p></font>
 
-
-
-
-
-
-
-
-
-## <a>Bibliografia</a>
-> ROGERS, Yvonne. SHARP, Helen. PREECE, Jhennifer. Design de Interação: Além da Interação Humano-Computador. Editora Bookman, São Paulo: 2005.
-
 ## <a>Referência Bibliográfica</a>
 > <a id="FRM1" href="#anchor_1">1.</a> ROGERS, Yvonne. SHARP, Helen. PREECE, Jhennifer. Design de Interação: Além da Interação Humano-Computador. Capítulo 8.2.1: O que é um protótipo. Página 260 e 261.
 
@@ -259,6 +248,9 @@ Já a figura 7 a seguir representa o storyboard desenvolvido para esta tarefa:
 > <a id="FRM3" href="#anchor_3">3.</a> ROGERS, Yvonne. SHARP, Helen. PREECE, Jhennifer. Design de Interação: Além da Interação Humano-Computador. Capítulo 8.2.2: Por que fazer protótipos? Página 261.
 
 > <a id="FRM4" href="#anchor_4">4.</a> Miro. O que é um Storyboard? Tópico: Quais são as principais características de um storyboard? Disponível em: <https://miro.com/pt/storyboard/o-que-e-storyboard/>. Acesso em 18/05/2024.
+
+## <a>Bibliografia</a>
+> ROGERS, Yvonne. SHARP, Helen. PREECE, Jhennifer. Design de Interação: Além da Interação Humano-Computador. Editora Bookman, São Paulo: 2005.
 
 ## <a>Histórico de Versão</a>
 
