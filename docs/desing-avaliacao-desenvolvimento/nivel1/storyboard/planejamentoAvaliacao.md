@@ -60,12 +60,6 @@ Após a conclusão do planejamento, iremos utilizar como forma metodológica tam
 
 De acordo com nosso planejamento, o teste-piloto será executado por [Arthur Alves](https://github.com/Arthrok) e [João Artur](https://github.com/joao-artl) no dia 18 de maio de 2024 por volta das 20:00 horas.
 
-## <a>Bibliografia</a>
-> ROGERS, Yvonne. SHARP, Helen. PREECE, Jhennifer. Design de Interação: Além da Interação Humano-Computador. Editora Bookman, São Paulo: 2005. 
-
-> VIANNA, Maurício, VIANNA, Ysmar, K. ADLER, Isabel. LUCENA, Brenda. RUSSO, Beatriz. Design Thinking: Inovação em Negócios. Disponível em: <https://cdn2.hubspot.net/hubfs/455690/Ofertas/E-books/Arquivos/Livro_Design_Thinking_-_Inovao_Negcios.pdf>.
-
-
 ## <a>Referência Bibliográfica</a>
 > <a id="FRM1" href="#anchor_1">1.</a> ROGERS, Yvonne. SHARP, Helen. PREECE, Jhennifer. Design de Interação: Além da Interação Humano-Computador. Capítulo 8.2.1: O que é um protótipo. Página 260 e 261.
 
@@ -84,6 +78,10 @@ De acordo com nosso planejamento, o teste-piloto será executado por [Arthur Alv
 > <a id="FRM8" href="#anchor_8">8.</a> Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) *Interação Humano-Computador e Experiência do usuário.* Capítulo 11, Planejamento da Avaliação de IHC, 11.7.2
 Preparação, página 276. Autopublicação. ISBN: 978-65-00-19677-1.
 
+## <a>Bibliografia</a>
+> ROGERS, Yvonne. SHARP, Helen. PREECE, Jhennifer. Design de Interação: Além da Interação Humano-Computador. Editora Bookman, São Paulo: 2005. 
+
+> VIANNA, Maurício, VIANNA, Ysmar, K. ADLER, Isabel. LUCENA, Brenda. RUSSO, Beatriz. Design Thinking: Inovação em Negócios. Disponível em: <https://cdn2.hubspot.net/hubfs/455690/Ofertas/E-books/Arquivos/Livro_Design_Thinking_-_Inovao_Negcios.pdf>.
 
 ## <a>Histórico de Versão</a>
 
