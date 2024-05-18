@@ -24,7 +24,7 @@ Também segundo materiais disponíveis sobre a disciplina **Interação Humano-C
 
 <font size="3"><p style="text-align: center"><b>Figura 1</b> - Parte textual Storyboard.</p></font>
 <center>
-![Parte Textual do Storyboard](https://github.com/Interacao-Humano-Computador/2024.1-CD-MOJ/blob/git-pages/docs/desing-avaliacao-desenvolvimento/nivel1/assets/storyboardTextual.png?raw=true)
+![Parte Textual do Storyboard](https://github.com/Interacao-Humano-Computador/2024.1-CD-MOJ/blob/git-pages/docs/design-avaliacao-desenvolvimento/nivel1/assets/storyboardTextual.png?raw=true)
 </center>
 <font size="3"><p style="text-align: center"><b>Fonte:</b> Lista de exercício da disciplina **Interação Humano-Computador**. BARROS, André<a id="anchor_4" href="#FRM4">^4^</a>.</p></font>
 
@@ -73,7 +73,7 @@ Já a figura 2 a seguir representa o storyboard desenvolvido para esta tarefa:
 <font size="3"><p style="text-align: center"><b>Figura 2</b> - Submissão de Problemas.</p></font>
 
 <center>
-![Submissão de Problemas](https://github.com/Interacao-Humano-Computador/2024.1-CD-MOJ/blob/git-pages/docs/desing-avaliacao-desenvolvimento/nivel1/assets/storyboardEric.png?raw=true)
+![Submissão de Problemas](https://github.com/Interacao-Humano-Computador/2024.1-CD-MOJ/blob/git-pages/docs/design-avaliacao-desenvolvimento/nivel1/assets/storyboardEric.png?raw=true)
 </center>
 
 <font size="3"><p style="text-align: center"><b>Fonte:</b> [Eric Silveira](https://github.com/ericbky)</a>.</p></font>
@@ -103,7 +103,7 @@ Já a figura 3 a seguir representa o storyboard desenvolvido para esta tarefa:
 
 <font size="3"><p style="text-align: center"><b>Figura 3</b> - Tutorial de Resolução de Questões Pós-Contest.</p></font>
 <center>
-![Resolução de Questões Pós-Contest](https://github.com/Interacao-Humano-Computador/2024.1-CD-MOJ/blob/git-pages/docs/desing-avaliacao-desenvolvimento/nivel1/assets/storyboardArthur.png?raw=true)
+![Resolução de Questões Pós-Contest](https://github.com/Interacao-Humano-Computador/2024.1-CD-MOJ/blob/git-pages/docs/design-avaliacao-desenvolvimento/nivel1/assets/storyboardArthur.png?raw=true)
 </center>
 <font size="3"><p style="text-align: center"><b>Fonte:</b> [Arthur Alves](https://github.com/Arthrok).</p></font>
 
@@ -133,7 +133,7 @@ Já a figura 4 a seguir representa o storyboard desenvolvido para esta tarefa:
 
 <font size="3"><p style="text-align: center"><b>Figura 4</b> - Verificação de Submissões.</p></font>
 <center>
-![Verificação de Submissões](https://github.com/Interacao-Humano-Computador/2024.1-CD-MOJ/blob/git-pages/docs/desing-avaliacao-desenvolvimento/nivel1/assets/storyboardJoao.png?raw=true)
+![Verificação de Submissões](https://github.com/Interacao-Humano-Computador/2024.1-CD-MOJ/blob/git-pages/docs/design-avaliacao-desenvolvimento/nivel1/assets/storyboardJoao.png?raw=true)
 </center>
 <font size="3"><p style="text-align: center"><b>Fonte:</b> [João Artur](https://github.com/joao-artl).</p></font>
 
@@ -160,7 +160,7 @@ Já a figura 5 a seguir representa o storyboard desenvolvido para esta tarefa:
 
 <font size="3"><p style="text-align: center"><b>Figura 5</b> - Ranking de Contest.</p></font>
 <center>
-![Ranking de Contest](https://github.com/Interacao-Humano-Computador/2024.1-CD-MOJ/blob/git-pages/docs/desing-avaliacao-desenvolvimento/nivel1/assets/storyboardDiego.png?raw=true)
+![Ranking de Contest](https://github.com/Interacao-Humano-Computador/2024.1-CD-MOJ/blob/git-pages/docs/design-avaliacao-desenvolvimento/nivel1/assets/storyboardDiego.png?raw=true)
 </center>
 
 <font size="3"><p style="text-align: center"><b>Fonte:</b> [Diego Sousa](https://github.com/DiegoSousaLeite).</p></font>
@@ -236,7 +236,7 @@ Já a figura 7 a seguir representa o storyboard desenvolvido para esta tarefa:
 
 <font size="3"><p style="text-align: center"><b>Figura 7</b> - Criação de Contest (Administrador).</p></font>
 <center>
-![Criação de contest storyboard](https://github.com/Interacao-Humano-Computador/2024.1-CD-MOJ/blob/git-pages/docs/desing-avaliacao-desenvolvimento/nivel1/assets/storyboardDouglas2.png?raw=true)
+![Criação de contest storyboard](https://github.com/Interacao-Humano-Computador/2024.1-CD-MOJ/blob/git-pages/docs/design-avaliacao-desenvolvimento/nivel1/assets/storyboardDouglas2.png?raw=true)
 </center>
 <font size="3"><p style="text-align: center"><b>Fonte:</b> [Douglas Marinho](https://github.com/M4RINH0).</p></font>
 
