@@ -14,7 +14,7 @@ O objetivo deste planejamento é estabelecer métricas claras para a **avaliaç�
 
 **- Garantir a conformidade com padrões estabelecidos:** Verificar se o sistema tem algum padrão definido de acessibilidade e se seguem convenções estabelecidas no domínio<a id="anchor_4" href="#FRM4">^4^</a>.
 
-**- Identificar problemas na interação e na interface durante a fase do modelo conceitual:** A avaliação dos storyboards irá auxiliar a identificar problemas de interface ou interação, verificando se o usuário conseguirá operar o sistema, se atinge seu objetivo, se há insatisfação em alguma etapa do processo e se irá entender como deve prosseguir<a id="anchor_4" href="#FRM4">^4^</a>..
+**- Identificar problemas na interação e na interface durante a fase do modelo conceitual:** A avaliação dos storyboards irá auxiliar a identificar problemas de interface ou interação, verificando se o usuário conseguirá operar o sistema, se atinge seu objetivo, se há insatisfação em alguma etapa do processo e se irá entender como deve prosseguir<a id="anchor_4" href="#FRM4">^4^</a>.
 
 
 ## <a>Metodologia</a>
