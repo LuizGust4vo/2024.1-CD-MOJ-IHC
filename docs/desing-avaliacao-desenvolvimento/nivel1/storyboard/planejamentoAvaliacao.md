@@ -141,7 +141,7 @@ Os entrevistados receberão informações completas sobre os termos da pesquisa 
 ### <a>E - Avaliar, interpretar e apresentar os dados</a>
 Após a conclusão das entrevistas, os dados coletados serão cuidadosamente documentados e submetidos a uma análise detalhada. Esta etapa inclui uma avaliação rigorosa para assegurar a precisão e a relevância das informações obtidas.
 
-Durante o processo, registraremos quaisquer problemas identificados, dificuldades encontradas pelos usuários durante a interação, incluindo questões relacionadas à usabilidade, falta de funcionalidades e problemas de desempenho. Cada problema será descrito detalhadamente, classificado e acompanhado de sugestões de melhorias. Também captaremos o feedback dos usuários e, ao final de cada entrevista, documentaremos observações gerais relevantes.
+Durante o processo, registraremos quaisquer problemas identificados, dificuldades encontradas pelos usuários durante a interação, incluindo questões relacionadas à interpretação e outros. Cada problema será descrito detalhadamente, classificado e acompanhado de sugestões de melhorias. Também captaremos o feedback dos usuários e, ao final de cada entrevista, documentaremos observações gerais relevantes.
 
 Com base nesta análise detalhada, os dados coletados serão utilizados para refinar e desenvolver o storyboard, visando fornecer insights essenciais que contribuirão significativamente para o seu aprimoramento.
 
