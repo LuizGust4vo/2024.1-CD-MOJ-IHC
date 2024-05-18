@@ -4,8 +4,7 @@
 
 Segundo BARBOSA e SILVA(2021)<a id="anchor_1" href="#REF1">^1^</a>, o documento de relato do Resultado da avaliação serve para documentar de forma sistemática e detalhada os achados da avaliação, fornecendo insights valiosos sobre a interação dos usuários com o sistema. Este resultado permite fazer um julgamento de valor sobre a qualidade de uso da solução e identificar problemas na interação e na interface que possam prejudicar a experiência do usuário. Assim, qualquer problema identificado pode ser corrigido antes de o sistema ser amplamente implementado ou atualizado .
 
-Este documento estabelece um plano para a preparação de um relatório sobre a avaliação dos storyboards produzidos durante a [avaliação do storyboard]().
-
+Este documento estabelece um plano para a preparação de um relatório sobre a avaliação dos storyboards produzidos durante a [avaliação do storyboard](https://interacao-humano-computador.github.io/2024.1-CD-MOJ/design-avaliacao-desenvolvimento/nivel1/storyboard/planejamentoAvaliacao/).
 
 De acordo com o livro "Interação Humano-Computador e Experiência do Usuário", o resultado de uma avaliação é uma medida ou uma qualificação que reflete o desempenho, qualidade ou eficácia de um sistema interativo em relação aos critérios de qualidade de uso definidos. 
 
