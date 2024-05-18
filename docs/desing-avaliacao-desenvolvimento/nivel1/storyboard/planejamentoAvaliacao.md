@@ -38,6 +38,8 @@ Para nos auxiliar nesse planejamento de avalição dos storyboards, na execuçã
 
 <font size="3"><p style="text-align: center"><b>Fonte:</b> Design de Interação: Além da Interação Humano-Computador. Capítulo 11.3: DECIDE: um framework para orientar a avaliação<a id="anchor_7" href="#FRM7">^7^</a>.</p></font>
 
+
+
 ### <a>Framework DECIDE</a>
 
 #### <a>D - Metas</a>
@@ -56,11 +58,9 @@ Para nos auxiliar nesse planejamento de avalição dos storyboards, na execuçã
 
 ## <a>Teste-Piloto</a>
 
-Após a conclusão do planejamento, iremos utilizar como forma metodológica também o **teste-piloto**. Segundo Barbosa e Silva (2011, p.276) ele consiste em uma forma em que a equipe parametrize e faça uma verificação sobre a coleta dos dados, sobre como será conduziada a avaliação pelo avaliador e sobre as informações de orientação para com o participante, seguindo o planejamento de avaliação<a id="anchor_8" href="#FRM8">^8^</a>.
+Após a conclusão do planejamento, iremos utilizar como forma metodológica também o **teste-piloto**. Segundo Barbosa e Silva (2011, p.276), ele consiste em uma forma em que a equipe parametrize e faça uma verificação sobre a coleta dos dados, sobre como será conduziada a avaliação pelo avaliador e sobre as informações de orientação para com o participante, seguindo o planejamento de avaliação<a id="anchor_8" href="#FRM8">^8^</a>.
 
 De acordo com nosso planejamento, o teste-piloto será executado por [Arthur Alves](https://github.com/Arthrok) e [João Artur](https://github.com/joao-artl) no dia 18 de maio de 2024 por volta das 20:00 horas.
-
-### <a>Resultado do Teste-Piloto</a>
 
 ## <a>Bibliografia</a>
 > ROGERS, Yvonne. SHARP, Helen. PREECE, Jhennifer. Design de Interação: Além da Interação Humano-Computador. Editora Bookman, São Paulo: 2005. 
