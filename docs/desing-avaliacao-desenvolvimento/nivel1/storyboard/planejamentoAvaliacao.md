@@ -2,9 +2,7 @@
 
 ## <a>Introdução</a>
 
-Prototipações tem utilidades para desenvolver a representação de idéias pois facilitam a comunicação, entre membros da equipe, testa idéias e encoraja a reflexão sobre o design. Protótipos respondem questões e é uma fonte de opção, visando viabilidade técnica, requisitos vagos e realizaçao de testes com usuários e avaliações<a id="anchor_1" href="#FRM1">^1^</a>.
-
-Os protótipos de baixa-fidelidade que é o caso do **storyboard** não se assemelha muito ao produto final, tem pouco nível de detalhamento e utilizam materiais simples, representados no papel mesmo por exemplo, em vez de telas eletrônicas<a id="anchor_2" href="#FRM2">^2^</a>. Porém, são mais adequados para as primeiras etapas do processo de desenvolvimento de produtos, quando o objetivo é explorar ideias e conceitos. Eles também podem ser usados para testar rapidamente novas funcionalidades ou para obter feedback de usuários, que está em alinhamento com a fase que está sendo trabalhada<a id="anchor_3" href="#FRM3">^3^</a>.
+AA prototipação desempenha um papel fundamental no desenvolvimento de representações visuais de ideias, melhorando a comunicação dentro da equipe, testando conceitos e fomentando a reflexão sobre o design. Os protótipos ajudam a esclarecer dúvidas, servem como fonte de alternativas, avaliam a viabilidade técnica, ajudam a definir requisitos imprecisos e são essenciais para conduzir testes com usuários e realizar avaliações.<a id="anchor_1" href="#FRM1">^1^</a>. Neste artefato iremos planejar nossos objetivos e avaliações do protótipo de baixa-fidelidade, os storyboards, desenvolvidos pelo grupo 01, para fins de estudo da plataforma CD-MOJ na disciplina **Interação Humano-Computador**
 
 ## <a>Objetivo</a>
 
@@ -91,4 +89,4 @@ Preparação, página 276. Autopublicação. ISBN: 978-65-00-19677-1.
 
 | Versão| Data | Data Prevista de Revisão | Descrição  | Autor(es)  | Revisor(es) |
 | ------- | ------ | ---- | ------- | -------- | -------- |
-| `1.0` | 15/05/2024 | 18/04/2024 | Criação da Documentação de Planejamento da Avaliação do Storyboard | [Arthur Alves](https://github.com/Arthrok) e [Eric Silveira](https://github.com/ericbky) | [João Artur](https://github.com/joao-artl) e [Luiz Gustavo](https://github.com/LuizGust4vo)|
+| `1.0` | 15/05/2024 | 18/05/2024 | Criação da Documentação de Planejamento da Avaliação do Storyboard | [Arthur Alves](https://github.com/Arthrok) e [Eric Silveira](https://github.com/ericbky) | [João Artur](https://github.com/joao-artl) e [Luiz Gustavo](https://github.com/LuizGust4vo)|
