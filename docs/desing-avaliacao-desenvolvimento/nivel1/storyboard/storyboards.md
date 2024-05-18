@@ -24,7 +24,7 @@ Também egundo materiais disponíveis sobre a disciplina **Interação Humano-Co
 
 <!-- ![Parte Textual do Storyboard](https://github.com/Interacao-Humano-Computador/2024.1-CD-MOJ/blob/git-pages/docs/assets/storyboardTextual.png?raw=true) -->
 
-<font size="3"><p style="text-align: center"><b>Fonte:</b> Lista de exercício da disciplina **Interação Humano-Computador**. BARROS, André.<a id="anchor_4" href="#FRM4">^4^</a>.</p></font>
+<font size="3"><p style="text-align: center"><b>Fonte:</b> Lista de exercício da disciplina **Interação Humano-Computador**. BARROS, André<a id="anchor_4" href="#FRM4">^4^</a>.</p></font>
 
 ## <a>Storyboards</a>
 
