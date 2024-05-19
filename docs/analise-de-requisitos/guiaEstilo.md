@@ -95,10 +95,12 @@ Outros aspecto importante são o equilíbrio entre o controle e liberdade do usu
 
 > <a id="REF2" href="#anchor_2">2.</a> Plano de Ensino da disciplina Interação Humano Computador, Dr. André Barros de Sales. [Plano de Ensino](https://aprender3.unb.br/pluginfile.php/2843624/mod_resource/content/48/Plano_de_Ensino%20FIHC%20012024%20Turma%201.pdf)
 
-> <a id="REF3" href="#anchor_3">3.</a> ALVISSUS, Giovanni; GOMES, Larissa. Guia de Estilo. Repositório da disciplina de Interação Humano Computador da Universidade de Brasília, 2023. Disponível em: <<https://github.com/Interacao-Humano-Computador/2023.1-BancoCentral/blob/master/docs/analise_requisitos/guia_estilo.md>>. Acesso em: 11/05/2024.
+> <a id="REF3" href="#anchor_3">3.</a> ALVISSUS, Giovanni; GOMES, Larissa. Guia de Estilo. Repositório da disciplina de Interação Humano Computador da Universidade de Brasília, 2023. Disponível em: <<https://github.com/Interacao-Humano-Computador/2023.1-BancoCentral/blob/master/docs/analise_requisitos/guia_estilo.md>>.
 
 ## <a> Bibliografia </a>
-> QUEIROZ, João. Princípios e Diretrizes para o Design de IHC: Guias de Estilo. Docentes do IFRN, online. 2014. Disponível em: <<https://docente.ifrn.edu.br/joaoqueiroz/disciplinas/ihc-interacao-humano-computador/aulas/aula-8>>. Acesso em: 11/05/2024. 
+> QUEIROZ, João. Princípios e Diretrizes para o Design de IHC: Guias de Estilo. Docentes do IFRN, online. 2014. Disponível em: <<https://docente.ifrn.edu.br/joaoqueiroz/disciplinas/ihc-interacao-humano-computador/aulas/aula-8>>. Acesso em: 11/05/2024.
+
+> BRAGA, Caio; FILHO, Doan. Guia de Estilo. Repositório da disciplina de Interação Humano Computador da Universidade de Brasília, 2023. Disponível em: <<https://github.com/Interacao-Humano-Computador/2023.2-PlataformaLattes/blob/main/docs/analise_requisitos_2/guia_estilo.md>>. Acesso em: 11/05/2024. 
 
 ## <a> Histórico de Versão </a>
 
@@ -107,3 +109,4 @@ Outros aspecto importante são o equilíbrio entre o controle e liberdade do usu
 | `1.0` | 10/05/2024 | 11/05/2024 | Criação da introdução do guia de estilo | [Luiz Gustavo](https://github.com/LuizGust4vo) | [Douglas Marinho](https://github.com/M4RINH0) |
 | `1.1` | 13/05/2024 | 13/05/2024 | Adição dos resultados da analise | [Douglas Marinho](https://github.com/M4RINH0) | [Diego Sousa](https://github.com/DiegoSousaLeite) |
 | `1.2` | 13/05/2024 | 13/05/2024 | Adicionar hyperlink em titulos | [Douglas Marinho](https://github.com/M4RINH0) | [Diego Sousa](https://github.com/DiegoSousaLeite) |
+| `1.3` | 15/05/2024 | 18/05/2024 | Adição das referências bibliográficas | [Luiz Gustavo](https://github.com/LuizGust4vo) | [Arthur Alves](https://github.com/Arthrok), [Douglas Marinho](https://github.com/M4RINH0) e [Eric Silveira](https://github.com/ericbky) |
