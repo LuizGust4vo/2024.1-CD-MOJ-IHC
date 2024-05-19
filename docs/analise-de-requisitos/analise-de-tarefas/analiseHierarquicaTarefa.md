@@ -2,7 +2,7 @@
 
 ## <a>Introdução</a>
 
-A Análise Hierárquica de Tarefas (HTA) é uma técnica de análise que decompõe uma tarefa complexa em uma estrutura hierárquica de metas, submetas e procedimentos. Essa abordagem ajuda a esclarecer como uma tarefa é executada e identifica áreas que precisam de melhorias. A HTA é frequentemente aplicada em uma variedade de áreas, incluindo desenvolvimento de produtos, serviços e otimização de processos. Para visualizar a análise, pode-se usar diagramas ou tabelas, detalhados na representação gráfica exemplificada na figura 1.
+Segundo BARBOSA e SILVA(2021) a Análise Hierárquica de Tarefas (HTA) é um método desenvolvido na década de 1960, focado no entendimento das competências e habilidades em tarefas complexas e não repetitivas. A HTA inclui uma análise funcional de tarefas que começa com a definição dos objetivos das pessoas, considerando as ações através das quais a tarefa pode ser realizada para atingir esses objetivos. Para visualizar a análise, pode-se usar diagramas ou tabelas, detalhados na representação gráfica exemplificada na figura 1.
 
 <figure markdown>
 <font size="3"><p style="text-align: center"><b>Figura 1</b> - Notação diagrama HTA.</p></font>
@@ -15,11 +15,10 @@ A Análise Hierárquica de Tarefas (HTA) é uma técnica de análise que decomp�
 
 ## <a>Análise de Tarefas</a>
 
-No que diz respeito às tarefas para análise com o método HTA, foram escolhidas a criação de problemas e contests, o login e a submissão de respostas, conforme explicitado nas figuras de 2 a 7 e nas tabelas de 1 a 6.
-
+A figura x e a tabela y a seguir mostram o diagrama HTA e a tabela HTA desta tarefa. 
 ### <a>1. Submissão de Problema</a>
 
-Nesta tarefa, o usuário tem o objetivo de submeter uma solução para um problema de programação. Abaixo estão o diagrama e a tabela HTA desta tarefa.
+Nesta tarefa, o usuário tem o objetivo de submeter uma solução para um problema de programação. A figura 2 e a tabela 1 a seguir mostram o diagrama HTA e a tabela HTA desta tarefa. 
 
 <center>
 
@@ -49,7 +48,7 @@ Nesta tarefa, o usuário tem o objetivo de submeter uma solução para um proble
 
 ### <a>2. Tutorial de Resolução de Questões Pós-Contest</a>
 
-Nesta tarefa, o usuário ou administrador fornece um passo a passo detalhado das soluções para os problemas apresentados após o fim de um contest. Esta atividade é essencial para o aprendizado e aprimoramento das habilidades de programação dos participantes. Abaixo estão o diagrama e a tabela HTA desta tarefa.
+Nesta tarefa, o usuário ou administrador fornece um passo a passo detalhado das soluções para os problemas apresentados após o fim de um contest. Esta atividade é essencial para o aprendizado e aprimoramento das habilidades de programação dos participantes. A figura 3 e a tabela 2 a seguir mostram o diagrama HTA e a tabela HTA desta tarefa. 
 
 <center>
 
@@ -78,7 +77,7 @@ Nesta tarefa, o usuário ou administrador fornece um passo a passo detalhado das
 
 ### <a>3. Verificação de Submissões</a>
 
-Nesta tarefa, o usuário ou o administrador verifica o resultado das submissões feitas durante um contest. Abaixo estão o diagrama e a tabela HTA desta tarefa.
+Nesta tarefa, o usuário ou o administrador verifica o resultado das submissões feitas durante um contest. A figura 4 e a tabela 3 a seguir mostram o diagrama HTA e a tabela HTA desta tarefa. 
 
 <center>
 
@@ -106,7 +105,7 @@ Nesta tarefa, o usuário ou o administrador verifica o resultado das submissões
 
 ### <a>4. Ranking de Contest</a>
 
-Esta tarefa aborda como os resultados dos participantes são calculados e exibidos em forma de ranking durante ou após um contest. Abaixo estão o diagrama e a tabela HTA desta tarefa.
+Esta tarefa aborda como os resultados dos participantes são calculados e exibidos em forma de ranking durante ou após um contest. A figura 5 e a tabela 4 a seguir mostram o diagrama HTA e a tabela HTA desta tarefa. 
 
 <center>
 
@@ -136,7 +135,7 @@ Esta tarefa aborda como os resultados dos participantes são calculados e exibid
 
 ### <a>5. Criação de Problema (Administrador)</a>
 
-Nesta tarefa, o administrador cria e configura novos problemas para os usuários resolverem. Abaixo estão o diagrama e a tabela HTA desta tarefa.
+Nesta tarefa, o administrador cria e configura novos problemas para os usuários resolverem. A figura 6 e a tabela 5 a seguir mostram o diagrama HTA e a tabela HTA desta tarefa. 
 
 <center>
 
@@ -165,7 +164,7 @@ Nesta tarefa, o administrador cria e configura novos problemas para os usuários
 
 ### <a>6. Criação de Contest (Administrador)</a>
 
-Nesta tarefa, o administrador organiza competições (contests) que agregam diversos problemas para serem resolvidos pelos participantes dentro de um tempo definido. Abaixo estão o diagrama e a tabela HTA desta tarefa.
+Nesta tarefa, o administrador organiza competições (contests) que agregam diversos problemas para serem resolvidos pelos participantes dentro de um tempo definido. A figura 7 e a tabela 6 a seguir mostram o diagrama HTA e a tabela HTA desta tarefa. 
 
 <center>
 
@@ -191,8 +190,9 @@ Nesta tarefa, o administrador organiza competições (contests) que agregam dive
 
 </center>
 
-## <a>Bibliografia</a>
-> <a id="REF1" href="#anchor_1">1.</a>Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021)Interação Humano-Computador e Experiência do usuário.
+## <a>Referências Bibliográficas</a>
+
+> <a id="REF1" href="#anchor_1">1.</a> Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) *Interação Humano-Computador e Experiência do usuário.* Capítulo 8 Organização do Espaço de Problema, tópico 8.4.1 Análise Hierárquica de Tarefas, página 178 à 181 . Autopublicação. ISBN: 978-65-00-19677-1.
 
 ## <a>Histórico de Versão</a>
 
@@ -200,3 +200,4 @@ Nesta tarefa, o administrador organiza competições (contests) que agregam dive
 | ------- | ------ | ------ | ------- | -------- | -------- |
 | `1.0` | 13/04/2024 | 20/04/2024 | Criação da página de Análise Hierárquica de Tarefas.| [João Artur](https://github.com/joao-artl)|[Diego Sousa](https://github.com/DiegoSousaLeite)|
 | `1.1` | 21/04/2024 | 23/04/2024 | Adicionando imagem dos diagramas.| [João Artur](https://github.com/joao-artl)|[Diego Sousa](https://github.com/DiegoSousaLeite)|
+| `1.2` | 19/05/2024 | 20/05/2024 | Corrigindo diagramas e referências.| [João Artur](https://github.com/joao-artl)|[Diego Sousa](https://github.com/DiegoSousaLeite)|
