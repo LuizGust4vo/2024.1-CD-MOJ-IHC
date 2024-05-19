@@ -20,19 +20,19 @@ O relator da avaliação deve incluir uma explicação detalhada sobre como o ob
 ### <a>Método de Avaliação Empregado</a>
 O relator da avaliação deve especificar que o método de avaliação será uma combinação de observação e entrevistas com os usuários, conforme o framework DECIDE<a id="anchor_3" href="#REF3">^3^</a>. Descrevendo cada etapa do framework, incluindo como as metas serão determinadas, como as questões serão exploradas, e como os dados serão coletados e analisados.
 
-### Número e Perfil dos Usuários e Avaliadores
+### <a>Número e Perfil dos Usuários e Avaliadores</a>
 O relator deve explicar qual o perfil dos usuários e avaliadores que serão envolvidos na avaliação, levando em conta o artefato [perfil de usuário](https://interacao-humano-computador.github.io/2024.1-CD-MOJ/analise-de-requisitos/perfildeUsuario/) e também a tabela criada durante o planejamento da avaliação mencionando suas características demográficas e técnicas, e como eles são representativos do público-alvo do sistema.<a id="anchor_2" href="#REF2">^2^</a>
 
-### Sumário dos Dados Coletados
+### <a>Sumário dos Dados Coletados</a>
 O relator dever definir quais foram os tipos de dados que coletados, como respostas a entrevistas, notas de observação e feedback direto dos usuários. Explicando como esses dados ajudarão a avaliar a eficácia do storyboard em atender às necessidades dos usuários.<a id="anchor_3" href="#REF3">^3^</a>
 
-### Interpretação e Análise dos Dados
+### <a>Interpretação e Análise dos Dados</a>
 O relator deve explicar os métodos que serão usados para analisar os dados coletados, focando em como as técnicas de análise qualitativa e quantitativa serão aplicadas para interpretar os resultados da avaliação.<a id="anchor_3" href="#REF3">^3^</a>
 
-### Lista dos Problemas Encontrados
+### <a>Lista dos Problemas Encontrados</a>
 Nesta seção do documento, o entrevistador deve listar meticulosamente todos os problemas e desafios específicos enfrentados pelo usuário durante a entrevista. É essencial registrar de forma clara e precisa cada obstáculo, erro, falha ou dificuldade que o usuário experimentou ao analisar os storyboards. Este registro detalhado é crucial para identificar áreas que necessitam de melhorias e para entender as experiências do usuário com o sistema.
 
-### Planejamento para o Reprojeto do Sistema
+### <a>Planejamento para o Reprojeto do Sistema</a>
 Este tópico deve detalhar como as descobertas da avaliação serão utilizadas para implementar ajustes e melhorias no sistema. Deve incluir um cronograma específico para a implementação dessas melhorias, identificando claramente os prazos e as etapas envolvidas. Além disso, é essencial especificar as responsabilidades, designando quem será encarregado de cada tarefa. Essa organização assegura que cada aspecto da melhoria seja adequadamente supervisionado e conduzido, garantindo uma execução eficiente e eficaz das atualizações planejadas. A organização da implementação de melhorias pode ser definida atráves de uma tabela.
 
 ## <a>Referências Bibliográficas</a>
