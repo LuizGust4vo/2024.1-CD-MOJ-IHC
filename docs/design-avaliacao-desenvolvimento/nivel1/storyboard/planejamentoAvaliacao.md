@@ -166,8 +166,7 @@ De acordo com nosso planejamento, o teste-piloto será executado por [Arthur Alv
 
 > <a id="FRM7" href="#anchor_7">7.</a> ROGERS, Yvonne. SHARP, Helen. PREECE, Jhennifer. Design de Interação: Além da Interação Humano-Computador. Capítulo 11.3: DECIDE: um framework para orientar a avaliação. Página 368.
 
-> <a id="FRM8" href="#anchor_8">8.</a> Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) *Interação Humano-Computador e Experiência do usuário.* Capítulo 11, Planejamento da Avaliação de IHC, 11.7.2
-Preparação, página 276. Autopublicação. ISBN: 978-65-00-19677-1.
+> <a id="FRM8" href="#anchor_8">8.</a> Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) *Interação Humano-Computador e Experiência do usuário.* Capítulo 11, Planejamento da Avaliação de IHC, 11.7.2 Preparação, página 276. Autopublicação. ISBN: 978-65-00-19677-1.
 
 > <a id="FRM9" href="#anchor_9">9.</a> SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição, Editora Campus, 2010. (Versão grátis disponível em: https://docplayer.com.br/63299367-Interacao-humano-computador.html). Acessado em: 18/05/2024.
 
