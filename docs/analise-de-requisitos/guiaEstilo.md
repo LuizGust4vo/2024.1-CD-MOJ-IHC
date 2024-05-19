@@ -1,13 +1,13 @@
 # <a> Guia de Estilo </a>
 
 ## <a> 1. Introdução </a>
-Segundo Barbosa et al (2021), o guia de estilo é um documento que registra as decisões de design importantes em projetos, garantindo consistência. Ele fornece diretrizes para elementos como layout, tipografia, cores e interação. O guia é uma ferramenta de comunicação entre equipes de design e desenvolvimento, e pode ser usado em diferentes níveis, como plataforma ou produto. É essencial para manter a coerência no design, mas não é um conjunto rígido de regras, mas sim um apoio flexível ao processo criativo.
+Segundo Barbosa et al (2021)<a id="anchor_1" href="#REF1">^1^</a>, o guia de estilo é um documento que registra as decisões de design importantes em projetos, garantindo consistência. Ele fornece diretrizes para elementos como layout, tipografia, cores e interação. O guia é uma ferramenta de comunicação entre equipes de design e desenvolvimento, e pode ser usado em diferentes níveis, como plataforma ou produto. É essencial para manter a coerência no design, mas não é um conjunto rígido de regras, mas sim um apoio flexível ao processo criativo.
 
 ### <a> Objetivo </a>
 O objetivo deste guia de estilo é orientar o desenvolvimento do projeto de IHC, especialmente no que diz respeito à identidade visual do CD-MOJ. Aqui serão registradas as principais decisões de design tomadas, de forma que elas fiquem organizadas e possam ser facilmente consultadas e utilizadas nas discussões ou versões futuras do projeto.
 
 ### <a> Organização e conteúdo </a>
-O guia de estilo será organizado com tópicos contendo os seguintes conteúdos:
+O guia de estilo será organizado com tópicos contendo os seguintes conteúdos<a id="anchor_2" href="#REF2">^2^</a>:
 
 - Resultados de análise: Descrição do ambiente de trabalho do usuário;
 - Elementos de interface: Disposição espacial, janelas, tipografia e cores;
@@ -28,7 +28,7 @@ Este documento deve ser utilizado como ferramenta de apoio e criatividade no pro
 O guia de estilo deve ser comunicado e ser de fácil acesso às partes interessadas (integrantes do grupo, designers etc), essa comunicação irá garantir que a interface final atenda às necessidades dos usuários, promovendo uma interação eficaz e satisfatória.
 
 ### <a> Como mantê-lo </a>
-O guia de estilo é um documento dinâmico que precisa de manutenção recorrente (pelo menos até o final do projeto), para manter-se atualizado e garantir sua utilidade ao longo das versões, bem como as novas ideias obtidas durante o desenvolvimento e interação entre as partes interessadas. Para garantir a manutenção adequada do guia de estilo, seguir as seguintes práticas é essencial:
+O guia de estilo é um documento dinâmico que precisa de manutenção recorrente (pelo menos até o final do projeto), para manter-se atualizado e garantir sua utilidade ao longo das versões, bem como as novas ideias obtidas durante o desenvolvimento e interação entre as partes interessadas. Para garantir a manutenção adequada do guia de estilo, seguir as seguintes práticas é essencial<a id="anchor_3" href="#REF1">^3^</a>:
 
 - Atualizações regulares: Sempre que ocorrerem decisões de design ou desenvolvimento que afetem o site, o guia de estilo deverá ser atualizado para refletir essas mudanças. Isso inclui adicionar ou atualizar elementos de interface e ajustar as recomendações com base em feedbacks e aprendizados obtidos durante o processo de desenvolvimento;
 
@@ -90,14 +90,18 @@ Em relação aos princípios, que envolvem consistência, feedback, prevenção 
 
 Outros aspecto importante são o equilíbrio entre o controle e liberdade do usuário. Pode-se observar no site a limitação da capacidade dos usuários de alterarem seus logins e senhas, sendo possível apenas através de intervenção do professor. Onde causa dificuldade para os usuários decorarem diversas senhas e logins em geral um para cada contest.
 
+## <a> Referência Bibliográfica </a>
+> <a id="REF1" href="#anchor_1">1.</a> BARBOSA, Simone Diniz Junqueira et al. Interação humano-computador e experiência do usuário. 1. ed. Rio de Janeiro: Simone Diniz Junqueira Barbosa, 2021.
+
+> <a id="REF2" href="#anchor_2">2.</a> Plano de Ensino da disciplina Interação Humano Computador, Dr. André Barros de Sales. [Plano de Ensino](https://aprender3.unb.br/pluginfile.php/2843624/mod_resource/content/48/Plano_de_Ensino%20FIHC%20012024%20Turma%201.pdf)
+
+> <a id="REF3" href="#anchor_3">3.</a> ALVISSUS, Giovanni; GOMES, Larissa. Guia de Estilo. Repositório da disciplina de Interação Humano Computador da Universidade de Brasília, 2023. Disponível em: <<https://github.com/Interacao-Humano-Computador/2023.1-BancoCentral/blob/master/docs/analise_requisitos/guia_estilo.md>>. Acesso em: 11/05/2024.
+
 ## <a> Bibliografia </a>
-> <a id = "REF1" href="#anchor_1"> 1.</a> BARBOSA, Simone Diniz Junqueira et al. Interação humano-computador e experiência do usuário. 1. ed. Rio de Janeiro: Simone Diniz Junqueira Barbosa, 2021.
-
-> <a id = "REF2" href="#anchor_2"> 2. </a> ALVISSUS, Giovanni; GOMES, Larissa. Guia de Estilo. Repositório da disciplina de Interação Humano Computador da Universidade de Brasília, 2023. Disponível em: https://github.com/Interacao-Humano-Computador/2023.1-BancoCentral/blob/master/docs/analise_requisitos/guia_estilo.md. Acesso em: 11/05/2024. 
-
-> <a id = "REF3" href="#anchor_3"> 3. </a> QUEIROZ, João. Princípios e Diretrizes para o Design de IHC: Guias de Estilo. Docentes do IFRN, online. 2014. Disponível em: https://docente.ifrn.edu.br/joaoqueiroz/disciplinas/ihc-interacao-humano-computador/aulas/aula-8. Acesso em: 11/05/2024. 
+> QUEIROZ, João. Princípios e Diretrizes para o Design de IHC: Guias de Estilo. Docentes do IFRN, online. 2014. Disponível em: <<https://docente.ifrn.edu.br/joaoqueiroz/disciplinas/ihc-interacao-humano-computador/aulas/aula-8>>. Acesso em: 11/05/2024. 
 
 ## <a> Histórico de Versão </a>
+
 | Versão| Data | Data Prevista de Revisão| Descrição  | Autor(es)  | Revisor(es) |
 | ------- | ------ | ------ | ------- | -------- | -------- |
 | `1.0` | 10/05/2024 | 11/05/2024 | Criação da introdução do guia de estilo | [Luiz Gustavo](https://github.com/LuizGust4vo) | [Douglas Marinho](https://github.com/M4RINH0) |
