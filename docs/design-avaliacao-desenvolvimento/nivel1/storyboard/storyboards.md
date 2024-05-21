@@ -173,12 +173,6 @@ Já a figura 5 a seguir representa o storyboard desenvolvido para esta tarefa:
 
 
 
-
-
-
-
-
-
 ### <a>Tarefa 5: Criação de Problema (Administrador)</a>
 
 Nesta tarefa, o administrador e alunos monitores criam uma variedade de problemas a serem resolvidos pelos participantes para aprimoramento das habilidades de programação. A tabela 7 a seguir, descreve a parte textual desta tarefa:
@@ -201,7 +195,9 @@ Já a figura 6 a seguir representa o storyboard desenvolvido para esta tarefa:
 
 <font size="3"><p style="text-align: center"><b>Figura 6</b> - Criação de Problema (Administrador).</p></font>
 
-AQUI LUIZ
+<center>
+![Criação de  Problema](https://github.com/Interacao-Humano-Computador/2024.1-CD-MOJ/blob/git-pages/docs/design-avaliacao-desenvolvimento/nivel1/assets/storyboardLuiz2.png?raw=true)
+</center>
 
 <font size="3"><p style="text-align: center"><b>Fonte:</b> [Luiz Gustavo](https://github.com/LuizGust4vo).</p></font>
 
