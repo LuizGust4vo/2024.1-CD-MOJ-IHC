@@ -61,18 +61,19 @@ Para fins de documentação as entrevistas devem ser registradas em uma tabela c
 
 <center>
 
-**Tabela 2** - Cronograma Planejado.
+<font size="3"><p style="text-align: center"><b>Tabela 2</b> - Cronograma de entrevistas</p></font>
 
-|                    Entrevistador                    |    Entrevistado     | Horário de Início | Horário de Fim |    Data    |                                                                                                                                                                                                                    Local                                                                                                                                                                                                                    |
-| :-------------------------------------------------: | :-----------------: | :---------------: | :------------: | :--------: | :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-|     a definir     |    a definir    |       a definir       |     a definir      | a definir | a definir |
+| Entrevistador | Entrevistado | Storyboard Analisado | Horário de Início | Horário de Fim | Data       | Local |
+|-------------------|-----------------|----------------------|-------------------|----------------|------------|-------|
+| Arthur Alves      | Fábio Torres       | <a href="/2024.1-CD-MOJ/design-avaliacao-desenvolvimento/nivel1/storyboard/storyboards/#tarefa-2-tutorial-de-resolucao-de-questoes-pos-contest">Tutorial de Resolução de Questões Pós-Contest</a>            | 09:00         | 09:30      | 28/05  | FGA   |
+| Diego Sousa      | Pedro       | <a href="/2024.1-CD-MOJ/design-avaliacao-desenvolvimento/nivel1/storyboard/storyboards/#tarefa-4-ranking-de-contest">Ranking de Contest</a>            | 15:00         | 15:10      | 28/05  | FGA   |
+| Douglas Marinho      |Júlia Fortunato       | <a href="/2024.1-CD-MOJ/design-avaliacao-desenvolvimento/nivel1/storyboard/storyboards/#tarefa-5-criacao-de-problema-administrador">Criar Contest</a>            | 08:30         | 08:40      | 29/05  | FGA   |
+| Eric Silveira     | Will Bernardo       |<a href="/2024.1-CD-MOJ/design-avaliacao-desenvolvimento/nivel1/storyboard/storyboards/#tarefa-1-submissao-de-problemas">Submissão de Problemas</a>            | 20:00         | 20:30      | 28/05  | FGA   |
+| João Artur      | Júlio César       | <a href="/2024.1-CD-MOJ/design-avaliacao-desenvolvimento/nivel1/storyboard/storyboards/#tarefa-3-verificacao-de-submissoes">Verificação de Submissões</a>            | 09:00         | 09:30      | 28/05  | FGA   |
+| Luiz Gustavo      | Pedro Dourado       | <a href="/2024.1-CD-MOJ/design-avaliacao-desenvolvimento/nivel1/storyboard/storyboards/#tarefa-5-criacao-de-problema-administrador">Criação de Problema</a>            | 20:00         | 20:30      | 29/05  | FGA   |
 
 
-**Fonte**: [Douglas Marinho](https://github.com/M4RINH0).
-</center>
-
-
-### <a id="roteiro_de_perguntas">Roteiro de Perguntas</a>
+<font size="3"><p style="text-align: center"><b>Fonte:</b> Arthur Alves e Eric Silveira.</p></font>
 
 Na entrevista estarão disponíveis capturas de tela para que o usuário possa ver a tarefa da qual o entrevistador estará comentando e a tabela com o seu fluxo. A tabela 3 a seguir mostra o roteiro de perguntas a serem realizadas na entrevista. Essas perguntas foram baseadas nas perguntas a serem [repondidas na avaliação](#met1).
 
@@ -123,9 +124,9 @@ Esta etapa tem como objetivo avaliar o planejamento proposto e analisar se a ava
 ## <a>Teste Piloto</a>
 A seguir, apresentamos o vídeo do teste piloto realizado conforme o cronograma mencionado anteriormente, no qual [Diego Sousa](https://github.com/DiegoSousaLeite) atuou como usuário e [Douglas Marinho](https://github.com/M4RINH0) como entrevistador.
 
-<p style="text-align: center"><a href="https://youtu.be/PD0YA5A_TNc" target="blanket">Clique aqui</a></p>
+<p style="text-align: center"><a href="https://www.youtube.com/watch?v=PD0YA5A_TNc" target="blanket">Clique aqui</a></p>
 
-<p style="text-align: center"><iframe width="560" height="315" src="https://youtu.be/PD0YA5A_TNc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p>
+<p style="text-align: center"><iframe width="560" height="315" src="https://www.youtube.com/watch?v=PD0YA5A_TNc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p>
 
 <font size="3"><p style="text-align: center">Fonte: [Diego Sousa](https://github.com/DiegoSousaLeite) e [Douglas Marinho](https://github.com/M4RINH0).</p></font>
 
@@ -151,3 +152,4 @@ A seguir, apresentamos o vídeo do teste piloto realizado conforme o cronograma 
 | `1.1` | 20/05/2024 | 22/05/2024 | Adicionando os 4 primeiros topicos. | [Diego Sousa](https://github.com/DiegoSousaLeite)| [João Artur](https://github.com/joao-artl)  |
 | `1.2` | 22/05/2024 | 22/05/2024 | Adicionando os topicos restantes. | [Douglas Marinho](https://github.com/M4RINH0)| [João Artur](https://github.com/joao-artl)  |
 | `1.3` | 22/05/2024 | 22/05/2024 | Adição teste piloto. | [Diego Sousa](https://github.com/DiegoSousaLeite)| [João Artur](https://github.com/joao-artl)  |
+| `1.4` | 22/05/2024 | 22/05/2024 | Adição Cronograma. | [Diego Sousa](https://github.com/DiegoSousaLeite)| [João Artur](https://github.com/joao-artl)  |
