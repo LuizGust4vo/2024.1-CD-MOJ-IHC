@@ -47,14 +47,19 @@ A avaliação tem como objetivo permitir que os entrevistados examinem os storyb
 
 ### <a>E - Explorar questões respondidas a partir da avaliação</a>
 
-A partir dos objetivos, foram elaboradas perguntas específicas que servem para orientar a investigação e facilitar a análise crítica necessária. Essas perguntas são essenciais para a operacionalização do processo de avaliação, permitindo que se faça um julgamento de valor sobre os aspectos analisados<a id="anchor_10" href="#FRM10">^10^</a>. 
+A partir dos objetivos, foram elaboradas perguntas específicas que servem para orientar a investigação e facilitar a análise crítica necessária. Essas perguntas são essenciais para a operacionalização do processo de avaliação, permitindo que se faça um julgamento de valor sobre os aspectos analisados<a id="anchor_10" href="#FRM10">^10^</a>. Veja na tabela 2, o que pretende-se ter como resposta após a aplicação do questionário. 
 
-Com base nos objetivos da tabela 11.1: Exemplos de perguntas que uma avaliação de IHC pode responder<a id="anchor_4" href="#REF4">^4^</a>, foram preparadas perguntas baseadas nos seguintes tópicos: 
+<font size="3"><p style="text-align: center"><b>Tabela 2</b> - Questões para serem respondidas a partir da avaliação</p></font>
 
-- Analisar a apropriação da tecnologia; 
-- Comparar ideias e alternativas de design;
-- Verificar a conformidade com um padrão;
-- Identificar problemas na interação e interface.
+| Número | Pergunta                                                               | O que se espera?                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
+|--------|-----------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 1      | Quão autêntica é a representação dos usuários no storyboard?          | Com base nas respostas às perguntas 1 e 2, podemos avaliar se os personagens e cenários no storyboard refletem fielmente os usuários reais e suas situações. Isso inclui analisar as discrepâncias mencionadas nos feedbacks abertos para entender como essas diferenças impactam a percepção do usuário sobre a realidade do storyboard.                                                                                                                     |
+| 2      | Os storyboards facilitam a compreensão e a interação dos usuários?     | Analisando as respostas das perguntas 6, 7, 8 e 9, podemos determinar se as informações apresentadas são claras, diretas e suficientemente detalhadas para que os usuários compreendam e interajam com o cenário proposto. Isso é crucial para garantir que os storyboards sejam ferramentas eficazes na comunicação de processos e na orientação das expectativas dos usuários.                                                                 |
+| 3      | Os storyboards são eficazes em envolver emocional e cognitivamente os usuários? | Através das respostas às perguntas 11, 12, 13 e 14, podemos explorar como os usuários se relacionam emocional e cognitivamente com o storyboard. Isso envolve entender se os usuários podem prever ações futuras, se identificam com os personagens, e se sentem que os storyboards transmitem a urgência e importância das informações ou ações descritas.                                                                  |
+| 4      | Quais melhorias podem ser implementadas para aprimorar a eficácia do storyboard? | Utilizando o feedback das perguntas 10, 16 e 17, identificaremos elementos que causaram confusão, despertaram curiosidade ou que poderiam ser melhorados. Essas respostas são vitais para refinar o storyboard, ajustando elementos visuais, textuais e contextuais para melhor atender às necessidades e expectativas dos usuários.                                                                                           |
+
+<font size="3"><p style="text-align: center"><b>Fonte:</b> Arthur Alves.</p></font>
+
   
 As perguntas selecionadas têm o objetivo de serem respondidas com esta avaliação e serão discutidas posteriormente no tópico [Roteiro de Perguntas](#roteiro-de-perguntas).
 
@@ -78,9 +83,9 @@ Cada um dos seis integrantes do nosso grupo desenvolveu um storyboard, resultand
 As entrevistas para a avaliação dos storyboards criados para o CDMOJ serão conduzidas de forma presencial. Esta abordagem permite uma interação direta e pessoal com todos os participantes, facilitando uma comunicação mais rica e detalhada. Ao realizar as sessões de avaliação presencialmente, teremos a oportunidade de observar as reações físicas e capturar detalhes que podem não ser tão evidentes caso fosse conduzido de forma online. Isso será valioso para enriquecer o processo de análise e contribuir para o refinamento dos storyboards.
 
 #### <a>Roteiro de Perguntas</a>
-Ao criar as perguntas, veja na tabela 2, levou-se em consideração o perfil e as atividades dos usuários-alvo para assegurar que a avaliação gere dados que contribuam significativamente para o refinamento do storyboard final.
+Ao criar as perguntas, veja na tabela 3, levou-se em consideração o perfil e as atividades dos usuários-alvo para assegurar que a avaliação gere dados que contribuam significativamente para o refinamento do storyboard final.
 
-<font size="3"><p style="text-align: center"><b>Tabela 2</b> - Roteiro de perguntas</p></font>
+<font size="3"><p style="text-align: center"><b>Tabela 3</b> - Roteiro de perguntas</p></font>
 
 | Número | Pergunta | Resposta | Objetivo |
 |--------|----------|----------|----------|
@@ -125,9 +130,9 @@ Durante a sessão, apenas o entrevistador precisará de dispositivos digitais b�
 - Dispositivo de Gravação: Para capturar tanto o áudio quanto a imagem durante a entrevista, será necessário um dispositivo de gravação de qualidade. Esse equipamento é essencial para registrar a interação completa, permitindo que a equipe revise as entrevistas mais tarde para capturar nuances e detalhes que podem ser perdidos apenas nas notas escritas.
 
 #### <a>Prazos</a>
-Confira na Tabela 3, que apresenta o cronograma, como ficou definido o agendamento das entrevistas. Esta tabela detalha os horários de início e término, as datas, o storyboard que será usado pra ser analisado na entrevista e o local.
+Confira na Tabela 4, que apresenta o cronograma, como ficou definido o agendamento das entrevistas. Esta tabela detalha os horários de início e término, as datas, o storyboard que será usado pra ser analisado na entrevista e o local.
 
-<font size="3"><p style="text-align: center"><b>Tabela 3</b> - Cronograma de entrevistas</p></font>
+<font size="3"><p style="text-align: center"><b>Tabela 4</b> - Cronograma de entrevistas</p></font>
 
 | Entrevistador | Entrevistado | Storyboard Analisado | Horário de Início | Horário de Fim | Data       | Local |
 |-------------------|-----------------|----------------------|-------------------|----------------|------------|-------|
