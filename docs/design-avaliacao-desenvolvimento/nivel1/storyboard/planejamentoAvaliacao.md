@@ -98,7 +98,7 @@ Ao criar as perguntas, veja na tabela 2, levou-se em consideração o perfil e a
 | 12     | O entrevistado é capaz de prever os próximos passos ou consequências das ações apresentadas no storyboard? | [ ] Sim<br> [ ] Não<br> [ ] Não sei responder | Verificar Entendimento |
 | 13     | O entrevistado consegue se identificar com os personagens ou usuários representados no storyboard? | Questão aberta | Verificar Entendimento |
 | 14     | O storyboard foi persuasivo em transmitir a importância ou urgência das informações ou ações descritas? | [ ] Sim<br> [ ] Não<br> [ ] Não sei responder | Avaliar Impacto Emocional |
-| 15     | Os entrevistados acharam que as situações apresentadas no storyboard têm relevância pessoal ou profissional para eles? | [ ] Sim<br> [ ] Não<br> [ ] Não sei responder | Avaliar Impacto Emocional |
+| 15     | Os entrevistados acharam que as situações apresentadas no storyboard têm relevância pessoal para eles? | [ ] Sim<br> [ ] Não<br> [ ] Não sei responder | Avaliar Impacto Emocional |
 | 16     | Houve elementos no storyboard que surpreenderam ou despertaram a curiosidade dos entrevistados? | Questão aberta | Avaliar Impacto Emocional |
 | 17     | Quais aspectos do storyboard o entrevistado sugere modificar para melhorar a compreensão? | Questão aberta | Obter Feedback |
 
