@@ -166,6 +166,15 @@ O <a href="/2024.1-CD-MOJ/analise-de-requisitos/aspectosEticos/#termo-de-consent
 
 Os entrevistados receberão informações completas sobre os termos da pesquisa e sua participação será iniciada somente após recebermos a sua expressa aprovação.
 
+<center>
+    <figure markdown>
+    <font size="3"><p style="text-align: center"><b>Figura 1</b> -  Termo de consentimento para a avaliação.</p></font>
+    ![Meta de usabilidade Aprendizagem](../../../../assets/termo.png){width: 300}
+    </figure>
+
+  <font size="3"><p style="text-align: center"><b>Fonte:</b> Arthur Alves.</p></font>
+</center>
+
 ### <a>E - Avaliar, interpretar e apresentar os dados</a>
 Após a conclusão das entrevistas, os dados coletados serão cuidadosamente documentados e submetidos a uma análise detalhada. Esta etapa inclui uma avaliação rigorosa para assegurar a precisão e a relevância das informações obtidas.
 
