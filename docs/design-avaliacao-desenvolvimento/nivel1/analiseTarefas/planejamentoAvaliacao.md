@@ -37,6 +37,7 @@ DOUGLAS VC COMEÇA AQUI
 ### <a>Preparação</a>
 ### <a>Prazos</a>
 ### <a id="roteiro_de_perguntas">Roteiro de Perguntas</a>
+### <a> Execução do roteiro </a>
 
 ## <a>D - Decidir as questões éticas</a>
 
