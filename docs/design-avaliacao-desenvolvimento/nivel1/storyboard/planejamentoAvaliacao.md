@@ -149,7 +149,7 @@ Para a realização eficaz das entrevistas, é essencial que o entrevistador est
 - Papel A4: Além dos storyboards, papel A4 limpo será fornecido para que o entrevistado possa fazer rascunhos adicionais ou anotações detalhadas. Isso é particularmente útil para registrar insights ou expandir ideias que surgem durante a entrevista.
 
 ### <a>D - Decisão sobre como lidar com questões éticas</a>
-O <a>termo de consentimento</a> apresentado no artefato <a>Aspectos Éticos</a> assegura vários princípios fundamentais na condução de pesquisas envolvendo seres humanos, especialmente em contextos acadêmicos e de pesquisa. Os pilares principais que esse documento garante incluem:
+O <a href="/2024.1-CD-MOJ/analise-de-requisitos/aspectosEticos/#termo-de-consentimento">termo de consentimento</a> apresentado no artefato <a>Aspectos Éticos</a> assegura vários princípios fundamentais na condução de pesquisas envolvendo seres humanos, especialmente em contextos acadêmicos e de pesquisa. Os pilares principais que esse documento garante incluem:
 
 - Voluntariedade: A participação na pesquisa é completamente voluntária, garantindo que os participantes têm a liberdade de escolher se envolver sem qualquer forma de coerção.
 - Anonimato e Privacidade: Assegura que todas as informações coletadas durante a pesquisa serão tratadas com confidencialidade. Os dados pessoais dos participantes serão anonimizados, e apenas resultados agregados serão divulgados, protegendo a identidade e a privacidade dos envolvidos.
