@@ -164,7 +164,7 @@ O <a href="/2024.1-CD-MOJ/analise-de-requisitos/aspectosEticos/#termo-de-consent
 - Responsabilidade: Designa o pesquisador responsável como ponto de contato, garantindo que haja um responsável direto pela integridade e pela condução ética da pesquisa.
 - Gravações: Especifica a possibilidade de gravação das sessões como parte do método de coleta de dados, esclarecendo que estas serão utilizadas exclusivamente para fins de pesquisa, respeitando a privacidade e a finalidade do estudo.
 
-Os entrevistados receberão informações completas sobre os termos da pesquisa e sua participação será iniciada somente após recebermos a sua expressa aprovação.
+Os entrevistados receberão informações completas sobre os termos da pesquisa e sua participação será iniciada somente após recebermos a sua expressa aprovação, veja na figura 1.
 
 <center>
     <figure markdown>
