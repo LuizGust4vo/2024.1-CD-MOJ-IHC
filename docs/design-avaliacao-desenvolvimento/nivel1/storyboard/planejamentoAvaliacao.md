@@ -47,31 +47,16 @@ A avaliação tem como objetivo permitir que os entrevistados examinem os storyb
 
 ### <a>E - Explorar questões respondidas a partir da avaliação</a>
 
-A partir dos objetivos, foram elaboradas perguntas específicas que servem para orientar a investigação e facilitar a análise crítica necessária. Essas perguntas são essenciais para a operacionalização do processo de avaliação, permitindo que se faça um julgamento de valor sobre os aspectos analisados<a id="anchor_10" href="#FRM10">^10^</a>. Além disso, ao criar as perguntas, veja na tabela 2, levou-se em consideração o perfil e as atividades dos usuários-alvo para assegurar que a avaliação gere dados que contribuam significativamente para o refinamento do storyboard final.
+A partir dos objetivos, foram elaboradas perguntas específicas que servem para orientar a investigação e facilitar a análise crítica necessária. Essas perguntas são essenciais para a operacionalização do processo de avaliação, permitindo que se faça um julgamento de valor sobre os aspectos analisados<a id="anchor_10" href="#FRM10">^10^</a>. 
 
-<font size="3"><p style="text-align: center"><b>Tabela 2</b> - Roteiro de perguntas</p></font>
+Com base nos objetivos da tabela 11.1: Exemplos de perguntas que uma avaliação de IHC pode responder<a id="anchor_4" href="#REF4">^4^</a>, foram preparadas perguntas baseadas nos seguintes tópicos: 
 
-| Número | Pergunta | Resposta | Objetivo |
-|--------|----------|----------|----------|
-| 1 | Os usuários representados nos storyboards refletem os verdadeiros usuários do sistema? | [ ] Sim<br> [ ] Não<br> [ ] Não sei responder | Verificar Apropriação |
-| 2 | Existem discrepâncias entre a representação e os usuários reais? | [ ] Sim<br> [ ] Não<br> [ ] Não sei responder | Verificar Apropriação |
-| 3 | O cenário apresentado nos storyboards é condizente com o ambiente real em que o sistema é utilizado? | [ ] Sim<br> [ ] Não<br> [ ] Não sei responder | Verificar Apropriação |
-| 4 | As tarefas realizadas pelos usuários nos storyboards condizem com as atividades que eles realmente executam? | [ ] Sim<br> [ ] Não<br> [ ] Não sei responder | Verificar Apropriação |
-| 5 | Os storyboards atendem aos objetivos e necessidades dos usuários? | [ ] Sim<br> [ ] Não<br> [ ] Não sei responder | Verificar Apropriação |
-| 6 | As informações no storyboard foram apresentadas de maneira clara e direta? | [ ] Sim<br> [ ] Não<br> [ ] Não sei responder | Verificar a Interação |
-| 7 | Os processos e sequências de ações no storyboard estão detalhados o suficiente para serem facilmente compreendidos? | [ ] Sim<br> [ ] Não<br> [ ] Não sei responder | Verificar a Interação |
-| 8 | Os elementos visuais e gráficos usados no storyboard ajudam na compreensão das informações apresentadas? | [ ] Sim<br> [ ] Não<br> [ ] Não sei responder | Verificar a Interação |
-| 9 | Todas as informações apresentadas no storyboard são relevantes para a compreensão do cenário? | [ ] Sim<br> [ ] Não<br> [ ] Não sei responder | Verificar a Interação |
-| 10 | Existem partes do storyboard que causaram confusão ou foram interpretadas de maneira ambígua? | [ ] Sim<br> [ ] Não<br> [ ] Não sei responder | Verificar a Interação |
-| 11 | O entrevistado conseguiu relacionar as situações do storyboard com suas experiências anteriores ou conhecimento prévio? | [ ] Sim<br> [ ] Não<br> [ ] Não sei responder | Verificar Entendimento |
-| 12 | O entrevistado é capaz de prever os próximos passos ou consequências das ações apresentadas no storyboard? | [ ] Sim<br> [ ] Não<br> [ ] Não sei responder | Verificar Entendimento |
-| 13 | O entrevistado consegue se identificar com os personagens ou usuários representados no storyboard? | [ ] Sim<br> [ ] Não<br> [ ] Não sei responder | Verificar Entendimento |
-| 14 | O storyboard foi persuasivo em transmitir a importância ou urgência das informações ou ações descritas? | [ ] Sim<br> [ ] Não<br> [ ] Não sei responder | Avaliar Impacto Emocional |
-| 15 | Os entrevistados acharam que as situações apresentadas no storyboard têm relevância pessoal ou profissional para eles? | [ ] Sim<br> [ ] Não<br> [ ] Não sei responder | Avaliar Impacto Emocional |
-| 16 | Houve elementos no storyboard que surpreenderam ou despertaram a curiosidade dos entrevistados? | [ ] Sim<br> [ ] Não<br> [ ] Não sei responder | Avaliar Impacto Emocional |
-| 17 | Quais aspectos do storyboard o entrevistado sugere modificar para melhorar a compreensão? | Questão aberta | Obter Feedback |
-
-<font size="3"><p style="text-align: center"><b>Fonte:</b> Arthur Alves.</p></font>
+- Analisar a apropriação da tecnologia; 
+- Comparar ideias e alternativas de design;
+- Verificar a conformidade com um padrão;
+- Identificar problemas na interação e interface.
+  
+As perguntas selecionadas têm o objetivo de serem respondidas com esta avaliação e serão discutidas posteriormente no tópico [Roteiro de Perguntas](#roteiro-de-perguntas).
 
 ### <a>C - Escolher paradimas de avaliação e técnicas para as perguntas</a>
 Os métodos de investigação (inquiry) envolvem o uso de questionários, a realização de entrevistas, grupos de foco e estudos de campo, entre outros. Esses métodos permitem ao avaliador ter acesso, interpretar e analisar concepções, opiniões, expectativas e comportamentos do usuário relacionados com sistemas interativos. Em particular, permitem investigar alternativas de design, problemas que os usuários costumam enfrentar, como eles se apropriaram da tecnologia existente e quais são suas expectativas para futuras interações com tecnologias atuais e novas.<a id="anchor_11" href="#FRM11">^11^</a>
@@ -91,6 +76,34 @@ O recrutamento é realizado diretamente dentro do contexto acadêmico, aproveita
 Cada um dos seis integrantes do nosso grupo desenvolveu um storyboard, resultando em um total de seis storyboards a serem avaliados. Para garantir uma análise abrangente e detalhada, optamos por recrutar seis pessoas para o processo de entrevista. Cada entrevistado será responsável por analisar um storyboard. Essa divisão foi estrategicamente planejada para maximizar a cobertura de feedback sobre os diferentes storyboards, enquanto se mantém uma carga gerenciável para cada participante.
 
 As entrevistas para a avaliação dos storyboards criados para o CDMOJ serão conduzidas de forma presencial. Esta abordagem permite uma interação direta e pessoal com todos os participantes, facilitando uma comunicação mais rica e detalhada. Ao realizar as sessões de avaliação presencialmente, teremos a oportunidade de observar as reações físicas e capturar detalhes que podem não ser tão evidentes caso fosse conduzido de forma online. Isso será valioso para enriquecer o processo de análise e contribuir para o refinamento dos storyboards.
+
+#### <a>Roteiro de Perguntas</a>
+Ao criar as perguntas, veja na tabela 2, levou-se em consideração o perfil e as atividades dos usuários-alvo para assegurar que a avaliação gere dados que contribuam significativamente para o refinamento do storyboard final.
+
+<font size="3"><p style="text-align: center"><b>Tabela 2</b> - Roteiro de perguntas</p></font>
+
+| Número | Pergunta | Resposta | Objetivo |
+|--------|----------|----------|----------|
+| 1      | Os usuários representados nos storyboards refletem os verdadeiros usuários do sistema? | [ ] Sim<br> [ ] Não<br> [ ] Não sei responder | Verificar Apropriação |
+| 2      | Existem discrepâncias entre a representação e os usuários reais? | Questão aberta | Verificar Apropriação |
+| 3      | O cenário apresentado nos storyboards é condizente com o ambiente real em que o sistema é utilizado? | [ ] Sim<br> [ ] Não<br> [ ] Não sei responder | Verificar Apropriação |
+| 4      | As tarefas realizadas pelos usuários nos storyboards condizem com as atividades que eles realmente executam? | [ ] Sim<br> [ ] Não<br> [ ] Não sei responder | Verificar Apropriação |
+| 5      | Os storyboards atendem aos objetivos e necessidades dos usuários? | Questão aberta | Verificar Apropriação |
+| 6      | As informações no storyboard foram apresentadas de maneira clara e direta? | [ ] Sim<br> [ ] Não<br> [ ] Não sei responder | Verificar a Interação |
+| 7      | Os processos e sequências de ações no storyboard estão detalhados o suficiente para serem facilmente compreendidos? | Questão aberta | Verificar a Interação |
+| 8      | Os elementos visuais e gráficos usados no storyboard ajudam na compreensão das informações apresentadas? | [ ] Sim<br> [ ] Não<br> [ ] Não sei responder | Verificar a Interação |
+| 9      | Todas as informações apresentadas no storyboard são relevantes para a compreensão do cenário? | Questão aberta | Verificar a Interação |
+| 10     | Existem partes do storyboard que causaram confusão ou foram interpretadas de maneira ambígua? | Questão aberta | Verificar a Interação |
+| 11     | O entrevistado conseguiu relacionar as situações do storyboard com suas experiências anteriores ou conhecimento prévio? | [ ] Sim<br> [ ] Não<br> [ ] Não sei responder | Verificar Entendimento |
+| 12     | O entrevistado é capaz de prever os próximos passos ou consequências das ações apresentadas no storyboard? | [ ] Sim<br> [ ] Não<br> [ ] Não sei responder | Verificar Entendimento |
+| 13     | O entrevistado consegue se identificar com os personagens ou usuários representados no storyboard? | Questão aberta | Verificar Entendimento |
+| 14     | O storyboard foi persuasivo em transmitir a importância ou urgência das informações ou ações descritas? | [ ] Sim<br> [ ] Não<br> [ ] Não sei responder | Avaliar Impacto Emocional |
+| 15     | Os entrevistados acharam que as situações apresentadas no storyboard têm relevância pessoal ou profissional para eles? | [ ] Sim<br> [ ] Não<br> [ ] Não sei responder | Avaliar Impacto Emocional |
+| 16     | Houve elementos no storyboard que surpreenderam ou despertaram a curiosidade dos entrevistados? | Questão aberta | Avaliar Impacto Emocional |
+| 17     | Quais aspectos do storyboard o entrevistado sugere modificar para melhorar a compreensão? | Questão aberta | Obter Feedback |
+
+
+<font size="3"><p style="text-align: center"><b>Fonte:</b> Arthur Alves.</p></font>
 
 #### <a>Preparação</a>
 Antes de iniciar as entrevistas para a avaliação dos storyboards, faremos uma preparação para garantir a eficácia do processo. Esta preparação envolve várias etapas cruciais que são projetadas para alinhar o processo avaliativo com os objetivos específicos de nosso estudo e garantir que ele seja capaz de capturar dados relevantes e precisos.
@@ -119,11 +132,11 @@ Confira na Tabela 3, que apresenta o cronograma, como ficou definido o agendamen
 | Entrevistador | Entrevistado | Storyboard Analisado | Horário de Início | Horário de Fim | Data       | Local |
 |-------------------|-----------------|----------------------|-------------------|----------------|------------|-------|
 | Arthur Alves      | Fábio Torres       | <a href="/2024.1-CD-MOJ/design-avaliacao-desenvolvimento/nivel1/storyboard/storyboards/#tarefa-2-tutorial-de-resolucao-de-questoes-pos-contest">Tutorial de Resolução de Questões Pós-Contest</a>            | 09:00         | 09:30      | 28/05  | FGA   |
-| Diego Sousa      | a definir       | a definir            | a definir         | a definir      | a definir  | FGA   |
-| Douglas Marinho      | a definir       | a definir            | a definir         | a definir      | a definir  | FGA   |
-| Eric Silveira     | Will Bernardo       |<a href="/2024.1-CD-MOJ/design-avaliacao-desenvolvimento/nivel1/storyboard/storyboards/#tarefa-1-submissao-de-problemas">Submissão de Problemas</a>            | 20:00         | 20:30      | 28/05  | República Kalangos   |
+| Diego Sousa      | Pedro       | <a href="/2024.1-CD-MOJ/design-avaliacao-desenvolvimento/nivel1/storyboard/storyboards/#tarefa-4-ranking-de-contest">Ranking de Contest</a>            | 15:00         | 15:10      | 28/05  | FGA   |
+| Douglas Marinho      |Júlia Fortunato       | <a href="/2024.1-CD-MOJ/design-avaliacao-desenvolvimento/nivel1/storyboard/storyboards/#tarefa-5-criacao-de-problema-administrador">Criar Contest</a>            | 08:30         | 08:40      | 29/05  | FGA   |
+| Eric Silveira     | Will Bernardo       |<a href="/2024.1-CD-MOJ/design-avaliacao-desenvolvimento/nivel1/storyboard/storyboards/#tarefa-1-submissao-de-problemas">Submissão de Problemas</a>            | 20:00         | 20:30      | 28/05  | FGA   |
 | João Artur      | Júlio César       | <a href="/2024.1-CD-MOJ/design-avaliacao-desenvolvimento/nivel1/storyboard/storyboards/#tarefa-3-verificacao-de-submissoes">Verificação de Submissões</a>            | 09:00         | 09:30      | 28/05  | FGA   |
-| Luiz Gustavo      | a definir       | a definir            | a definir         | a definir      | a definir  | FGA   |
+| Luiz Gustavo      | Pedro Dourado       | <a href="/2024.1-CD-MOJ/design-avaliacao-desenvolvimento/nivel1/storyboard/storyboards/#tarefa-5-criacao-de-problema-administrador">Criação de Problema</a>            | 20:00         | 20:30      | 29/05  | FGA   |
 
 
 <font size="3"><p style="text-align: center"><b>Fonte:</b> Arthur Alves.</p></font>
@@ -185,6 +198,7 @@ De acordo com nosso planejamento, o teste-piloto será executado por [Arthur Alv
 > <a id="FRM10" href="#anchor_10">10.</a> Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) Interação Humano-Computador e Experiência do usuário. Capítulo 11 Planejamento da Avaliação de IHC, tópico 11.8 O Framework DECIDE, página 280. Autopublicação. ISBN: 978-65-00-19677-1.
 
 > <a id="FRM11" href="#anchor_11">11.</a> Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) Interação Humano-Computador e Experiência do usuário. Capítulo 11 Planejamento da Avaliação de IHC, tópico 11.6 Qual Tipo de Método de Avaliação Escolher?, página 272. Autopublicação. ISBN: 978-65-00-19677-1.
+
 
 ## <a>Bibliografia</a>
 > ROGERS, Yvonne. SHARP, Helen. PREECE, Jhennifer. Design de Interação: Além da Interação Humano-Computador. Editora Bookman, São Paulo: 2005. 
