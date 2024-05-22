@@ -118,9 +118,12 @@ Confira na Tabela 3, que apresenta o cronograma, como ficou definido o agendamen
 
 | Entrevistador | Entrevistado | Storyboard Analisado | Horário de Início | Horário de Fim | Data       | Local |
 |-------------------|-----------------|----------------------|-------------------|----------------|------------|-------|
-| Arthur Alves      | a definir       | a definir            | a definir         | a definir      | a definir  | FGA   |
-| Arthur Alves      | a definir       | a definir            | a definir         | a definir      | a definir  | FGA   |
-| Arthur Alves      | a definir       | a definir            | a definir         | a definir      | a definir  | FGA   |
+| Arthur Alves      | Fábio Torres       | <a href="/2024.1-CD-MOJ/design-avaliacao-desenvolvimento/nivel1/storyboard/storyboards/#tarefa-2-tutorial-de-resolucao-de-questoes-pos-contest">Tutorial de Resolução de Questões Pós-Contest</a>            | 09:00         | 09:30      | 28/05  | FGA   |
+| Diego Sousa      | a definir       | a definir            | a definir         | a definir      | a definir  | FGA   |
+| Douglas Marinho      | a definir       | a definir            | a definir         | a definir      | a definir  | FGA   |
+| Eric Silveira     | Will Bernardo       |<a href="/2024.1-CD-MOJ/design-avaliacao-desenvolvimento/nivel1/storyboard/storyboards/#tarefa-1-submissao-de-problemas">Submissão de Problemas</a>            | 20:00         | 20:30      | 28/05  | República Kalangos   |
+| João Artur      | Júlio César       | <a href="/2024.1-CD-MOJ/design-avaliacao-desenvolvimento/nivel1/storyboard/storyboards/#tarefa-3-verificacao-de-submissoes">Verificação de Submissões</a>            | 09:00         | 09:30      | 28/05  | FGA   |
+| Luiz Gustavo      | a definir       | a definir            | a definir         | a definir      | a definir  | FGA   |
 
 
 <font size="3"><p style="text-align: center"><b>Fonte:</b> Arthur Alves.</p></font>
