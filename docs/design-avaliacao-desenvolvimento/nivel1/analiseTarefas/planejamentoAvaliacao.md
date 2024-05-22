@@ -121,6 +121,9 @@ Após a realização da avaliação, será feita a etapa de avaliação, interpr
 Esta etapa tem como objetivo avaliar o planejamento proposto e analisar se a avaliação feita, da maneira planejada, produz os dados necessários para os objetivos do estudo. Para a realização deste, dois avaliadores participarão como uma sessão normal de avaliação, um no papel de avaliador e outro no papel de usuário.
 
 ## <a>Teste Piloto</a>
+A seguir, apresentamos o vídeo do teste piloto realizado conforme o cronograma mencionado anteriormente, no qual [Diego Sousa](https://github.com/DiegoSousaLeite) atuou como usuário e [Douglas Marinho](https://github.com/M4RINH0) como entrevistador.
+
+<iframe width="1280" height="720" src="https://youtu.be/PD0YA5A_TNc" title="Teste Piloto - Grupo 01 (CDMOJ) - Analise de Tarefa  - Interação Humano-Computador" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## <a>Referências Bibliográficas</a>
 > <a id="REF1" href="#anchor_1">1.</a> BARBOSA, Simone Diniz Junqueira et al. Interação humano-computador e experiência do usuário. 1. ed. Rio de Janeiro: Simone Diniz Junqueira Barbosa, 2021.  Capítulo 11: Planejamento da Avaliação de IHC. Página 261. Autopublicação. ISBN: 978-65-00-19677-1.
@@ -141,5 +144,6 @@ Esta etapa tem como objetivo avaliar o planejamento proposto e analisar se a ava
 | Versão| Data | Data Prevista de Revisão| Descrição  | Autor(es)  | Revisor(es) |
 | ------- | ------ | ------ | ------- | -------- | -------- |
 | `1.0` | 15/05/2024 | 17/05/2024 | Criação do documento. | [Diego Sousa](https://github.com/DiegoSousaLeite)| [João Artur](https://github.com/joao-artl)  |
-| `1.0` | 20/05/2024 | 22/05/2024 | Adicionando os 4 primeiros topicos. | [Diego Sousa](https://github.com/DiegoSousaLeite)| [João Artur](https://github.com/joao-artl)  |
-| `1.1` | 22/05/2024 | 22/05/2024 | Adicionando os topicos restantes. | [Douglas Marinho](https://github.com/M4RINH0)| [João Artur](https://github.com/joao-artl)  |
+| `1.1` | 20/05/2024 | 22/05/2024 | Adicionando os 4 primeiros topicos. | [Diego Sousa](https://github.com/DiegoSousaLeite)| [João Artur](https://github.com/joao-artl)  |
+| `1.2` | 22/05/2024 | 22/05/2024 | Adicionando os topicos restantes. | [Douglas Marinho](https://github.com/M4RINH0)| [João Artur](https://github.com/joao-artl)  |
+| `1.3` | 22/05/2024 | 22/05/2024 | Adição teste piloto. | [Diego Sousa](https://github.com/DiegoSousaLeite)| [João Artur](https://github.com/joao-artl)  |
