@@ -126,7 +126,8 @@ A seguir, apresentamos o vídeo do teste piloto realizado conforme o cronograma 
 
 <p style="text-align: center"><a href="https://www.youtube.com/watch?v=PD0YA5A_TNc" target="blanket">Clique aqui</a></p>
 
-<p style="text-align: center"><iframe width="560" height="315" src="https://www.youtube.com/watch?v=PD0YA5A_TNc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p>
+<p style="text-align: center"><iframe width="1220" height="686" src="https://www.youtube.com/embed/PD0YA5A_TNc" title="Teste Piloto - Grupo 01 (CDMOJ) - Analise de Tarefa  - Interação Humano-Computador" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></p>
+
 
 <font size="3"><p style="text-align: center">Fonte: [Diego Sousa](https://github.com/DiegoSousaLeite) e [Douglas Marinho](https://github.com/M4RINH0).</p></font>
 
