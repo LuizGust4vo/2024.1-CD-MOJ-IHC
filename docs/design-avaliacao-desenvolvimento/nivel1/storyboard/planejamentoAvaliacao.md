@@ -112,7 +112,7 @@ Durante a sessão, apenas o entrevistador precisará de dispositivos digitais b�
 - Dispositivo de Gravação: Para capturar tanto o áudio quanto a imagem durante a entrevista, será necessário um dispositivo de gravação de qualidade. Esse equipamento é essencial para registrar a interação completa, permitindo que a equipe revise as entrevistas mais tarde para capturar nuances e detalhes que podem ser perdidos apenas nas notas escritas.
 
 #### <a>Prazos</a>
-Confira na Tabela 3, que apresenta o cronograma, como ficou definido o agendamento das entrevistas. Esta tabela detalha os horários de início e término, as datas, e as plataformas utilizadas para cada sessão.
+Confira na Tabela 3, que apresenta o cronograma, como ficou definido o agendamento das entrevistas. Esta tabela detalha os horários de início e término, as datas, o storyboard que será usado pra ser analisado na entrevista e o local.
 
 <font size="3"><p style="text-align: center"><b>Tabela 3</b> - Cronograma de entrevistas</p></font>
 
