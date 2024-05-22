@@ -159,7 +159,9 @@ Com base nesta análise detalhada, os dados coletados serão utilizados para ref
 
 Após a conclusão do planejamento, iremos utilizar como forma metodológica também o **teste-piloto**. Segundo Barbosa e Silva (2011, p.276), ele consiste em uma forma em que a equipe parametrize e faça uma verificação sobre a coleta dos dados, sobre como será conduziada a avaliação pelo avaliador e sobre as informações de orientação para com o participante, seguindo o planejamento de avaliação<a id="anchor_8" href="#FRM8">^8^</a>.
 
-De acordo com nosso planejamento, o teste-piloto será executado por [Arthur Alves](https://github.com/Arthrok) e [João Artur](https://github.com/joao-artl) no dia 18 de maio de 2024 por volta das 20:00 horas.
+De acordo com nosso planejamento, o teste-piloto será executado por [Arthur Alves](https://github.com/Arthrok) e [João Artur](https://github.com/joao-artl) no dia 2 de maio de 2024 por volta das 10:00 horas.
+
+<iframe width="1280" height="720" src="https://www.youtube.com/embed/82Y_Gz8IkBE" title="Teste Piloto - Storyboards - Grupo 01 (CDMOJ)  - Interação Humano-Computador" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## <a>Referência Bibliográfica</a>
 > <a id="FRM1" href="#anchor_1">1.</a> ROGERS, Yvonne. SHARP, Helen. PREECE, Jhennifer. Design de Interação: Além da Interação Humano-Computador. Capítulo 8.2.1: O que é um protótipo. Página 260 e 261.
