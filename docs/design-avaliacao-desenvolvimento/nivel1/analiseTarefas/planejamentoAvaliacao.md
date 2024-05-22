@@ -7,7 +7,7 @@ O framework DECIDE, criado por Sharp, Rogers e Preece<a id="anchor_2" href="#REF
 <font size="3"><p style="text-align: center"><b>Tabela 1</b> - Lista de checagem do framework DECIDE.</p></font>
 
 |Letra	|Definição|
-|-------|---------|
+|-------|---------| 
 |D	|Determinar as metas que a avaliação irá abordar.|
 |E	|Explorar as questões específicas a serem respondidas com a avaliação.|
 |C	|Escolher o paradigma de avaliação e as técnicas de respostas para as perguntas.|
@@ -31,21 +31,95 @@ Com base nos objetivos da tabela 11.1: Exemplos de perguntas que uma avaliação
 As perguntas selecionadas têm o objetivo de serem respondidas com esta avaliação e serão discutidas posteriormente no tópico [Roteiro de Perguntas](#roteiro_de_perguntas).
 
 ## <a>C - Escolher os Métodos </a>
-DOUGLAS VC COMEÇA AQUI
+
+Para realizar uma avaliação efetiva, será necessário selecionar métodos adequados que correspondam aos objetivos e questões exploradas. Serão utilizados métodos qualitativos e quantitativos para obter uma visão ampla das interações dos usuários com o sistema CD-MOJ. Os métodos escolhidos incluem:
+
+1. **Entrevistas**: Para obter insights detalhados sobre as experiências dos usuários.
+2. **Questionários**: Para coletar dados quantitativos sobre usabilidade e satisfação.
+3. **Testes de Usabilidade**: Observação dos usuários realizando tarefas específicas no site para identificar problemas de usabilidade.
+
+Esses métodos proporcionarão uma visão abrangente das interações e experiências dos usuários.
+
 ## <a>I - Identificar Questões Práticas </a>
 ### <a>Recrutamento</a>
+O recrutamento dos participantes será realizado por meio de convites direcionados a usuários frequentes do CD-MOJ. Serão selecionados participantes com diferentes níveis de experiência com o site para garantir uma variedade de perspectivas.
+
 ### <a>Preparação</a>
+Será necessário preparar o ambiente de teste, incluindo a configuração de computadores, gravação de tela e áudio, e a definição de cenários de tarefas realistas. Também serão preparados pelo entrevistador materiais como questionários e guias de entrevista.
+
 ### <a>Prazos</a>
+
+Os prazos definidos estão demonstrados a seguir na tabela 2 contendo Entrevistador, Entrevistado, Horário de início e fim e data da entrevista:
+
+Para fins de documentação as entrevistas devem ser registradas em uma tabela contendo:
+
+- Nome do entrevistador
+- Nome do entrevistado
+- Horário de inicio
+- Horário final
+- Data da entrevista
+
+<center>
+
+**Tabela 2** - Cronograma Planejado.
+
+|                    Entrevistador                    |    Entrevistado     | Horário de Início | Horário de Fim |    Data    |                                                                                                                                                                                                                    Local                                                                                                                                                                                                                    |
+| :-------------------------------------------------: | :-----------------: | :---------------: | :------------: | :--------: | :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+|     a definir     |    a definir    |       a definir       |     a definir      | a definir | a definir |
+
+
+**Fonte**: [Douglas Marinho](https://github.com/M4RINH0).
+</center>
+
+
 ### <a id="roteiro_de_perguntas">Roteiro de Perguntas</a>
+
+Na entrevista estarão disponíveis capturas de tela para que o usuário possa ver a tarefa da qual o entrevistador estará comentando e a tabela com o seu fluxo. A tabela 3 a seguir mostra o roteiro de perguntas a serem realizadas na entrevista. Essas perguntas foram baseadas nas perguntas a serem [repondidas na avaliação](#met1).
+
+
+<center>
+
+**Tabela 3** - Roteiro de perguntas da entrevista.
+
+| Questões                                                                           | Tipo da Resposta                                                                                                                                                                                                                                            | Observações                                                                                       |
+| ---------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------- |
+| 1 – Qual é o seu nome?                                                             | Resposta Discursiva                                                                                                                                                                                                                                         |                                                                                                   |
+| 2 – Qual é a sua idade?                                                            | Resposta Discursiva                                                                                                                                                                                                                                         |                                                                                                   |
+| 3 – Qual sua escolaridade atual?                                                   | Resposta Fechada<br><br>[] Ensino Médio<br>[] Ensino Superior<br>[] Pós-graduação                                                                                                                                                                           |                                                                                                   |
+| 4 – Qual seu grau de experiência com tecnologia?                                   | Resposta Discursiva                                                                                                                                                                                                                                         |                                                                                                   |
+| 5 – Que experiência tem com sites de júri online?                                  | Resposta Fechada<br><br>[] Nenhuma<br>[] Uso ou já usei para fins acadêmicos<br>[] Uso ou já usei para fins pessoais                                                                                                                                         |                                                                                                   |
+| 6 – Você já usou o CD-MOJ?                                                         | Resposta Fechada<br><br>[] Sim<br>[] Não                                                                                                                                                                                                                    |                                                                                                   |
+| 7 – Qual sua opinião sobre a interface desse site?                                 | Resposta Discursiva                                                                                                                                                                                                                                         |                                                                                                   |
+| 8 – Você consegue identificar de forma visível algum problema de interação na interface? | Resposta Discursiva                                                                                                                                                                                                                                         |                                                                                                   |
+| 9 – Ao tentar acessar um contest, sente alguma dificuldade?                        | Resposta Discursiva                                                                                                                                                                                                                                         | Fornecer login que o usuário possa utilizar<br>Explicar o funcionamento e propósito da tarefa      |
+| 10 – Como você realizaria a tarefa de visualizar uma questão do contest?           | Resposta Discursiva                                                                                                                                                                                                                                         | Fornecer login que o usuário possa utilizar<br>Explicar o funcionamento e propósito da tarefa      |
+| 11 – Como você realizaria a tarefa de enviar um código para submissão?             | Resposta Discursiva                                                                                                                                                                                                                                         | Fornecer login que o usuário possa utilizar<br>Explicar o funcionamento e propósito da tarefa      |
+| 12 – Como você realizaria a tarefa de visualizar o score do contest?               | Resposta Discursiva                                                                                                                                                                                                                                         | Fornecer login que o usuário possa utilizar<br>Explicar o funcionamento e propósito da tarefa      |
+| 13 – Como você realizaria a tarefa de sair do contest?                             | Resposta Discursiva                                                                                                                                                                                                                                         | Fornecer login que o usuário possa utilizar<br>Explicar o funcionamento e propósito da tarefa      |
+| 14 – Você teria alguma sugestão de melhoria para o diagrama da tarefa?             | Resposta Discursiva                                                                                                                                                                                                                                         |                                                                                                   |
+
+
+**Fonte**: [Douglas Marinho](https://github.com/M4RINH0).
+
+</center>
+
 ### <a> Execução do roteiro </a>
+
+Para realização de todas as perguntas será fornecido um login para o entrevistado para ter acesso total as tarefas necessárias para responder as perguntas presentes na tabela 3.
 
 ## <a>D - Decidir as questões éticas</a>
 
+Será utilizado o termo de consentimento produzido na seção de [Aspectos Éticos](https://interacao-humano-computador.github.io/2024.1-CD-MOJ/analise-de-requisitos/aspectosEticos/), a fim de se obter dos participantes a autorização para que sejam realizadas as atividades necessárias à produção desse artefato e garantir que os participantes sejam respeitados durante e após a atividade.
+
 ## <a>E - Avaliar, Interpretar e Apresentar os Dados</a>
+
+Após a realização da avaliação, será feita a etapa de avaliação, interpretação e apresentação dos resultados. Para isto, será levado em consideração o grau de confiabilidade dos dados obtidos e seu contexto, de maneira a registrar problemas e dificuldades a fim de que assim, a equipe de desenvolvimento possua o máximo de aproveitamento das informações obtidas.
 
 ## <a>Planejamento do Teste Piloto</a>
 
-## <a>Resultado do Teste Piloto</a>
+Esta etapa tem como objetivo avaliar o planejamento proposto e analisar se a avaliação feita, da maneira planejada, produz os dados necessários para os objetivos do estudo. Para a realização deste, dois avaliadores participarão como uma sessão normal de avaliação, um no papel de avaliador e outro no papel de usuário.
+
+## <a>Teste Piloto</a>
 
 ## <a>Referências Bibliográficas</a>
 > <a id="REF1" href="#anchor_1">1.</a> BARBOSA, Simone Diniz Junqueira et al. Interação humano-computador e experiência do usuário. 1. ed. Rio de Janeiro: Simone Diniz Junqueira Barbosa, 2021.  Capítulo 11: Planejamento da Avaliação de IHC. Página 261. Autopublicação. ISBN: 978-65-00-19677-1.
@@ -67,3 +141,4 @@ DOUGLAS VC COMEÇA AQUI
 | ------- | ------ | ------ | ------- | -------- | -------- |
 | `1.0` | 15/05/2024 | 17/05/2024 | Criação do documento. | [Diego Sousa](https://github.com/DiegoSousaLeite)| [João Artur](https://github.com/joao-artl)  |
 | `1.0` | 20/05/2024 | 22/05/2024 | Adicionando os 4 primeiros topicos. | [Diego Sousa](https://github.com/DiegoSousaLeite)| [João Artur](https://github.com/joao-artl)  |
+| `1.1` | 22/05/2024 | 22/05/2024 | Adicionando os topicos restantes. | [Douglas Marinho](https://github.com/M4RINH0)| [João Artur](https://github.com/joao-artl)  |
