@@ -123,7 +123,11 @@ Esta etapa tem como objetivo avaliar o planejamento proposto e analisar se a ava
 ## <a>Teste Piloto</a>
 A seguir, apresentamos o vídeo do teste piloto realizado conforme o cronograma mencionado anteriormente, no qual [Diego Sousa](https://github.com/DiegoSousaLeite) atuou como usuário e [Douglas Marinho](https://github.com/M4RINH0) como entrevistador.
 
-<iframe width="1280" height="720" src="https://youtu.be/PD0YA5A_TNc" title="Teste Piloto - Grupo 01 (CDMOJ) - Analise de Tarefa  - Interação Humano-Computador" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<p style="text-align: center"><a href="https://youtu.be/PD0YA5A_TNc" target="blanket">Clique aqui</a></p>
+
+<p style="text-align: center"><iframe width="560" height="315" src="https://youtu.be/PD0YA5A_TNc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p>
+
+<font size="3"><p style="text-align: center">Fonte: [Diego Sousa](https://github.com/DiegoSousaLeite) e [Douglas Marinho](https://github.com/M4RINH0).</p></font>
 
 ## <a>Referências Bibliográficas</a>
 > <a id="REF1" href="#anchor_1">1.</a> BARBOSA, Simone Diniz Junqueira et al. Interação humano-computador e experiência do usuário. 1. ed. Rio de Janeiro: Simone Diniz Junqueira Barbosa, 2021.  Capítulo 11: Planejamento da Avaliação de IHC. Página 261. Autopublicação. ISBN: 978-65-00-19677-1.
