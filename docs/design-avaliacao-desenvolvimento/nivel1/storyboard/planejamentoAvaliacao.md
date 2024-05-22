@@ -69,7 +69,7 @@ A partir dos objetivos, foram elaboradas perguntas específicas que servem para 
 | 14 | O storyboard foi persuasivo em transmitir a importância ou urgência das informações ou ações descritas? | [ ] Sim<br> [ ] Não<br> [ ] Não sei responder | Avaliar Impacto Emocional |
 | 15 | Os entrevistados acharam que as situações apresentadas no storyboard têm relevância pessoal ou profissional para eles? | [ ] Sim<br> [ ] Não<br> [ ] Não sei responder | Avaliar Impacto Emocional |
 | 16 | Houve elementos no storyboard que surpreenderam ou despertaram a curiosidade dos entrevistados? | [ ] Sim<br> [ ] Não<br> [ ] Não sei responder | Avaliar Impacto Emocional |
-| 17 | Quais aspectos do storyboard o entrevistado sugere modificar para melhorar a compreensão? | [ ] Sim<br> [ ] Não<br> [ ] Não sei responder | Obter Feedback |
+| 17 | Quais aspectos do storyboard o entrevistado sugere modificar para melhorar a compreensão? | Questão aberta | Obter Feedback |
 
 <font size="3"><p style="text-align: center"><b>Fonte:</b> Arthur Alves.</p></font>
 
@@ -88,42 +88,49 @@ Esses métodos foram escolhidos não só por sua eficácia em obter feedback det
 É crucial selecionar participantes que possuam um perfil alinhado às demandas específicas e realidades do sistema. Para isso, utilizamos o artefato <a>Perfil de Usuário</a> como base fundamental para o recrutamento. Este perfil é meticulosamente desenhado para refletir as características, necessidades e comportamentos típicos dos usuários do CDMOJ, garantindo que os insights coletados durante a avaliação sejam pertinentes e aplicáveis.
 O recrutamento é realizado diretamente dentro do contexto acadêmico, aproveitando a acessibilidade e a disponibilidade de uma base de usuários engajada. Isso não só facilita a logística de organização das sessões de avaliação, mas também assegura que os participantes estejam genuinamente familiarizados com o sistema, o que é essencial para obter feedback autêntico e preciso.
 
-Cada um dos seis integrantes do nosso grupo desenvolveu um storyboard, resultando em um total de seis storyboards a serem avaliados. Para garantir uma análise abrangente e detalhada, optamos por recrutar três pessoas para o processo de entrevista. Cada entrevistado será responsável por analisar dois storyboards distintos. Essa divisão foi estrategicamente planejada para maximizar a cobertura de feedback sobre os diferentes storyboards, enquanto se mantém uma carga gerenciável para cada participante.
+Cada um dos seis integrantes do nosso grupo desenvolveu um storyboard, resultando em um total de seis storyboards a serem avaliados. Para garantir uma análise abrangente e detalhada, optamos por recrutar seis pessoas para o processo de entrevista. Cada entrevistado será responsável por analisar um storyboard. Essa divisão foi estrategicamente planejada para maximizar a cobertura de feedback sobre os diferentes storyboards, enquanto se mantém uma carga gerenciável para cada participante.
 
-As entrevistas para a avaliação dos storyboards criados para o CDMOJ serão conduzidas de forma totalmente online, utilizando a plataforma Microsoft Teams. Esta escolha permite maior flexibilidade e conveniência para todos os participantes. Ao realizar as sessões de avaliação no Teams, podemos gravar as interações, sujeitas à prévia autorização dos participantes, para revisão e análise posterior. Isso nos ajudará a capturar nuances e detalhes que podem ser perdidos em notas escritas durante a entrevista, enriquecendo o processo de análise e ajudando no desenvolvimento subsequente das funcionalidades do CDMOJ.
+As entrevistas para a avaliação dos storyboards criados para o CDMOJ serão conduzidas de forma presencial. Esta abordagem permite uma interação direta e pessoal com todos os participantes, facilitando uma comunicação mais rica e detalhada. Ao realizar as sessões de avaliação presencialmente, teremos a oportunidade de observar as reações físicas e capturar detalhes que podem não ser tão evidentes caso fosse conduzido de forma online. Isso será valioso para enriquecer o processo de análise e contribuir para o refinamento dos storyboards.
 
 #### <a>Preparação</a>
 Antes de iniciar as entrevistas para a avaliação dos storyboards, faremos uma preparação para garantir a eficácia do processo. Esta preparação envolve várias etapas cruciais que são projetadas para alinhar o processo avaliativo com os objetivos específicos de nosso estudo e garantir que ele seja capaz de capturar dados relevantes e precisos.
 
 O entrevistador desempenhará um papel crucial. Eles serão encarregados de conduzir as entrevistas com base em um roteiro previamente definido, que contém perguntas detalhadas elaboradas para explorar a interação dos usuários com os storyboards. Além de fazer perguntas, os entrevistadores terão a responsabilidade de registrar meticulosamente as respostas dos participantes, garantindo que todas as nuances e detalhes importantes sejam capturados.
 
-As entrevistas envolverão interações diretas com os <a>storyboards</a> criados, permitindo que os usuários demonstrem como navegam, interagem e interpretam as ilustrações. Isso proporcionará uma avaliação prática e dinâmica de como os storyboards representam a experiência do usuário. Para uma coleta de dados mais rica, será solicitado aos usuários que compartilhem suas telas durante a entrevista. Esta prática permitirá observar diretamente as interações dos usuários, a fim de coletar dados de observação comportamental ao processo de avaliação. O papel do entrevistador será assumido por uma única pessoa, que terá como responsabilidade conduzir as perguntas e registrar as respostas.
+As entrevistas envolverão interações diretas com os <a>storyboards</a> criados, permitindo que os usuários demonstrem como navegam, interagem e interpretam as ilustrações. Isso proporcionará uma avaliação prática e dinâmica de como os storyboards representam a experiência do usuário. Para uma coleta de dados mais rica, será solicitado aos usuários que compartilhem suas telas durante a entrevista. Esta prática permitirá observar diretamente as interações dos usuários, a fim de coletar dados de observação comportamental ao processo de avaliação. O papel do entrevistador será assumido pelo integrante do grupo que criou o storyboard, que terá como responsabilidade conduzir as perguntas e registrar as respostas.
 
-Por fim, antes de iniciar as entrevistas oficiais, um teste piloto será realizado com um membro do grupo para testar e aplicar o roteiro de perguntas e o processo de entrevista. Este piloto é essencial para identificar quaisquer áreas que possam precisar de ajustes e garantir que o instrumento de avaliação seja tão eficaz e informativo quanto possível
+Por fim, antes de iniciar as entrevistas oficiais, um teste piloto será realizado com dois membros do grupo para testar e aplicar o roteiro de perguntas e o processo de entrevista. Este piloto é essencial para identificar quaisquer áreas que possam precisar de ajustes e garantir que o instrumento de avaliação seja tão eficaz e informativo quanto possível
 
 #### <a>Custo</a>
-As entrevistas para avaliação serão realizadas inteiramente online, garantindo que não haja custos adicionais para os participantes ou para a equipe organizadora. Desde o planejamento até a aplicação da avaliação, todas as atividades serão conduzidas utilizando recursos digitais que não requerem investimentos financeiros. Isso inclui o uso de plataformas de comunicação gratuitas e acessíveis, como Microsoft Teams. A escolha por um processo inteiramente online não apenas elimina custos logísticos, mas também facilita a participação de usuários de diversos locais, maximizando a abrangência e a eficácia da avaliação.
+As entrevistas para avaliação serão realizadas presencialmente na Universidade de Brasília - Faculdade do Gama (FGA). Essa escolha estratégica assegura que não haverá custos adicionais tanto para os participantes quanto para a equipe organizadora, uma vez que todos os entrevistados são membros da FGA. As atividades serão conduzidas em espaços já disponíveis na universidade, o que elimina a necessidade de aluguel de locais externos ou despesas com transporte, já que os participantes são locais. Realizar as sessões de forma presencial na própria faculdade não apenas minimiza os custos logísticos, mas também facilita a participação de todos os envolvidos, maximizando a conveniência e a eficácia da avaliação.
 
 #### <a>Equipamentos Necessários</a>
-Para a realização da pesquisa, é essencial que tanto o entrevistador quanto os participantes recrutados tenham acesso a dispositivos digitais adequados que suportem as funcionalidades necessárias para uma interação efetiva durante as entrevistas. Esses dispositivos devem ser capazes de visualizar o Storyboard, compartilhar tela e áudio de forma clara e sem interrupções. Além disso, os dispositivos devem ser compatíveis com as seguintes ferramentas essenciais para a condução da pesquisa:
+Durante a sessão, apenas o entrevistador precisará de dispositivos digitais básicos que suportem as funcionalidades necessárias para registro e condução efetiva da entrevista. Os equipamentos necessários incluem:
 
-- Microsoft Teams: Será utilizado para realizar as entrevistas, permitindo uma comunicação fluida e a possibilidade de gravar as sessões para análise posterior.
-- Navegador: Os participantes precisarão acessar os storyboards no seu dispositivo, garantindo que todos possam seguir e discutir os cenários apresentados em tempo real durante a entrevista.
+- Dispositivo Digital: Cada entrevistador usará um dispositivo digital, como um notebook ou smartphone, que facilitará o acesso ao roteiro de perguntas durante a entrevista. Este dispositivo ajudará o entrevistador a seguir a sequência de perguntas de forma organizada e precisa.
+- Editor de Texto: O dispositivo do entrevistador também deve estar equipado com um editor de texto para registrar as respostas dos entrevistados. Isso é crucial para garantir que todos os detalhes importantes sejam documentados para análise posterior.
+- Dispositivo de Gravação: Para capturar tanto o áudio quanto a imagem durante a entrevista, será necessário um dispositivo de gravação de qualidade. Esse equipamento é essencial para registrar a interação completa, permitindo que a equipe revise as entrevistas mais tarde para capturar nuances e detalhes que podem ser perdidos apenas nas notas escritas.
 
 #### <a>Prazos</a>
 Confira na Tabela 3, que apresenta o cronograma, como ficou definido o agendamento das entrevistas. Esta tabela detalha os horários de início e término, as datas, e as plataformas utilizadas para cada sessão.
 
 <font size="3"><p style="text-align: center"><b>Tabela 3</b> - Cronograma de entrevistas</p></font>
 
-| Entrevistador(es) | Entrevistado(s) | Horário de Início | Horário de Fim | Data       | Local             |
-|-------------------|-----------------|-------------------|----------------|------------|-------------------|
-| Arthur Alves  | a definir  | a definir             | a definir          | a definir | Plataforma Microsoft Teams |
-| Arthur Alves    | a definir     | a definir             | a definir          | a definir | Plataforma Microsoft Teams     |
-| Arthur Alves   | a definir    | a definir             | a definir          | a definir | Plataforma Microsoft Teams |
+| Entrevistador | Entrevistado | Storyboard Analisado | Horário de Início | Horário de Fim | Data       | Local |
+|-------------------|-----------------|----------------------|-------------------|----------------|------------|-------|
+| Arthur Alves      | a definir       | a definir            | a definir         | a definir      | a definir  | FGA   |
+| Arthur Alves      | a definir       | a definir            | a definir         | a definir      | a definir  | FGA   |
+| Arthur Alves      | a definir       | a definir            | a definir         | a definir      | a definir  | FGA   |
+
 
 <font size="3"><p style="text-align: center"><b>Fonte:</b> Arthur Alves.</p></font>
 
 #### <a>Recursos de mão-de-obra</a>
+Para a realização eficaz das entrevistas, é essencial que o entrevistador esteja adequadamente equipado com todos os materiais necessários. O seguinte conjunto de recursos será necessário para a condução da entrevista:
+
+- Storyboard Impresso: Cada entrevistador deverá ter em mãos uma cópia impressa do storyboard. Este material será utilizado como base para a análise durante a entrevista, permitindo que o entrevistado visualize claramente os cenários que estão sendo discutidos.
+- Lápis e Borracha: Para facilitar as anotações e possíveis alterações durante a análise do storyboard, lápis e borracha serão disponibilizados ao entrevistado. Isso permite que o entrevistado faça marcações ou correções diretamente no storyboard impresso.
+- Papel A4: Além dos storyboards, papel A4 limpo será fornecido para que o entrevistado possa fazer rascunhos adicionais ou anotações detalhadas. Isso é particularmente útil para registrar insights ou expandir ideias que surgem durante a entrevista.
 
 ### <a>D - Decisão sobre como lidar com questões éticas</a>
 O <a>termo de consentimento</a> apresentado no artefato <a>Aspectos Éticos</a> assegura vários princípios fundamentais na condução de pesquisas envolvendo seres humanos, especialmente em contextos acadêmicos e de pesquisa. Os pilares principais que esse documento garante incluem:
