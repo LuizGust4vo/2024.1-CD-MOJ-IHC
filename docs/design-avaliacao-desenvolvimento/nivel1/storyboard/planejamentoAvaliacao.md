@@ -58,7 +58,7 @@ A partir dos objetivos, foram elaboradas perguntas específicas que servem para 
 | 3      | Os storyboards são eficazes em envolver emocional e cognitivamente os usuários? | Através das respostas às perguntas 11, 12, 13 e 14, podemos explorar como os usuários se relacionam emocional e cognitivamente com o storyboard. Isso envolve entender se os usuários podem prever ações futuras, se identificam com os personagens, e se sentem que os storyboards transmitem a urgência e importância das informações ou ações descritas.                                                                  |
 | 4      | Quais melhorias podem ser implementadas para aprimorar a eficácia do storyboard? | Utilizando o feedback das perguntas 10, 16 e 17, identificaremos elementos que causaram confusão, despertaram curiosidade ou que poderiam ser melhorados. Essas respostas são vitais para refinar o storyboard, ajustando elementos visuais, textuais e contextuais para melhor atender às necessidades e expectativas dos usuários.                                                                                           |
 
-<font size="3"><p style="text-align: center"><b>Fonte:</b> Arthur Alves e Eric Silveira.</p></font>
+<font size="3"><p style="text-align: center"><b>Fonte:</b> [Arthur Alves](https://github.com/Arthrok) e [Eric Silveira](https://github.com/ericbky).</p></font>
 
   
 As perguntas selecionadas têm o objetivo de serem respondidas com esta avaliação e serão discutidas posteriormente no tópico [Roteiro de Perguntas](#roteiro-de-perguntas).
@@ -108,7 +108,7 @@ Ao criar as perguntas, veja na tabela 3, levou-se em consideração o perfil e a
 | 17     | Quais aspectos do storyboard o entrevistado sugere modificar para melhorar a compreensão? | Questão aberta | Obter Feedback |
 
 
-<font size="3"><p style="text-align: center"><b>Fonte:</b> Arthur Alves e Eric Silveira.</p></font>
+<font size="3"><p style="text-align: center"><b>Fonte:</b> [Arthur Alves](https://github.com/Arthrok) e [Eric Silveira](https://github.com/ericbky).</p></font>
 
 #### <a>Preparação</a>
 Antes de iniciar as entrevistas para a avaliação dos storyboards, faremos uma preparação para garantir a eficácia do processo. Esta preparação envolve várias etapas cruciais que são projetadas para alinhar o processo avaliativo com os objetivos específicos de nosso estudo e garantir que ele seja capaz de capturar dados relevantes e precisos.
@@ -144,7 +144,7 @@ Confira na Tabela 4, que apresenta o cronograma, como ficou definido o agendamen
 | Luiz Gustavo      | Pedro Dourado       | <a href="/2024.1-CD-MOJ/design-avaliacao-desenvolvimento/nivel1/storyboard/storyboards/#tarefa-5-criacao-de-problema-administrador">Criação de Problema</a>            | 20:00         | 20:30      | 29/05  | FGA   |
 
 
-<font size="3"><p style="text-align: center"><b>Fonte:</b> Arthur Alves e Eric Silveira.</p></font>
+<font size="3"><p style="text-align: center"><b>Fonte:</b> [Arthur Alves](https://github.com/Arthrok) e [Eric Silveira](https://github.com/ericbky).</p></font>
 
 #### <a>Recursos de mão-de-obra</a>
 Para a realização eficaz das entrevistas, é essencial que o entrevistador esteja adequadamente equipado com todos os materiais necessários. O seguinte conjunto de recursos será necessário para a condução da entrevista:
@@ -172,7 +172,7 @@ Os entrevistados receberão informações completas sobre os termos da pesquisa 
     ![Meta de usabilidade Aprendizagem](../../../../assets/termo.png){width: 300}
     </figure>
 
-  <font size="3"><p style="text-align: center"><b>Fonte:</b> Arthur Alves e Eric Silveira.</p></font>
+  <font size="3"><p style="text-align: center"><b>Fonte:</b> [Arthur Alves](https://github.com/Arthrok) e [Eric Silveira](https://github.com/ericbky).</p></font>
 </center>
 
 ### <a>E - Avaliar, interpretar e apresentar os dados</a>
@@ -186,9 +186,27 @@ Com base nesta análise detalhada, os dados coletados serão utilizados para ref
 
 Após a conclusão do planejamento, iremos utilizar como forma metodológica também o **teste-piloto**. Segundo Barbosa e Silva (2011, p.276), ele consiste em uma forma em que a equipe parametrize e faça uma verificação sobre a coleta dos dados, sobre como será conduziada a avaliação pelo avaliador e sobre as informações de orientação para com o participante, seguindo o planejamento de avaliação<a id="anchor_8" href="#FRM8">^8^</a>.
 
-De acordo com nosso planejamento, o teste-piloto será executado por [Arthur Alves](https://github.com/Arthrok) e [João Artur](https://github.com/joao-artl) no dia 2 de maio de 2024 por volta das 10:00 horas.
+De acordo com nosso planejamento, o teste-piloto será executado conforme as especificações da tabela 5 a seguir:
 
-<iframe width="1280" height="720" src="https://www.youtube.com/embed/82Y_Gz8IkBE" title="Teste Piloto - Storyboards - Grupo 01 (CDMOJ)  - Interação Humano-Computador" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<font size="3"><p style="text-align: center"><b>Tabela 5</b> - Planejamento da entrevista do teste-piloto</p></font>
+
+| Entrevistador | Entrevistado | Storyboard Analisado | Horário de Início | Horário de Fim | Data       | Local |
+|-------------------|-----------------|----------------------|-------------------|----------------|------------|-------|
+| [Eric Silveira](https://github.com/ericbky)      | [João Artur](https://github.com/joao-artl)       | <a href="/2024.1-CD-MOJ/design-avaliacao-desenvolvimento/nivel1/storyboard/storyboards/#tarefa-2-tutorial-de-resolucao-de-questoes-pos-contest">Tutorial de Resolução de Questões Pós-Contest</a>            | 20:00         | 20:10      | 28/05  | Microsoft Teams   |
+
+### <a>Resultados do Teste-piloto</a>
+
+A execução do teste-piloto ocorreu conforme o de planejamento e a tabela 6 descreve sobre a sua execução:
+
+<font size="3"><p style="text-align: center"><b>Tabela 6</b> - Execução da entrevista do teste-piloto</p></font>
+
+| Entrevistador | Entrevistado | Storyboard Analisado | Horário de Início | Horário de Fim | Data       | Local |
+|-------------------|-----------------|----------------------|-------------------|----------------|------------|-------|
+| [Eric Silveira](https://github.com/ericbky)      | [João Artur](https://github.com/joao-artl)       | <a href="/2024.1-CD-MOJ/design-avaliacao-desenvolvimento/nivel1/storyboard/storyboards/#tarefa-2-tutorial-de-resolucao-de-questoes-pos-contest">Tutorial de Resolução de Questões Pós-Contest</a>            | 20:00         | 20:10      | 28/05  | Microsoft Teams   |
+
+O resultado que obtivemos sobre o teste-piloto está na gravação a seguir, conseguimos identificar os pontos de melhorias a serem abordados pela equipe e uma breve noção de como conduzir a avaliação.
+
+<center><iframe width="560" height="315" src="https://www.youtube.com/embed/9RfPknD_0_Q?si=dLSJxf_ekxsvHl-r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></center>
 
 ## <a>Referência Bibliográfica</a>
 > <a id="FRM1" href="#anchor_1">1.</a> ROGERS, Yvonne. SHARP, Helen. PREECE, Jhennifer. Design de Interação: Além da Interação Humano-Computador. Capítulo 8.2.1: O que é um protótipo. Página 260 e 261.
@@ -227,3 +245,4 @@ De acordo com nosso planejamento, o teste-piloto será executado por [Arthur Alv
 | Versão| Data | Data Prevista de Revisão | Descrição  | Autor(es)  | Revisor(es) |
 | ------- | ------ | ---- | ------- | -------- | -------- |
 | `1.0` | 15/05/2024 | 18/05/2024 | Criação da Documentação de Planejamento da Avaliação do Storyboard | [Arthur Alves](https://github.com/Arthrok) e [Eric Silveira](https://github.com/ericbky) | [João Artur](https://github.com/joao-artl) e [Luiz Gustavo](https://github.com/LuizGust4vo)|
+| `1.2` | 22/05/2024 | 22/05/2024 | Adicionando o vídeo do teste piloto | [Arthur Alves](https://github.com/Arthrok) e [Eric Silveira](https://github.com/ericbky) | [João Artur](https://github.com/joao-artl) e [Luiz Gustavo](https://github.com/LuizGust4vo)|
