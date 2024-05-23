@@ -130,8 +130,6 @@ Feedback do Sistema (Prioridade Alta):
 
 - Desenvolvimento de um sistema de notificações que informe o usuário sobre o status das suas ações."
 
-</br>
-
 ## <a> Referências Bibliográficas </a>
 > <a id="REF1" href="#anchor_1">1.</a> BARBOSA, Simone; DINIZ, Bruno. Interação Humano-Computador, Editora Elsevier, Rio de Janeiro, 2010.
 > 
