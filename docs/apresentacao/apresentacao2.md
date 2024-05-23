@@ -52,4 +52,5 @@ A apresentação objetiva mostrar o que foi feito para a entrega 2, obedecendo a
 | Versão | Data    | Data Prevista de Revisão  | Descrição      | Autor(es)   | Revisor(es)     |
 | ------- | ------ | ------- | -------- | -------- | -------- |
 | `1.0` | 06/05/2024 | 06/05/2024| Criação da página de apresentação, referente a segunda entrega. | [Arthur Alves Melo](https://github.com/Arthrok) |[Arthur Alves Melo](https://github.com/Arthrok), [Diego Sousa](https://github.com/DiegoSousaLeite), [Douglas Marinho](https://github.com/M4RINH0), [Eric Silveira](https://github.com/ericbky), [João Artur](https://github.com/joao-artl) e [Luiz Gustavo](https://github.com/LuizGust4vo)|
+| `1.1` | 22/05/2024 | 22/05/2024 | Padronizando documento | [João Artur](https://github.com/joao-artl) | [Luiz Gustavo](https://github.com/LuizGust4vo) |
 
