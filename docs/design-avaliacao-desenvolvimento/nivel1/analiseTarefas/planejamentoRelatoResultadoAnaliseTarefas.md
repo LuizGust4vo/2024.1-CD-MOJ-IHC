@@ -27,25 +27,25 @@ _Fonte: [Luiz Gustavo](https://gith3ub.com/LuizGust4vo)_
 
 </center>
 
-## Tópicos
+## <a> Tópicos </a>
 O relato dos resultados da avaliação da Análise de Tarefas deve incluir os seguintes tópicos <a id="anchor_3" href="#REF3">^3^</a>:
 
-### Objetivo e escopo da avaliação
+### <a> Objetivo e escopo da avaliação </a>
 Nesta seção, o autor do documento deve explicar a razão pela qual a avaliação está sendo realizada e os objetivos que o grupo espera atingir.
 
-### Método
+### <a> Método </a>
 Descrever as atividades realizadas para a coleta de dados e como a avaliação foi conduzida.
 
-### Sumário de avaliadores e participantes
+### <a> Sumário de avaliadores e participantes </a>
 Além de apresentar o cronograma executado, é necessário um resumo que identifique os participantes e descreva o perfil de cada um deles, proporcionando uma visão geral do público entrevistado.
 
-### Sumário de dados
+### <a> Sumário de dados </a>
 Neste tópico, o avaliador deve apresentar os dados coletados de forma resumida, objetiva e clara.
 
-### Análise dos dados coletados
+### <a> Análise dos dados coletados </a>
 Aqui, será realizada a interpretação dos dados obtidos. É essencial incluir uma lista de problemas encontrados, categorizada de forma a permitir a rastreabilidade.
 
-### Sugestões de melhoria
+### <a> Sugestões de melhoria </a>
 Finalmente, aqui devem ser propostas soluções para cada problema identificado, indicando a prioridade de cada sugestão de correção.
 
 ## <a> Referências Bibliográficas </a>
