@@ -135,9 +135,9 @@ Desenvolvimento de um sistema de notificações que informe o usuário sobre o s
 >
 > <a id="REF4" href="#anchor_4">4.</a> Nielsen, J. (1994). Usability Engineering. San Francisco: Morgan Kaufmann.
 >
-> <a id="REF5" href="#anchor_5">5.</a>Nielsen, J., & Landauer, T. K. (1993). A mathematical model of the finding of usability problems. Proceedings of the INTERACT '93 and CHI '93 Conference on Human Factors in Computing Systems.
+> <a id="REF5" href="#anchor_5">5.</a> Nielsen, J., & Landauer, T. K. (1993). A mathematical model of the finding of usability problems. Proceedings of the INTERACT '93 and CHI '93 Conference on Human Factors in Computing Systems.
 >
-> <a id="REF6" href="#anchor_6">6.</a>Norman, D. A. (2013). The Design of Everyday Things: Revised and Expanded Edition. Basic Books.
+> <a id="REF6" href="#anchor_6">6.</a> Norman, D. A. (2013). The Design of Everyday Things: Revised and Expanded Edition. Basic Books.
 
 
 ## <a> Bibliografia </a>
