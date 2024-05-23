@@ -2,7 +2,7 @@
 
 ## <a>Introdução</a>
 
-A prototipação desempenha um papel fundamental no desenvolvimento de representações visuais de ideias, melhorando a comunicação dentro da equipe, testando conceitos e fomentando a reflexão sobre o design. Os protótipos ajudam a esclarecer dúvidas, servem como fonte de alternativas, avaliam a viabilidade técnica, ajudam a definir requisitos imprecisos e são essenciais para conduzir testes com usuários e realizar avaliações.<a id="anchor_1" href="#FRM1">^1^</a>. Neste artefato iremos planejar nossos objetivos e avaliações do protótipo de baixa-fidelidade, os storyboards, desenvolvidos pelo grupo 01, para fins de estudo da plataforma CD-MOJ na disciplina **Interação Humano-Computador**
+A prototipação desempenha um papel fundamental no desenvolvimento de representações visuais de ideias, melhorando a comunicação dentro da equipe, testando conceitos e fomentando a reflexão sobre o design. Os protótipos ajudam a esclarecer dúvidas, servem como fonte de alternativas, avaliam a viabilidade técnica, ajudam a definir requisitos imprecisos e são essenciais para conduzir testes com usuários e realizar avaliações<a id="anchor_1" href="#FRM1">^1^</a>. Neste artefato iremos planejar nossos objetivos e avaliações do protótipo de baixa-fidelidade, os storyboards, desenvolvidos pelo grupo 01, para fins de estudo da plataforma CD-MOJ na disciplina **Interação Humano-Computador**.
 
 ## <a>Objetivo</a>
 

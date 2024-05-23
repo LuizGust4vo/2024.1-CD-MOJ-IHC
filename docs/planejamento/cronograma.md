@@ -130,21 +130,39 @@ Na Tabela 4, está explicitado o cronograma executado das atividades da segunda 
 
 ## <a>Etapa 4 - Planejamento da avaliação do Storyboard</a>
 
-Na Tabela 7, tem-se o cronograma planejado para todas as atividades da quarta entrega.
+=== "Cronograma Planejado"
+    Na Tabela 7, tem-se o cronograma planejado para todas as atividades da quarta entrega.
 
-<font size="3"><p style="text-align: center"><b>Tabela 7</b> - Planejamento da avaliação do Storyboard</p></font>
+    <font size="3"><p style="text-align: center"><b>Tabela 7</b> - Planejamento da Avaliação do Storyboard e Análise de tarefas.e o planejamento do relato dos resultados da avaliação do Storyboard e Análise de tarefas.</p></font>
 
-| Atividade | Período de desenvolvimento | Responsável | Revisão | Revisores | Data da Entrega |
-| --------- | -----------| ------------ | ------- | ------- | ------- |
-|Planejamento da Avaliação do Storyboard|Início dia 15/05 e Fim dia 17/05|Arthur Alves e Eric Silveira|Início dia 18/05 e Fim dia 19/05|João Artur e Luiz Gustavo|19/05|
-|Planejamento do relato dos resultados da avaliação do Storyboard|Início dia 19/05 e Fim dia 19/05|João Artur e Luiz Gustavo|Início dia 19/05 e Fim dia 19/05|Arthur Alves e Eric Silveira 15/05|
-|Planejamento da Avaliação do Análise de tarefas|Início dia 01/05 e Fim dia 17/05|Diego Sousa e Douglas Marinho|Início dia 18/05 e Fim dia 18/05|João Artur e Luiz Gustavo|22/05|
-|Planejamento do relato dos resultados da avaliação do Análise de tarefas|Início dia 19/05 e Fim dia 19/05|João Artur e Luiz Gustavo|Início dia 19/05 e Fim dia 19/05|Diego Sousa e Douglas Marinho|22/05|
-|Iteração do Git Pages|Início dia 20/05 e Fim dia 20/05|Arthur Alves, Diego Sousa, Douglas Marinho, Eric Silveira, João Artur, Luiz Gustavo|Início dia 20/05 e Fim dia 20/05|Arthur Alves, Diego Sousa, Douglas Marinho, Eric Silveira, João Artur, Luiz Gustavo|22/05|
-|Período de gravação da apresentação|Início dia 21/04 e Fim dia 22/05|Douglas Marinho|Início dia 21/04 e Fim dia 22/05|Eric Silveira|22/05|
-|Correção pós apresentação|Início dia 23/05 e Fim dia 24/05|Arthur Alves, Diego Sousa, Douglas Marinho, Eric Silveira, João Artur, Luiz Gustavo|Início dia 23/05 e Fim dia 24/05|Arthur Alves, Diego Sousa, Douglas Marinho, Eric Silveira, João Artur, Luiz Gustavo|Não há entrega|
+    | Atividade | Período de desenvolvimento | Responsável | Revisão | Revisores | Data da Entrega |
+    | --------- | -----------| ------------ | ------- | ------- | ------- |
+    |Planejamento da Avaliação do Storyboard|Início dia 15/05 e Fim dia 17/05|Arthur Alves e Eric Silveira|Início dia 18/05 e Fim dia 19/05|João Artur e Luiz Gustavo|22/05|
+    |Planejamento do relato dos resultados da avaliação do Storyboard|Início dia 19/05 e Fim dia 19/05|João Artur e Luiz Gustavo|Início dia 19/05 e Fim dia 19/05|Arthur Alves e Eric Silveira 15/05|22/05|
+    |Planejamento da Avaliação do Análise de tarefas|Início dia 15/05 e Fim dia 17/05|Diego Sousa e Douglas Marinho|Início dia 18/05 e Fim dia 18/05|João Artur e Luiz Gustavo|22/05|
+    |Planejamento do relato dos resultados da avaliação do Análise de tarefas|Início dia 19/05 e Fim dia 19/05|João Artur e Luiz Gustavo|Início dia 19/05 e Fim dia 19/05|Diego Sousa e Douglas Marinho|22/05|
+    |Iteração do Git Pages|Início dia 20/05 e Fim dia 20/05|Arthur Alves, Diego Sousa, Douglas Marinho, Eric Silveira, João Artur, Luiz Gustavo|Início dia 20/05 e Fim dia 20/05|Arthur Alves, Diego Sousa, Douglas Marinho, Eric Silveira, João Artur, Luiz Gustavo|22/05|
+    |Período de gravação da apresentação|Início dia 21/04 e Fim dia 22/05|Douglas Marinho|Início dia 21/04 e Fim dia 22/05|Eric Silveira|22/05|
+    |Correção pós apresentação|Início dia 23/05 e Fim dia 24/05|Arthur Alves, Diego Sousa, Douglas Marinho, Eric Silveira, João Artur, Luiz Gustavo|Início dia 23/05 e Fim dia 24/05|Arthur Alves, Diego Sousa, Douglas Marinho, Eric Silveira, João Artur, Luiz Gustavo|Não há entrega|
 
-<font size="3"><p style="text-align: center">Fonte: Autores.</p></font>
+    <font size="3"><p style="text-align: center">Fonte: Autores.</p></font>
+
+=== "Cronograma Executado"
+    Na Tabela 8, tem-se o cronograma planejado para todas as atividades da quarta entrega.
+
+    <font size="3"><p style="text-align: center"><b>Tabela 8</b> - Execução do planejamento da Avaliação do Storyboard e Análise de tarefas.e o planejamento do relato dos resultados da avaliação do Storyboard e Análise de tarefas.</p></font>
+
+    | Atividade | Período de desenvolvimento | Responsável | Revisão | Revisores | Data da Entrega |
+    | --------- | -----------| ------------ | ------- | ------- | ------- |
+    |Planejamento da Avaliação do Storyboard|Início dia 15/05 e Fim dia 20/05|Arthur Alves e Eric Silveira|Início dia 20/05 e Fim dia 22/05|João Artur e Luiz Gustavo|22/05|
+    |Planejamento do relato dos resultados da avaliação do Storyboard|Início dia 17/05 e Fim dia 22/05|João Artur e Luiz Gustavo|Início dia 22/05 e Fim dia 22/05|Arthur Alves e Eric Silveira 15/05|22/05|
+    |Planejamento da Avaliação do Análise de tarefas|Início dia 15/05 e Fim dia 21/05|Diego Sousa e Douglas Marinho|Início dia 22/05 e Fim dia 22/05|João Artur e Luiz Gustavo|22/05|
+    |Planejamento do relato dos resultados da avaliação do Análise de tarefas|Início dia 16/05 e Fim dia 22/05|João Artur e Luiz Gustavo|Início dia 21/05 e Fim dia 22/05|Diego Sousa e Douglas Marinho|22/05|
+    |Iteração do Git Pages|Início dia 15/05 e Fim dia 22/05|Arthur Alves, Diego Sousa, Douglas Marinho, Eric Silveira, João Artur, Luiz Gustavo|Início dia 22/05 e Fim dia 22/05|Arthur Alves, Diego Sousa, Douglas Marinho, Eric Silveira, João Artur, Luiz Gustavo|22/05|
+    |Período de gravação da apresentação|Início dia 22/04 e Fim dia 22/05|Douglas Marinho|Início dia 22/04 e Fim dia 22/05|Eric Silveira|22/05|
+    |Correção pós apresentação|Início dia 23/05 e Fim dia 24/05|Arthur Alves, Diego Sousa, Douglas Marinho, Eric Silveira, João Artur, Luiz Gustavo|Início dia 23/05 e Fim dia 24/05|Arthur Alves, Diego Sousa, Douglas Marinho, Eric Silveira, João Artur, Luiz Gustavo|Não há entrega|
+
+    <font size="3"><p style="text-align: center">Fonte: Autores.</p></font>
 
 <!-- ### Executado
 
@@ -315,3 +333,4 @@ Na Tabela 18, está explicitado o cronograma executado das atividades da oitava 
 | `1.3` | 01/05/2024 | 02/05/2024 | Atualização de datas do cronograma planejado| [Douglas Marinho](https://github.com/M4RINH0) |[Arthur Alves](https://github.com/Arthrok)|
 | `1.4` | 01/05/2024 | 02/05/2024 | Cronograma executado da segunda entrega| [Eric Silveira](https://github.com/ericbky) |[João Artur](https://github.com/joao-artl)|
 | `1.5` | 12/05/2024 | 12/05/2024 | Cronograma executado da terceira entrega| [Eric Silveira](https://github.com/ericbky) |[Diego Sousa](https://github.com/DiegoSousaLeite)|
+| `1.6` | 22/05/2024 | 22/05/2024 | Cronograma executado da quarta entrega| [Eric Silveira](https://github.com/ericbky) |[Arthur Alves](https://github.com/Arthrok)|
