@@ -59,8 +59,6 @@ Para fins de documentação as entrevistas devem ser registradas em uma tabela c
 - Horário final
 - Data da entrevista
 
-<center>
-
 <font size="3"><p style="text-align: center"><b>Tabela 2</b> - Cronograma de entrevistas</p></font>
 
 | Entrevistador | Entrevistado | Storyboard Analisado | Horário de Início | Horário de Fim | Data       | Local |
