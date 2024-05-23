@@ -194,6 +194,9 @@ De acordo com nosso planejamento, o teste-piloto será executado conforme as esp
 |-------------------|-----------------|----------------------|-------------------|----------------|------------|-------|
 | [Eric Silveira](https://github.com/ericbky)      | [João Artur](https://github.com/joao-artl)       | <a href="/2024.1-CD-MOJ/design-avaliacao-desenvolvimento/nivel1/storyboard/storyboards/#tarefa-2-tutorial-de-resolucao-de-questoes-pos-contest">Tutorial de Resolução de Questões Pós-Contest</a>            | 20:00         | 20:10      | 28/05  | Microsoft Teams   |
 
+<font size="3"><p style="text-align: center"><b>Fonte:</b> [Eric Silveira](https://github.com/ericbky).</p></font>
+
+
 ### <a>Resultados do Teste-piloto</a>
 
 A execução do teste-piloto ocorreu conforme o de planejamento e a tabela 6 descreve sobre a sua execução:
@@ -203,6 +206,8 @@ A execução do teste-piloto ocorreu conforme o de planejamento e a tabela 6 des
 | Entrevistador | Entrevistado | Storyboard Analisado | Horário de Início | Horário de Fim | Data       | Local |
 |-------------------|-----------------|----------------------|-------------------|----------------|------------|-------|
 | [Eric Silveira](https://github.com/ericbky)      | [João Artur](https://github.com/joao-artl)       | <a href="/2024.1-CD-MOJ/design-avaliacao-desenvolvimento/nivel1/storyboard/storyboards/#tarefa-2-tutorial-de-resolucao-de-questoes-pos-contest">Tutorial de Resolução de Questões Pós-Contest</a>            | 20:00         | 20:10      | 28/05  | Microsoft Teams   |
+
+<font size="3"><p style="text-align: center"><b>Fonte:</b> [Eric Silveira](https://github.com/ericbky).</p></font>
 
 O resultado que obtivemos sobre o teste-piloto está na gravação a seguir, conseguimos identificar os pontos de melhorias a serem abordados pela equipe e uma breve noção de como conduzir a avaliação.
 
