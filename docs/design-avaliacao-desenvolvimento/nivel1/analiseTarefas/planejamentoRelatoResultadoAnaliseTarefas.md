@@ -108,23 +108,23 @@ Finalmente, aqui devem ser propostas soluções para cada problema identificado,
 
 "Com base nos problemas identificados, foram sugeridas as seguintes melhorias, organizadas por prioridade:
 
-- Melhoria da Navegação (Prioridade Alta):
+Melhoria da Navegação (Prioridade Alta):
 
-Redesenho do menu principal para maior visibilidade das funções mais usadas.
+- Redesenho do menu principal para maior visibilidade das funções mais usadas.
 
-Implementação de uma barra de pesquisa inteligente.
+- Implementação de uma barra de pesquisa inteligente.
 
-- Aprimoramento da Interface de Entrada de Dados (Prioridade Média):
+Aprimoramento da Interface de Entrada de Dados (Prioridade Média):
 
-Simplificação dos formulários de entrada de dados, com validações em tempo real para reduzir erros.
+- Simplificação dos formulários de entrada de dados, com validações em tempo real para reduzir erros.
 
-Inclusão de instruções contextuais para auxiliar os usuários durante o processo de entrada de dados.
+- Inclusão de instruções contextuais para auxiliar os usuários durante o processo de entrada de dados.
 
-- Feedback do Sistema (Prioridade Alta):
+Feedback do Sistema (Prioridade Alta):
 
-Adição de mensagens de confirmação e feedback visual após a realização de ações críticas.
+- Adição de mensagens de confirmação e feedback visual após a realização de ações críticas.
 
-Desenvolvimento de um sistema de notificações que informe o usuário sobre o status das suas ações."
+- Desenvolvimento de um sistema de notificações que informe o usuário sobre o status das suas ações."
 
 ## <a> Referências Bibliográficas </a>
 > <a id="REF1" href="#anchor_1">1.</a> BARBOSA, Simone; DINIZ, Bruno. Interação Humano-Computador, Editora Elsevier, Rio de Janeiro, 2010.
