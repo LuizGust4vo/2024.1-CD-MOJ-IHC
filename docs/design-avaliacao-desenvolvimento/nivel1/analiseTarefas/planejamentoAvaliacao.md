@@ -71,7 +71,7 @@ Para fins de documentação as entrevistas devem ser registradas em uma tabela c
 | Luiz Gustavo      | Pedro Dourado       | <a href="/2024.1-CD-MOJ/design-avaliacao-desenvolvimento/nivel1/storyboard/storyboards/#tarefa-5-criacao-de-problema-administrador">Criação de Problema</a>            | 20:00         | 20:30      | 29/05  | FGA   |
 
 
-<font size="3"><p style="text-align: center"><b>Fonte:</b> Arthur Alves e Eric Silveira.</p></font>
+<font size="3"><p style="text-align: center"><b>Fonte:</b> [Arthur Alves](https://github.com/Arthrok) e [Eric Silveira](https://github.com/ericbky).</p></font>
 
 Na entrevista estarão disponíveis capturas de tela para que o usuário possa ver a tarefa da qual o entrevistador estará comentando e a tabela com o seu fluxo. A tabela 3 a seguir mostra o roteiro de perguntas a serem realizadas na entrevista. Essas perguntas foram baseadas nas perguntas a serem [repondidas na avaliação](#met1).
 
