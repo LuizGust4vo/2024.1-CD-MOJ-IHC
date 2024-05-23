@@ -149,6 +149,8 @@ Feedback do Sistema (Prioridade Alta):
 
 
 ## <a> Bibliografia </a>
+> Rubin, J., & Chisnell, D. (2008). Handbook of Usability Testing: How to Plan, Design, and Conduct Effective Tests. 2nd Edition. Wiley. Acesso em: 22 de Maio 2024.
+> 
 > Ventoy. Repositório do Grupo Ventoy da disciplina de Interação Humano Computador da Universidade de Brasília, 2023. Disponível em: <https://github.com/Interacao-Humano-Computador/2023.2-Ventoy/blob/main/docs/verificacao/DAD/nivel01/analiseDeTarefas/relatoResultados.md>. Acesso em: 22 de Maio 2024.
 
 ## <a> Histórico de Versão </a>
