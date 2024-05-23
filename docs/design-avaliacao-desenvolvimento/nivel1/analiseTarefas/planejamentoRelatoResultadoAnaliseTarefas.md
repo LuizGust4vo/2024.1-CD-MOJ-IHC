@@ -42,7 +42,7 @@ Nesta seção, o autor do documento deve explicar a razão pela qual a avaliaç�
 - Compreender o fluxo de trabalho dos usuários e verificar a adequação do sistema às suas necessidades."
 
 ### <a> Método </a>
-Descrever as atividades realizadas para a coleta de dados e como a avaliação foi conduzida.
+Descrever as atividades realizadas para a coleta de dados e como a avaliação foi conduzida<a id="anchor_5" href="#REF5">^5^</a>.
 
 **Exemplo de metódo:**
 
@@ -87,7 +87,7 @@ Neste tópico, o avaliador deve apresentar os dados coletados de forma resumida,
 - Feedback dos usuários: 65% dos usuários relataram dificuldades em localizar funções específicas no sistema, enquanto 80% dos novos usuários mencionaram a falta de orientações claras."
 
 ### <a> Análise dos dados coletados </a>
-Aqui, será realizada a interpretação dos dados obtidos. É essencial incluir uma lista de problemas encontrados, categorizada de forma a permitir a rastreabilidade<a id="anchor_5" href="#REF5">^5^</a>.
+Aqui, será realizada a interpretação dos dados obtidos. É essencial incluir uma lista de problemas encontrados, categorizada de forma a permitir a rastreabilidade<a id="anchor_6" href="#REF6">^6^</a>.
 
 **Exemplo análise dos dados coletados:**
 
@@ -102,7 +102,7 @@ Aqui, será realizada a interpretação dos dados obtidos. É essencial incluir 
 Cada problema identificado foi categorizado por gravidade (alto, médio, baixo) e frequências de ocorrência, facilitando a priorização das soluções."
 
 ### <a> Sugestões de melhoria </a>
-Finalmente, aqui devem ser propostas soluções para cada problema identificado, indicando a prioridade de cada sugestão de correção. Essas melhorias visam não apenas corrigir os problemas identificados, mas também otimizar a experiência geral do usuário com o sistema<a id="anchor_6" href="#REF6">^6^</a>.
+Finalmente, aqui devem ser propostas soluções para cada problema identificado, indicando a prioridade de cada sugestão de correção. Essas melhorias visam não apenas corrigir os problemas identificados, mas também otimizar a experiência geral do usuário com o sistema<a id="anchor_7" href="#REF7">^7^</a>.
 
 **Exemplo de sugestões de melhoria:**
 
@@ -114,17 +114,23 @@ Melhoria da Navegação (Prioridade Alta):
 
 - Implementação de uma barra de pesquisa inteligente.
 
+</br>
+
 Aprimoramento da Interface de Entrada de Dados (Prioridade Média):
 
 - Simplificação dos formulários de entrada de dados, com validações em tempo real para reduzir erros.
 
 - Inclusão de instruções contextuais para auxiliar os usuários durante o processo de entrada de dados.
 
+</br>
+
 Feedback do Sistema (Prioridade Alta):
 
 - Adição de mensagens de confirmação e feedback visual após a realização de ações críticas.
 
 - Desenvolvimento de um sistema de notificações que informe o usuário sobre o status das suas ações."
+
+</br>
 
 ## <a> Referências Bibliográficas </a>
 > <a id="REF1" href="#anchor_1">1.</a> BARBOSA, Simone; DINIZ, Bruno. Interação Humano-Computador, Editora Elsevier, Rio de Janeiro, 2010.
@@ -135,9 +141,11 @@ Feedback do Sistema (Prioridade Alta):
 >
 > <a id="REF4" href="#anchor_4">4.</a> Nielsen, J. (1994). Usability Engineering. San Francisco: Morgan Kaufmann.
 >
-> <a id="REF5" href="#anchor_5">5.</a> Nielsen, J., & Landauer, T. K. (1993). A mathematical model of the finding of usability problems. Proceedings of the INTERACT '93 and CHI '93 Conference on Human Factors in Computing Systems.
+> <a id="REF5" href="#anchor_5">5.</a> Preece, J., Rogers, Y., & Sharp, H. (2015). Interaction Design: Beyond Human-Computer Interaction. 4th Edition. Wiley.
+> 
+> <a id="REF6" href="#anchor_6">6.</a> Nielsen, J., & Landauer, T. K. (1993). A mathematical model of the finding of usability problems. Proceedings of the INTERACT '93 and CHI '93 Conference on Human Factors in Computing Systems.
 >
-> <a id="REF6" href="#anchor_6">6.</a> Norman, D. A. (2013). The Design of Everyday Things: Revised and Expanded Edition. Basic Books.
+> <a id="REF7" href="#anchor_7">7.</a> Norman, D. A. (2013). The Design of Everyday Things: Revised and Expanded Edition. Basic Books.
 
 
 ## <a> Bibliografia </a>
