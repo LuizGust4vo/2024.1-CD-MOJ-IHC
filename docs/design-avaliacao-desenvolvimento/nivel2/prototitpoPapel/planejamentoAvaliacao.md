@@ -1,3 +1,5 @@
+# Planejamento da Avaliação do Protótipo de Papel
+
 ## <a> Introdução </a>
 A prototipação em papel, conforme discutido por Snyder (2003), é um método eficaz para avaliar a usabilidade de um design de Interface Humano-Computador (IHC). Este método envolve a criação de representações em papel de um design, que são então testadas através de simulações de uso com a participação de potenciais usuários. Simular o uso em papel oferece uma abordagem rápida e econômica para identificar problemas de usabilidade antes mesmo de se desenvolver uma solução executável de IHC. Segundo Barbosa et al. (2021)<a id="anchor_1" href="#REF1">^1^</a>, esse método se mostra particularmente útil em avaliações formativas junto aos usuários, especialmente quando se deseja comparar diferentes alternativas de design. A prototipação em papel permite avaliar facilmente soluções parciais que não cobrem toda a interface do usuário, bem como soluções de baixa e média fidelidade que ainda não definem todos os detalhes da interface. Por essa razão, é uma ferramenta valiosa para desenvolvedores e designers que buscam aprimorar a experiência do usuário de maneira eficiente e econômica.
 
