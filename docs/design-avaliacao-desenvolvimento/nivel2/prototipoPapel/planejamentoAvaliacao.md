@@ -1,7 +1,7 @@
 # Planejamento da Avaliação do Protótipo de Papel
 
 ## <a> Introdução </a>
-A prototipação em papel, conforme discutido por Snyder (2003), é um método eficaz para avaliar a usabilidade de um design de Interface Humano-Computador (IHC). Este método envolve a criação de representações em papel de um design, que são então testadas através de simulações de uso com a participação de potenciais usuários. Simular o uso em papel oferece uma abordagem rápida e econômica para identificar problemas de usabilidade antes mesmo de se desenvolver uma solução executável de IHC. Segundo Barbosa et al. (2021)<a id="anchor_1" href="#REF1">^1^</a>, esse método se mostra particularmente útil em avaliações formativas junto aos usuários, especialmente quando se deseja comparar diferentes alternativas de design. A prototipação em papel permite avaliar facilmente soluções parciais que não cobrem toda a interface do usuário, bem como soluções de baixa e média fidelidade que ainda não definem todos os detalhes da interface. Por essa razão, é uma ferramenta valiosa para desenvolvedores e designers que buscam aprimorar a experiência do usuário de maneira eficiente e econômica.
+A prototipação em papel é um método eficaz para avaliar a usabilidade de um design de Interface Humano-Computador (IHC) antes de desenvolver uma solução executável. Esse método envolve criar representações em papel e testá-las com potenciais usuários, permitindo identificar rapidamente problemas de usabilidade. Segundo Barbosa et al. (2021)<a id="anchor_1" href="#REF1">^1^</a>, é especialmente útil para avaliações formativas e comparação de alternativas de design, permitindo testar soluções parciais e de baixa fidelidade de maneira eficiente e econômica.
 
 ## <a> Metodologia </a>
 
@@ -43,4 +43,5 @@ O framework DECIDE, criado por Sharp, Rogers e Preece<a id="anchor_2" href="#REF
 
 | Versão| Data | Data Prevista de Revisão| Descrição  | Autor(es)  | Revisor(es) |
 | ------- | ------ | ------ | ------- | -------- | -------- |
-| `1.0` | 29/05/2024 | 01/05/2024 | Criação do documento. | [Diego Sousa](https://github.com/DiegoSousaLeite)| [João Artur](https://github.com/joao-artl) e [Luiz Gustavo](https://gith3ub.com/LuizGust4vo) |
+| `1.0` | 29/05/2024 | 01/05/2024 | Criação do documento. | [Diego Sousa](https://github.com/DiegoSousaLeite)| [Douglas Marinho](https://github.com/M4RINH0) |
+| `1.1` | 29/05/2024 | 01/05/2024 | Adição Introdução e titulos | [Diego Sousa](https://github.com/DiegoSousaLeite)| [João Artur](https://github.com/joao-artl) e [Luiz Gustavo](https://gith3ub.com/LuizGust4vo) |
