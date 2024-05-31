@@ -119,7 +119,12 @@ Confira na Tabela 4, que apresenta o cronograma, como ficou definido o agendamen
 
 | Entrevistador | Entrevistado | Protótipo Analisado | Horário de Início | Horário de Fim | Data       | Local |
 |-------------------|-----------------|----------------------|-------------------|----------------|------------|-------|
-|- | - | - | - | - | - | - |
+| Arthur Alves      | -| Tutorial de Resolução de Contest         | -   | -  | 05/06  | FGA   |
+| Diego Sousa  | - | Ranking de Contest   | -|-| 05/06 | FGA   |
+| Douglas Marinho  | -  | Criar Constest          | -   | -  | 05/06 | FGA   |
+| Eric Silveira   | -     |Submissão de Problemas        | -| -  | 05/06 | FGA   |
+| João Artur| Júlio César   | Verificação de Submissões    | 16:00       | 16:30  | 05/06  | FGA |
+| Luiz Gustavo      | -   | Criação de Problema         | -    |- | 05/06  | FGA   |
 
 <font size="3"><p style="text-align: center"><b>Fonte:</b> [João Artur](https://github.com/joao-artl).</p></font>
 
