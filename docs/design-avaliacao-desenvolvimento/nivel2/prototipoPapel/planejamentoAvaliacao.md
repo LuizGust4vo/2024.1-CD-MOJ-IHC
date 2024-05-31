@@ -34,8 +34,19 @@ A partir dos objetivos, foram elaboradas perguntas específicas para orientar a 
 <font size="3"><p style="text-align: center"><b>Tabela 2</b> - Questões para serem respondidas a partir da avaliação</p></font>
 
 | Número | Pergunta | O que se espera? |
-|--------|------| -----|      
-| 1 | a | a    |                                                                          
+|--------|----------|------------------|      
+| 1      | O protótipo representa o sistema corretamente? | Verificar se a representação do sistema no protótipo é adequada. |
+| 2      | Existem discrepâncias entre a representação e o sistema? | Identificar quaisquer diferenças entre a representação no protótipo e o sistema real. |
+| 3      | A tarefa realizada pelo usuário no protótipo condiz com as atividades que ele realmente executa? | Avaliar se as tarefas no protótipo refletem as atividades reais dos usuários. |
+| 4      | O protótipo de papel atende ao objetivo e necessidade dos usuários? | Determinar se o protótipo de papel satisfaz as necessidades e objetivos dos usuários. |
+| 5      | As informações no protótipo de papel foram apresentadas de maneira clara e direta? | Verificar a clareza e a objetividade das informações apresentadas no protótipo de papel. |
+| 6      | Todas as informações apresentadas no protótipo de papel são relevantes para a compreensão do cenário? | Avaliar a relevância das informações para a compreensão do cenário pelos usuários. |
+| 7      | Existem partes do protótipo de papel que causaram confusão ou foram interpretadas de maneira ambígua? | Identificar partes do protótipo que causaram confusão ou foram ambíguas. |
+| 8      | O entrevistado conseguiu relacionar as situações do protótipo de papel com suas experiências anteriores ou conhecimento prévio? | Verificar se o entrevistado conseguiu relacionar o protótipo com suas experiências e conhecimento. |
+| 9      | O entrevistado é capaz de prever os próximos passos ou consequências das ações apresentadas no protótipo de papel? | Avaliar se o entrevistado pode prever os próximos passos ou consequências das ações no protótipo. |
+| 10     | O entrevistado acha que a situação apresentada no protótipo tem relevância para ele? | Determinar se a situação apresentada no protótipo é relevante para o entrevistado. |
+| 11     | Houve elementos no protótipo de papel que surpreenderam ou despertaram a curiosidade dos entrevistados? | Identificar elementos do protótipo que surpreenderam ou despertaram curiosidade. |
+| 12     | Quais aspectos do protótipo de papel o entrevistado sugere modificar para melhorar a compreensão? | Obter feedback sobre melhorias no protótipo para aumentar a compreensão. |
 
 <font size="3"><p style="text-align: center"><b>Fonte:</b> [João Artur](https://github.com/joao-artl).</p></font>
 
@@ -69,7 +80,18 @@ Ao criar as perguntas, veja na tabela 3, levou-se em consideração o perfil e a
 
 | Número | Pergunta | Resposta | Objetivo |
 |--------|----------|----------|----------|
-| ----- | ---- | ----- | -----|
+| 1      | O protótipo represetna o sistema corretamente?| [ ] Sim<br> [ ] Não<br> [ ] Não sei responder | Verificar Apropriação |
+| 2      | Existem discrepâncias entre a representação e o sistema? | Questão aberta | Verificar Apropriação |
+| 3      | A tarefa realizada pelo usuário no protótipo condiz com as atividades que eles realmente executa? | [ ] Sim<br> [ ] Não<br> [ ] Não sei responder | Verificar Apropriação |
+| 4      | O protótipo de papel atende ao objetivo e necessidade do usuários | Questão aberta | Verificar Apropriação |
+| 5      | As informações no protótipo de papel foram apresentadas de maneira clara e direta? | [ ] Sim<br> [ ] Não<br> [ ] Não sei responder | Verificar a Interação |
+| 6      | Todas as informações apresentadas no protótipo de papel  são relevantes para a compreensão do cenário? | Questão aberta | Verificar a Interação |
+| 7     | Existem partes do protótipo de papel que causaram confusão ou foram interpretadas de maneira ambígua? | Questão aberta | Verificar a Interação |
+| 8     | O entrevistado conseguiu relacionar as situações do protótipo de papel com suas experiências anteriores ou conhecimento prévio? | [ ] Sim<br> [ ] Não<br> [ ] Não sei responder | Verificar Entendimento |
+| 9     | O entrevistado é capaz de prever os próximos passos ou consequências das ações apresentadas no protótipo de papel ? | [ ] Sim<br> [ ] Não<br> [ ] Não sei responder | Verificar Entendimento |
+| 10     | O entrevistado acha que a situações apresentada no tem relevância para eles? | [ ] Sim<br> [ ] Não<br> [ ] Não sei responder | Avaliar Impacto Emocional |
+| 11     | Houve elementos no protótipo de papel que surpreenderam ou despertaram a curiosidade dos entrevistados? | Questão aberta | Avaliar Impacto Emocional |
+| 12     | Quais aspectos do protótipo de papel entrevistado sugere modificar para melhorar a compreensão? | Questão aberta | Obter Feedback |
 
 <font size="3"><p style="text-align: center"><b>Fonte:</b> [João Artur](https://github.com/joao-artl).</p></font>
 
@@ -149,7 +171,7 @@ De acordo com nosso planejamento, o teste-piloto será executado conforme as esp
 
 | Entrevistador | Entrevistado | Protótipo Analisado | Horário de Início | Horário de Fim | Data       | Local |
 |-------------------|-----------------|----------------------|-------------------|----------------|------------|-------|
-| [Eric Silveira](https://github.com/ericbky)      | [Diego Sousa](https://github.com/DiegoSousaLeite)    | --------   | 20:00         | 20:10      | 28/05  | Microsoft Teams   |
+| [Eric Silveira](https://github.com/ericbky)      | [Diego Sousa](https://github.com/DiegoSousaLeite)    | Verificação de Submissão  | 20:00         | 20:10      | 28/05  | Microsoft Teams   |
 
 <font size="3"><p style="text-align: center"><b>Fonte:</b> [João Artur](https://github.com/joao-artl).</p></font>
 
@@ -162,7 +184,7 @@ A execução do teste-piloto ocorreu conforme o de planejamento e a tabela 6 des
 
 | Entrevistador | Entrevistado | Protótipo Analisado | Horário de Início | Horário de Fim | Data       | Local |
 |-------------------|-----------------|----------------------|-------------------|----------------|------------|-------|
-| [Eric Silveira](https://github.com/ericbky)      | [Diego Sousa](https://github.com/DiegoSousaLeite)    | --------   | 20:00         | 20:10      | 28/05  | Microsoft Teams   |
+| [Eric Silveira](https://github.com/ericbky)      | [Diego Sousa](https://github.com/DiegoSousaLeite)    | Verificação de Submissão  | 20:00         | 20:10      | 28/05  | Microsoft Teams   |
 
 <font size="3"><p style="text-align: center"><b>Fonte:</b> [João Artur](https://github.com/joao-artl).</p></font>
 
@@ -199,4 +221,5 @@ link do video
 | ------- | ------ | ------ | ------- | -------- | -------- |
 | `1.0` | 29/05/2024 | 01/06/2024 | Criação do documento. | [Diego Sousa](https://github.com/DiegoSousaLeite)| [Douglas Marinho](https://github.com/M4RINH0) |
 | `1.1` | 29/05/2024 | 01/06/2024 | Adicionando Introdução e titulos | [Diego Sousa](https://github.com/DiegoSousaLeite)| [João Artur](https://github.com/joao-artl) e [Luiz Gustavo](https://gith3ub.com/LuizGust4vo) |
-| `1.2` | 31/05/2024 | 01/05/2024 | Adicionando framework DECIDE e perguntas do questionário| [João Artur](https://github.com/joao-artl)|[Diego Sousa](https://github.com/DiegoSousaLeite)|
+| `1.2` | 31/05/2024 | 01/05/2024 | Adicionando framework DECIDE| [João Artur](https://github.com/joao-artl)|[Diego Sousa](https://github.com/DiegoSousaLeite)|
+| `1.3` | 31/05/2024 | 01/05/2024 | Adicionando perguntas do questionário e criando cronograma de entrevistas| [João Artur](https://github.com/joao-artl)|[Luiz Gustavo](https://gith3ub.com/LuizGust4vo)|
