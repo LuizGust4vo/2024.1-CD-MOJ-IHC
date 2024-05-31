@@ -48,9 +48,7 @@ O usuário relatou duas melhorias que segundo ele seriam fundamentais para o sit
 
 ### <a>Gravação da Entevista</a>
 
-
-link
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/WKScpNRTWAo?si=8d1ZoV2LW9JVQZ1i" title="Relato - Verificação de Submissão" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## <a>Referências Bibliográficas</a>
 
@@ -62,4 +60,5 @@ link
 
 | Versão| Data | Data Prevista de Revisão| Descrição  | Autor(es)  | Revisor(es) |
 | ------- | ------ | ------ | ------- | -------- | -------- |
-| `1.0` | 31/05/2024 | 02/06/2024 | Criação do documento e relato da verificação de submissões| [João Artur](https://github.com/joao-artl)|[Diego Sousa](https://github.com/DiegoSousaLeite)|
+| `1.0` | 31/05/2024 | 01/06/2024 | Criação do documento e relato da verificação de submissões| [João Artur](https://github.com/joao-artl)|[Diego Sousa](https://github.com/DiegoSousaLeite)|
+| `1.1` | 31/05/2024 | 01/06/2024 | Adicionando vídeo da entrevista| [João Artur](https://github.com/joao-artl)|[Diego Sousa](https://github.com/DiegoSousaLeite)|
