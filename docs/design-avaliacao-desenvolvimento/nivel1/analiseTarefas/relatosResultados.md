@@ -20,7 +20,7 @@ O método de avaliação foi uma combinação de observação e entrevistas com 
 
 | Entrevistador(es) | Entrevistado(s) | Horário | Duração  | Data    |    Local     |
 | :----------------: | :-------------: | :---------------: | :------------: | :--------: | :----------: |
-|  [João Artur](https://github.com/joao-artl)  |   Júlio    |  22:00 | 20 minutos | 30/05/2023 | Microsoft Teams |
+|  [João Artur](https://github.com/joao-artl)  |   Júlio    |  22:00 | 15 minutos | 30/05/2023 | Microsoft Teams |
 
 <font size="3">Fonte: [João Artur](https://github.com/joao-artl).</font>
 
