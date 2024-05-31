@@ -91,7 +91,7 @@ Durante a sessão, apenas o entrevistador precisará de dispositivos digitais b�
 - Dispositivo de Gravação: Para capturar tanto o áudio quanto a imagem durante a entrevista, será necessário um dispositivo de gravação de qualidade. Esse equipamento é essencial para registrar a interação completa, permitindo que a equipe revise as entrevistas mais tarde para capturar nuances e detalhes que podem ser perdidos apenas nas notas escritas.
 
 #### <a>Prazos</a>
-Confira na Tabela 4, que apresenta o cronograma, como ficou definido o agendamento das entrevistas. Esta tabela detalha os horários de início e término, as datas, o storyboard que será usado pra ser analisado na entrevista e o local.
+Confira na Tabela 4, que apresenta o cronograma, como ficou definido o agendamento das entrevistas. Esta tabela detalha os horários de início e término, as datas, o protótipo que será usado para ser analisado na entrevista e o local.
 
 <font size="3"><p style="text-align: center"><b>Tabela 4</b> - Cronograma de entrevistas</p></font>
 
@@ -105,8 +105,8 @@ Confira na Tabela 4, que apresenta o cronograma, como ficou definido o agendamen
 Para a realização eficaz das entrevistas, é essencial que o entrevistador esteja adequadamente equipado com todos os materiais necessários. O seguinte conjunto de recursos será necessário para a condução da entrevista:
 
 - Protótipo de Papel Impresso: Cada entrevistador deverá ter em mãos uma cópia impressa do protótipo de papel. Este material será utilizado como base para a análise durante a entrevista, permitindo que o entrevistado visualize claramente os cenários discutidos.
-- Lápis e Borracha: Para facilitar as anotações e possíveis alterações durante a análise do storyboard, lápis e borracha serão disponibilizados ao entrevistado. Isso permite que ele faça marcações ou correções diretamente no storyboard impresso.
-- Papel A4: Além dos storyboards, papel A4 limpo será fornecido para que o entrevistado possa fazer rascunhos adicionais ou anotações detalhadas. Isso é particularmente útil para registrar insights ou expandir ideias que surgirem durante a entrevista.
+- Lápis e Borracha: Para facilitar as anotações e possíveis alterações durante a análise, lápis e borracha serão disponibilizados ao entrevistado. Isso permite que ele faça marcações ou correções diretamente no documento impresso.
+- Papel A4: Além dos protótipos, papel A4 limpo será fornecido para que o entrevistado possa fazer rascunhos adicionais ou anotações detalhadas. Isso é particularmente útil para registrar insights ou expandir ideias que surgirem durante a entrevista.
 
 ### <a>D - Decidir as questões éticas</a>
 
