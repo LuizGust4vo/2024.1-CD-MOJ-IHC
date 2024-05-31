@@ -2,16 +2,16 @@
 
 ## <a>Introdução</a>
 
-De Acordo com Barbosa e Silva (2021)<a id="anchor_1" href="#REF1">^1^</a>, o relato de resultados da avaliação é utilizado para registrar de maneira sistemática e detalhada as descobertas obtidas durante a avaliação. O documento oferece informações sobre como os usuários interagem com o sistema. Através desse resultado, é possível avaliar a qualidade do uso da solução e identificar problemas na interação e na interface que possam comprometer a experiência do usuário. Este documento apresenta os resultados obtidos durante as avaliações dos Storyboards.
+Segundo Barbosa e Silva (2021)<a id="anchor_1" href="#REF1">^1^</a>, o relato de resultados da avaliação serve para registrar de maneira sistemática e detalhada as descobertas feitas durante o processo avaliativo. Este documento fornece informações sobre a interação dos usuários com o sistema, permitindo avaliar a qualidade do uso da solução e identificar problemas na interação e na interface que possam prejudicar a experiência do usuário. O documento em questão apresenta os resultados obtidos durante as avaliações da Análise de Tarefas.
 
 ## <a>Relato - Verificação de Submissão</a>
 
 ### <a>Objetivos e Escopo da Avaliação</a>
 
-A avaliação teve como objetivo validar se o [storyboard de Verificação de Submissão](https://interacao-humano-computador.github.io/2024.1-CD-MOJ/design-avaliacao-desenvolvimento/nivel1/storyboard/storyboards/#tarefa-3-verificacao-de-submissoes) está de acordo com o fluxo de atividades do CD-MOJ e identificar áreas de melhoria para fornecer um suporte mais eficaz aos usuários.
+A avaliação teve como objetivo validar se a tarefa de Verificação de Submissão está de acordo com o fluxo de atividades do CD-MOJ e identificar áreas de melhoria para fornecer um suporte mais eficaz aos usuários.
 
 ### <a>Método de Avaliação Empregado</a>
-O método de avaliação foi uma combinação de observação e entrevistas com o usuário, conforme o framework DECIDE<a id="anchor_2" href="#REF2">^2^</a>. Nela foi pedido que o usuário verificasse o fluxo apresentado pelo storyboard e após isso ele foi perguntado sobre algumas questões. A tabela 1 apresenta as informações sobre a entrevista:
+O método de avaliação foi uma combinação de observação e entrevistas com o usuário, conforme o framework DECIDE<a id="anchor_2" href="#REF2">^2^</a>. Nela foi pedido que o usuário explicasse o fluxo necessário para realizar a tarefa e após isso ele foi perguntado sobre algumas questões. A tabela 1 apresenta as informações sobre a entrevista:
 
 <center>
 
@@ -20,7 +20,7 @@ O método de avaliação foi uma combinação de observação e entrevistas com 
 
 | Entrevistador(es) | Entrevistado(s) | Horário | Duração  | Data    |    Local     |
 | :----------------: | :-------------: | :---------------: | :------------: | :--------: | :----------: |
-|  [João Artur](https://github.com/joao-artl)  |   Júlio    |  16:00 | 15 minutos | 27/05/2023 | FGA |
+|  [João Artur](https://github.com/joao-artl)  |   Júlio    |  22:00 | 20 minutos | 30/05/2023 | Microsoft Teams |
 
 <font size="3">Fonte: [João Artur](https://github.com/joao-artl).</font>
 
@@ -32,36 +32,24 @@ O participante se encaixa no [perfil de usuário](https://interacao-humano-compu
 
 ### <a>Sumário dos Dados Coletados</a>
 
-Durante a entrevista foram coletados dados sobre, a interação do usuário com o sistema, feedbacks sobre o storyboard e as respostas das perguntas presentes no [planejamento da avaliação](https://interacao-humano-computador.github.io/2024.1-CD-MOJ/design-avaliacao-desenvolvimento/nivel1/storyboard/planejamentoAvaliacao/).
+Durante a entrevista foram coletados dados sobre, a interação do usuário com o sistema realizada atráves da execução da tarefa, feedbacks sobre o [diagrama HTA](https://interacao-humano-computador.github.io/2024.1-CD-MOJ/analise-de-requisitos/analise-de-tarefas/analiseHierarquicaTarefa/#3-verificacao-de-submissoes) e as respostas das perguntas presentes no [planejamento da avaliação](https://interacao-humano-computador.github.io/2024.1-CD-MOJ/design-avaliacao-desenvolvimento/nivel1/analiseTarefas/planejamentoAvaliacao/).
 
 ### <a>Interpretação e Análise dos Dados</a>
 
-A partir da entrevista realizada e da observação do usuário, pode-se concluir que o Storyboard da tarefa de Verificar Submissões está em conformidade com a realidade e atende às necessidades dos usuários do CD-MOJ. O único problema identificado é a ausência da opção de visualizar o código enviado, o que exige o uso de outra ferramenta.
+A partir da entrevista realizada e da observação do usuário, pode-se concluir que a tarefa está de acordo com o diagrama de Verificação de Submissões. O usuário relatou que a falta de informações claras no log é um problema, uma vez que dificulta a correção das questões. Segundo ele existe uma ferramenta que é capaz de auxiliar nisso, mas ela seria bem mais atrativa se estivesse presente no site do CD-MOJ.
 
-### <a>Lista dos Problemas Encontrados</a>
-O usuário relatou não conseguir visualizar um log de testes detalhado como o mostrado no Storyboard. Segundo o usuário, a tarefa existe, porém só pode ser realizada através de outra ferramenta.
+### <a> Sugestões de melhoria </a>
 
-### <a>Planejamento para o Reprojeto do Sistema</a>
+O usuário relatou duas melhorias que segundo ele seriam fundamentais para o site:
 
-As mudanças sugeridas pelo usuário serão adicionadas ao storyboard, a alteração será realizada pelo entrevistador conforme o cronograma presente na tabela 2 a seguir:
+- Melhoria na responsividade do site, principalmente para dispositivos móveis.
 
-<center>
-
-<figure markdown>
-<font size="3"><b>Tabela 1</b> - Correção do Storyboard.</font>
-
-| Entrevistador | Data | Alteração |
-| :----------------: | :-------------: | :---------------: | 
-|  [João Artur](https://github.com/joao-artl)  |   04/06/2024   | Alterar informações sobre o log de testes |
-
-<font size="3">Fonte: [João Artur](https://github.com/joao-artl).</font>
-
-</center>
+- Adicionar a ferramenta de visualização de log no site, atualmente ela só está disponível com um Bot no Telegram.
 
 ### <a>Gravação da Entevista</a>
 
 
-Coloca o video ai arthur
+link
 
 
 ## <a>Referências Bibliográficas</a>

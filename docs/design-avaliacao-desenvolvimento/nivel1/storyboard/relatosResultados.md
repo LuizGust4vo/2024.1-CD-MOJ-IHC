@@ -13,18 +13,13 @@ A avaliação teve como objetivo validar se o [storyboard de Verificação de Su
 ### <a>Método de Avaliação Empregado</a>
 O método de avaliação foi uma combinação de observação e entrevistas com o usuário, conforme o framework DECIDE<a id="anchor_2" href="#REF2">^2^</a>. Nela foi pedido que o usuário verificasse o fluxo apresentado pelo storyboard e após isso ele foi perguntado sobre algumas questões. A tabela 1 apresenta as informações sobre a entrevista:
 
-<center>
-
-<figure markdown>
-<font size="3"><b>Tabela 1</b> - Entrevista Verificação de Submissões.</font>
+<font size="3"><p style="text-align: center"><b>Tabela 1</b> - Cronograma da Entrevista</p></font>
 
 | Entrevistador(es) | Entrevistado(s) | Horário | Duração  | Data    |    Local     |
 | :----------------: | :-------------: | :---------------: | :------------: | :--------: | :----------: |
 |  [João Artur](https://github.com/joao-artl)  |   Júlio    |  16:00 | 15 minutos | 27/05/2023 | FGA |
 
-<font size="3">Fonte: [João Artur](https://github.com/joao-artl).</font>
-
-</center>
+<font size="3"><p style="text-align: center"><b>Fonte:</b>[João Artur](https://github.com/joao-artl)</p></font>
 
 ### <a>Número e Perfil dos Usuários e Avaliadores</a>
 
