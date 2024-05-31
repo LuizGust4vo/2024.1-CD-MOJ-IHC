@@ -59,7 +59,7 @@ As mudanças sugeridas pelo usuário serão adicionadas ao storyboard, a altera�
 ### <a>Gravação da Entevista</a>
 
 
-Coloca o video ai arthur :)
+Coloca o video ai arthur 0-0
 
 
 ## <a>Referências Bibliográficas</a>
