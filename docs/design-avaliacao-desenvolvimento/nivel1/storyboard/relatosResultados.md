@@ -19,7 +19,7 @@ O método de avaliação foi uma combinação de observação e entrevistas com 
 | :----------------: | :-------------: | :---------------: | :------------: | :--------: | :----------: |
 |  [João Artur](https://github.com/joao-artl)  |   Júlio    |  16:00 | 15 minutos | 27/05/2023 | FGA |
 
-<font size="3"><p style="text-align: center"><b>Fonte:</b>[João Artur](https://github.com/joao-artl)</p></font>
+<font size="3"><p style="text-align: center"><b>Fonte:</b> [João Artur](https://github.com/joao-artl)</p></font>
 
 ### <a>Número e Perfil dos Usuários e Avaliadores</a>
 

@@ -34,7 +34,7 @@ O participante se encaixa no [perfil de usuário](https://interacao-humano-compu
 
 Durante a entrevista foram coletados dados sobre, a interação do usuário com o sistema realizada atráves da execução da tarefa, feedbacks sobre o [diagrama HTA](https://interacao-humano-computador.github.io/2024.1-CD-MOJ/analise-de-requisitos/analise-de-tarefas/analiseHierarquicaTarefa/#3-verificacao-de-submissoes) e as respostas das perguntas presentes no [planejamento da avaliação](https://interacao-humano-computador.github.io/2024.1-CD-MOJ/design-avaliacao-desenvolvimento/nivel1/analiseTarefas/planejamentoAvaliacao/).
 
-### <a>Interpretação e Análise dos Dados</a>
+### <a> Análise dos dados coletados </a>
 
 A partir da entrevista realizada e da observação do usuário, pode-se concluir que a tarefa está de acordo com o diagrama de Verificação de Submissões. O usuário relatou que a falta de informações claras no log é um problema, uma vez que dificulta a correção das questões. Segundo ele existe uma ferramenta que é capaz de auxiliar nisso, mas ela seria bem mais atrativa se estivesse presente no site do CD-MOJ.
 
@@ -44,7 +44,7 @@ O usuário relatou duas melhorias que segundo ele seriam fundamentais para o sit
 
 - Melhoria na responsividade do site, principalmente para dispositivos móveis.
 
-- Adicionar a ferramenta de visualização de log no site, atualmente ela só está disponível com um Bot no Telegram.
+- Adicionar a ferramenta de visualização de log no site, atualmente ela só está disponível através de um bot no Telegram.
 
 ### <a>Gravação da Entevista</a>
 
