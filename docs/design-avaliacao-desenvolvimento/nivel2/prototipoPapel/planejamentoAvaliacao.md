@@ -68,7 +68,7 @@ Durante o processo, registraremos quaisquer problemas identificados, bem como as
 
 Com base nessa análise minuciosa, os dados coletados serão utilizados para refinar e desenvolver os protótipos de papel, fornecendo insights essenciais que contribuirão significativamente para o seu aprimoramento.
 
-## <a>Teste-Piloto</a>
+## <a>Planejamento do Teste-Piloto</a>
 
 Após a conclusão do planejamento, iremos utilizar como forma metodológica também o **teste-piloto**. Segundo Barbosa e Silva (2011, p.276), ele consiste em uma forma em que a equipe parametrize e faça uma verificação sobre a coleta dos dados, sobre como será conduziada a avaliação pelo avaliador e sobre as informações de orientação para com o participante, seguindo o planejamento de avaliação<a id="anchor_6" href="#REF6">^6^</a>.
 
