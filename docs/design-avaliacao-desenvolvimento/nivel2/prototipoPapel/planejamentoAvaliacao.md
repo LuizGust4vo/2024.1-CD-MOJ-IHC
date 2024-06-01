@@ -78,22 +78,24 @@ Ao criar as perguntas, veja na tabela 3, levou-se em consideração o perfil e a
 
 <font size="3"><p style="text-align: center"><b>Tabela 3</b> - Roteiro de perguntas</p></font>
 
-| Número | Pergunta | Resposta | Objetivo |
-|--------|----------|----------|----------|
-| 1      | O protótipo represetna o sistema corretamente?| [ ] Sim<br> [ ] Não<br> [ ] Não sei responder | Verificar Apropriação |
-| 2      | Existem discrepâncias entre a representação e o sistema? | Questão aberta | Verificar Apropriação |
-| 3      | A tarefa realizada pelo usuário no protótipo condiz com as atividades que eles realmente executa? | [ ] Sim<br> [ ] Não<br> [ ] Não sei responder | Verificar Apropriação |
-| 4      | O protótipo de papel atende ao objetivo e necessidade do usuários | Questão aberta | Verificar Apropriação |
-| 5      | As informações no protótipo de papel foram apresentadas de maneira clara e direta? | [ ] Sim<br> [ ] Não<br> [ ] Não sei responder | Verificar a Interação |
-| 6      | Todas as informações apresentadas no protótipo de papel  são relevantes para a compreensão do cenário? | Questão aberta | Verificar a Interação |
-| 7     | Existem partes do protótipo de papel que causaram confusão ou foram interpretadas de maneira ambígua? | Questão aberta | Verificar a Interação |
-| 8     | O entrevistado conseguiu relacionar as situações do protótipo de papel com suas experiências anteriores ou conhecimento prévio? | [ ] Sim<br> [ ] Não<br> [ ] Não sei responder | Verificar Entendimento |
-| 9     | O entrevistado é capaz de prever os próximos passos ou consequências das ações apresentadas no protótipo de papel ? | [ ] Sim<br> [ ] Não<br> [ ] Não sei responder | Verificar Entendimento |
-| 10     | O entrevistado acha que a situações apresentada no tem relevância para eles? | [ ] Sim<br> [ ] Não<br> [ ] Não sei responder | Avaliar Impacto Emocional |
-| 11     | Houve elementos no protótipo de papel que surpreenderam ou despertaram a curiosidade dos entrevistados? | Questão aberta | Avaliar Impacto Emocional |
-| 12     | Quais aspectos do protótipo de papel entrevistado sugere modificar para melhorar a compreensão? | Questão aberta | Obter Feedback |
+|**ID**|**Pergunta**|**Propósito**|**Resposta**|
+|---|---|---|---|
+|1|A prototipação representa bem o seu propósito?|Verificação de conformidade com a tarefa.|[ ] Sim [ ] Não|
+|2|O layout corresponde com as expectativas do usuário sobre como deveria ser a tela?|Verificação de aderência às expectativas do usuário.|[ ] Sim [ ] Não|
+|3|Os aspectos de usabilidade estão bem evidentes na prototipação?|Avaliação da clareza e facilidade de uso.|[ ] Sim [ ] Não|
+|4|A prototipação oferece dificuldades sobre visualização do conteúdo da tela?|Identificação de problemas de visibilidade e legibilidade.|[ ] Sim [ ] Não|
+|5|Os elementos interativos estão claramente identificados?|Verificação da identificação clara de elementos clicáveis e interativos.|[ ] Sim [ ] Não|
+|6|O fluxo de navegação está intuitivo?|Avaliação da facilidade de navegação e sequência lógica das telas.|[ ] Sim [ ] Não|
+|7|O protótipo permite uma fácil compreensão das funcionalidades?|Verificação da clareza das funcionalidades apresentadas.|[ ] Sim [ ] Não|
+|8|Há algum elemento ou informação que esteja faltando?|Identificação de lacunas ou elementos ausentes.|Resposta aberta|
+|9|A estrutura da informação está organizada de forma lógica?|Avaliação da organização e hierarquia da informação.|[ ] Sim [ ] Não|
+|10|O protótipo permite a realização das tarefas principais de forma eficiente?|Verificação da eficiência na realização de tarefas principais.|[ ] Sim [ ] Não|
+|11|Existem barreiras que dificultam a execução de ações pelo usuário?|Identificação de barreiras ou dificuldades na interação.|[ ] Sim [ ] Não|
+|12|A disposição dos elementos na tela facilita a execução das tarefas?|Avaliação da disposição e acessibilidade dos elementos.|[ ] Sim [ ] Não|
+|13|O protótipo proporciona uma experiência satisfatória para o usuário?|Avaliação geral da satisfação do usuário com o protótipo.|[ ] Sim [ ] Não|
 
-<font size="3"><p style="text-align: center"><b>Fonte:</b> [João Artur](https://github.com/joao-artl).</p></font>
+
+<font size="3"><p style="text-align: center"><b>Fonte:</b> [Eric Silveira](https://github.com/ericbky).</p></font>
 
 #### <a>Preparação</a>
 O entrevistador terá um papel fundamental. Ele será responsável por conduzir as entrevistas seguindo um roteiro previamente definido, que contém perguntas detalhadas elaboradas para explorar a interação dos usuários com os protótipos de papel. Além de fazer as perguntas, o entrevistador também será responsável por registrar as respostas dos participantes, garantindo que todas as nuances e detalhes importantes sejam capturados.
@@ -228,3 +230,4 @@ link do video
 | `1.1` | 29/05/2024 | 01/06/2024 | Adicionando Introdução e titulos | [Diego Sousa](https://github.com/DiegoSousaLeite)| [João Artur](https://github.com/joao-artl) e [Luiz Gustavo](https://gith3ub.com/LuizGust4vo) |
 | `1.2` | 31/05/2024 | 01/05/2024 | Adicionando framework DECIDE| [João Artur](https://github.com/joao-artl)|[Diego Sousa](https://github.com/DiegoSousaLeite)|
 | `1.3` | 31/05/2024 | 01/05/2024 | Adicionando perguntas do questionário e criando cronograma de entrevistas| [João Artur](https://github.com/joao-artl)|[Luiz Gustavo](https://gith3ub.com/LuizGust4vo)|
+| `1.4` | 01/05/2024 | 01/05/2024 | Refazendo as questões do roteiro de perguntas| [Eric Silveira](https://github.com/ericbky)|[Arthur Alves](https://github.com/Arthrok)|
