@@ -33,22 +33,17 @@ A partir dos objetivos, foram elaboradas perguntas específicas para orientar a 
 
 <font size="3"><p style="text-align: center"><b>Tabela 2</b> - Questões para serem respondidas a partir da avaliação</p></font>
 
-| Número | Pergunta | O que se espera? |
-|--------|----------|------------------|      
-| 1      | O protótipo representa o sistema corretamente? | Verificar se a representação do sistema no protótipo é adequada. |
-| 2      | Existem discrepâncias entre a representação e o sistema? | Identificar quaisquer diferenças entre a representação no protótipo e o sistema real. |
-| 3      | A tarefa realizada pelo usuário no protótipo condiz com as atividades que ele realmente executa? | Avaliar se as tarefas no protótipo refletem as atividades reais dos usuários. |
-| 4      | O protótipo de papel atende ao objetivo e necessidade dos usuários? | Determinar se o protótipo de papel satisfaz as necessidades e objetivos dos usuários. |
-| 5      | As informações no protótipo de papel foram apresentadas de maneira clara e direta? | Verificar a clareza e a objetividade das informações apresentadas no protótipo de papel. |
-| 6      | Todas as informações apresentadas no protótipo de papel são relevantes para a compreensão do cenário? | Avaliar a relevância das informações para a compreensão do cenário pelos usuários. |
-| 7      | Existem partes do protótipo de papel que causaram confusão ou foram interpretadas de maneira ambígua? | Identificar partes do protótipo que causaram confusão ou foram ambíguas. |
-| 8      | O entrevistado conseguiu relacionar as situações do protótipo de papel com suas experiências anteriores ou conhecimento prévio? | Verificar se o entrevistado conseguiu relacionar o protótipo com suas experiências e conhecimento. |
-| 9      | O entrevistado é capaz de prever os próximos passos ou consequências das ações apresentadas no protótipo de papel? | Avaliar se o entrevistado pode prever os próximos passos ou consequências das ações no protótipo. |
-| 10     | O entrevistado acha que a situação apresentada no protótipo tem relevância para ele? | Determinar se a situação apresentada no protótipo é relevante para o entrevistado. |
-| 11     | Houve elementos no protótipo de papel que surpreenderam ou despertaram a curiosidade dos entrevistados? | Identificar elementos do protótipo que surpreenderam ou despertaram curiosidade. |
-| 12     | Quais aspectos do protótipo de papel o entrevistado sugere modificar para melhorar a compreensão? | Obter feedback sobre melhorias no protótipo para aumentar a compreensão. |
 
-<font size="3"><p style="text-align: center"><b>Fonte:</b> [João Artur](https://github.com/joao-artl).</p></font>
+| **Número** | **Pergunta**                                         | **O que se espera?**                                                                                                         |
+|------------|------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------|
+| 1          | A prototipação representa bem o seu propósito?       | As respostas às perguntas 1 e 6 ajudarão a verificar se o protótipo cumpre seu propósito principal e se é intuitivo.         |
+| 2          | O layout corresponde com as expectativas do usuário? | Utilizando as respostas das perguntas 2, 5 e 12, avaliaremos se o layout atende às expectativas dos usuários e facilita a interação. |
+| 3          | Os aspectos de usabilidade estão claros?             | As respostas às perguntas 3, 7 e 9 permitirão entender se a usabilidade está adequada e se as funcionalidades são compreendidas facilmente. |
+| 4          | Há elementos do protótipo que dificultam a visualização ou uso? | Através das respostas às perguntas 4, 8 e 11, identificaremos elementos que podem estar prejudicando a experiência do usuário, seja por má visualização ou compreensão deficiente. |
+| 5          | O protótipo proporciona uma experiência satisfatória? | Analisando as respostas para a pergunta 13, determinaremos o nível geral de satisfação dos usuários com o protótipo, considerando a eficiência e a clareza da interação proposta. |
+
+
+<font size="3"><p style="text-align: center"><b>Fonte:</b> [Arthur Alves](https://github.com/Arthrok) e [Eric Silveira](https://github.com/ericbky).</p></font>
 
 As perguntas selecionadas têm o objetivo de serem respondidas com esta avaliação e serão discutidas posteriormente no tópico [Roteiro de Perguntas](#roteiro-de-perguntas).
 
@@ -95,7 +90,7 @@ Ao criar as perguntas, veja na tabela 3, levou-se em consideração o perfil e a
 |13|O protótipo proporciona uma experiência satisfatória para o usuário?|Avaliação geral da satisfação do usuário com o protótipo.|[ ] Sim [ ] Não|
 
 
-<font size="3"><p style="text-align: center"><b>Fonte:</b> [Eric Silveira](https://github.com/ericbky).</p></font>
+<font size="3"><p style="text-align: center"><b>Fonte:</b> [Arthur Alves](https://github.com/Arthrok) e [Eric Silveira](https://github.com/ericbky).</p></font>
 
 #### <a>Preparação</a>
 O entrevistador terá um papel fundamental. Ele será responsável por conduzir as entrevistas seguindo um roteiro previamente definido, que contém perguntas detalhadas elaboradas para explorar a interação dos usuários com os protótipos de papel. Além de fazer as perguntas, o entrevistador também será responsável por registrar as respostas dos participantes, garantindo que todas as nuances e detalhes importantes sejam capturados.
