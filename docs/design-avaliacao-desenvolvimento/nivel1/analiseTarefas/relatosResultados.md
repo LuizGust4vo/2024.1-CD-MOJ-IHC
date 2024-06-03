@@ -94,6 +94,43 @@ O usuário relatou uma melhoria que segundo ele seriam fundamentais para o site:
 <iframe width="560" height="315" src="https://www.youtube.com/embed/BFRRn7AmvJY?si=sJdTlhDjJU2MaFIj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
+## <a>Tutorial de Resolução de Questões Pós-Contest</a>
+
+### <a>Objetivos e Escopo da Avaliação</a>
+A avaliação teve como objetivo validar a tarefa de <a>Tuturoial de Resolução de Questões Pós-Contest</a>, que é uma tarefa ainda não implementada no CD-MOJ, está de acordo com um fluxo padrão de atividades da plataforma, além de identificar áreas de melhoria para que esta funcionalidade, quando implementada, possa fornecer com êxito todas as expectativas do usuário em relação a funcionalidade.
+
+### <a>Método de Avaliação Empregado</a>
+O método de avaliação foi uma combinação de observação e entrevistas com o usuário, conforme o framework DECIDE<a id="anchor_2" href="#REF2">^2^</a>. Por se tratar de uma funcionalidade não existente no CD-MOJ, foi feito uma prototipação usando a ferramenta Figma, para que o entrevistado conseguisse simular o uso da funcionalidade. No protótipo foi pedido que a usuária explicasse o fluxo necessário para realizar a tarefa e após isso foram feitas perguntas sobre algumas questões. A tabela 3 apresenta as informações sobre a entrevista:
+
+<font size="3"><p style="text-align: center"><b>Tabela 3</b> - Cronograma da Entrevista</p></font>
+
+| Entrevistador(es) | Entrevistado(s) | Horário | Duração  | Data    |    Local     |
+| :----------------: | :-------------: | :---------------: | :------------: | :--------: | :----------: |
+|  [Arthur Alves](https://github.com/arthrok)  |   Maria Eduarda    |  15:00 | 15 minutos | 29/05/2023 | FGA - Contâiner ITRAC |
+
+
+<font size="3"><p style="text-align: center"><b>Fonte:</b> [Arthur Alves](https://github.com/arthrok)</p></font>
+
+
+### <a>Número e Perfil dos Usuários e Avaliadores</a>
+A entrevista foi feita com um usuário. A participante se encaixa no [perfil de usuário](https://interacao-humano-computador.github.io/2024.1-CD-MOJ/analise-de-requisitos/perfildeUsuario/), ela é uma usuário de 21 anos, cursando ensino superior em Engenharia de Software e usa frequentemente o CD-MOJ.
+
+### <a>Sumário dos Dados Coletados</a>
+Durante a entrevista foram coletados dados sobre, a interação do usuário com o sistema realizada atráves da execução da tarefa, feedbacks sobre o [diagrama HTA](https://interacao-humano-computador.github.io/2024.1-CD-MOJ/analise-de-requisitos/analise-de-tarefas/analiseHierarquicaTarefa/#2-tutorial-de-resolucao-de-questoes-pos-contest) e as respostas das perguntas presentes no [planejamento da avaliação](https://interacao-humano-computador.github.io/2024.1-CD-MOJ/design-avaliacao-desenvolvimento/nivel1/analiseTarefas/planejamentoAvaliacao/).
+
+### <a>Análise dos Dados Coletados
+
+
+### <a>Sugestões de Melhoria</a>
+A usuária relatou dois pontos de melhoria que seriam fundamentais para uma melhor experiência na plataforma:
+
+- Jargões como "contest" não são adequados para iniciantes, ela sugere trocar o termo para algo similar. 
+
+### <a>Gravação da Entrevista</a>
+
+<iframe width="853" height="480" src="https://www.youtube.com/embed/2LhQcF9Vx9Q" title="Entrevista HTA: Tutorial de Resolução de Questões Pós-Contest - Nível 1 - Grupo 01 (CD-MOJ)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
 
 ## <a>Referências Bibliográficas</a>
 
