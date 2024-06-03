@@ -63,7 +63,7 @@ Para fins de documentação as entrevistas devem ser registradas em uma tabela c
 
 | Entrevistador | Entrevistado | Storyboard Analisado | Horário de Início | Horário de Fim | Data       | Local |
 |-------------------|-----------------|----------------------|-------------------|----------------|------------|-------|
-| Arthur Alves      | Fábio Torres       | <a href="/2024.1-CD-MOJ/design-avaliacao-desenvolvimento/nivel1/storyboard/storyboards/#tarefa-2-tutorial-de-resolucao-de-questoes-pos-contest">Tutorial de Resolução de Questões Pós-Contest</a>            | 09:00         | 09:30      | 28/05  | FGA   |
+| Arthur Alves      | Maria Eduarda     | <a href="/2024.1-CD-MOJ/design-avaliacao-desenvolvimento/nivel1/storyboard/storyboards/#tarefa-2-tutorial-de-resolucao-de-questoes-pos-contest">Tutorial de Resolução de Questões Pós-Contest</a>            | 09:00         | 09:30      | 29/05  | Teams   |
 | Diego Sousa      | Pedro       | <a href="/2024.1-CD-MOJ/design-avaliacao-desenvolvimento/nivel1/storyboard/storyboards/#tarefa-4-ranking-de-contest">Ranking de Contest</a>            | 15:00         | 15:10      | 28/05  | FGA   |
 | Douglas Marinho      |Ana Júlia       | <a href="/2024.1-CD-MOJ/design-avaliacao-desenvolvimento/nivel1/storyboard/storyboards/#tarefa-5-criacao-de-problema-administrador">Criar Contest</a>            | 08:30         | 08:40      | 29/05  | FGA   |
 | Eric Silveira     | Will Bernardo       |<a href="/2024.1-CD-MOJ/design-avaliacao-desenvolvimento/nivel1/storyboard/storyboards/#tarefa-1-submissao-de-problemas">Submissão de Problemas</a>            | 20:00         | 20:30      | 28/05  | FGA   |

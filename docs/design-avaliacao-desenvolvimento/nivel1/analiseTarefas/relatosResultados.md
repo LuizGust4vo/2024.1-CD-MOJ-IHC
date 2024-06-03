@@ -106,7 +106,7 @@ O método de avaliação foi uma combinação de observação e entrevistas com 
 
 | Entrevistador(es) | Entrevistado(s) | Horário | Duração  | Data    |    Local     |
 | :----------------: | :-------------: | :---------------: | :------------: | :--------: | :----------: |
-|  [Arthur Alves](https://github.com/arthrok)  |   Maria Eduarda    |  15:00 | 15 minutos | 29/05/2023 | FGA - Contâiner ITRAC |
+|  [Arthur Alves](https://github.com/arthrok)  |   Maria Eduarda    |  15:00 | 15 minutos | 03/06/2023 | Teams |
 
 
 <font size="3"><p style="text-align: center"><b>Fonte:</b> [Arthur Alves](https://github.com/arthrok)</p></font>
