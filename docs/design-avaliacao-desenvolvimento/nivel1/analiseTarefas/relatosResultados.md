@@ -202,6 +202,36 @@ O usuário afirmou que o CD-MOJ tem muito a melhorar sobre diversos aspectos, po
 <iframe width="853" height="480" src="https://www.youtube.com/embed/njQon_StAZg?si=-20kIX8IhuI-mZNS" title="Análise HTA - Eric Silveira" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></center>
 
 
+## <a>Ranking de Contest</a>
+
+### <a>Objetivos e Escopo da Avaliação</a>
+A avaliação teve como objetivo validar a tarefa de <a href="https://interacao-humano-computador.github.io/2024.1-CD-MOJ/analise-de-requisitos/analise-de-tarefas/analiseHierarquicaTarefa/#4-ranking-de-contest">Ranking de Contest</a>, uma tarefa já implementada no CD-MOJ, na qual foi verificado se o fluxo padrão de atividades da plataforma está de acordo com o diagrama e com a descrição da tarefa, além de identificar áreas de melhoria para que essa funcionalidade possa corresponder com êxito a todas as expectativas do usuário.
+
+### <a>Método de Avaliação Empregado</a>
+O método de avaliação foi uma combinação de observação e entrevistas com o usuário, conforme o framework DECIDE<a id="anchor_2" href="#REF2">^2^</a>. Primeiro foi verificado se o entrevistado correspondia ao perfil dos usuários da plataforma do CD-MOJ, para uma melhor experiência e domínio sobre o sistema. Após essa verificação, houve a apresentação do diagrama e a verificação se o diagrama e sua descrição estão de acordo com a expectativa do usuário e fiel ao já implementado, verificando item por item se o usuário estava de acordo com aquela especificação. A Tabela 4 apresenta as informações sobre a entrevista:
+
+<font size="3"><p style="text-align: center"><b>Tabela 5</b> - Cronograma da Entrevista - Ranking de Contest</p></font>
+
+| Entrevistador(es) | Entrevistado(s) | Horário | Duração  | Data    |    Local     |
+| :----------------: | :-------------: | :---------------: | :------------: | :--------: | :----------: |
+|  [Diego Sousa](https://github.com/DiegoSousaLeite)  |   Iago Passaglia   |  19:00 | 8 minutos | 03/06/2023 | Teams |
+
+<font size="3"><p style="text-align: center"><b>Fonte:</b> [Diego Sousa](https://github.com/DiegoSousaLeite)</p></font>
+
+### <a>Número e Perfil dos Usuários e Avaliadores</a>
+A entrevista foi feita com um usuário. O participante se encaixa no [perfil de usuário](https://interacao-humano-computador.github.io/2024.1-CD-MOJ/analise-de-requisitos/perfildeUsuario/), ele é um usuário de entre 18 e 30 anos, estudante de ensino superior e usuário regular do CD-MOJ.
+
+### <a>Sumário dos Dados Coletados</a>
+Durante a entrevista, foram coletados dados sobre a interação do usuário com o sistema, feedbacks sobre o [diagrama HTA](https://interacao-humano-computador.github.io/2024.1-CD-MOJ/analise-de-requisitos/analise-de-tarefas/analiseHierarquicaTarefa/#4-ranking-de-contest) e as respostas às perguntas presentes no [planejamento da avaliação](https://interacao-humano-computador.github.io/2024.1-CD-MOJ/design-avaliacao-desenvolvimento/nivel1/analiseTarefas/planejamentoAvaliacao/).
+
+### ### <a>Análise dos Dados Coletados</a>
+O usuário afirmou que o CD-MOJ tem muito a melhorar sobre diversos aspectos e propôs algumas melhorias no diagrama de análise de tarefas. As sugestões foram:
+- Os itens listados como objetivos talvez deveriam ser ações dentro do CD-MOJ, segundo as palavras do Iago.
+
+### <a>Gravação da Entrevista</a>
+<center>
+<iframe width="1220" height="686" src="https://www.youtube.com/embed/5EHP3bsA_uw" title="HTA - Diego Sousa" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ## <a>Referências Bibliográficas</a>
 
 > <a id="REF1" href="#anchor_1">1.</a> Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) *Interação Humano-Computador e Experiência do usuário.* Capítulo 11 Planejamento da Avaliação de IHC, tópico 11.7.5 Consolidação e Relato dos Resultados, página 279 . Autopublicação. ISBN: 978-65-00-19677-1.
@@ -217,3 +247,4 @@ O usuário afirmou que o CD-MOJ tem muito a melhorar sobre diversos aspectos, po
 | `1.2` | 03/06/2024 | 03/06/2024 | Relato da criação de contest| [Douglas Marinho](https://github.com/M4RINH0)|[Diego Sousa](https://github.com/DiegoSousaLeite)|
 | `1.3` | 03/06/2024 | 03/06/2024 | Relato do Tutorial pós-contest| [Arthur Alves](https://github.com/Arthrok)|[Diego Sousa](https://github.com/DiegoSousaLeite)|
 | `1.4` | 03/06/2024 | 03/06/2024 | Relato da Submissão de Problemas| [Eric Silveira](https://github.com/ericbky)|[Diego Sousa](https://github.com/DiegoSousaLeite)|
+| `1.4` | 03/06/2024 | 03/06/2024 | Relato da Submissão de Problemas| [Diego Sousa](https://github.com/DiegoSousaLeite)|[João Artur](https://github.com/joao-artl)|
