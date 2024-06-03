@@ -153,6 +153,8 @@ Durante a entrevista foram coletados dados sobre, a interação do usuário com 
 ### <a>Análise dos Dados Coletados</a>
 A usuária relatou que todas as informações apresentadas na tarefa são relevantes. Ela não encontrou partes da tarefa que causaram confusão ou foram interpretadas de maneira errada. Além disso, ela conseguiu relacionar as situações da tarefa com suas experiências anteriores, indicando que a tarefa transmite efetivamente a urgência e importância das informações ou ações descritas.
 
+De modo geral, a usuária achou que a tarefa atende aos objetivos e necessidades dos usuários, e considerou a funcionalidade de tutoriais pós-contest uma ótima ideia para facilitar o aprendizado e aprimoramento das habilidades de programação. A implementação das sugestões fornecidas pode contribuir significativamente para melhorar a experiência dos usuários e a eficácia do sistema CD-MOJ.
+
 
 ### <a>Sugestões de Melhoria</a>
 A usuária relatou dois pontos de melhoria que seriam fundamentais para uma melhor experiência na plataforma:
