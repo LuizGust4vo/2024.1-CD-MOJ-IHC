@@ -15,7 +15,6 @@ O método de avaliação foi uma combinação de observação e entrevistas com 
 
 <center>
 
-<figure markdown>
 <font size="3"><b>Tabela 1</b> - Entrevista Verificação de Submissões.</font>
 
 | Entrevistador(es) | Entrevistado(s) | Horário | Duração  | Data    |    Local     |
@@ -50,6 +49,52 @@ O usuário relatou duas melhorias que segundo ele seriam fundamentais para o sit
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/WKScpNRTWAo?si=8d1ZoV2LW9JVQZ1i" title="Relato - Verificação de Submissão" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+## <a>Relato - Criação de Contest</a>
+
+### <a>Objetivos e Escopo da Avaliação</a>
+
+A avaliação teve como objetivo validar se a tarefa de Criação de contest está de acordo com o fluxo de atividades do CD-MOJ e identificar áreas de melhoria para fornecer um suporte mais eficaz aos usuários.
+
+### <a>Método de Avaliação Empregado</a>
+O método de avaliação foi uma combinação de observação e entrevistas com o usuário, conforme o framework DECIDE<a id="anchor_2" href="#REF2">^2^</a>. Nela foi pedido que o usuário explicasse o fluxo necessário para realizar a tarefa e após isso ele foi perguntado sobre algumas questões. A tabela 2 apresenta as informações sobre a entrevista:
+
+<center>
+
+<figure markdown>
+<font size="3"><b>Tabela 2</b> - Entrevista Criação de Contest.</font>
+
+| Entrevistador(es) | Entrevistado(s) | Horário | Duração  | Data    |    Local     |
+| :----------------: | :-------------: | :---------------: | :------------: | :--------: | :----------: |
+|  [Douglas Marinho](https://github.com/M4RINH0)  |   Ana Júlia    |  16:00 | 15 minutos | 03/06/2023 | Microsoft Teams |
+
+<font size="3">Fonte: [Douglas Marinho](https://github.com/M4RINH0).</font>
+
+</center>
+
+### <a>Número e Perfil dos Usuários e Avaliadores</a>
+
+O participante se encaixa em um dos [perfis de usuário](https://interacao-humano-computador.github.io/2024.1-CD-MOJ/analise-de-requisitos/perfildeUsuario/), ele é um usuário de entre 18 e 30 anos, estudante de ensino superior e usuário raro do CD-MOJ.
+
+### <a>Sumário dos Dados Coletados</a>
+
+Durante a entrevista foram coletados dados sobre, a interação do usuário com o sistema realizada atráves da execução da tarefa, feedbacks sobre o [diagrama HTA](https://interacao-humano-computador.github.io/2024.1-CD-MOJ/analise-de-requisitos/analise-de-tarefas/analiseHierarquicaTarefa/#3-verificacao-de-submissoes) e as respostas das perguntas presentes no [planejamento da avaliação](https://interacao-humano-computador.github.io/2024.1-CD-MOJ/design-avaliacao-desenvolvimento/nivel1/analiseTarefas/planejamentoAvaliacao/).
+
+### <a> Análise dos dados coletados </a>
+
+A partir da entrevista realizada e da observação do usuário, pode-se concluir que a tarefa está de acordo com o diagrama de Verificação de Submissões. O usuário relatou que a tela minimalista auxilia em não tirar atenção do usuário mas não o chama atenção para continuar o uso, e o metodo de criação aparenta ser obsoleto.
+
+### <a> Sugestões de melhoria </a>
+
+O usuário relatou uma melhoria que segundo ele seriam fundamentais para o site:
+
+- Melhoria na interface geral do site, pois sentiu incômodo na mistura do inglês com português.
+
+### <a>Gravação da Entevista</a>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BFRRn7AmvJY?si=sJdTlhDjJU2MaFIj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
+
 ## <a>Referências Bibliográficas</a>
 
 > <a id="REF1" href="#anchor_1">1.</a> Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) *Interação Humano-Computador e Experiência do usuário.* Capítulo 11 Planejamento da Avaliação de IHC, tópico 11.7.5 Consolidação e Relato dos Resultados, página 279 . Autopublicação. ISBN: 978-65-00-19677-1.
@@ -62,3 +107,4 @@ O usuário relatou duas melhorias que segundo ele seriam fundamentais para o sit
 | ------- | ------ | ------ | ------- | -------- | -------- |
 | `1.0` | 31/05/2024 | 01/06/2024 | Criação do documento e relato da verificação de submissões| [João Artur](https://github.com/joao-artl)|[Diego Sousa](https://github.com/DiegoSousaLeite)|
 | `1.1` | 31/05/2024 | 01/06/2024 | Adicionando vídeo da entrevista| [João Artur](https://github.com/joao-artl)|[Diego Sousa](https://github.com/DiegoSousaLeite)|
+| `1.2` | 31/05/2024 | 01/06/2024 | Relato da criação de contest| [Douglas Marinho](https://github.com/M4RINH0)|[Diego Sousa](https://github.com/DiegoSousaLeite)|

@@ -68,7 +68,7 @@ A avaliação teve como objetivo validar se o [storyboard de Criação de Contes
 ### <a>Método de Avaliação Empregado</a>
 O método de avaliação foi uma combinação de observação e entrevistas com o usuário, conforme o framework DECIDE<a id="anchor_2" href="#REF2">^2^</a>. Nela foi pedido que o usuário verificasse o fluxo apresentado pelo storyboard e após isso ele foi perguntado sobre algumas questões. A tabela 2 apresenta as informações sobre a entrevista:
 
-<font size="3"><p style="text-align: center"><b>Tabela 1</b> - Cronograma da Entrevista</p></font>
+<font size="3"><p style="text-align: center"><b>Tabela 2</b> - Cronograma da Entrevista</p></font>
 
 | Entrevistador(es) | Entrevistado(s) | Horário | Duração  | Data    |    Local     |
 | :----------------: | :-------------: | :---------------: | :------------: | :--------: | :----------: |
