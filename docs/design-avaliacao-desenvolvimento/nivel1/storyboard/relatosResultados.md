@@ -219,6 +219,46 @@ Nenhuma mudança requerida pelo participante, para ele está condizente tanto a 
 
 <center><iframe width="853" height="480" src="https://www.youtube.com/embed/jyLzI_2XEDs?si=Bmwc5w8nww4PzBhy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> </center>
 
+## <a>Relato - Criação de Ranking de Contest</a>
+
+### <a>Objetivos e Escopo da Avaliação</a>
+
+A avaliação teve como objetivo validar se o [storyboard de Criação de Ranking de Contest](https://interacao-humano-computador.github.io/2024.1-CD-MOJ/design-avaliacao-desenvolvimento/nivel1/storyboard/storyboards/#tarefa-4-ranking-de-contest) está alinhado com o fluxo de tarefas do CD-MOJ e identificar áreas de melhoria para fornecer um suporte mais eficaz aos usuários.
+
+### <a>Método de Avaliação Empregado</a>
+OO método de avaliação combinou observação e entrevistas com o usuário, seguindo o framework DECIDE<a id="anchor_2" href="#REF2">^2^</a>. Solicitou-se ao usuário que verificasse o fluxo apresentado pelo storyboard e, em seguida, foi feita uma série de perguntas. A Tabela 2 apresenta as informações sobre a entrevista:
+
+<font size="3"><p style="text-align: center"><b>Tabela 2</b> - Cronograma da Entrevista</p></font>
+
+| Entrevistador(es) | Entrevistado(s) | Horário | Duração  | Data    |    Local     |
+| :----------------: | :-------------: | :---------------: | :------------: | :--------: | :----------: |
+|  [Diego Sousa](https://github.com/DiegoSousaLeite)  |   Marco   |  19:00 | 9 minutos | 03/06/2023 | Casa do entrevistado |
+
+<font size="3"><p style="text-align: center"><b>Fonte:</b> [Diego Sousa](https://github.com/DiegoSousaLeite)</p></font>
+
+### <a>Número e Perfil dos Usuários e Avaliadores</a>
+
+O participante se encaixa no [perfil de usuário](https://interacao-humano-computador.github.io/2024.1-CD-MOJ/analise-de-requisitos/perfildeUsuario/). Ele tem entre 18 e 30 anos, é estudante de ensino superior e usuário regular do CD-MOJ.
+
+### <a>Sumário dos Dados Coletados</a>
+
+Durante a entrevista, foram coletados dados sobre a interação do usuário com o sistema, feedbacks sobre o storyboard e as respostas às perguntas presentes no [planejamento da avaliação](https://interacao-humano-computador.github.io/2024.1-CD-MOJ/design-avaliacao-desenvolvimento/nivel1/storyboard/planejamentoAvaliacao/).
+
+### <a>Interpretação e Análise dos Dados</a>
+
+Com base na entrevista e na observação do usuário, pode-se concluir que o storyboard da tarefa de Criação de Ranking de Contest está em conformidade com a realidade e atende às necessidades dos alunos que utilizam o CD-MOJ.
+
+### <a>Lista dos Problemas Encontrados</a>
+
+Para ele, não foram ressaltados quaisquer problemas.
+
+### <a>Planejamento para o Reprojeto do Sistema</a>
+
+Nenhuma mudança foi requerida pelo participante; para ele, o storyboard está condizente.
+
+### <a>Gravação da Entrevista</a>
+
+<iframe width="560" height="315" <iframe width="1160" height="773" src="https://www.youtube.com/embed/_xSeL5Du_G0" title="Relato Storyboard - Ranking de Contest - Grupo 1 IHC" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## <a>Referências Bibliográficas</a>
 
@@ -233,3 +273,4 @@ Nenhuma mudança requerida pelo participante, para ele está condizente tanto a 
 | `1.0` | 31/05/2024 | 02/06/2024 | Criação do documento e relato da verificação de submissões| [João Artur](https://github.com/joao-artl)|[Eric Silveira](https://github.com/ericbky)|
 | `1.1` | 02/06/2024 | 03/06/2024 | Relato da Criação de Contest| [Douglas Marinho](https://github.com/M4RINH0)|[Eric Silveira](https://github.com/ericbky)|
 | `1.2` | 03/06/2024 | 03/06/2024 | Relato da Submissão de Problemas| [Eric Silveira](https://github.com/ericbky)|[Arthur Alves](https://github.com/Arthrok)|
+| `1.3` | 03/06/2024 | 03/06/2024 | Relato do Ranking de Contest | [Diego Sousa](https://github.com/DiegoSousaLeite)|[João Artur](https://github.com/joao-artl)|
