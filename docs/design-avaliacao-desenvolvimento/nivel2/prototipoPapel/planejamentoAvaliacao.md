@@ -119,7 +119,7 @@ Confira na Tabela 4, que apresenta o cronograma, como ficou definido o agendamen
 | Arthur Alves      | -| Tutorial de Resolução de Contest         | -   | -  | 05/06  | FGA   |
 | Diego Sousa  | - | Ranking de Contest   | -|-| 05/06 | FGA   |
 | Douglas Marinho  | -  | Criar Constest          | -   | -  | 05/06 | FGA   |
-| Eric Silveira   | -     |Submissão de Problemas        | -| -  | 05/06 | FGA   |
+| Eric Silveira   | William Bernardo     |Submissão de Problemas        | 13:00| 13:30  | 04/06 | FGA   |
 | João Artur| Júlio César   | Verificação de Submissões    | 16:00       | 16:30  | 05/06  | FGA |
 | Luiz Gustavo      | -   | Criação de Problema         | -    |- | 05/06  | FGA   |
 
@@ -226,3 +226,4 @@ O resultado que obtivemos sobre o teste-piloto está na gravação a seguir, con
 | `1.2` | 31/05/2024 | 01/05/2024 | Adicionando framework DECIDE| [João Artur](https://github.com/joao-artl)|[Diego Sousa](https://github.com/DiegoSousaLeite)|
 | `1.3` | 31/05/2024 | 01/05/2024 | Adicionando perguntas do questionário e criando cronograma de entrevistas| [João Artur](https://github.com/joao-artl)|[Luiz Gustavo](https://gith3ub.com/LuizGust4vo)|
 | `1.4` | 01/05/2024 | 01/05/2024 | Refazendo as questões do roteiro de perguntas| [Eric Silveira](https://github.com/ericbky)|[Arthur Alves](https://github.com/Arthrok)|
+| `1.5` | 03/05/2024 | 03/05/2024 | Adicionando o teste-piloto| [Eric Silveira](https://github.com/ericbky) e [Arthur Alves](https://github.com/Arthrok)|[João Artur](https://github.com/joao-artl)|
