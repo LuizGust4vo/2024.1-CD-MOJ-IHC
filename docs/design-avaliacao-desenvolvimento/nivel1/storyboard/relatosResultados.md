@@ -103,6 +103,80 @@ Não houve sugestão de mudança pois ficou bem explicativo a tarefa e de acordo
 <iframe width="560" height="315" src="https://www.youtube.com/embed/dEShJ1aPeG8?si=Y-0k6NzRgk1ICobF" title="Relato Criação de Contest Storyboard" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
+## <a>Tutorial de Resolução de Questões Pós-Contest</a>
+
+### <a>Objetivos e Escopo da Avaliação</a>
+A avaliação teve como objetivo validar se o storyboard de [Tuturoial de Resolução de Questões Pós-Contest](https://interacao-humano-computador.github.io/2024.1-CD-MOJ/design-avaliacao-desenvolvimento/nivel1/storyboard/storyboards/#tarefa-2-tutorial-de-resolucao-de-questoes-pos-contest) que é uma tarefa ainda não implementada no CD-MOJ, está de acordo com um fluxo padrão de atividades da plataforma, além de identificar áreas de melhoria para que esta funcionalidade, quando implementada, possa fornecer com êxito todas as expectativas do usuário em relação a funcionalidade.
+
+
+
+### <a>Método de Avaliação Empregado</a>
+O método de avaliação foi uma combinação de observação e entrevistas com o usuário, conforme o framework DECIDE<a id="anchor_2" href="#REF2">^2^</a>. Nela foi pedido que o usuário verificasse o fluxo apresentado pelo storyboard e após isso ele foi perguntado sobre algumas questões. A tabela 3 apresenta as informações sobre a entrevista:
+
+<font size="3"><p style="text-align: center"><b>Tabela 3</b> - Cronograma da Entrevista</p></font>
+
+| Entrevistador(es) | Entrevistado(s) | Horário | Duração  | Data    |    Local     |
+| :----------------: | :-------------: | :---------------: | :------------: | :--------: | :----------: |
+|  [Arthur Alves](https://github.com/arthrok)  |   Danilo    |  13:00 | 15 minutos | 29/05/2023 | FGA - Contâiner ITRAC |
+
+
+<font size="3"><p style="text-align: center"><b>Fonte:</b> [Arthur Alves](https://github.com/arthrok)</p></font>
+
+
+### <a>Número e Perfil dos Usuários e Avaliadores</a>
+A entrevista foi feita com um usuário. O participante se encaixa no [perfil de usuário](https://interacao-humano-computador.github.io/2024.1-CD-MOJ/analise-de-requisitos/perfildeUsuario/), ele é um usuário de 21 anos, cursando ensino superior em Engenharia de Software e usa frequentemente o CD-MOJ.
+
+### <a>Sumário dos Dados Coletados</a>
+Durante a entrevista foram coletados dados sobre, a interação do usuário com o sistema, feedbacks sobre o storyboard e as respostas das perguntas presentes no [planejamento da avaliação](https://interacao-humano-computador.github.io/2024.1-CD-MOJ/design-avaliacao-desenvolvimento/nivel1/storyboard/planejamentoAvaliacao/). Confira na tabela 4 os dados coletados durante a entrevista:
+
+
+<font size="3"><p style="text-align: center"><b>Tabela 4</b> - Respostas da entrevista</p></font>
+
+
+| Número | Pergunta                                                                                           | Resposta                                                                                                                                     | Objetivo                  |
+|--------|---------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------|---------------------------|
+| 1      | Os usuários representados nos storyboards refletem os verdadeiros usuários do sistema?             | Sim, muita gente se identifica.                                                                                                              | Verificar Apropriação     |
+| 2      | Existem discrepâncias entre a representação e os usuários reais?                                   | Não, acho que está bem parecido.                                                                                                             | Verificar Apropriação     |
+| 3      | O cenário apresentado nos storyboards é condizente com o ambiente real em que o sistema é utilizado?| Sim, caso parcialmente, porque é uma funcionalidade ainda não implementada.                                                                  | Verificar Apropriação     |
+| 4      | As tarefas realizadas pelos usuários nos storyboards condizem com as atividades que eles realmente executam?| Sim.                                                                                                                                          | Verificar Apropriação     |
+| 5      | Os storyboards atendem aos objetivos e necessidades dos usuários?                                  | Sim, acho que essa é uma ótima ideia, tipo colocar uma sessão de tutoriais do mesmo jeito que eu também acho que seria bom colocar um log simplificado para mostrar erros. | Verificar Apropriação     |
+| 6      | As informações no storyboard foram apresentadas de maneira clara e direta?                         | Sim.                                                                                                                                          | Verificar a Interação     |
+| 7      | Os processos e sequências de ações no storyboard estão detalhados o suficiente para serem facilmente compreendidos?| Sim.                                                                                                                                          | Verificar a Interação     |
+| 8      | Os elementos visuais e gráficos usados no storyboard ajudam na compreensão das informações apresentadas?| Sim.                                                                                                                                          | Verificar a Interação     |
+| 9      | Todas as informações apresentadas no storyboard são relevantes para a compreensão do cenário?      | Sim.                                                                                                                                          | Verificar a Interação     |
+| 10     | Existem partes do storyboard que causaram confusão ou foram interpretadas de maneira ambígua?      | Não, está bem claro.                                                                                                                          | Verificar a Interação     |
+| 11     | O entrevistado conseguiu relacionar as situações do storyboard com suas experiências anteriores ou conhecimento prévio?| Sim, geralmente a gente manda as questões e é geralmente a gente erra, e é bom ver uma referência de como melhorar o código.                | Verificar Entendimento    |
+| 12     | O entrevistado é capaz de prever os próximos passos ou consequências das ações apresentadas no storyboard?| Sim.                                                                                                                                          | Verificar Entendimento    |
+| 13     | O entrevistado consegue se identificar com os personagens ou usuários representados no storyboard?  | Sim.                                                                                                                                          | Verificar Entendimento    |
+| 14     | O storyboard foi persuasivo em transmitir a importância ou urgência das informações ou ações descritas?| Sim, acho que faz sentido e deveria ser implementado junto com a funcionalidade mencionada.                                                  | Avaliar Impacto Emocional |
+| 15     | Os entrevistados acharam que as situações apresentadas no storyboard têm relevância pessoal para eles?| Sim.                                                                                                                                          | Avaliar Impacto Emocional |
+| 16     | Houve elementos no storyboard que surpreenderam ou despertaram a curiosidade dos entrevistados?    | Sim, despertou curiosidade para ver como funcionaria no modo implementado.                                                                   | Avaliar Impacto Emocional |
+| 17     | Quais aspectos do storyboard o entrevistado sugere modificar para melhorar a compreensão?          | Acho que está bem claro, não tenho nenhum ponto de melhoria para acrescentar.                                                                | Obter Feedback            |
+
+<font size="3"><p style="text-align: center"><b>Fonte:</b> [Arthur Alves](https://github.com/arthrok)</p></font>
+
+
+### <a>Análise dos Dados Coletados</a>
+Com base nas respostas obtidas durante a entrevista, foi possível avaliar a eficácia do storyboard e identificar áreas de melhoria que são relevantes para a experiência do usuário.
+De maneira geral, a representação dos usuários no storyboard foi considerada autêntica e alinhada com os verdadeiros usuários do sistema, o que demonstra a eficácia em refletir as situações reais. Não foram identificadas discrepâncias significativas.
+
+As tarefas representadas nos storyboards estão de acordo com as atividades reais dos usuários, indicando que o storyboard é relevante e aplicável para orientação e treinamento. As informações foram apresentadas de maneira clara e direta, facilitando a compreensão dos usuários. Os processos e sequências de ações são detalhados o suficiente, e os elementos visuais e gráficos foram considerados eficazes em ajudar na compreensão das informações. Todas as informações foram vistas como relevantes para a compreensão do cenário, o que significa que o storyboard está bem focado e livre de informações desnecessárias.
+
+O storyboard foi persuasivo em transmitir a importância e urgência das informações, e as situações apresentadas foram consideradas relevantes para os usuários. A curiosidade despertada sobre a implementação das funcionalidades indica um bom engajamento do entrevistado.
+
+
+
+
+
+### <a>Sugestões de Melhoria</a>
+A usuário sugeriu algumas ideias para incluir no CD-MOJ, embora não faça parte do cenário proposto:
+
+- Inclusão de tutoriais e logs simplificados, o que pode aumentar a eficácia do sistema e proporcionar uma melhor experiência aos usuários.
+
+### <a>Gravação da Entrevista</a>
+<iframe width="853" height="480" src="https://www.youtube.com/embed/l9xzjNI1f_U" title="Entrevista Storyboard: Tutorial de Resolução de Questões Pós-Contest - Nível 1 - Grupo 01 (CD-MOJ)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
 ## <a>Referências Bibliográficas</a>
 
 > <a id="REF1" href="#anchor_1">1.</a> Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) *Interação Humano-Computador e Experiência do usuário.* Capítulo 11 Planejamento da Avaliação de IHC, tópico 11.7.5 Consolidação e Relato dos Resultados, página 279 . Autopublicação. ISBN: 978-65-00-19677-1.
