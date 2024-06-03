@@ -232,7 +232,7 @@ OO método de avaliação combinou observação e entrevistas com o usuário, se
 
 | Entrevistador(es) | Entrevistado(s) | Horário | Duração  | Data    |    Local     |
 | :----------------: | :-------------: | :---------------: | :------------: | :--------: | :----------: |
-|  [Diego Sousa](https://github.com/DiegoSousaLeite)  |   Marco   |  19:00 | 9 minutos | 03/06/2023 | Casa do entrevistado |
+|  [Diego Sousa](https://github.com/DiegoSousaLeite)  |   Marco   |  15:30 | 7 minutos | 03/06/2023 | Casa do entrevistado |
 
 <font size="3"><p style="text-align: center"><b>Fonte:</b> [Diego Sousa](https://github.com/DiegoSousaLeite)</p></font>
 
