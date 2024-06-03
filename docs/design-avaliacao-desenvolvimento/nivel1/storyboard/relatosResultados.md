@@ -114,4 +114,4 @@ Não houve sugestão de mudança pois ficou bem explicativo a tarefa e de acordo
 | Versão| Data | Data Prevista de Revisão| Descrição  | Autor(es)  | Revisor(es) |
 | ------- | ------ | ------ | ------- | -------- | -------- |
 | `1.0` | 31/05/2024 | 02/06/2024 | Criação do documento e relato da verificação de submissões| [João Artur](https://github.com/joao-artl)|[Eric Silveira](https://github.com/ericbky)|
-| `1.1` | 02/05/2024 | 03/06/2024 | Relato da Criação de Contest| [Douglas Marinho](https://github.com/M4RINH0)|[Eric Silveira](https://github.com/ericbky)|
+| `1.1` | 02/06/2024 | 03/06/2024 | Relato da Criação de Contest| [Douglas Marinho](https://github.com/M4RINH0)|[Eric Silveira](https://github.com/ericbky)|

@@ -107,4 +107,4 @@ O usuário relatou uma melhoria que segundo ele seriam fundamentais para o site:
 | ------- | ------ | ------ | ------- | -------- | -------- |
 | `1.0` | 31/05/2024 | 01/06/2024 | Criação do documento e relato da verificação de submissões| [João Artur](https://github.com/joao-artl)|[Diego Sousa](https://github.com/DiegoSousaLeite)|
 | `1.1` | 31/05/2024 | 01/06/2024 | Adicionando vídeo da entrevista| [João Artur](https://github.com/joao-artl)|[Diego Sousa](https://github.com/DiegoSousaLeite)|
-| `1.2` | 31/05/2024 | 01/06/2024 | Relato da criação de contest| [Douglas Marinho](https://github.com/M4RINH0)|[Diego Sousa](https://github.com/DiegoSousaLeite)|
+| `1.2` | 03/06/2024 | 03/06/2024 | Relato da criação de contest| [Douglas Marinho](https://github.com/M4RINH0)|[Diego Sousa](https://github.com/DiegoSousaLeite)|
