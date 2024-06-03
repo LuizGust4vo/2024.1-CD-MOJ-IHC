@@ -111,6 +111,37 @@ O método de avaliação foi uma combinação de observação e entrevistas com 
 
 <font size="3"><p style="text-align: center"><b>Fonte:</b> [Arthur Alves](https://github.com/arthrok)</p></font>
 
+Veja nas figuras a seguir, as telas feitas para que o usuário testasse a funcionalidade proposta para o CD-MOJ. É possível testar o protótipo de forma interativa e navegável clicando no link [https://www.figma.com/proto/FuZ6K2PYn8CPTjrz47tF8U/CD-MOJ---Tutorial?node-id=2-58&viewport=542%2C227%2C0.25&t=kRQfryIIJMoHiqJE-1&scaling=min-zoom&page-id=0%3A1&starting-point-node-id=2%3A58](https://www.figma.com/proto/FuZ6K2PYn8CPTjrz47tF8U/CD-MOJ---Tutorial?node-id=2-58&viewport=542%2C227%2C0.25&t=kRQfryIIJMoHiqJE-1&scaling=min-zoom&page-id=0%3A1&starting-point-node-id=2%3A58)
+
+A figura 1 representa a tela inicial do contest, nela foi adicionado um botão "Tutorial" para que o usuário possa usar como referência para obter ajuda por meio do tutorial no contest.
+
+<font size="3"><p style="text-align: center"><b>Figura 1</b> - Tela inicial do contest.</p></font>
+<center>
+    <figure markdown>
+    ![Meta de usabilidade Eficiência](../assets/figma1.png){width: 300}
+    </figure>
+</center>
+<font size="3"><p style="text-align: center"><b>Fonte:</b> [Arthur Alves](https://github.com/arthrok)</p></font>
+
+Na figura 2 é possível que o usuário selecione um problema específico do contest para que ele possa conferir a solução.
+
+<font size="3"><p style="text-align: center"><b>Figura 2</b> - Selecionar problema para ver tutorial.</p></font>
+<center>
+    <figure markdown>
+    ![Meta de usabilidade Eficiência](../assets/figma2.png){width: 300}
+    </figure>
+</center>
+<font size="3"><p style="text-align: center"><b>Fonte:</b> [Arthur Alves](https://github.com/arthrok)</p></font>
+
+Na figura 3, o usuário consegue ver a solução para o problema do contest.
+
+<font size="3"><p style="text-align: center"><b>Figura 3</b> - Apresentação da solução.</p></font>
+<center>
+    <figure markdown>
+    ![Meta de usabilidade Eficiência](../assets/figma3.png){width: 300}
+    </figure>
+</center>
+<font size="3"><p style="text-align: center"><b>Fonte:</b> [Arthur Alves](https://github.com/arthrok)</p></font>
 
 ### <a>Número e Perfil dos Usuários e Avaliadores</a>
 A entrevista foi feita com um usuário. A participante se encaixa no [perfil de usuário](https://interacao-humano-computador.github.io/2024.1-CD-MOJ/analise-de-requisitos/perfildeUsuario/), ela é uma usuário de 21 anos, cursando ensino superior em Engenharia de Software e usa frequentemente o CD-MOJ.
@@ -118,7 +149,9 @@ A entrevista foi feita com um usuário. A participante se encaixa no [perfil de 
 ### <a>Sumário dos Dados Coletados</a>
 Durante a entrevista foram coletados dados sobre, a interação do usuário com o sistema realizada atráves da execução da tarefa, feedbacks sobre o [diagrama HTA](https://interacao-humano-computador.github.io/2024.1-CD-MOJ/analise-de-requisitos/analise-de-tarefas/analiseHierarquicaTarefa/#2-tutorial-de-resolucao-de-questoes-pos-contest) e as respostas das perguntas presentes no [planejamento da avaliação](https://interacao-humano-computador.github.io/2024.1-CD-MOJ/design-avaliacao-desenvolvimento/nivel1/analiseTarefas/planejamentoAvaliacao/).
 
-### <a>Análise dos Dados Coletados
+
+### <a>Análise dos Dados Coletados</a>
+A usuária relatou que todas as informações apresentadas na tarefa são relevantes. Ela não encontrou partes da tarefa que causaram confusão ou foram interpretadas de maneira errada. Além disso, ela conseguiu relacionar as situações da tarefa com suas experiências anteriores, indicando que a tarefa transmite efetivamente a urgência e importância das informações ou ações descritas.
 
 
 ### <a>Sugestões de Melhoria</a>
@@ -128,7 +161,9 @@ A usuária relatou dois pontos de melhoria que seriam fundamentais para uma melh
 
 ### <a>Gravação da Entrevista</a>
 
-<center><iframe width="853" height="480" src="https://www.youtube.com/embed/2LhQcF9Vx9Q" title="Entrevista HTA: Tutorial de Resolução de Questões Pós-Contest - Nível 1 - Grupo 01 (CD-MOJ)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></center>
+<iframe width="853" height="480" src="https://www.youtube.com/embed/2LhQcF9Vx9Q" title="Entrevista HTA: Tutorial de Resolução de Questões Pós-Contest - Nível 1 - Grupo 01 (CD-MOJ)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
 
 
 ## <a>Submissão de Problemas</a>
