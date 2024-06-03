@@ -177,6 +177,49 @@ A usuário sugeriu algumas ideias para incluir no CD-MOJ, embora não faça part
 <iframe width="853" height="480" src="https://www.youtube.com/embed/l9xzjNI1f_U" title="Entrevista Storyboard: Tutorial de Resolução de Questões Pós-Contest - Nível 1 - Grupo 01 (CD-MOJ)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
+## <a>Relato - Submissão de Problemas</a>
+
+### <a>Objetivos e Escopo da Avaliação</a>
+
+A avaliação teve como objetivo validar se o [storyboard de Submissão de Problemas](https://interacao-humano-computador.github.io/2024.1-CD-MOJ/design-avaliacao-desenvolvimento/nivel1/storyboard/storyboards/#tarefa-1-submissao-de-problemas) está de acordo com o fluxo de atividades do CD-MOJ e identificar áreas de melhoria para fornecer um suporte mais eficaz aos usuários.
+
+### <a>Método de Avaliação Empregado</a>
+O método de avaliação foi uma combinação de observação e entrevistas com o usuário, conforme o framework DECIDE<a id="anchor_2" href="#REF2">^2^</a>. Nela foi pedido que o usuário verificasse o fluxo apresentado pelo storyboard e após isso ele foi questionado sobre algumas questões. A tabela 5 apresenta as informações sobre a entrevista:
+
+<font size="3"><p style="text-align: center"><b>Tabela 5</b> - Cronograma da Entrevista - Submissão de Problemas</p></font>
+
+| Entrevistador(es) | Entrevistado(s) | Horário | Duração  | Data    |    Local     |
+| :----------------: | :-------------: | :---------------: | :------------: | :--------: | :----------: |
+|  [Eric Silveira](https://github.com/ericbky)  |   William Bernardo    |  10:20 | 15 minutos | 03/05/2023 | Laboratório do Itrac |
+
+<font size="3"><p style="text-align: center"><b>Fonte:</b> [Eric Silveira](https://github.com/ericbky)</p></font>
+
+### <a>Número e Perfil dos Usuários e Avaliadores</a>
+
+O participante se encaixa no [perfil de usuário](https://interacao-humano-computador.github.io/2024.1-CD-MOJ/analise-de-requisitos/perfildeUsuario/), ele é um usuário de entre de 21 anos, estudante de ensino superior e usuário frequente do CD-MOJ.
+
+### <a>Sumário dos Dados Coletados</a>
+
+Durante a entrevista foram coletados dados sobre, a interação do usuário com o sistema, feedbacks sobre o storyboard e as respostas das perguntas presentes no [planejamento da avaliação](https://interacao-humano-computador.github.io/2024.1-CD-MOJ/design-avaliacao-desenvolvimento/nivel1/storyboard/planejamentoAvaliacao/).
+
+### <a>Interpretação e Análise dos Dados</a>
+
+A partir da entrevista realizada e da observação do usuário, pode-se concluir que o Storyboard da tarefa de Submissão de Problemas está em conformidade com a realidade e atende às necessidades dos usuários do CD-MOJ. Ele só realça a questão da poluição da tela caso tenha muitas questões.
+
+### <a>Lista dos Problemas Encontrados</a>
+Para ele não ressaltou nenhum problema além da poluição de informações na tela.
+
+### <a>Planejamento para o Reprojeto do Sistema</a>
+
+Nenhuma mudança requerida pelo participante, para ele está condizente tanto a parte textual quanto o storyboard em si.
+
+</center>
+
+### <a>Gravação da Entevista</a>
+
+<center><iframe width="853" height="480" src="https://www.youtube.com/embed/jyLzI_2XEDs?si=Bmwc5w8nww4PzBhy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> </center>
+
+
 ## <a>Referências Bibliográficas</a>
 
 > <a id="REF1" href="#anchor_1">1.</a> Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) *Interação Humano-Computador e Experiência do usuário.* Capítulo 11 Planejamento da Avaliação de IHC, tópico 11.7.5 Consolidação e Relato dos Resultados, página 279 . Autopublicação. ISBN: 978-65-00-19677-1.

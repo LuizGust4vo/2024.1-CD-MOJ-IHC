@@ -176,7 +176,7 @@ A avaliação teve como objetivo validar a tarefa de <a href="https://interacao-
 ### <a>Método de Avaliação Empregado</a>
 O método de avaliação foi uma combinação de observação e entrevistas com o usuário, conforme o framework DECIDE<a id="anchor_2" href="#REF2">^2^</a>. Primeiro foi verificado se o entrevistado correspondia ao perfil dos usuários da plataforma do CD-MOJ, para uma melhor expericência e domínio sobre o sistema. Após essa verificação, houve a apresentação do diagrama e a verificação se o diagrama e sua descrição estão de acordo com a expectativa do usuário e fiel ao já implementado, verificando item por item se o usuário estava de acordo com aquela especificação. Na Tabela 4 apresenta as informações sobre a entrevista:
 
-<font size="3"><p style="text-align: center"><b>Tabela 4</b> - Cronograma da Entrevista</p></font>
+<font size="3"><p style="text-align: center"><b>Tabela 4</b> - Cronograma da Entrevista - Submissão de Problemas</p></font>
 
 | Entrevistador(es) | Entrevistado(s) | Horário | Duração  | Data    |    Local     |
 | :----------------: | :-------------: | :---------------: | :------------: | :--------: | :----------: |
