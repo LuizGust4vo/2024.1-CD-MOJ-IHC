@@ -47,7 +47,7 @@ O usuário relatou duas melhorias que segundo ele seriam fundamentais para o sit
 
 ### <a>Gravação da Entevista</a>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/WKScpNRTWAo?si=8d1ZoV2LW9JVQZ1i" title="Relato - Verificação de Submissão" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<center><iframe width="853" height="480" src="https://www.youtube.com/embed/WKScpNRTWAo?si=8d1ZoV2LW9JVQZ1i" title="Relato - Verificação de Submissão" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></center>
 
 ## <a>Relato - Criação de Contest</a>
 
@@ -91,7 +91,7 @@ O usuário relatou uma melhoria que segundo ele seriam fundamentais para o site:
 
 ### <a>Gravação da Entevista</a>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BFRRn7AmvJY?si=sJdTlhDjJU2MaFIj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<center><iframe width="853" height="480" src="https://www.youtube.com/embed/BFRRn7AmvJY?si=sJdTlhDjJU2MaFIj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></center>
 
 
 ## <a>Tutorial de Resolução de Questões Pós-Contest</a>
@@ -128,8 +128,41 @@ A usuária relatou dois pontos de melhoria que seriam fundamentais para uma melh
 
 ### <a>Gravação da Entrevista</a>
 
-<iframe width="853" height="480" src="https://www.youtube.com/embed/2LhQcF9Vx9Q" title="Entrevista HTA: Tutorial de Resolução de Questões Pós-Contest - Nível 1 - Grupo 01 (CD-MOJ)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<center><iframe width="853" height="480" src="https://www.youtube.com/embed/2LhQcF9Vx9Q" title="Entrevista HTA: Tutorial de Resolução de Questões Pós-Contest - Nível 1 - Grupo 01 (CD-MOJ)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></center>
 
+
+## <a>Submissão de Problemas</a>
+
+### <a>Objetivos e Escopo da Avaliação</a>
+A avaliação teve como objetivo validar a tarefa de <a href="https://interacao-humano-computador.github.io/2024.1-CD-MOJ/analise-de-requisitos/analise-de-tarefas/analiseHierarquicaTarefa/#1-submissao-de-problema">Submissão de Problemas</a>, uma tarefa já implementada no CD-MOJ, na qual foi verificado se o fluxo padrão de atividades da plataforma está de acordo com o diagrama e com a descrição da tarefa, além de identificar áreas de melhoria para que essa funcionalidade, possa corresponder com êxito a todas as expectativas do usuário.
+
+### <a>Método de Avaliação Empregado</a>
+O método de avaliação foi uma combinação de observação e entrevistas com o usuário, conforme o framework DECIDE<a id="anchor_2" href="#REF2">^2^</a>. Primeiro foi verificado se o entrevistado correspondia ao perfil dos usuários da plataforma do CD-MOJ, para uma melhor expericência e domínio sobre o sistema. Após essa verificação, houve a apresentação do diagrama e a verificação se o diagrama e sua descrição estão de acordo com a expectativa do usuário e fiel ao já implementado, verificando item por item se o usuário estava de acordo com aquela especificação. Na Tabela 4 apresenta as informações sobre a entrevista:
+
+<font size="3"><p style="text-align: center"><b>Tabela 4</b> - Cronograma da Entrevista</p></font>
+
+| Entrevistador(es) | Entrevistado(s) | Horário | Duração  | Data    |    Local     |
+| :----------------: | :-------------: | :---------------: | :------------: | :--------: | :----------: |
+|  [Eric Silveira](https://github.com/ericbky)  |   William Bernardo    |  10:20 | 15 minutos | 03/06/2023 | Laboratório ITRAC |
+
+
+<font size="3"><p style="text-align: center"><b>Fonte:</b> [Eric Silveira](https://github.com/ericbky)</p></font>
+
+
+### <a>Número e Perfil dos Usuários e Avaliadores</a>
+A entrevista foi feita com um usuário. O participante se encaixa no [perfil de usuário](https://interacao-humano-computador.github.io/2024.1-CD-MOJ/analise-de-requisitos/perfildeUsuario/), ele é uma usuário de 21 anos, cursando ensino superior em Engenharia de Software e usa frequentemente o CD-MOJ.
+
+### <a>Sumário dos Dados Coletados</a>
+Durante a entrevista foram coletados dados sobre, a interação do usuário com o sistema realizada atráves da execução da tarefa, feedbacks sobre o [diagrama HTA](https://interacao-humano-computador.github.io/2024.1-CD-MOJ/analise-de-requisitos/analise-de-tarefas/analiseHierarquicaTarefa/#2-tutorial-de-resolucao-de-questoes-pos-contest) e as respostas das perguntas presentes no [planejamento da avaliação](https://interacao-humano-computador.github.io/2024.1-CD-MOJ/design-avaliacao-desenvolvimento/nivel1/analiseTarefas/planejamentoAvaliacao/).
+
+### <a>Análise dos Dados Coletados
+
+### <a>Sugestões de Melhoria</a>
+O usuário afirmou que o CD-MOJ tem muito a melhorar sobre diversos aspectos, porém afirmou que essa análise de tarefas está bem descrita e que para o seu propósito, é uma solução e tarefa eficiente. 
+
+### <a>Gravação da Entrevista</a>
+<center>
+<iframe width="853" height="480" src="https://www.youtube.com/embed/njQon_StAZg?si=-20kIX8IhuI-mZNS" title="Análise HTA - Eric Silveira" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></center>
 
 
 ## <a>Referências Bibliográficas</a>
