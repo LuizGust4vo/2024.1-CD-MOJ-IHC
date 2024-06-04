@@ -260,6 +260,47 @@ Nenhuma mudança foi requerida pelo participante; para ele, o storyboard está c
 
 <iframe width="560" height="315" <iframe width="1160" height="773" src="https://www.youtube.com/embed/_xSeL5Du_G0" title="Relato Storyboard - Ranking de Contest - Grupo 1 IHC" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+
+## <a>Relato - Criação de Problema</a>
+
+### <a>Objetivos e Escopo da Avaliação</a>
+
+A avaliação teve como objetivo validar se o [storyboard de Criação de Problema](https://interacao-humano-computador.github.io/2024.1-CD-MOJ/design-avaliacao-desenvolvimento/nivel1/storyboard/storyboards/#tarefa-5-criacao-de-problema-administrador) está de acordo com o fluxo de atividades do CD-MOJ e identificar áreas de melhoria para fornecer um suporte mais eficaz aos usuários.
+
+### <a>Método de Avaliação Empregado</a>
+O método de avaliação foi uma combinação de observação e entrevistas com o usuário, conforme o framework DECIDE<a id="anchor_2" href="#REF2">^2^</a>. Nela foi pedido que o usuário verificasse o fluxo apresentado pelo storyboard e após isso ele foi questionado sobre algumas questões. A tabela 6 apresenta as informações sobre a entrevista:
+
+<font size="3"><p style="text-align: center"><b>Tabela 6</b> - Cronograma da Entrevista - Criação de Problema</p></font>
+
+| Entrevistador(es) | Entrevistado(s) | Horário | Duração | Data | Local |
+| :----------------: | :-------------: | :---------------: | :------------: | :--------: | :----------: |
+| [Luiz](https://gith3ub.com/LuizGust4vo) | Pedro Lucas | 23:00 | 15 minutos | 03/06/2023 | Casa do entrevistador e entrevistado |
+
+<font size="3"><p style="text-align: center"><b>Fonte:</b> [Luiz Gustavo](https://gith3ub.com/LuizGust4vo)</p></font>
+
+### <a>Número e Perfil dos Usuários e Avaliadores</a>
+
+O participante se encaixa no [perfil de usuário](https://interacao-humano-computador.github.io/2024.1-CD-MOJ/analise-de-requisitos/perfildeUsuario/), ele é um usuário de 22 anos, estudante de ensino superior (Engenharia de Software) e usuário frequente do CD-MOJ.
+
+### <a>Sumário dos Dados Coletados</a>
+
+Durante a entrevista foram coletados dados sobre, , feedbacks sobre o storyboard e as respostas das perguntas presentes no [planejamento da avaliação](https://interacao-humano-computador.github.io/2024.1-CD-MOJ/design-avaliacao-desenvolvimento/nivel1/storyboard/planejamentoAvaliacao/).
+
+### <a>Interpretação e Análise dos Dados</a>
+
+
+### <a>Lista dos Problemas Encontrados</a>
+
+
+### <a>Planejamento para o Reprojeto do Sistema</a>
+
+
+</center>
+
+### <a>Gravação da Entevista</a>
+
+<center><iframe width="853" height="480" src="" title="Relato Storyboard - Criação de Problema - Grupo 1 IHC" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> </center>
+
 ## <a>Referências Bibliográficas</a>
 
 > <a id="REF1" href="#anchor_1">1.</a> Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) *Interação Humano-Computador e Experiência do usuário.* Capítulo 11 Planejamento da Avaliação de IHC, tópico 11.7.5 Consolidação e Relato dos Resultados, página 279 . Autopublicação. ISBN: 978-65-00-19677-1.
@@ -268,7 +309,7 @@ Nenhuma mudança foi requerida pelo participante; para ele, o storyboard está c
 
 ## <a>Histórico de Versão</a>
 
-| Versão| Data | Data Prevista de Revisão| Descrição  | Autor(es)  | Revisor(es) |
+| Versão | Data | Data Prevista de Revisão | Descrição  | Autor(es)  | Revisor(es) |
 | ------- | ------ | ------ | ------- | -------- | -------- |
 | `1.0` | 31/05/2024 | 02/06/2024 | Criação do documento e relato da verificação de submissões| [João Artur](https://github.com/joao-artl)|[Eric Silveira](https://github.com/ericbky)|
 | `1.1` | 02/06/2024 | 03/06/2024 | Relato da Criação de Contest| [Douglas Marinho](https://github.com/M4RINH0)|[Eric Silveira](https://github.com/ericbky)|
@@ -276,5 +317,6 @@ Nenhuma mudança foi requerida pelo participante; para ele, o storyboard está c
 | `1.2` | 03/06/2024 | 03/06/2024 | Relato da Submissão de Problemas| [Eric Silveira](https://github.com/ericbky)|[Arthur Alves](https://github.com/Arthrok)|
 | `1.3` | 03/06/2024 | 03/06/2024 | Relato do Ranking de Contest | [Diego Sousa](https://github.com/DiegoSousaLeite)|[João Artur](https://github.com/joao-artl)|
 =======
-| `1.2` | 03/06/2024 | 03/06/2024 | Relato da Submissão de Problemas| [Eric Silveira](https://github.com/ericbky)|[Arthur](https://github.com/Arthrok)|
+| `1.4` | 03/06/2024 | 03/06/2024 | Relato da Submissão de Problemas| [Eric Silveira](https://github.com/ericbky)|[Arthur](https://github.com/Arthrok)|
 >>>>>>> 20ff7dd (vídeo joão)
+| `1.5` | 04/06/2024 | 04/06/2024 | Relato da Criação de Problema | [Luiz Gustavo](https://gith3ub.com/LuizGust4vo) | [Eric Silveira](https://github.com/ericbky) |
