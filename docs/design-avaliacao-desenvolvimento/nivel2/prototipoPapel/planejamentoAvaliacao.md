@@ -173,7 +173,7 @@ De acordo com nosso planejamento, o teste-piloto será executado conforme as esp
 
 | Entrevistador | Entrevistado | Protótipo Analisado | Horário de Início | Horário de Fim | Data       | Local |
 |-------------------|-----------------|----------------------|-------------------|----------------|------------|-------|
-| [Eric Silveira](https://github.com/ericbky)      | [Diego Sousa](https://github.com/DiegoSousaLeite)    | Verificação de Submissão  | 20:00         | 20:10      | 28/05  | Microsoft Teams   |
+| [Eric Silveira](https://github.com/ericbky)      | [Arthur Alves](https://github.com/Arthrok)    | Verificação de Submissão  | 20:00         | 20:10      | 28/05  | Microsoft Teams   |
 
 <font size="3"><p style="text-align: center"><b>Fonte:</b> [João Artur](https://github.com/joao-artl).</p></font>
 
