@@ -226,9 +226,9 @@ Nenhuma mudança requerida pelo participante, para ele está condizente tanto a 
 A avaliação teve como objetivo validar se o [storyboard de Criação de Ranking de Contest](https://interacao-humano-computador.github.io/2024.1-CD-MOJ/design-avaliacao-desenvolvimento/nivel1/storyboard/storyboards/#tarefa-4-ranking-de-contest) está alinhado com o fluxo de tarefas do CD-MOJ e identificar áreas de melhoria para fornecer um suporte mais eficaz aos usuários.
 
 ### <a>Método de Avaliação Empregado</a>
-OO método de avaliação combinou observação e entrevistas com o usuário, seguindo o framework DECIDE<a id="anchor_2" href="#REF2">^2^</a>. Solicitou-se ao usuário que verificasse o fluxo apresentado pelo storyboard e, em seguida, foi feita uma série de perguntas. A Tabela 2 apresenta as informações sobre a entrevista:
+OO método de avaliação combinou observação e entrevistas com o usuário, seguindo o framework DECIDE<a id="anchor_2" href="#REF2">^2^</a>. Solicitou-se ao usuário que verificasse o fluxo apresentado pelo storyboard e, em seguida, foi feita uma série de perguntas. A Tabela 6 apresenta as informações sobre a entrevista:
 
-<font size="3"><p style="text-align: center"><b>Tabela 2</b> - Cronograma da Entrevista</p></font>
+<font size="3"><p style="text-align: center"><b>Tabela 6</b> - Cronograma da Entrevista</p></font>
 
 | Entrevistador(es) | Entrevistado(s) | Horário | Duração  | Data    |    Local     |
 | :----------------: | :-------------: | :---------------: | :------------: | :--------: | :----------: |
