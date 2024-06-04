@@ -56,7 +56,7 @@ As mudanças sugeridas pelo usuário serão adicionadas ao storyboard, a altera�
 ### <a>Gravação da Entevista</a>
 
 
-Coloca o video ai arthur
+<center><iframe width="853" height="480" src="https://www.youtube.com/embed/xeOTy8jUfmA?si=fpyTfEsLIlOfiFge" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></center>
 
 
 ## <a>Relato - Criação de Contest</a>
@@ -272,5 +272,9 @@ Nenhuma mudança foi requerida pelo participante; para ele, o storyboard está c
 | ------- | ------ | ------ | ------- | -------- | -------- |
 | `1.0` | 31/05/2024 | 02/06/2024 | Criação do documento e relato da verificação de submissões| [João Artur](https://github.com/joao-artl)|[Eric Silveira](https://github.com/ericbky)|
 | `1.1` | 02/06/2024 | 03/06/2024 | Relato da Criação de Contest| [Douglas Marinho](https://github.com/M4RINH0)|[Eric Silveira](https://github.com/ericbky)|
+<<<<<<< HEAD
 | `1.2` | 03/06/2024 | 03/06/2024 | Relato da Submissão de Problemas| [Eric Silveira](https://github.com/ericbky)|[Arthur Alves](https://github.com/Arthrok)|
 | `1.3` | 03/06/2024 | 03/06/2024 | Relato do Ranking de Contest | [Diego Sousa](https://github.com/DiegoSousaLeite)|[João Artur](https://github.com/joao-artl)|
+=======
+| `1.2` | 03/06/2024 | 03/06/2024 | Relato da Submissão de Problemas| [Eric Silveira](https://github.com/ericbky)|[Arthur](https://github.com/Arthrok)|
+>>>>>>> 20ff7dd (vídeo joão)
