@@ -178,39 +178,39 @@ Na Tabela 8, está explicitado o cronograma executado das atividades da quarta e
 
 ## <a>Etapa 5 - Relato dos Resultados do StoryBoard e da Análise de Tarefas</a>
 
-### <a>Cronograma Planejado</a>
+=== "Cronograma Planejado"
 
-Na Tabela 9, tem-se o cronograma planejado para todas as atividades da quinta entrega.
+    Na Tabela 9, tem-se o cronograma planejado para todas as atividades da quinta entrega.
 
-<font size="3"><p style="text-align: center"><b>Tabela 9</b> - Relato dos Resultados do StoryBoard e da Análise de Tarefas</p></font>
+    <font size="3"><p style="text-align: center"><b>Tabela 9</b> - Relato dos Resultados do StoryBoard e da Análise de Tarefas</p></font>
 
-| Atividade | Período de desenvolvimento | Responsável | Revisão | Revisores | Data da Entrega |
-| --------- | -----------| ------------ | ------- | ------- | ------- |
-|Relato dos resultados do StoryBoard e da Análise de Tarefas|Início dia 24/05 e Fim dia 28/05|Arthur Alves e Eric Silveira|Início dia 24/05 e Fim dia 03/06|João Artur e Luiz Gustavo|04/06|
-|Planejamento da Avaliação do Protótipo de Papel|Início dia 24/05 e Fim dia 27/05|João Artur e Luiz Gustavo|Início dia 24/05 e Fim dia 27/05|Arthur Alves e Eric Silveira|04/06|
-|Planejamento do Relato dos Resultados da Avaliação do Protótipo de Papel|Início dia 27/05 e Fim dia 01/06|Diego Sousa e Douglas Marinho|Início dia 27/05 e Fim dia 01/06|João Artur e Luiz Gustavo|04/06|
-|Iteração do Git Pages|Início dia 02/06 e Fim dia 02/06 |Arthur Alves, Diego Sousa, Douglas Marinho, Eric Silveira, João Artur, Luiz Gustavo|Início dia 02/06 e Fim dia 02/06|Arthur Alves, Diego Sousa, Douglas Marinho, Eric Silveira, João Artur, Luiz Gustavo|04/06|
-|Período de Gravação da Apresentação|Início dia 02/06 e Fim dia 03/06|Douglas Marinho|Início dia 02/06 e Fim dia 03/06|Eric Silveira|03/06|
-|Correção Pós Apresentação|Início dia 04/06 e Fim dia 05/06|Arthur Alves, Diego Sousa, Douglas Marinho, Eric Silveira, João Artur, Luiz Gustavo|Início dia 04/06 e Fim dia 05/06|Arthur Alves, Diego Sousa, Douglas Marinho, Eric Silveira, João Artur, Luiz Gustavo|Não há entrega|
+    | Atividade | Período de desenvolvimento | Responsável | Revisão | Revisores | Data da Entrega |
+    | --------- | -----------| ------------ | ------- | ------- | ------- |
+    |Relato dos resultados do StoryBoard e da Análise de Tarefas|Início dia 24/05 e Fim dia 28/05|Arthur Alves e Eric Silveira|Início dia 24/05 e Fim dia 03/06|João Artur e Luiz Gustavo|04/06|
+    |Planejamento da Avaliação do Protótipo de Papel|Início dia 24/05 e Fim dia 27/05|João Artur e Luiz Gustavo|Início dia 24/05 e Fim dia 27/05|Arthur Alves e Eric Silveira|04/06|
+    |Planejamento do Relato dos Resultados da Avaliação do Protótipo de Papel|Início dia 27/05 e Fim dia 01/06|Diego Sousa e Douglas Marinho|Início dia 27/05 e Fim dia 01/06|João Artur e Luiz Gustavo|04/06|
+    |Iteração do Git Pages|Início dia 02/06 e Fim dia 02/06 |Arthur Alves, Diego Sousa, Douglas Marinho, Eric Silveira, João Artur, Luiz Gustavo|Início dia 02/06 e Fim dia 02/06|Arthur Alves, Diego Sousa, Douglas Marinho, Eric Silveira, João Artur, Luiz Gustavo|04/06|
+    |Período de Gravação da Apresentação|Início dia 02/06 e Fim dia 03/06|Douglas Marinho|Início dia 02/06 e Fim dia 03/06|Eric Silveira|03/06|
+    |Correção Pós Apresentação|Início dia 04/06 e Fim dia 05/06|Arthur Alves, Diego Sousa, Douglas Marinho, Eric Silveira, João Artur, Luiz Gustavo|Início dia 04/06 e Fim dia 05/06|Arthur Alves, Diego Sousa, Douglas Marinho, Eric Silveira, João Artur, Luiz Gustavo|Não há entrega|
 
-<font size="3"><p style="text-align: center">Fonte: Autores.</p></font>
+    <font size="3"><p style="text-align: center">Fonte: Autores.</p></font>
 
-### <a>Cronograma Executado</a>
+=== "Cronograma Executado"
 
-Na Tabela 10, tem-se o cronograma executado para todas as atividades da quinta entrega.
+    Na Tabela 10, tem-se o cronograma executado para todas as atividades da quinta entrega.
 
-<font size="3"><p style="text-align: center"><b>Tabela 10</b> - Execução do Relato dos Resultados do StoryBoard e da Análise de Tarefas</p></font>
+    <font size="3"><p style="text-align: center"><b>Tabela 10</b> - Execução do Relato dos Resultados do StoryBoard e da Análise de Tarefas</p></font>
 
-| Atividade | Período de desenvolvimento | Responsável | Revisão | Revisores | Data da Entrega |
-| --------- | -----------| ------------ | ------- | ------- | ------- |
-|Relato dos Resultados do StoryBoard e da Análise de Tarefas|Início dia 24/05 e Fim dia 29/05|Arthur Alves e Eric Silveira|Início dia 29/05 e Fim dia 03/06|João Artur e Luiz Gustavo|04/06|
-|Planejamento da Avaliação do Protótipo de Papel|Início dia 24/05 e Fim dia 28/05|João Artur e Luiz Gustavo|Início dia 28/05 e Fim dia 29/05|Arthur Alves e Eric Silveira|04/06|
-|Planejamento do Relato dos Resultados da Avaliação do Protótipo de Papel|Início dia 27/05 e Fim dia 30/05|Diego Sousa e Douglas Marinho|Início dia 30/05 e Fim dia 01/06|João Artur e Luiz Gustavo|04/06|
-|Iteração do Git Pages|Início dia 02/06 e Fim dia 03/06|Arthur Alves, Diego Sousa, Douglas Marinho, Eric Silveira, João Artur, Luiz Gustavo|Início dia 03/06 e Fim dia 03/06|Arthur Alves, Diego Sousa, Douglas Marinho, Eric Silveira, João Artur, Luiz Gustavo|04/06|
-|Período de Gravação da Apresentação|Início dia 02/06 e Fim dia 03/06|Douglas Marinho|Início dia 02/06 e Fim dia 03/06|Eric Silveira|03/06|
-|Correção Pós Apresentação|Início dia 04/06 e Fim dia 05/06|Arthur Alves, Diego Sousa, Douglas Marinho, Eric Silveira, João Artur, Luiz Gustavo|Início dia 04/06 e Fim dia 05/06|Arthur Alves, Diego Sousa, Douglas Marinho, Eric Silveira, João Artur, Luiz Gustavo|Não há entrega|
+    | Atividade | Período de desenvolvimento | Responsável | Revisão | Revisores | Data da Entrega |
+    | --------- | -----------| ------------ | ------- | ------- | ------- |
+    |Relato dos Resultados do StoryBoard e da Análise de Tarefas|Início dia 24/05 e Fim dia 29/05|Arthur Alves e Eric Silveira|Início dia 29/05 e Fim dia 03/06|João Artur e Luiz Gustavo|04/06|
+    |Planejamento da Avaliação do Protótipo de Papel|Início dia 24/05 e Fim dia 28/05|João Artur e Luiz Gustavo|Início dia 28/05 e Fim dia 29/05|Arthur Alves e Eric Silveira|04/06|
+    |Planejamento do Relato dos Resultados da Avaliação do Protótipo de Papel|Início dia 27/05 e Fim dia 30/05|Diego Sousa e Douglas Marinho|Início dia 30/05 e Fim dia 01/06|João Artur e Luiz Gustavo|04/06|
+    |Iteração do Git Pages|Início dia 02/06 e Fim dia 03/06|Arthur Alves, Diego Sousa, Douglas Marinho, Eric Silveira, João Artur, Luiz Gustavo|Início dia 03/06 e Fim dia 03/06|Arthur Alves, Diego Sousa, Douglas Marinho, Eric Silveira, João Artur, Luiz Gustavo|04/06|
+    |Período de Gravação da Apresentação|Início dia 02/06 e Fim dia 03/06|Douglas Marinho|Início dia 02/06 e Fim dia 03/06|Eric Silveira|03/06|
+    |Correção Pós Apresentação|Início dia 04/06 e Fim dia 05/06|Arthur Alves, Diego Sousa, Douglas Marinho, Eric Silveira, João Artur, Luiz Gustavo|Início dia 04/06 e Fim dia 05/06|Arthur Alves, Diego Sousa, Douglas Marinho, Eric Silveira, João Artur, Luiz Gustavo|Não há entrega|
 
-<font size="3"><p style="text-align: center">Fonte: Autores.</p></font>
+    <font size="3"><p style="text-align: center">Fonte: Autores.</p></font>
 
 <!-- ### Executado
 
