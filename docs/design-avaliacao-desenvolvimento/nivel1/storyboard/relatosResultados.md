@@ -306,7 +306,9 @@ Para o entrevistado, dá para entender o objetivo e o fluxo do storyboard e da i
 
 ### <a>Gravação da Entevista</a>
 
+<center>
 <iframe width="853" height="480" src="https://www.youtube.com/embed/1hBg0JAQ6vs?si=hDoUoN4sMzEKhjyh" title="Relato Storyboard - Criação de Problema - Grupo 1 IHC" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</center>
 
 ## <a>Referências Bibliográficas</a>
 
