@@ -192,7 +192,7 @@ A entrevista foi feita com um usuário. O participante se encaixa no [perfil de 
 ### <a>Sumário dos Dados Coletados</a>
 Durante a entrevista foram coletados dados sobre, a interação do usuário com o sistema realizada atráves da execução da tarefa, feedbacks sobre o [diagrama HTA](https://interacao-humano-computador.github.io/2024.1-CD-MOJ/analise-de-requisitos/analise-de-tarefas/analiseHierarquicaTarefa/#2-tutorial-de-resolucao-de-questoes-pos-contest) e as respostas das perguntas presentes no [planejamento da avaliação](https://interacao-humano-computador.github.io/2024.1-CD-MOJ/design-avaliacao-desenvolvimento/nivel1/analiseTarefas/planejamentoAvaliacao/).
 
-### <a>Análise dos Dados Coletados
+### <a>Análise dos Dados Coletados</a>
 
 ### <a>Sugestões de Melhoria</a>
 O usuário afirmou que o CD-MOJ tem muito a melhorar sobre diversos aspectos, porém afirmou que essa análise de tarefas está bem descrita e que para o seu propósito, é uma solução e tarefa eficiente. 
@@ -259,7 +259,7 @@ O participante se encaixa no [perfil de usuário](https://interacao-humano-compu
 
 Durante a entrevista foram coletados feedbacks sobre o diagrama, as respostas de algumas perguntas presentes no [planejamento da avaliação - Tabela 3 - Sugestão para roteiro de perguntas da entrevista durante avaliação](https://interacao-humano-computador.github.io/2024.1-CD-MOJ/design-avaliacao-desenvolvimento/nivel1/analiseTarefas/planejamentoAvaliacao/#prazos), e, se a parte textual do diagrama estava condizente com a parte ilustrativa.
 
-### <a>Análise dos Dados Coletados
+### <a>Análise dos Dados Coletados</a>
 
 Com base na entrevista e na observação do usuário, pode-se concluir que o diagrama da tarefa de Criação de Problema está em conformidade com a realidade dos professores/monitores (administradores no geral) que utilizam o CD-MOJ.
 
