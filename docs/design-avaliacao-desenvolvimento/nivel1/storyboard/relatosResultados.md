@@ -265,41 +265,48 @@ Nenhuma mudança foi requerida pelo participante; para ele, o storyboard está c
 
 ### <a>Objetivos e Escopo da Avaliação</a>
 
-A avaliação teve como objetivo validar se o [storyboard de Criação de Problema](https://interacao-humano-computador.github.io/2024.1-CD-MOJ/design-avaliacao-desenvolvimento/nivel1/storyboard/storyboards/#tarefa-5-criacao-de-problema-administrador) está de acordo com o fluxo de atividades do CD-MOJ e identificar áreas de melhoria para fornecer um suporte mais eficaz aos usuários.
+A avaliação teve como objetivo validar se o [storyboard de Criação de Problema (Administrador)](https://interacao-humano-computador.github.io/2024.1-CD-MOJ/design-avaliacao-desenvolvimento/nivel1/storyboard/storyboards/#tarefa-5-criacao-de-problema-administrador) está de acordo com o fluxo de atividades do CD-MOJ e identificar áreas de melhoria para fornecer um suporte mais eficaz aos usuários, especialmente aos que tem acesso a área de criação de problemas (admins).
 
 ### <a>Método de Avaliação Empregado</a>
-O método de avaliação foi uma combinação de observação e entrevistas com o usuário, conforme o framework DECIDE<a id="anchor_2" href="#REF2">^2^</a>. Nela foi pedido que o usuário verificasse o fluxo apresentado pelo storyboard e após isso ele foi questionado sobre algumas questões. A tabela 6 apresenta as informações sobre a entrevista:
+O método de avaliação foi uma combinação de observação e entrevistas com o usuário, conforme o framework DECIDE<a id="anchor_2" href="#REF2">^2^</a>. Inicialmente, foram feitas perguntas para identificar se o entrevistado se encaixava no perfil de usuário. Posteriormente, foi pedido que o usuário verificasse e interpretasse o fluxo apresentado pelo storyboard, após isso ele foi questionado sobre algumas questões, e foi-lhe apresentado a parte textual do storyboard. A tabela 7 apresenta as informações sobre a entrevista:
 
-<font size="3"><p style="text-align: center"><b>Tabela 6</b> - Cronograma da Entrevista - Criação de Problema</p></font>
+<font size="3"><p style="text-align: center"><b>Tabela 7</b> - Cronograma da Entrevista - Criação de Problema</p></font>
 
 | Entrevistador(es) | Entrevistado(s) | Horário | Duração | Data | Local |
 | :----------------: | :-------------: | :---------------: | :------------: | :--------: | :----------: |
-| [Luiz](https://gith3ub.com/LuizGust4vo) | Pedro Lucas | 23:00 | 15 minutos | 03/06/2023 | Casa do entrevistador e entrevistado |
+| [Luiz Gustavo](https://gith3ub.com/LuizGust4vo) | Pedro Lucas | 15:30 | 12 minutos | 04/06/2023 | Casa do entrevistador e entrevistado |
 
 <font size="3"><p style="text-align: center"><b>Fonte:</b> [Luiz Gustavo](https://gith3ub.com/LuizGust4vo)</p></font>
 
 ### <a>Número e Perfil dos Usuários e Avaliadores</a>
 
-O participante se encaixa no [perfil de usuário](https://interacao-humano-computador.github.io/2024.1-CD-MOJ/analise-de-requisitos/perfildeUsuario/), ele é um usuário de 22 anos, estudante de ensino superior (Engenharia de Software) e usuário frequente do CD-MOJ.
+O participante se encaixa no [perfil de usuário](https://interacao-humano-computador.github.io/2024.1-CD-MOJ/analise-de-requisitos/perfildeUsuario/), ele é um usuário de 22 anos, estudante de ensino superior (Engenharia de Software) e usuário frequente de juízes onlines e do CD-MOJ.
 
 ### <a>Sumário dos Dados Coletados</a>
 
-Durante a entrevista foram coletados dados sobre, , feedbacks sobre o storyboard e as respostas das perguntas presentes no [planejamento da avaliação](https://interacao-humano-computador.github.io/2024.1-CD-MOJ/design-avaliacao-desenvolvimento/nivel1/storyboard/planejamentoAvaliacao/).
+Durante a entrevista foram coletados feedbacks sobre o storyboard, as respostas das perguntas presentes no [planejamento da avaliação](https://interacao-humano-computador.github.io/2024.1-CD-MOJ/design-avaliacao-desenvolvimento/nivel1/storyboard/planejamentoAvaliacao/#roteiro-de-perguntas), e, se a parte textual do storyboard estava condizente com a parte ilustrativa.
 
 ### <a>Interpretação e Análise dos Dados</a>
 
+Com base na entrevista e na observação do usuário, pode-se concluir que o storyboard da tarefa de Criação de Problema aparenta estar em conformidade com a realidade e atende às necessidades dos professores/monitores (administradores no geral) que utilizam o CD-MOJ. 
 
 ### <a>Lista dos Problemas Encontrados</a>
 
+A usuário sugeriu algumas ideias de melhoria para incluir no storyboard (tanto na parte ilustrativa, quanto na parte textual):
+
+- Deixar mais claro as telas apresentadas no storyboard, as entradas e saídas só aparecem na revisão, mas não na elaboração da questão;
+
+- Acrescentar uma tarefa adicional de pensar/imaginar a questão (tarefa 0), antes de acessar o módulo administrativo para criação de contests (tarefa 1);
+
+- Acrescentar no tópico de motivação, o intuitivo de fazer a avaliação dos alunos, compor nota com trabalhos, listas, etc.
 
 ### <a>Planejamento para o Reprojeto do Sistema</a>
 
-
-</center>
+Para o entrevistado, dá para entender o objetivo e o fluxo do storyboard e da interface de administrador, porém, como relatado acima, algumas coisas podem melhorar para obter uma maior clareza. 
 
 ### <a>Gravação da Entevista</a>
 
-<center><iframe width="853" height="480" src="" title="Relato Storyboard - Criação de Problema - Grupo 1 IHC" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> </center>
+<iframe width="853" height="480" src="https://www.youtube.com/embed/1hBg0JAQ6vs?si=hDoUoN4sMzEKhjyh" title="Relato Storyboard - Criação de Problema - Grupo 1 IHC" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## <a>Referências Bibliográficas</a>
 
@@ -313,10 +320,7 @@ Durante a entrevista foram coletados dados sobre, , feedbacks sobre o storyboard
 | ------- | ------ | ------ | ------- | -------- | -------- |
 | `1.0` | 31/05/2024 | 02/06/2024 | Criação do documento e relato da verificação de submissões| [João Artur](https://github.com/joao-artl)|[Eric Silveira](https://github.com/ericbky)|
 | `1.1` | 02/06/2024 | 03/06/2024 | Relato da Criação de Contest| [Douglas Marinho](https://github.com/M4RINH0)|[Eric Silveira](https://github.com/ericbky)|
-<<<<<<< HEAD
 | `1.2` | 03/06/2024 | 03/06/2024 | Relato da Submissão de Problemas| [Eric Silveira](https://github.com/ericbky)|[Arthur Alves](https://github.com/Arthrok)|
 | `1.3` | 03/06/2024 | 03/06/2024 | Relato do Ranking de Contest | [Diego Sousa](https://github.com/DiegoSousaLeite)|[João Artur](https://github.com/joao-artl)|
-=======
 | `1.4` | 03/06/2024 | 03/06/2024 | Relato da Submissão de Problemas| [Eric Silveira](https://github.com/ericbky)|[Arthur](https://github.com/Arthrok)|
->>>>>>> 20ff7dd (vídeo joão)
 | `1.5` | 04/06/2024 | 04/06/2024 | Relato da Criação de Problema | [Luiz Gustavo](https://gith3ub.com/LuizGust4vo) | [Eric Silveira](https://github.com/ericbky) |
