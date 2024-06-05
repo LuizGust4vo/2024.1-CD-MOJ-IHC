@@ -43,7 +43,7 @@ As mudanças sugeridas pelo usuário serão adicionadas ao storyboard, a altera�
 <center>
 
 <figure markdown>
-<font size="3"><b>Tabela 1</b> - Correção do Storyboard.</font>
+<font size="3"><b>Tabela 2</b> - Correção do Storyboard.</font>
 
 | Entrevistador | Data | Alteração |
 | :----------------: | :-------------: | :---------------: | 
@@ -66,9 +66,9 @@ As mudanças sugeridas pelo usuário serão adicionadas ao storyboard, a altera�
 A avaliação teve como objetivo validar se o [storyboard de Criação de Contest](https://github.com/Interacao-Humano-Computador/2024.1-CD-MOJ/blob/git-pages/docs/design-avaliacao-desenvolvimento/nivel1/assets/storyboardDouglas2.png?raw=true) está de acordo com o fluxo de tarefas do CD-MOJ e identificar áreas de melhoria para fornecer um suporte mais eficaz aos usuários.
 
 ### <a>Método de Avaliação Empregado</a>
-O método de avaliação foi uma combinação de observação e entrevistas com o usuário, conforme o framework DECIDE<a id="anchor_2" href="#REF2">^2^</a>. Nela foi pedido que o usuário verificasse o fluxo apresentado pelo storyboard e após isso ele foi perguntado sobre algumas questões. A tabela 2 apresenta as informações sobre a entrevista:
+O método de avaliação foi uma combinação de observação e entrevistas com o usuário, conforme o framework DECIDE<a id="anchor_2" href="#REF2">^2^</a>. Nela foi pedido que o usuário verificasse o fluxo apresentado pelo storyboard e após isso ele foi perguntado sobre algumas questões. A tabela 3 apresenta as informações sobre a entrevista:
 
-<font size="3"><p style="text-align: center"><b>Tabela 2</b> - Cronograma da Entrevista</p></font>
+<font size="3"><p style="text-align: center"><b>Tabela 3</b> - Cronograma da Entrevista</p></font>
 
 | Entrevistador(es) | Entrevistado(s) | Horário | Duração  | Data    |    Local     |
 | :----------------: | :-------------: | :---------------: | :------------: | :--------: | :----------: |
@@ -111,9 +111,9 @@ A avaliação teve como objetivo validar se o storyboard de [Tuturoial de Resolu
 
 
 ### <a>Método de Avaliação Empregado</a>
-O método de avaliação foi uma combinação de observação e entrevistas com o usuário, conforme o framework DECIDE<a id="anchor_2" href="#REF2">^2^</a>. Nela foi pedido que o usuário verificasse o fluxo apresentado pelo storyboard e após isso ele foi perguntado sobre algumas questões. A tabela 3 apresenta as informações sobre a entrevista:
+O método de avaliação foi uma combinação de observação e entrevistas com o usuário, conforme o framework DECIDE<a id="anchor_2" href="#REF2">^2^</a>. Nela foi pedido que o usuário verificasse o fluxo apresentado pelo storyboard e após isso ele foi perguntado sobre algumas questões. A tabela 4 apresenta as informações sobre a entrevista:
 
-<font size="3"><p style="text-align: center"><b>Tabela 3</b> - Cronograma da Entrevista</p></font>
+<font size="3"><p style="text-align: center"><b>Tabela 4</b> - Cronograma da Entrevista</p></font>
 
 | Entrevistador(es) | Entrevistado(s) | Horário | Duração  | Data    |    Local     |
 | :----------------: | :-------------: | :---------------: | :------------: | :--------: | :----------: |
@@ -127,10 +127,10 @@ O método de avaliação foi uma combinação de observação e entrevistas com 
 A entrevista foi feita com um usuário. O participante se encaixa no [perfil de usuário](https://interacao-humano-computador.github.io/2024.1-CD-MOJ/analise-de-requisitos/perfildeUsuario/), ele é um usuário de 21 anos, cursando ensino superior em Engenharia de Software e usa frequentemente o CD-MOJ.
 
 ### <a>Sumário dos Dados Coletados</a>
-Durante a entrevista foram coletados dados sobre, a interação do usuário com o sistema, feedbacks sobre o storyboard e as respostas das perguntas presentes no [planejamento da avaliação](https://interacao-humano-computador.github.io/2024.1-CD-MOJ/design-avaliacao-desenvolvimento/nivel1/storyboard/planejamentoAvaliacao/). Confira na tabela 4 os dados coletados durante a entrevista:
+Durante a entrevista foram coletados dados sobre, a interação do usuário com o sistema, feedbacks sobre o storyboard e as respostas das perguntas presentes no [planejamento da avaliação](https://interacao-humano-computador.github.io/2024.1-CD-MOJ/design-avaliacao-desenvolvimento/nivel1/storyboard/planejamentoAvaliacao/). Confira na tabela 5 os dados coletados durante a entrevista:
 
 
-<font size="3"><p style="text-align: center"><b>Tabela 4</b> - Respostas da entrevista</p></font>
+<font size="3"><p style="text-align: center"><b>Tabela 5</b> - Respostas da entrevista</p></font>
 
 
 | Número | Pergunta                                                                                           | Resposta                                                                                                                                     | Objetivo                  |
@@ -184,9 +184,9 @@ A usuário sugeriu algumas ideias para incluir no CD-MOJ, embora não faça part
 A avaliação teve como objetivo validar se o [storyboard de Submissão de Problemas](https://interacao-humano-computador.github.io/2024.1-CD-MOJ/design-avaliacao-desenvolvimento/nivel1/storyboard/storyboards/#tarefa-1-submissao-de-problemas) está de acordo com o fluxo de atividades do CD-MOJ e identificar áreas de melhoria para fornecer um suporte mais eficaz aos usuários.
 
 ### <a>Método de Avaliação Empregado</a>
-O método de avaliação foi uma combinação de observação e entrevistas com o usuário, conforme o framework DECIDE<a id="anchor_2" href="#REF2">^2^</a>. Nela foi pedido que o usuário verificasse o fluxo apresentado pelo storyboard e após isso ele foi questionado sobre algumas questões. A tabela 5 apresenta as informações sobre a entrevista:
+O método de avaliação foi uma combinação de observação e entrevistas com o usuário, conforme o framework DECIDE<a id="anchor_2" href="#REF2">^2^</a>. Nela foi pedido que o usuário verificasse o fluxo apresentado pelo storyboard e após isso ele foi questionado sobre algumas questões. A tabela 6 apresenta as informações sobre a entrevista:
 
-<font size="3"><p style="text-align: center"><b>Tabela 5</b> - Cronograma da Entrevista - Submissão de Problemas</p></font>
+<font size="3"><p style="text-align: center"><b>Tabela 6</b> - Cronograma da Entrevista - Submissão de Problemas</p></font>
 
 | Entrevistador(es) | Entrevistado(s) | Horário | Duração  | Data    |    Local     |
 | :----------------: | :-------------: | :---------------: | :------------: | :--------: | :----------: |
@@ -226,9 +226,9 @@ Nenhuma mudança requerida pelo participante, para ele está condizente tanto a 
 A avaliação teve como objetivo validar se o [storyboard de Criação de Ranking de Contest](https://interacao-humano-computador.github.io/2024.1-CD-MOJ/design-avaliacao-desenvolvimento/nivel1/storyboard/storyboards/#tarefa-4-ranking-de-contest) está alinhado com o fluxo de tarefas do CD-MOJ e identificar áreas de melhoria para fornecer um suporte mais eficaz aos usuários.
 
 ### <a>Método de Avaliação Empregado</a>
-OO método de avaliação combinou observação e entrevistas com o usuário, seguindo o framework DECIDE<a id="anchor_2" href="#REF2">^2^</a>. Solicitou-se ao usuário que verificasse o fluxo apresentado pelo storyboard e, em seguida, foi feita uma série de perguntas. A Tabela 6 apresenta as informações sobre a entrevista:
+OO método de avaliação combinou observação e entrevistas com o usuário, seguindo o framework DECIDE<a id="anchor_2" href="#REF2">^2^</a>. Solicitou-se ao usuário que verificasse o fluxo apresentado pelo storyboard e, em seguida, foi feita uma série de perguntas. A Tabela 7 apresenta as informações sobre a entrevista:
 
-<font size="3"><p style="text-align: center"><b>Tabela 6</b> - Cronograma da Entrevista</p></font>
+<font size="3"><p style="text-align: center"><b>Tabela 7</b> - Cronograma da Entrevista</p></font>
 
 | Entrevistador(es) | Entrevistado(s) | Horário | Duração  | Data    |    Local     |
 | :----------------: | :-------------: | :---------------: | :------------: | :--------: | :----------: |
@@ -268,9 +268,9 @@ Nenhuma mudança foi requerida pelo participante; para ele, o storyboard está c
 A avaliação teve como objetivo validar se o [storyboard de Criação de Problema (Administrador)](https://interacao-humano-computador.github.io/2024.1-CD-MOJ/design-avaliacao-desenvolvimento/nivel1/storyboard/storyboards/#tarefa-5-criacao-de-problema-administrador) está de acordo com o fluxo de atividades do CD-MOJ e identificar áreas de melhoria para fornecer um suporte mais eficaz aos usuários, especialmente aos que têm acesso a área de criação de problemas (admins).
 
 ### <a>Método de Avaliação Empregado</a>
-O método de avaliação foi uma combinação de observação e entrevistas com o usuário, conforme o framework DECIDE<a id="anchor_2" href="#REF2">^2^</a>. Inicialmente, foram feitas perguntas para identificar se o entrevistado se encaixava no perfil de usuário. Posteriormente, foi pedido que o usuário verificasse e interpretasse o fluxo apresentado pelo storyboard, após isso ele foi questionado sobre algumas questões, e foi-lhe apresentado a parte textual do storyboard. A tabela 7 apresenta as informações sobre a entrevista:
+O método de avaliação foi uma combinação de observação e entrevistas com o usuário, conforme o framework DECIDE<a id="anchor_2" href="#REF2">^2^</a>. Inicialmente, foram feitas perguntas para identificar se o entrevistado se encaixava no perfil de usuário. Posteriormente, foi pedido que o usuário verificasse e interpretasse o fluxo apresentado pelo storyboard, após isso ele foi questionado sobre algumas questões, e foi-lhe apresentado a parte textual do storyboard. A tabela 8 apresenta as informações sobre a entrevista:
 
-<font size="3"><p style="text-align: center"><b>Tabela 7</b> - Cronograma da Entrevista - Criação de Problema</p></font>
+<font size="3"><p style="text-align: center"><b>Tabela 8</b> - Cronograma da Entrevista - Criação de Problema</p></font>
 
 | Entrevistador(es) | Entrevistado(s) | Horário | Duração | Data | Local |
 | :----------------: | :-------------: | :---------------: | :------------: | :--------: | :----------: |
@@ -325,4 +325,4 @@ Para o entrevistado, dá para entender o objetivo e o fluxo do storyboard e da i
 | `1.2` | 03/06/2024 | 03/06/2024 | Relato da Submissão de Problemas| [Eric Silveira](https://github.com/ericbky)|[Arthur Alves](https://github.com/Arthrok)|
 | `1.3` | 03/06/2024 | 03/06/2024 | Relato do Ranking de Contest | [Diego Sousa](https://github.com/DiegoSousaLeite)|[João Artur](https://github.com/joao-artl)|
 | `1.4` | 03/06/2024 | 03/06/2024 | Relato da Submissão de Problemas| [Eric Silveira](https://github.com/ericbky)|[Arthur](https://github.com/Arthrok)|
-| `1.5` | 04/06/2024 | 04/06/2024 | Relato da Criação de Problema | [Luiz Gustavo](https://gith3ub.com/LuizGust4vo) | [Eric Silveira](https://github.com/ericbky) |
+| `1.5` | 04/06/2024 | 04/06/2024 | Relato da Criação de Problema e correção das tabelas | [Luiz Gustavo](https://gith3ub.com/LuizGust4vo) | [Eric Silveira](https://github.com/ericbky) |
