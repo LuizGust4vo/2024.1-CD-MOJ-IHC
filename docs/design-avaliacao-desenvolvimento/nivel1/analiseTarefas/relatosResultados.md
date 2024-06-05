@@ -97,7 +97,7 @@ O usuário relatou uma melhoria que segundo ele seriam fundamentais para o site:
 ## <a>Tutorial de Resolução de Questões Pós-Contest</a>
 
 ### <a>Objetivos e Escopo da Avaliação</a>
-A avaliação teve como objetivo validar a tarefa de <a>Tuturoial de Resolução de Questões Pós-Contest</a>, que é uma tarefa ainda não implementada no CD-MOJ, está de acordo com um fluxo padrão de atividades da plataforma, além de identificar áreas de melhoria para que esta funcionalidade, quando implementada, possa fornecer com êxito todas as expectativas do usuário em relação a funcionalidade.
+A avaliação teve como objetivo validar a tarefa de <a>Tutorial de Resolução de Questões Pós-Contest</a>, que é uma tarefa ainda não implementada no CD-MOJ, está de acordo com um fluxo padrão de atividades da plataforma, além de identificar áreas de melhoria para que esta funcionalidade, quando implementada, possa fornecer com êxito todas as expectativas do usuário em relação a funcionalidade.
 
 ### <a>Método de Avaliação Empregado</a>
 O método de avaliação foi uma combinação de observação e entrevistas com o usuário, conforme o framework DECIDE<a id="anchor_2" href="#REF2">^2^</a>. Por se tratar de uma funcionalidade não existente no CD-MOJ, foi feito uma prototipação usando a ferramenta Figma, para que o entrevistado conseguisse simular o uso da funcionalidade. No protótipo foi pedido que a usuária explicasse o fluxo necessário para realizar a tarefa e após isso foram feitas perguntas sobre algumas questões. A tabela 3 apresenta as informações sobre a entrevista:
@@ -208,7 +208,7 @@ O usuário afirmou que o CD-MOJ tem muito a melhorar sobre diversos aspectos, po
 A avaliação teve como objetivo validar a tarefa de <a href="https://interacao-humano-computador.github.io/2024.1-CD-MOJ/analise-de-requisitos/analise-de-tarefas/analiseHierarquicaTarefa/#4-ranking-de-contest">Ranking de Contest</a>, uma tarefa já implementada no CD-MOJ, na qual foi verificado se o fluxo padrão de atividades da plataforma está de acordo com o diagrama e com a descrição da tarefa, além de identificar áreas de melhoria para que essa funcionalidade possa corresponder com êxito a todas as expectativas do usuário.
 
 ### <a>Método de Avaliação Empregado</a>
-O método de avaliação foi uma combinação de observação e entrevistas com o usuário, conforme o framework DECIDE<a id="anchor_2" href="#REF2">^2^</a>. Primeiro foi verificado se o entrevistado correspondia ao perfil dos usuários da plataforma do CD-MOJ, para uma melhor experiência e domínio sobre o sistema. Após essa verificação, houve a apresentação do diagrama e a verificação se o diagrama e sua descrição estão de acordo com a expectativa do usuário e fiel ao já implementado, verificando item por item se o usuário estava de acordo com aquela especificação. A Tabela 4 apresenta as informações sobre a entrevista:
+O método de avaliação foi uma combinação de observação e entrevistas com o usuário, conforme o framework DECIDE<a id="anchor_2" href="#REF2">^2^</a>. Primeiro foi verificado se o entrevistado correspondia ao perfil dos usuários da plataforma do CD-MOJ, para uma melhor experiência e domínio sobre o sistema. Após essa verificação, houve a apresentação do diagrama e a verificação se o diagrama e sua descrição estão de acordo com a expectativa do usuário e fiel ao já implementado, verificando item por item se o usuário estava de acordo com aquela especificação. A Tabela 5 apresenta as informações sobre a entrevista:
 
 <font size="3"><p style="text-align: center"><b>Tabela 5</b> - Cronograma da Entrevista - Ranking de Contest</p></font>
 
@@ -224,13 +224,60 @@ A entrevista foi feita com um usuário. O participante se encaixa no [perfil de 
 ### <a>Sumário dos Dados Coletados</a>
 Durante a entrevista, foram coletados dados sobre a interação do usuário com o sistema, feedbacks sobre o [diagrama HTA](https://interacao-humano-computador.github.io/2024.1-CD-MOJ/analise-de-requisitos/analise-de-tarefas/analiseHierarquicaTarefa/#4-ranking-de-contest) e as respostas às perguntas presentes no [planejamento da avaliação](https://interacao-humano-computador.github.io/2024.1-CD-MOJ/design-avaliacao-desenvolvimento/nivel1/analiseTarefas/planejamentoAvaliacao/).
 
-### ### <a>Análise dos Dados Coletados</a>
+### <a>Análise dos Dados Coletados</a>
 O usuário afirmou que o CD-MOJ tem muito a melhorar sobre diversos aspectos e propôs algumas melhorias no diagrama de análise de tarefas. As sugestões foram:
 - Os itens listados como objetivos talvez deveriam ser ações dentro do CD-MOJ, segundo as palavras do Iago.
 
 ### <a>Gravação da Entrevista</a>
 <center>
 <iframe width="1220" height="686" src="https://www.youtube.com/embed/5EHP3bsA_uw" title="HTA - Diego Sousa" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</center>
+
+
+## <a>Relato - Criação de Problema</a>
+
+### <a>Objetivos e Escopo da Avaliação</a>
+
+A avaliação teve como objetivo validar se o [Diagrama HTA de Criação de Problema (Administrador)](https://interacao-humano-computador.github.io/2024.1-CD-MOJ/analise-de-requisitos/analise-de-tarefas/analiseHierarquicaTarefa/#5-criacao-de-problema-administrador) está de acordo com o fluxo de atividades do CD-MOJ e identificar áreas de melhoria para fornecer um suporte mais eficaz aos usuários, especialmente aos que tem acesso a área de criação de problemas (admins). 
+
+### <a>Método de Avaliação Empregado</a>
+
+O método de avaliação foi uma combinação de observação e entrevistas com o usuário, conforme o framework DECIDE<a id="anchor_2" href="#REF2">^2^</a>. Inicialmente, o entrevistado fez a leitura e interpretação do Diagrama HTA de Criação de Problema. Posteriormente, ele foi questionado sobre algumas questões, e foi-lhe apresentado a parte textual do Diagrama. A tabela 6 apresenta as informações sobre a entrevista:
+
+<font size="3"><p style="text-align: center"><b>Tabela 6</b> - Cronograma da Entrevista - Criação de Problema</p></font>
+
+| Entrevistador(es) | Entrevistado(s) | Horário | Duração | Data | Local |
+| :----------------: | :-------------: | :---------------: | :------------: | :--------: | :----------: |
+| [Luiz Gustavo](https://gith3ub.com/LuizGust4vo) | Pedro Lucas | 15:45 | 6 minutos | 04/06/2023 | Casa do entrevistador e entrevistado |
+
+<font size="3"><p style="text-align: center"><b>Fonte:</b> [Luiz Gustavo](https://gith3ub.com/LuizGust4vo) </p></font>
+
+### <a>Número e Perfil dos Usuários e Avaliadores</a>
+O participante se encaixa no [perfil de usuário](https://interacao-humano-computador.github.io/2024.1-CD-MOJ/analise-de-requisitos/perfildeUsuario/), ele é um usuário de 22 anos, estudante de ensino superior (Engenharia de Software) e usuário frequente de juízes onlines e do CD-MOJ.
+
+### <a>Sumário dos Dados Coletados</a>
+
+Durante a entrevista foram coletados feedbacks sobre o diagrama, as respostas de algumas perguntas presentes no [planejamento da avaliação - Tabela 3 - Sugestão para roteiro de perguntas da entrevista durante avaliação](https://interacao-humano-computador.github.io/2024.1-CD-MOJ/design-avaliacao-desenvolvimento/nivel1/analiseTarefas/planejamentoAvaliacao/#prazos), e, se a parte textual do diagrama estava condizente com a parte ilustrativa.
+
+### <a>Análise dos Dados Coletados
+
+Com base na entrevista e na observação do usuário, pode-se concluir que o diagrama da tarefa de Criação de Problema está em conformidade com a realidade dos professores/monitores (administradores no geral) que utilizam o CD-MOJ.
+
+### <a>Sugestões de Melhoria</a>
+
+O usuário afirmou que o CD-MOJ tem muito a melhorar sobre diversos aspectos e propôs algumas melhorias de usabilidade:
+
+- Interface muito fraca, simples, especialmente os botões (muito pequenos) e uma paleta de cores limitada;
+
+- Falta de opção de pesquisa ou filtro para os contests (pesquisar ou filtrar por matéria, por exemplo);
+
+- Lentidão na resposta da página, ela não atualiza automaticamente, então é necessário ficar recarregando (F5) para atualizar a página e obter a resposta. 
+
+### <a>Gravação da Entrevista</a>
+
+<center>
+<iframe width="853" height="480" src="https://www.youtube.com/embed/Pq6IhB_Tgrg?si=HA5Gyje4HzlJ-GVu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</center>
 
 ## <a>Referências Bibliográficas</a>
 
@@ -244,7 +291,8 @@ O usuário afirmou que o CD-MOJ tem muito a melhorar sobre diversos aspectos e p
 | ------- | ------ | ------ | ------- | -------- | -------- |
 | `1.0` | 31/05/2024 | 01/06/2024 | Criação do documento e relato da verificação de submissões| [João Artur](https://github.com/joao-artl)|[Diego Sousa](https://github.com/DiegoSousaLeite)|
 | `1.1` | 31/05/2024 | 01/06/2024 | Adicionando vídeo da entrevista| [João Artur](https://github.com/joao-artl)|[Diego Sousa](https://github.com/DiegoSousaLeite)|
-| `1.2` | 03/06/2024 | 03/06/2024 | Relato da criação de contest| [Douglas Marinho](https://github.com/M4RINH0)|[Diego Sousa](https://github.com/DiegoSousaLeite)|
+| `1.2` | 03/06/2024 | 03/06/2024 | Relato da Criação de Contest| [Douglas Marinho](https://github.com/M4RINH0)|[Diego Sousa](https://github.com/DiegoSousaLeite)|
 | `1.3` | 03/06/2024 | 03/06/2024 | Relato do Tutorial pós-contest| [Arthur Alves](https://github.com/Arthrok)|[Diego Sousa](https://github.com/DiegoSousaLeite)|
 | `1.4` | 03/06/2024 | 03/06/2024 | Relato da Submissão de Problemas| [Eric Silveira](https://github.com/ericbky)|[Diego Sousa](https://github.com/DiegoSousaLeite)|
 | `1.4` | 03/06/2024 | 03/06/2024 | Relato da Submissão de Problemas| [Diego Sousa](https://github.com/DiegoSousaLeite)|[João Artur](https://github.com/joao-artl)|
+| `1.5` | 04/06/2024 | 05/06/2024 | Relato da Criação de Problema e correção das tabelas| [Luiz Gustavo](https://gith3ub.com/LuizGust4vo) | [Eric Silveira](https://github.com/ericbky) |
