@@ -238,7 +238,7 @@ O usuário afirmou que o CD-MOJ tem muito a melhorar sobre diversos aspectos e p
 
 ### <a>Objetivos e Escopo da Avaliação</a>
 
-A avaliação teve como objetivo validar se o [Diagrama HTA de Criação de Problema (Administrador)](https://interacao-humano-computador.github.io/2024.1-CD-MOJ/analise-de-requisitos/analise-de-tarefas/analiseHierarquicaTarefa/#5-criacao-de-problema-administrador) está de acordo com o fluxo de atividades do CD-MOJ e identificar áreas de melhoria para fornecer um suporte mais eficaz aos usuários, especialmente aos que tem acesso a área de criação de problemas (admins). 
+A avaliação teve como objetivo validar se o [Diagrama HTA de Criação de Problema (Administrador)](https://interacao-humano-computador.github.io/2024.1-CD-MOJ/analise-de-requisitos/analise-de-tarefas/analiseHierarquicaTarefa/#5-criacao-de-problema-administrador) está de acordo com o fluxo de atividades do CD-MOJ e identificar áreas de melhoria para fornecer um suporte mais eficaz aos usuários, especialmente aos que têm acesso a área de criação de problemas (admins). 
 
 ### <a>Método de Avaliação Empregado</a>
 
