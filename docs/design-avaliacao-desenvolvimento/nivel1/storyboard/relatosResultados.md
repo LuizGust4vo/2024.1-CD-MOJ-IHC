@@ -265,7 +265,7 @@ Nenhuma mudança foi requerida pelo participante; para ele, o storyboard está c
 
 ### <a>Objetivos e Escopo da Avaliação</a>
 
-A avaliação teve como objetivo validar se o [storyboard de Criação de Problema (Administrador)](https://interacao-humano-computador.github.io/2024.1-CD-MOJ/design-avaliacao-desenvolvimento/nivel1/storyboard/storyboards/#tarefa-5-criacao-de-problema-administrador) está de acordo com o fluxo de atividades do CD-MOJ e identificar áreas de melhoria para fornecer um suporte mais eficaz aos usuários, especialmente aos que tem acesso a área de criação de problemas (admins).
+A avaliação teve como objetivo validar se o [storyboard de Criação de Problema (Administrador)](https://interacao-humano-computador.github.io/2024.1-CD-MOJ/design-avaliacao-desenvolvimento/nivel1/storyboard/storyboards/#tarefa-5-criacao-de-problema-administrador) está de acordo com o fluxo de atividades do CD-MOJ e identificar áreas de melhoria para fornecer um suporte mais eficaz aos usuários, especialmente aos que têm acesso a área de criação de problemas (admins).
 
 ### <a>Método de Avaliação Empregado</a>
 O método de avaliação foi uma combinação de observação e entrevistas com o usuário, conforme o framework DECIDE<a id="anchor_2" href="#REF2">^2^</a>. Inicialmente, foram feitas perguntas para identificar se o entrevistado se encaixava no perfil de usuário. Posteriormente, foi pedido que o usuário verificasse e interpretasse o fluxo apresentado pelo storyboard, após isso ele foi questionado sobre algumas questões, e foi-lhe apresentado a parte textual do storyboard. A tabela 7 apresenta as informações sobre a entrevista:
@@ -298,7 +298,7 @@ A usuário sugeriu algumas ideias de melhoria para incluir no storyboard (tanto 
 
 - Acrescentar uma tarefa adicional de pensar/imaginar a questão (tarefa 0), antes de acessar o módulo administrativo para criação de contests (tarefa 1);
 
-- Acrescentar no tópico de motivação, o intuitivo de fazer a avaliação dos alunos, compor nota com trabalhos, listas, etc.
+- Acrescentar no tópico de motivação, o intuito de fazer a avaliação dos alunos, compor nota com trabalhos, listas, etc.
 
 ### <a>Planejamento para o Reprojeto do Sistema</a>
 
