@@ -2,7 +2,7 @@
 
 A verificação é uma abordagem metódica para avaliar e garantir a qualidade de um produto de software, assegurando que ele atenda às especificações e requisitos elicitados<a id="anchor_1" href="#REF1">^1^</a>.
 
-Neste artefato, planejaremos o processo de <b>*verificação dos artefatos*</b> desenvolvidos pelo <a href="https://interacao-humano-computador.github.io/2024.1-CD-MOJ/">*Grupo 01*</a> para a plataforma <b>*CD-MOJ*</b>. O objetivo é garantir que todos os componentes desenvolvidos estejam em conformidade com os requisitos estabelecidos. Isso assegura que a plataforma ofereça uma experiência robusta e alinhada às expectativas dos usuários finais.
+Neste artefato, planejaremos o processo de <b>*verificação dos artefatos*</b> desenvolvidos pelo <a href="https://interacao-humano-computador.github.io/2024.1-SIGAA/#/">*Grupo 02*</a> para a plataforma <b>*CD-MOJ*</b>. O objetivo é garantir que todos os componentes desenvolvidos estejam em conformidade com os requisitos estabelecidos. Isso assegura que a plataforma ofereça uma experiência robusta e alinhada às expectativas dos usuários finais.
 
 ## <a>Metodologia</a>
 
@@ -14,18 +14,17 @@ Essa abordagem sistemática nos ajudará a identificar lacunas ou inconsistênci
 
 ## <a> Características da Verificação dos Artefatos </a>
 
-O responsável pela execução da verificação do artefato 1 será o integrante do <b>*Grupo 01*</b> - [Eric Silveira](https://github.com/ericbky). A tabela 1 descreve as caraterísticas sobre como irá proceder as verificações dos documentos referente aos artefatos da primeira entrega:
+O responsável pela execução da verificação da entrega 1 será o integrante do <b>*Grupo 01*</b> - [Eric Silveira](https://github.com/ericbky). A tabela 1 descreve as caraterísticas sobre como irá proceder as verificações dos documentos referente aos artefatos da primeira entrega:
 
 <font size="3"><p style="text-align: center"><b>Tabela 1</b> - Caracteristicas das Verificações dos Artefatos.</p></font>
 <center>
 
 |**Entrega referente**|**Nome do Artefato**|**Versão do artefato**|**Responsável pelo Desenvolvimento do Artefato**|**Responsável pela Verificação do Artefato**|
 |---------|---------|---------|-----------|------------------|
-|Entrega 01|Cronograma|`1.6`|[Eric Silveira](https://github.com/ericbky)|[Eric Silveira](https://github.com/ericbky)|
-|Entrega 01|Heatmap|`1.1`|[Arthur Alves](https://github.com/Arthrok)|[Eric Silveira](https://github.com/ericbky)|
-|Entrega 01|Ferramentas|`1.0`|[Douglas Marinho](https://github.com/M4RINH0)|[Eric Silveira](https://github.com/ericbky)|
-|Entrega 01|Processo de Design|`1.0`|[João Artur](https://github.com/joao-artl) e [Luiz Gustavo](https://github.com/LuizGust4vo)|[Eric Silveira](https://github.com/ericbky)|
-|Entrega 01|Site Escolhido|`1.0`|[Diego Sousa](https://github.com/DiegoSousaLeite)|[Eric Silveira](https://github.com/ericbky)|
+|Entrega 01|Cronograma|`2.4`|Breno Alexandre|[Eric Silveira](https://github.com/ericbky)|
+|Entrega 01|Ferramentas|`1.6`|Larissa e Luana|[Eric Silveira](https://github.com/ericbky)|
+|Entrega 01|Processo de Design|`1.5`|Bruno e Pedro|[Eric Silveira](https://github.com/ericbky)|
+|Entrega 01|Site Escolhido|`1.12`|Breno, Bruno, Iago, Larissa, Luana e Pedro|[Eric Silveira](https://github.com/ericbky)|
 
 </center>
 
@@ -58,7 +57,7 @@ Baseados na padronização dos repositórios da disciplina e dos artefatos, cria
 |5|O artefato possui a fonte das figuras, tabelas e outras aspectos que necessitem da mesma?|||		
 |6|O artefato possui bibliografia e/ou referência bibliográfica?|||
 |7|O artefato chama as referências bibliográficas presentes de forma correta no texto?|||
-|8|O artefato possui um cronograma padronizado apresentando os versão, data, data de revisão, descrição, responsáveis e revisores?|||
+|8|O artefato possui um histórico de versão padronizado apresentando as versões, datas, datas de revisão, descrição, responsáveis e revisores?|||
 
 <font size="3"><p style="text-align: center"><b>Fonte: </b> [Eric Silveira](https://github.com/ericbky).</p></font>
 </center>
