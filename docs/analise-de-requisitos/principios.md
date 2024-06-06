@@ -4,7 +4,7 @@ Para que um modelo conceitual seja eficaz e atenda às necessidades dos usuário
 
 ## <a> Metodologia </a>
 
-Para cada tópico analisado, identificamos a principal contrariedade no site que mais fere o respectivo Princípio Geral, organizando a discussão em dois subtemas: Definição e Violação. A análise das violações foi conduzida individualmente por cada participante, focando exclusivamente na versão desktop do site para determinar onde ocorrem tais desvios. Este processo detalhado visa compreender claramente as falhas e identificar onde elas se manifestam no site.
+Para cada tópico analisado, identificamos a principal contrariedade no site que mais fere o respectivo Princípio Geral, organizando a discussão em três subtemas: Definição, Violação e Solução. A análise das violações foi conduzida individualmente por cada participante, focando exclusivamente na versão desktop do site para determinar onde ocorrem tais desvios. Este processo detalhado visa compreender claramente as falhas e identificar onde elas se manifestam no site.
 
 ## <a> Correspondência com as Expectativas dos Usuários </a>
 
