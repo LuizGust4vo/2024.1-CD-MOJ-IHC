@@ -2,7 +2,7 @@
 
 A verificação é uma abordagem metódica para avaliar e garantir a qualidade de um produto de software, assegurando que ele atenda às especificações e requisitos elicitados<a id="anchor_1" href="#REF1">^1^</a>.
 
-Neste artefato, planejaremos o processo de <b>*verificação dos artefatos*</b> desenvolvidos pelo <a href="https://interacao-humano-computador.github.io/2024.1-SIGAA/#/">*Grupo 02*</a> para a plataforma <b>*CD-MOJ*</b>. O objetivo é garantir que todos os componentes desenvolvidos estejam em conformidade com os requisitos estabelecidos. Isso assegura que a plataforma ofereça uma experiência robusta e alinhada às expectativas dos usuários finais.
+Neste artefato, planejaremos o processo de <b>*verificação dos artefatos*</b> desenvolvidos pelo <a href="https://interacao-humano-computador.github.io/2024.1-SIGAA/#/">*Grupo 02*</a> para a plataforma <b>*SIGAA*</b>. O objetivo é garantir que todos os componentes desenvolvidos estejam em conformidade com os requisitos estabelecidos. Isso assegura que a plataforma ofereça uma experiência robusta e alinhada às expectativas dos usuários finais.
 
 ## <a>Metodologia</a>
 
@@ -10,7 +10,7 @@ A metodologia que utilizaremos será a de inspeção, que é aplicada para a ver
 
 Utilizaremos de referência as listas de verificação da disciplina que foram especificadas pelos monitores e o feedback dos outros grupos, fornecidos durante as apresentações.
 
-Essa abordagem sistemática nos ajudará a identificar lacunas ou inconsistências nos artefatos, assegurando que todos os requisitos sejam atendidos de maneira completa e precisa. O uso de checklists proporciona uma maneira estruturada e repetível de conduzir a verificação, facilitando a detecção de problemas e garantindo que as entregas estejam alinhadas com as expectativas e padrões de qualidade definidos. Ao final de cada avaliação, compilaremos os resultados e faremos as correções necessárias para manter a integridade e a qualidade do projeto.
+Essa abordagem sistemática nos ajudará a identificar lacunas ou inconsistências nos artefatos, assegurando que todos os requisitos sejam atendidos de maneira completa e precisa. O uso de checklists proporciona uma maneira estruturada e repetível de conduzir a verificação, facilitando a detecção de problemas e garantindo que as entregas estejam alinhadas com as expectativas e padrões de qualidade definidos. Ao final de cada avaliação, compilaremos os resultados e destacaremos as correções necessárias para manter a integridade e a qualidade do projeto.
 
 ## <a> Características da Verificação dos Artefatos </a>
 
