@@ -16,7 +16,7 @@ Essa abordagem sistemática nos ajudará a identificar lacunas ou inconsistênci
 
 ## <a> Características da Verificação dos Artefatos </a>
 
-O responsável pelo planajamento da verificação da entrega 3 será o integrante do <b>*Grupo 01*</b> - [João Artur](https://github.com/joao-artl). A tabela 1 descreve as caraterísticas sobre como irá proceder as verificações dos documentos referente aos artefatos da terceira entrega:
+O responsável pelo planejamento da verificação da entrega 3 será o integrante do <b>*Grupo 01*</b> - [João Artur](https://github.com/joao-artl). A tabela 1 descreve as caraterísticas sobre como irá proceder as verificações dos documentos referente aos artefatos da terceira entrega:
 
 <font size="3"><p style="text-align: center"><b>Tabela 1</b> - Caracteristicas das Verificações dos Artefatos.</p></font>
 <center>
