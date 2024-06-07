@@ -22,7 +22,7 @@ Na quarta-feira fizemos uma reunião de alinhamento para a Etapa 6.1 - Verifica�
 
 Primeiramente, discutimos sobre a verificação, com base no artefato de [Planejamento da Verificação da Etapa 1](https://interacao-humano-computador.github.io/2024.1-CD-MOJ/verificacao/etapa1/planejamento/). Também foi discutido quais artefatos devemos revisar e corrigir, se necessário, para que as entregas passadas se alinhem com a entrega atual e com as entregas futuras. Por fim, realizamos a divisão das tarefas.
 
-Foi decidido que a prototipação (no figma) deverá ser feita com base nas histórias de usuário, ao invés dos requisitos, pois os requisitos são muitos generalistas e porquê montamos um backlog priorizando as histórias de usuários.
+Foi decidido que a prototipação (no figma) deverá ser feita com base nas histórias de usuário, ao invés dos requisitos, pois os requisitos são muitos generalistas e porque montamos um backlog priorizando as histórias de usuários.
 
 As dúvidas geradas podem ser encontradas na tabela 1, onde cada dúvida tem o seu identificador Dn para rastreabilidade, sendo D de Dúvida e n o número da dúvida.
 
@@ -59,7 +59,7 @@ _Fonte: [Luiz Gustavo](https://github.com/LuizGust4vo)_
 </center>
 
 ## 5. Gravação da Reunião
-<iframe width="1280" height="720" src="https://www.youtube.com/embed/bty8o78pXac?si=Pzll118au8QKrWGp" title="5ª Reunião - Grupo 01 (CD-MOJ) - IHC" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="1280" height="720" src="https://www.youtube.com/embed/ur_c5fvTQuo?si=5E5EzpOiTEp-66bC" title="5ª Reunião - Grupo 01 (CD-MOJ) - IHC" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## <a> Histórico de Versão </a>
 
