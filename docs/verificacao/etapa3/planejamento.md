@@ -101,8 +101,10 @@ A tabela 4 a seguir demonstra o checklist referente as verificações desse arte
 
 |**ID**|**Descrição**|**Fonte**|**Avaliação**|**Observações**|
 |----|-----------|------|-----|-------------|
-| 9 | aaaaaaaaa | asaaaaaa | | |
-
+| 9 | O artefato apresenta a descrição das metas de usabilidade a serem alcançadas no projeto? |Diana Fournier. As 6 metas de Usabilidade. MEDIUM, 2016. Disponível em: https://medium.com/vivareal-ux-chapter/as-6-metas-de-usabilidade-9491442fd56a. Acesso em: 6 de junho de 2024.| | |
+| 10 |O artefato apresenta as 6 metas de usabilidade: Eficácia, Eficiência, Segurança, Utilidade, Aprendizagem, Memorização|Diana Fournier. As 6 metas de Usabilidade. MEDIUM, 2016. Disponível em: https://medium.com/vivareal-ux-chapter/as-6-metas-de-usabilidade-9491442fd56a. Acesso em: 6 de junho de 2024.| | |
+| 11 |As metas foram definidas através do perfil de usuário? |Diana Fournier. As 6 metas de Usabilidade. MEDIUM, 2016. Disponível em: https://medium.com/vivareal-ux-chapter/as-6-metas-de-usabilidade-9491442fd56a. Acesso em: 6 de junho de 2024.| | |
+| 12 |Cada meta de usabilidade possui uma breve explicação? |Diana Fournier. As 6 metas de Usabilidade. MEDIUM, 2016. Disponível em: https://medium.com/vivareal-ux-chapter/
 
 <font size="3"><p style="text-align: center"><b>Fonte: </b> [João Artur](https://github.com/joao-artl).</p></font>
 </center>
