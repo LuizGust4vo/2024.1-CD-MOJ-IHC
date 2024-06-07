@@ -74,6 +74,7 @@ A tabela 3 a seguir demonstra o checklist referente as verificações desse arte
 
 |**ID**|**Descrição**|**Fonte**|**Avaliação**|**Observações**|
 |----|-----------|------|-----|-------------|
+| 9 | Os Princípios Gerais do Projeto os tópicos: <br>- correspondência com as expectativas dos usuários;<br> <br>- simplicidade nas estruturas das tarefas;<br> <br>- equilíbrio entre controle e liberdade do usuário;<br> <br>- consistência e padronização;<br> <br>- promoção da eficiência do usuário;<br> <br>- antecipação das necessidades do usuário;<br> <br>- visibilidade e reconhecimento;<br> <br>- conteúdo relevante e expressão adequada;<br> <br>- projeto para erros<br>| Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) *Interação Humano-Computador e Experiência do usuário.* Capítulo 10. Princípios e Diretrizes para o Design de IHC, tópico 10.2 Princípios e Diretrizes Gerais, página 238. Autopublicação. ISBN: 978-65-00-19677-1.| ---| ---|
 
 
 <font size="3"><p style="text-align: center"><b>Fonte: </b> [João Artur](https://github.com/joao-artl).</p></font>

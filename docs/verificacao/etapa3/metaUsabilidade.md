@@ -30,6 +30,14 @@ A Tabela 2 a seguir apresenta a verificação do artefato <a href="https://inter
 
 |**ID**|**Descrição**|**Fonte**|**Avaliação**|**Observações**|
 |----|-----------|------|-----|-------------|
+|1|O artefato possui uma introdução descrevendo-o?|Não se aplica|||
+|2|O artefato possui padronização nos títulos?|Não se aplica|||
+|3|O artefato caso contenha tabelas, as chama no texto?|Não se aplica|||
+|4|O artefato caso tenha figuras as chamam no texto?|Não se aplica|||		
+|5|O artefato possui a fonte das figuras, tabelas e outras aspectos que necessitem da mesma?|Não se aplica|||		
+|6|O artefato possui bibliografia e/ou referência bibliográfica?|Não se aplica|||
+|7|O artefato chama as referências bibliográficas presentes de forma correta no texto?|Não se aplica|||
+|8|O artefato possui um histórico de versão padronizado apresentando as versões, datas, datas de revisão, descrição, responsáveis e revisores?|Não se aplica|||
 
 <font size="3"><p style="text-align: center"><b>Fonte: </b> [João Artur](https://github.com/joao-artl).</p></font>
 </center>
