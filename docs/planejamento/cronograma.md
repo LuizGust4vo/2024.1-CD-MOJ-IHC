@@ -232,7 +232,7 @@ Na Tabela 11, tem-se o cronograma planejado para todas as atividades da primeira
 
 | Atividade | Período de desenvolvimento | Responsável | Revisão | Revisores | Data da Entrega |
 | --------- | -----------| ------------ | ------- | ------- | ------- |
-|Verificação dos Artefatos - Grupo + 1|Início dia 03/06 e Fim dia 06/06|Arthur Alves, Diego Sousa, Douglas Marinho, Eric Silveira, ur, Luiz Gustavo|Início dia 03/06 e Fim dia 06/06|Arthur Alves, Diego Sousa, Douglas Marinho, Eric Silveira, João Artur, Luiz Gustavo|09/06|
+|Verificação dos Artefatos - Grupo + 1|Início dia 03/06 e Fim dia 06/06|Arthur Alves, Diego Sousa, Douglas Marinho, Eric Silveira, João Artur e Luiz Gustavo|Início dia 03/06 e Fim dia 06/06|Arthur Alves, Diego Sousa, Douglas Marinho, Eric Silveira, João Artur e Luiz Gustavo|09/06|
 |Iteração do Git Pages|Início dia 06/06 e Fim dia 07/06|Diego Sousa|Início dia 08/06 e Fim dia 08/06|João Artur|10/06|
 |Período de gravação da apresentação|Início dia 11/06 e Fim dia 12/06|Douglas Marinho|Início dia 11/06 e Fim dia 12/06|Eric Silveira|12/06|
 |Correção pós apresentação|Início dia 13/06 e Fim dia 14/06|Arthur Alves, Diego Sousa, Douglas Marinho, Eric Silveira, João Artur, Luiz Gustavo|Início dia 13/06 e Fim dia 14/06|Arthur Alves, Diego Sousa, Douglas Marinho, Eric Silveira, João Artur, Luiz Gustavo|Não há entrega|
