@@ -38,6 +38,13 @@ A Tabela 2 a seguir apresenta a verificação do artefato <a href="https://inter
 |6|O artefato possui bibliografia e/ou referência bibliográfica?|Não se aplica|||
 |7|O artefato chama as referências bibliográficas presentes de forma correta no texto?|Não se aplica|||
 |8|O artefato possui um histórico de versão padronizado apresentando as versões, datas, datas de revisão, descrição, responsáveis e revisores?|Não se aplica|||
+| 9 |  O Guia de Estilo corresponde ao site avaliado? | Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) *Interação Humano-Computador e Experiência do usuário.* Capítulo 10. Princípios e Diretrizes para o Design de IHC, tópico 10.5 Guias de Estilo, página 257. Autopublicação. ISBN: 978-65-00-19677-1. | | |
+| 10 |O Guia de Estilo possui uma descrição sobre o layout do site?| Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) *Interação Humano-Computador e Experiência do usuário.* Capítulo 10. Princípios e Diretrizes para o Design de IHC, tópico 10.5 Guias de Estilo, página 257. Autopublicação. ISBN: 978-65-00-19677-1. | | |
+| 11 |O Guia de Estilo possui uma descrição sobre a tipografia?| Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) *Interação Humano-Computador e Experiência do usuário.* Capítulo 10. Princípios e Diretrizes para o Design de IHC, tópico 10.5 Guias de Estilo, página 257. Autopublicação. ISBN: 978-65-00-19677-1. | | |
+| 12 | O Guia de Estilo possui uma descrição sobre o simbolismo dos ícones?| Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) *Interação Humano-Computador e Experiência do usuário.* Capítulo 10. Princípios e Diretrizes para o Design de IHC, tópico 10.5 Guias de Estilo, página 257. Autopublicação. ISBN: 978-65-00-19677-1. | | |
+| 13 | O artefato possui uma descrição sobre as cores do site?| Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) *Interação Humano-Computador e Experiência do usuário.* Capítulo 10. Princípios e Diretrizes para o Design de IHC, tópico 10.5 Guias de Estilo, página 257. Autopublicação. ISBN: 978-65-00-19677-1. | | |
+| 14 | O artefato possui uma descrição sobre a visualização de informações do site?| Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) *Interação Humano-Computador e Experiência do usuário.* Capítulo 10. Princípios e Diretrizes para o Design de IHC, tópico 10.5 Guias de Estilo, página 257. Autopublicação. ISBN: 978-65-00-19677-1. | | |
+| 15 |A guia de Estilo segue uma estrutura contendo: Introdução, Resultados de Ánalise, Elementos de interface, Elementos de interação, Elementos de Ação, Vocabulário e Padrões?| Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) *Interação Humano-Computador e Experiência do usuário.* Capítulo 10. Princípios e Diretrizes para o Design de IHC, tópico 10.5 Guias de Estilo, página 258. Autopublicação. ISBN: 978-65-00-19677-1. | | |
 
 <font size="3"><p style="text-align: center"><b>Fonte: </b> [João Artur](https://github.com/joao-artl).</p></font>
 </center>
@@ -54,4 +61,4 @@ A Tabela 2 a seguir apresenta a verificação do artefato <a href="https://inter
 
 | Versão| Data | Data Prevista de Revisão| Descrição  | Autor(es)  | Revisor(es) |
 | ------- | ------ | ------ | ------- | -------- | -------- |
-| `1.0` | 06/06/2024 | 07/06/2024 | Criação do documento, introdução e inserção das tabelas | [João Artur](https://github.com/joao-artl)|[Diego Sousa](https://github.com/DiegoSousaLeite)|
+| `1.0` | 06/06/2024 | 07/06/2024 | Criando documento, introdução e checklist do artefato | [João Artur](https://github.com/joao-artl)|[Diego Sousa](https://github.com/DiegoSousaLeite)|
