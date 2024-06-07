@@ -46,13 +46,15 @@ A Tabela 2 a seguir apresenta a verificação do artefato <a href="https://inter
 <font size="3"><p style="text-align: center"><b>Fonte: </b> [João Artur](https://github.com/joao-artl).</p></font>
 </center>
 
-
 ## <a>Bibliografia</a>
-> <a>1. </a>Projeto da disciplina Interação Humano-Computador. SIGAA. Disponível em: <https://interacao-humano-computador.github.io/2024.1-SIGAA/#/>. Acesso em 06 de junho de 2024.
 
-> <a>2. </a>Projeto da disciplina Interação Humano-Computador. Bilheteria Digital. Disponível em: <https://interacao-humano-computador.github.io/2023.1-BilheteriaDigital/verificacao/grupo2/etapa3/planejamento-verificacao-etapa3-grupo2/>. Acesso em 06 de junho de 2024.>
+> <a>1. </a> Diana Fournier. As 6 metas de Usabilidade. MEDIUM, 2016. Disponível em: https://medium.com/vivareal-ux-chapter/as-6-metas-de-usabilidade-9491442fd56a. Acesso em: 6 de junho de 2024.
 
-> <a>3. </a> Projeto da disciplina Interação Humano-Computador. Dominio Público. Disponível em: <https://interacao-humano-computador.github.io/2023.2-Dominio-Publico/verficacao/verificacao_grupo_5/etapa_analise_requisitos/planejamento_avaliacao/>. Acesso em 06 de junho de 2024.
+> <a>2. </a>Projeto da disciplina Interação Humano-Computador. SIGAA. Disponível em: <https://interacao-humano-computador.github.io/2024.1-SIGAA/#/>. Acesso em 06 de junho de 2024.
+
+> <a>3. </a>Projeto da disciplina Interação Humano-Computador. Bilheteria Digital. Disponível em: <https://interacao-humano-computador.github.io/2023.1-BilheteriaDigital/verificacao/grupo2/etapa3/planejamento-verificacao-etapa3-grupo2/>. Acesso em 06 de junho de 2024.>
+
+> <a>4. </a> Projeto da disciplina Interação Humano-Computador. Dominio Público. Disponível em: <https://interacao-humano-computador.github.io/2023.2-Dominio-Publico/verficacao/verificacao_grupo_5/etapa_analise_requisitos/planejamento_avaliacao/>. Acesso em 06 de junho de 2024.
 
 ## <a>Histórico de Versão</a>
 
