@@ -72,20 +72,20 @@ A tabela 3 a seguir demonstra o checklist referente as verificações desse arte
 
 <font size="3"><p style="text-align: center"><b>Tabela 3</b> - Checklist dos Princípios Gerais do Projeto.</p></font>
 
-|**ID**|**Descrição**|**Fonte**|**Avaliação**|**Observações**|
-|----|-----------|------|-----|-------------|
-| 9 | O artefato apresenta os Princípios Gerais que serão utilizados no projeto?| Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) *Interação Humano-Computador e Experiência do usuário.* Capítulo 10. Princípios e Diretrizes para o Design de IHC, tópico 10.2 Princípios e Diretrizes Gerais, página 238. Autopublicação. ISBN: 978-65-00-19677-1. |  |  |
-| 10 | Os Princípios Gerais do Projeto apresentam um tópico sobre "correspondência com as expectativas dos usuários"?     | Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) *Interação Humano-Computador e Experiência do usuário.* Capítulo 10. Princípios e Diretrizes para o Design de IHC, tópico 10.2.1 Correspondência com as Expectativas dos Usuários página 238. Autopublicação. ISBN: 978-65-00-19677-1.| | |
-| 11 | Os Princípios Gerais do Projeto apresentam um tópico sobre "simplicidade nas estruturas das tarefas"? | Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) *Interação Humano-Computador e Experiência do usuário.* Capítulo 10. Princípios e Diretrizes para o Design de IHC, tópico 10.2.2 Simplicidade nas Estruturas das Tarefas, página 239. Autopublicação. ISBN: 978-65-00-19677-1.| | |
-| 12 | Os Princípios Gerais do Projeto apresentam um tópico sobre "equilíbrio entre controle e liberdade do usuário"? | Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) *Interação Humano-Computador e Experiência do usuário.* Capítulo 10. Princípios e Diretrizes para o Design de IHC, tópico 10.2.3 Equilíbrio entre Controle e Liberdade do Usuário, página 239. Autopublicação. ISBN: 978-65-00-19677-1.| | |
-| 13 | Os Princípios Gerais do Projeto apresentam um tópico sobre "Consistênia e padronização"? | Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) *Interação Humano-Computador e Experiência do usuário.* Capítulo 10. Princípios e Diretrizes para o Design de IHC, tópico 10.2.4 Consistência e Padronização, página 241. Autopublicação. ISBN: 978-65-00-19677-1.| | | 
-| 14 | Os Princípios Gerais do Projeto apresentam um tópico sobre  "promoção da eficiência do usuário"?  | Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) *Interação Humano-Computador e Experiência do usuário.* Capítulo 10. Princípios e Diretrizes para o Design de IHC, tópico 10.2.5 Promovendo a Eficiência do Usuário, página 242. Autopublicação. ISBN: 978-65-00-19677-1.| | |
-| 15 | Os Princípios Gerais do Projeto apresentam um tópico sobre "Antecipação"? | Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) *Interação Humano-Computador e Experiência do usuário.* Capítulo 10. Princípios e Diretrizes para o Design de IHC, tópico 10.2.6 Antecipação, página 243. Autopublicação. ISBN: 978-65-00-19677-1.| | |
-| 16 | Os Princípios Gerais do Projeto apresentam um tópico sobre "visibilidade e reconhecimento"? | Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) *Interação Humano-Computador e Experiência do usuário.* Capítulo 10. Princípios e Diretrizes para o Design de IHC, tópico 10.2.7 Visibilidade e Reconhecimento, página 244. Autopublicação. ISBN: 978-65-00-19677-1.| | |
-| 17 | Os Princípios Gerais do Projeto apresentam um tópico sobre "conteúdo relevante e expressão adequada"? | Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) *Interação Humano-Computador e Experiência do usuário.* Capítulo 10. Princípios e Diretrizes para o Design de IHC, tópico 10.2.8 Conteúdo Relevante e Expressão Adequada, página 246. Autopublicação. ISBN: 978-65-00-19677-1.| | |
-| 18 | Os Princípios Gerais do Projeto apresentam um tópico sobre "projeto para erros"? | Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) *Interação Humano-Computador e Experiência do usuário.* Capítulo 10. Princípios e Diretrizes para o Design de IHC, tópico 10.2.9 Projeto para Erros, página 247. Autopublicação. ISBN: 978-65-00-19677-1.| | |
-| 19 | Os Princípios Gerais possuem uma avaliação com "Problemas encontrados", incluindo fotos ou gravações?| Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) *Interação Humano-Computador e Experiência do usuário.* Capítulo 10. Princípios e Diretrizes para o Design de IHC, tópico 10.2 Princípios e Diretrizes Gerais, página 238. Autopublicação. ISBN: 978-65-00-19677-1. |  | |
-| 20 | Os Princípios Gerais possuem uma avaliação com "Proposta de solução", para problemas encontrados?| Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) *Interação Humano-Computador e Experiência do usuário.* Capítulo 10. Princípios e Diretrizes para o Design de IHC, tópico 10.2 Princípios e Diretrizes Gerais, página 238. Autopublicação. ISBN: 978-65-00-19677-1. |  | |
+|**ID**|**Descrição**|**Avaliação**|**Observações**|
+|----|------------|-----|-------------|
+| 9 | O artefato apresenta os Princípios Gerais que serão utilizados no projeto?<a id="anchor_6" href="#REF6">^6^</a> |  |  |
+| 10 | Os Princípios Gerais do Projeto apresentam um tópico sobre "correspondência com as expectativas dos usuários"?<a id="anchor_7" href="#REF7">^7^</a> | | |
+| 11 | Os Princípios Gerais do Projeto apresentam um tópico sobre "simplicidade nas estruturas das tarefas"?<a id="anchor_8" href="#REF8">^8^</a> | | |
+| 12 | Os Princípios Gerais do Projeto apresentam um tópico sobre "equilíbrio entre controle e liberdade do usuário"?<a id="anchor_9" href="#REF9">^9^</a> | | |
+| 13 | Os Princípios Gerais do Projeto apresentam um tópico sobre "Consistênia e padronização"?<a id="anchor_10" href="#REF10">^10^</a> | | | 
+| 14 | Os Princípios Gerais do Projeto apresentam um tópico sobre  "promoção da eficiência do usuário"?<a id="anchor_11" href="#REF11">^11^</a> | | |
+| 15 | Os Princípios Gerais do Projeto apresentam um tópico sobre "Antecipação"?<a id="anchor_12" href="#REF12">^12^</a> | | |
+| 16 | Os Princípios Gerais do Projeto apresentam um tópico sobre "visibilidade e reconhecimento"?<a id="anchor_13" href="#REF13">^13^</a> | | |
+| 17 | Os Princípios Gerais do Projeto apresentam um tópico sobre "conteúdo relevante e expressão adequada"?<a id="anchor_14" href="#REF14">^14^</a> | | |
+| 18 | Os Princípios Gerais do Projeto apresentam um tópico sobre "projeto para erros"?<a id="anchor_15" href="#REF15">^15^</a>. | | |
+| 19 | Os Princípios Gerais possuem uma avaliação com "Problemas encontrados", incluindo fotos ou gravações?<a id="anchor_16" href="#REF16">^16^</a> |  | |
+| 20 | Os Princípios Gerais possuem uma avaliação com "Proposta de solução", para problemas encontrados?<a id="anchor_16" href="#REF16">^16^</a>|  | |
 
 <font size="3"><p style="text-align: center"><b>Fonte: </b> [João Artur](https://github.com/joao-artl).</p></font>
 </center>
@@ -131,12 +131,6 @@ A tabela 5 a seguir demonstra o checklist referente as verificações desse arte
 <font size="3"><p style="text-align: center"><b>Fonte: </b> [João Artur](https://github.com/joao-artl).</p></font>
 </center>
 
-
-## <a>Bibliografia</a>
-> <a>1. </a>Gerência e Qualidade de Software - Aula 05 - Verificação e Validação. UNIVESP. Disponível em: <https://www.youtube.com/watch?v=1Y-1zz6rZxo&t=205s>. Acesso em: 05 de junho de 2024 às 12:00.
-
-> <a>2. </a>SERRANO, Milene. SERRANO, Maurício. Apresentação: Requisitos - Aula 23.
-
 ## <a>Referência Bibliografica</a>
 > <a id="REF1" href="#anchor_1">1. </a>Gerência e Qualidade de Software - Aula 05 - Verificação e Validação. UNIVESP. Disponível em: <https://www.youtube.com/watch?v=1Y-1zz6rZxo&t=205s>. Acesso em: 06 de junho de 2024 às 12:00.
 
@@ -147,6 +141,34 @@ A tabela 5 a seguir demonstra o checklist referente as verificações desse arte
 > <a id="REF4" href="#anchor_4">4. </a> NIELSEN, Jacob. Designing Web Usability: The Practice of Simplicity Peachpit Press, la edição 1999
 
 > <a id="REF5" href="#anchor_5">5. </a> Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) *Interação Humano-Computador e Experiência do usuário Autopublicação. ISBN: 978-65-00-19677-1.
+
+> <a id="REF6" href="#anchor_6">6.</a> Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) *Interação Humano-Computador e Experiência do usuário.* Capítulo 10. Princípios e Diretrizes para o Design de IHC, tópico 10.2 Princípios e Diretrizes Gerais, página 238. Autopublicação. ISBN: 978-65-00-19677-1.
+
+> <a id="REF7" href="#anchor_7">7.</a> Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) *Interação Humano-Computador e Experiência do usuário.* Capítulo 10. Princípios e Diretrizes para o Design de IHC, tópico 10.2.1 Correspondência com as Expectativas dos Usuários página 238. Autopublicação. ISBN: 978-65-00-19677-1.
+
+> <a id="REF8" href="#anchor_8">8.</a> Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) *Interação Humano-Computador e Experiência do usuário.* Capítulo 10. Princípios e Diretrizes para o Design de IHC, tópico 10.2.2 Simplicidade nas Estruturas das Tarefas, página 239. Autopublicação. ISBN: 978-65-00-19677-1.
+
+> <a id="REF9" href="#anchor_9">9.</a> Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) *Interação Humano-Computador e Experiência do usuário.* Capítulo 10. Princípios e Diretrizes para o Design de IHC, tópico 10.2.3 Equilíbrio entre Controle e Liberdade do Usuário, página 239. Autopublicação. ISBN: 978-65-00-19677-1.
+
+> <a id="REF10" href="#anchor_10">10.</a>  Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) *Interação Humano-Computador e Experiência do usuário.* Capítulo 10. Princípios e Diretrizes para o Design de IHC, tópico 10.2.4 Consistência e Padronização, página 241. Autopublicação. ISBN: 978-65-00-19677-1.
+
+> <a id="REF11" href="#anchor_11">11. </a> Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) *Interação Humano-Computador e Experiência do usuário.* Capítulo 10. Princípios e Diretrizes para o Design de IHC, tópico 10.2.5 Promovendo a Eficiência do Usuário, página 242. Autopublicação. ISBN: 978-65-00-19677-1.
+
+> <a id="REF12" href="#anchor_12">12. </a> Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) *Interação Humano-Computador e Experiência do usuário.* Capítulo 10. Princípios e Diretrizes para o Design de IHC, tópico 10.2.6 Antecipação, página 243. Autopublicação. ISBN: 978-65-00-19677-1.
+
+> <a id="REF13" href="#anchor_13">13. </a>  Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) *Interação Humano-Computador e Experiência do usuário.* Capítulo 10. Princípios e Diretrizes para o Design de IHC, tópico 10.2.7 Visibilidade e Reconhecimento, página 244. Autopublicação. ISBN: 978-65-00-19677-1.
+
+> <a id="REF14" href="#anchor_14">14. </a> Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) *Interação Humano-Computador e Experiência do usuário.* Capítulo 10. Princípios e Diretrizes para o Design de IHC, tópico 10.2.8 Conteúdo Relevante e Expressão Adequada, página 246. Autopublicação. ISBN: 978-65-00-19677-1.
+
+> <a id="REF15" href="#anchor_15">15. </a> Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) *Interação Humano-Computador e Experiência do usuário.* Capítulo 10. Princípios e Diretrizes para o Design de IHC, tópico 10.2.9 Projeto para Erros, página 247. Autopublicação. ISBN: 978-65-00-19677-1.
+
+> <a id="REF16" href="#anchor_16">16. </a>  Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) *Interação Humano-Computador e Experiência do usuário.* Capítulo 10. Princípios e Diretrizes para o Design de IHC, tópico 10.2 Princípios e Diretrizes Gerais, página 238. Autopublicação. ISBN: 978-65-00-19677-1. 
+
+## <a>Bibliografia</a>
+> <a>1. </a>Gerência e Qualidade de Software - Aula 05 - Verificação e Validação. UNIVESP. Disponível em: <https://www.youtube.com/watch?v=1Y-1zz6rZxo&t=205s>. Acesso em: 05 de junho de 2024 às 12:00.
+
+> <a>2. </a>SERRANO, Milene. SERRANO, Maurício. Apresentação: Requisitos - Aula 23.
+
 
 ## <a>Histórico de Versão</a>
 

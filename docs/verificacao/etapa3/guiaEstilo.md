@@ -49,6 +49,8 @@ A Tabela 2 a seguir apresenta a verificação do artefato <a href="https://inter
 <font size="3"><p style="text-align: center"><b>Fonte: </b> [João Artur](https://github.com/joao-artl).</p></font>
 </center>
 
+## <a>Referência Bibliografica</a>
+
 ## <a>Bibliografia</a>
 
 > <a>1. </a>BARBOSA, Simone Diniz Junqueira et al. Interação humano-computador e experiência do usuário. 1. ed. Rio de Janeiro: Simone Diniz Junqueira Barbosa, 2021. Autopublicação. ISBN: 978-65-00-19677-1.
