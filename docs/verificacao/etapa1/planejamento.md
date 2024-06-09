@@ -155,6 +155,14 @@ A tabela 6 a seguir demonstra o checklist referente as verificações desse arte
 
 </center>
 
+## <a>Referência Bibliografica</a>
+> <a id="REF1" href="#anchor_1">1. </a>Gerência e Qualidade de Software - Aula 05 - Verificação e Validação. UNIVESP. Disponível em: <https://www.youtube.com/watch?v=1Y-1zz6rZxo&t=205s>. Acesso em: 05 de junho de 2024 às 12:00.
+
+> <a id="REF2" href="#anchor_2">2. </a>SERRANO, Milene. SERRANO, Maurício. Apresentação: Requisitos - Aula 23. Página 19.
+
+> <a id="FRM3" href="#anchor_3">3.</a> Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) *Interação Humano-Computador e Experiência do usuário.* Capítulo 6.3, página 112. Autopublicação. ISBN: 978-65-00-19677-1.
+
+
 ## <a>Bibliografia</a>
 > <a>1. </a>Gerência e Qualidade de Software - Aula 05 - Verificação e Validação. UNIVESP. Disponível em: <https://www.youtube.com/watch?v=1Y-1zz6rZxo&t=205s>. Acesso em: 05 de junho de 2024 às 12:00.
 
@@ -162,12 +170,6 @@ A tabela 6 a seguir demonstra o checklist referente as verificações desse arte
 
 > <a>3.</a> Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) *Interação Humano-Computador e Experiência do usuário Autopublicação. ISBN: 978-65-00-19677-1.
 
-## <a>Referência Bibliografica</a>
-> <a id="REF1" href="#anchor_1">1. </a>Gerência e Qualidade de Software - Aula 05 - Verificação e Validação. UNIVESP. Disponível em: <https://www.youtube.com/watch?v=1Y-1zz6rZxo&t=205s>. Acesso em: 05 de junho de 2024 às 12:00.
-
-> <a id="REF2" href="#anchor_2">2. </a>SERRANO, Milene. SERRANO, Maurício. Apresentação: Requisitos - Aula 23. Página 19.
-
-> <a id="FRM3" href="#anchor_3">3.</a> Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) *Interação Humano-Computador e Experiência do usuário.* Capítulo 6.3, página 112. Autopublicação. ISBN: 978-65-00-19677-1.
 
 ## <a>Histórico de Versão</a>
 
