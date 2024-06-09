@@ -76,18 +76,17 @@ nav:
         - Planejamento da Avaliação do Protótipo de Papel: design-avaliacao-desenvolvimento/nivel2/prototipoPapel/planejamentoAvaliacao.md
         - Planejamento do Relato dos Resultados da Avaliação: design-avaliacao-desenvolvimento/nivel2/prototipoPapel/planejamentoResultados.md
   - Verificação: 
-    Grupo 2: 
-      - Etapa 1:
-        - Planejamento da Verificação da Etapa 1: verificacao/grupo2/etapa1/planejamento.md
-        - Cronograma: verificacao/grupo2/etapa1/cronograma.md
-        - Ferramentas: verificacao/grupo2/etapa1/ferramentas.md
-        - Processo de Design: verificacao/grupo2/etapa1/processoDesign.md
-        - Site Escolhido: verificacao/grupo2/etapa1/siteEscolhido.md
-      - Etapa 3:
-        - Planejamento da Verificação da Etapa 3: verificacao/grupo2/etapa3/planejamento.md
-        - Princípios Gerais do projeto: verificacao/grupo2/etapa3/principiosGerais.md
-        - Metas de Usabilidade: verificacao/grupo2/etapa3/metaUsabilidade.md
-        - Guia de Estilo: verificacao/grupo2/etapa3/guiaEstilo.md
+    - Etapa 1:
+      - Planejamento da Verificação da Etapa 1: verificacao/etapa1/planejamento.md
+      - Cronograma: verificacao/etapa1/cronograma.md
+      - Ferramentas: verificacao/etapa1/ferramentas.md
+      - Processo de Design: verificacao/etapa1/processoDesign.md
+      - Site Escolhido: verificacao/etapa1/siteEscolhido.md
+    - Etapa 3:
+      - Planejamento da Verificação da Etapa 3: verificacao/etapa3/planejamento.md
+      - Princípios Gerais do projeto: verificacao/etapa3/principiosGerais.md
+      - Metas de Usabilidade: verificacao/etapa3/metaUsabilidade.md
+      - Guia de Estilo: verificacao/etapa3/guiaEstilo.md
 
 
 
