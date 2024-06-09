@@ -42,7 +42,7 @@ Os resultados obtidos após as verificações serão exibidos na respectiva guia
 
 Os checklists são ferramentas essenciais de verificação que ajudam a identificar defeitos ou características ausentes no projeto. Eles garantem a consistência, completude e conformidade dos artefatos com os requisitos estabelecidos, promovendo a qualidade e a integridade do projeto.
 
-Baseados na padronização dos repositórios da disciplina e dos artefatos, criamos checklists gerais que devem ser aplicados a todos os artefatos desenvolvidos pela equipe ao longo do projeto. A tabela 2 a seguir, representa as verificações gerais para todos os artefatos presentes no projeto:
+Baseando-se na padronização dos repositórios da disciplina e dos artefatos, o integrante do grupo 01, [Eric Silveira](https://github.com/ericbky), elaborou checklists gerais que devem ser aplicados a todos os artefatos desenvolvidos pela equipe ao longo do projeto. A tabela 2 a seguir apresenta as verificações gerais para todos os artefatos incluídos no projeto:
 
 <center>
 
@@ -59,7 +59,7 @@ Baseados na padronização dos repositórios da disciplina e dos artefatos, cria
 |7|O artefato chama as referências bibliográficas presentes de forma correta no texto?|||
 |8|O artefato possui um histórico de versão padronizado apresentando as versões, datas, datas de revisão, descrição, responsáveis e revisores?|||
 
-<font size="3"><p style="text-align: center"><b>Fonte: </b> [Eric Silveira](https://github.com/ericbky) e [João Artur](https://github.com/joao-artl).</p></font>
+<font size="3"><p style="text-align: center"><b>Fonte: </b> [Eric Silveira](https://github.com/ericbky).</p></font>
 </center>
 
 
