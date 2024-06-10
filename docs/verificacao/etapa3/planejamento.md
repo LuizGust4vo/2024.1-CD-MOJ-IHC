@@ -99,12 +99,12 @@ A tabela 4 a seguir demonstra o checklist referente as verificações desse arte
 
 <font size="3"><p style="text-align: center"><b>Tabela 4</b> - Checklist das Metas de Usabilidade.</p></font>
 
-|**ID**|**Descrição**|**Fonte**|**Avaliação**|**Observações**|
-|----|-----------|------|-----|-------------|
-| 9 | O artefato apresenta a descrição das metas de usabilidade a serem alcançadas no projeto? |Diana Fournier. As 6 metas de Usabilidade. MEDIUM, 2016. Disponível em: https://medium.com/vivareal-ux-chapter/as-6-metas-de-usabilidade-9491442fd56a. Acesso em: 6 de junho de 2024.| | |
-| 10 |O artefato apresenta as 6 metas de usabilidade: Eficácia, Eficiência, Segurança, Utilidade, Aprendizagem, Memorização|Diana Fournier. As 6 metas de Usabilidade. MEDIUM, 2016. Disponível em: https://medium.com/vivareal-ux-chapter/as-6-metas-de-usabilidade-9491442fd56a. Acesso em: 6 de junho de 2024.| | |
-| 11 |As metas foram definidas através do perfil de usuário? |Diana Fournier. As 6 metas de Usabilidade. MEDIUM, 2016. Disponível em: https://medium.com/vivareal-ux-chapter/as-6-metas-de-usabilidade-9491442fd56a. Acesso em: 6 de junho de 2024.| | |
-| 12 |Cada meta de usabilidade possui uma breve explicação? |Diana Fournier. As 6 metas de Usabilidade. MEDIUM, 2016. Disponível em: https://medium.com/vivareal-ux-chapter/
+|**ID**|**Descrição**|**Avaliação**|**Observações**|
+|----|-----------|--------|-------------|
+| 9 | O artefato apresenta a descrição das metas de usabilidade a serem alcançadas no projeto?<a id="anchor_17" href="#REF17">^17^</a> | | |
+| 10 |O artefato apresenta as 6 metas de usabilidade(Eficácia, Eficiência, Segurança, Utilidade, Aprendizagem, Memorização)?<a id="anchor_17" href="#REF17">^17^</a> | | |
+| 11 |As metas foram definidas através do perfil de usuário?<a id="anchor_17" href="#REF17">^17^</a> | | |
+| 12 |Cada meta de usabilidade possui uma breve explicação?<a id="anchor_17" href="#REF17">^17^</a> | | |
 
 <font size="3"><p style="text-align: center"><b>Fonte: </b> [João Artur](https://github.com/joao-artl).</p></font>
 </center>
@@ -118,15 +118,15 @@ A tabela 5 a seguir demonstra o checklist referente as verificações desse arte
 
 <font size="3"><p style="text-align: center"><b>Tabela 5</b> - Checklist da Guia de Estilo.</p></font>
 
-|**ID**|**Descrição**|**Fonte**|**Avaliação**|**Observações**|
-|----|-----------|------|-----|-------------|
-| 9 |  O Guia de Estilo corresponde ao site avaliado? | Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) *Interação Humano-Computador e Experiência do usuário.* Capítulo 10. Princípios e Diretrizes para o Design de IHC, tópico 10.5 Guias de Estilo, página 257. Autopublicação. ISBN: 978-65-00-19677-1. | | |
-| 10 |O Guia de Estilo possui uma descrição sobre o layout do site?| Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) *Interação Humano-Computador e Experiência do usuário.* Capítulo 10. Princípios e Diretrizes para o Design de IHC, tópico 10.5 Guias de Estilo, página 257. Autopublicação. ISBN: 978-65-00-19677-1. | | |
-| 11 |O Guia de Estilo possui uma descrição sobre a tipografia?| Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) *Interação Humano-Computador e Experiência do usuário.* Capítulo 10. Princípios e Diretrizes para o Design de IHC, tópico 10.5 Guias de Estilo, página 257. Autopublicação. ISBN: 978-65-00-19677-1. | | |
-| 12 | O Guia de Estilo possui uma descrição sobre o simbolismo dos ícones?| Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) *Interação Humano-Computador e Experiência do usuário.* Capítulo 10. Princípios e Diretrizes para o Design de IHC, tópico 10.5 Guias de Estilo, página 257. Autopublicação. ISBN: 978-65-00-19677-1. | | |
-| 13 | O artefato possui uma descrição sobre as cores do site?| Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) *Interação Humano-Computador e Experiência do usuário.* Capítulo 10. Princípios e Diretrizes para o Design de IHC, tópico 10.5 Guias de Estilo, página 257. Autopublicação. ISBN: 978-65-00-19677-1. | | |
-| 14 | O artefato possui uma descrição sobre a visualização de informações do site?| Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) *Interação Humano-Computador e Experiência do usuário.* Capítulo 10. Princípios e Diretrizes para o Design de IHC, tópico 10.5 Guias de Estilo, página 257. Autopublicação. ISBN: 978-65-00-19677-1. | | |
-| 15 |A guia de Estilo segue uma estrutura contendo: Introdução, Resultados de Ánalise, Elementos de interface, Elementos de interação, Elementos de Ação, Vocabulário e Padrões?| Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) *Interação Humano-Computador e Experiência do usuário.* Capítulo 10. Princípios e Diretrizes para o Design de IHC, tópico 10.5 Guias de Estilo, página 258. Autopublicação. ISBN: 978-65-00-19677-1. | | |
+|**ID**|**Descrição**|**Avaliação**|**Observações**|
+|----|-----------|--------|-------------|
+| 9 |  O Guia de Estilo corresponde ao site avaliado?<a id="anchor_18" href="#REF18">^18^</a> | | |
+| 10 |O Guia de Estilo possui uma descrição sobre o layout do site?<a id="anchor_18" href="#REF18">^18^</a> | | |
+| 11 |O Guia de Estilo possui uma descrição sobre a tipografia?<a id="anchor_18" href="#REF18">^18^</a>| | |
+| 12 | O Guia de Estilo possui uma descrição sobre o simbolismo dos ícones?<a id="anchor_18" href="#REF18">^18^</a>| | |
+| 13 | O artefato possui uma descrição sobre as cores do site?<a id="anchor_18" href="#REF18">^18^</a> | | |
+| 14 | O artefato possui uma descrição sobre a visualização de informações do site?<a id="anchor_18" href="#REF18">^18^</a> | | |
+| 15 |A guia de Estilo segue uma estrutura contendo: Introdução, Resultados de Ánalise, Elementos de interface, Elementos de interação, Elementos de Ação, Vocabulário e Padrões?<a id="anchor_19" href="#REF19">^19^</a> | | |
 
 <font size="3"><p style="text-align: center"><b>Fonte: </b> [João Artur](https://github.com/joao-artl).</p></font>
 </center>
@@ -164,6 +164,12 @@ A tabela 5 a seguir demonstra o checklist referente as verificações desse arte
 
 > <a id="REF16" href="#anchor_16">16. </a>  Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) *Interação Humano-Computador e Experiência do usuário.* Capítulo 10. Princípios e Diretrizes para o Design de IHC, tópico 10.2 Princípios e Diretrizes Gerais, página 238. Autopublicação. ISBN: 978-65-00-19677-1. 
 
+> <a id="REF17" href="#anchor_17">17. </a> Diana Fournier. As 6 metas de Usabilidade. MEDIUM, 2016. Disponível em: https://medium.com/vivareal-ux-chapter/as-6-metas-de-usabilidade-9491442fd56a. Acesso em: 6 de junho de 2024.
+
+> <a id="REF18" href="#anchor_18">18.</a> Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) *Interação Humano-Computador e Experiência do usuário.* Capítulo 10. Princípios e Diretrizes para o Design de IHC, tópico 10.5 Guias de Estilo, página 257. Autopublicação. ISBN: 978-65-00-19677-1.
+
+> <a id="REF19" href="#anchor_19">19.</a> Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) *Interação Humano-Computador e Experiência do usuário.* Capítulo 10. Princípios e Diretrizes para o Design de IHC, tópico 10.5 Guias de Estilo, página 258. Autopublicação. ISBN: 978-65-00-19677-1.
+
 ## <a>Bibliografia</a>
 > <a>1. </a>Gerência e Qualidade de Software - Aula 05 - Verificação e Validação. UNIVESP. Disponível em: <https://www.youtube.com/watch?v=1Y-1zz6rZxo&t=205s>. Acesso em: 05 de junho de 2024 às 12:00.
 
@@ -175,3 +181,4 @@ A tabela 5 a seguir demonstra o checklist referente as verificações desse arte
 | Versão| Data | Data Prevista de Revisão| Descrição  | Autor(es)  | Revisor(es) |
 | ------- | ------ | ------ | ------- | -------- | -------- |
 | `1.0` | 06/06/2024 | 07/06/2024 | Criação do documento com Introdução, Metodologia e Características da Verificação dos artefatos e Checklists dos artefatos. | [João Artur](https://github.com/joao-artl)|[Eric Silveira](https://github.com/ericbky)|
+| `1.1` | 09/06/2024 | 10/06/2024 | Padronizando referências | [João Artur](https://github.com/joao-artl)|[Diego Sousa](https://github.com/DiegoSousaLeite)|

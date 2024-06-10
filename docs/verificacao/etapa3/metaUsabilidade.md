@@ -28,25 +28,27 @@ A Tabela 2 a seguir apresenta a verificação do artefato <a href="https://inter
 
 <font size="3"><p style="text-align: center"><b>Tabela 2</b> - Verificação das Metas de Usabilidade.</p></font>
 
-|**ID**|**Descrição**|**Fonte**|**Avaliação**|**Observações**|
-|----|-----------|------|-----|-------------|
-|1|O artefato possui uma introdução descrevendo-o?|Não se aplica|||
-|2|O artefato possui padronização nos títulos?|Não se aplica|||
-|3|O artefato caso contenha tabelas, as chama no texto?|Não se aplica|||
-|4|O artefato caso tenha figuras as chamam no texto?|Não se aplica|||		
-|5|O artefato possui a fonte das figuras, tabelas e outras aspectos que necessitem da mesma?|Não se aplica|||		
-|6|O artefato possui bibliografia e/ou referência bibliográfica?|Não se aplica|||
-|7|O artefato chama as referências bibliográficas presentes de forma correta no texto?|Não se aplica|||
-|8|O artefato possui um histórico de versão padronizado apresentando as versões, datas, datas de revisão, descrição, responsáveis e revisores?|Não se aplica|||
-| 9 | O artefato apresenta a descrição das metas de usabilidade a serem alcançadas no projeto? |Diana Fournier. As 6 metas de Usabilidade. MEDIUM, 2016. Disponível em: https://medium.com/vivareal-ux-chapter/as-6-metas-de-usabilidade-9491442fd56a. Acesso em: 6 de junho de 2024.| | |
-| 10 |O artefato apresenta as 6 metas de usabilidade: Eficácia, Eficiência, Segurança, Utilidade, Aprendizagem, Memorização|Diana Fournier. As 6 metas de Usabilidade. MEDIUM, 2016. Disponível em: https://medium.com/vivareal-ux-chapter/as-6-metas-de-usabilidade-9491442fd56a. Acesso em: 6 de junho de 2024.| | |
-| 11 |As metas foram definidas através do perfil de usuário? |Diana Fournier. As 6 metas de Usabilidade. MEDIUM, 2016. Disponível em: https://medium.com/vivareal-ux-chapter/as-6-metas-de-usabilidade-9491442fd56a. Acesso em: 6 de junho de 2024.| | |
-| 12 |Cada meta de usabilidade possui uma breve explicação? |Diana Fournier. As 6 metas de Usabilidade. MEDIUM, 2016. Disponível em: https://medium.com/vivareal-ux-chapter/
+|**ID**|**Descrição**|**Avaliação**|**Observações**|
+|----|-----------|-------|-------------|
+|1|O artefato possui uma introdução descrevendo-o? |||
+|2|O artefato possui padronização nos títulos? |||
+|3|O artefato caso contenha tabelas, as chama no texto? |||
+|4|O artefato caso tenha figuras as chamam no texto? |||		
+|5|O artefato possui a fonte das figuras, tabelas e outras aspectos que necessitem da mesma? |||		
+|6|O artefato possui bibliografia e/ou referência bibliográfica? |||
+|7|O artefato chama as referências bibliográficas presentes de forma correta no texto? |||
+|8|O artefato possui um histórico de versão padronizado apresentando as versões, datas, datas de revisão, descrição, responsáveis e revisores? |||
+| 9 | O artefato apresenta a descrição das metas de usabilidade a serem alcançadas no projeto?<a id="anchor_ 1" href="#REF 1">^ 1^</a> | | |
+| 10 |O artefato apresenta as 6 metas de usabilidade(Eficácia, Eficiência, Segurança, Utilidade, Aprendizagem, Memorização)?<a id="anchor_ 1" href="#REF 1">^ 1^</a> | | |
+| 11 |As metas foram definidas através do perfil de usuário?<a id="anchor_ 1" href="#REF 1">^ 1^</a> | | |
+| 12 |Cada meta de usabilidade possui uma breve explicação?<a id="anchor_ 1" href="#REF 1">^ 1^</a> | | |
 
 <font size="3"><p style="text-align: center"><b>Fonte: </b> [João Artur](https://github.com/joao-artl).</p></font>
 </center>
 
 ## <a>Referência Bibliografica</a>
+
+> <a id="REF 1" href="#anchor_ 1"> 1. </a> Diana Fournier. As 6 metas de Usabilidade. MEDIUM, 2016. Disponível em: https://medium.com/vivareal-ux-chapter/as-6-metas-de-usabilidade-9491442fd56a. Acesso em: 6 de junho de 2024.
 
 ## <a>Bibliografia</a>
 
@@ -63,3 +65,4 @@ A Tabela 2 a seguir apresenta a verificação do artefato <a href="https://inter
 | Versão| Data | Data Prevista de Revisão| Descrição  | Autor(es)  | Revisor(es) |
 | ------- | ------ | ------ | ------- | -------- | -------- |
 | `1.0` | 06/06/2024 | 07/06/2024 | Criando documento, introdução e checklist do artefato | [João Artur](https://github.com/joao-artl)|[Diego Sousa](https://github.com/DiegoSousaLeite)|
+| `1.1` | 09/06/2024 | 10/06/2024 | Padronizando referências | [João Artur](https://github.com/joao-artl)|[Diego Sousa](https://github.com/DiegoSousaLeite)|

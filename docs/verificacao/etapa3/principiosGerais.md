@@ -92,3 +92,4 @@ A Tabela 2 a seguir apresenta a verificação do artefato <a href="https://inter
 | Versão| Data | Data Prevista de Revisão| Descrição  | Autor(es)  | Revisor(es) |
 | ------- | ------ | ------ | ------- | -------- | -------- |
 | `1.0` | 06/06/2024 | 07/06/2024 | Criando documento, introdução e checklist do artefato | [João Artur](https://github.com/joao-artl)|[Diego Sousa](https://github.com/DiegoSousaLeite)|
+| `1.1` | 09/06/2024 | 10/06/2024 | Padronizando referências | [João Artur](https://github.com/joao-artl)|[Diego Sousa](https://github.com/DiegoSousaLeite)|
