@@ -35,49 +35,42 @@ Os resultados obtidos após as verificações serão exibidos na respectiva guia
 
 - <a href="https://interacao-humano-computador.github.io/2024.1-CD-MOJ/verificacao/etapa4/planejamentoAvaliacaoAnalise/">Planejamento da Avaliação da Análise de Tarefas</a>
 - <a href="https://interacao-humano-computador.github.io/2024.1-CD-MOJ/verificacao/etapa4/planejamentoRelatoAnalise/">Planejamento do Relato da Análise de Tarefas</a>
-- <a href="https://interacao-humano-computador.github.io/2024.1-CD-MOJ/verificacao/etapa3/planejamentoRelatoStory/">|Planejamento do Relato do Storyboard</a>
+- <a href="https://interacao-humano-computador.github.io/2024.1-CD-MOJ/verificacao/etapa3/planejamentoRelatoStory/">Planejamento do Relato do Storyboard</a>
 
 
 ## <a>Checklists</a>
 
 Os checklists são ferramentas essenciais de verificação que ajudam a identificar defeitos ou características ausentes no projeto. Eles garantem a consistência, completude e conformidade dos artefatos com os requisitos estabelecidos, promovendo a qualidade e a integridade do projeto.
 
-### Planejamento da Avaliação da Análise de Tarefas
+### <a> Planejamento da Avaliação da Análise de Tarefas </a>
 
-A tabela 2 a seguir apresenta a checklist referente aos itens exigidos para o resultado da avaliação. Esta checklist também será utilizada para a análise de tarefas, sendo modificado apenas o nome da tabela no momento de apresentação.
-
-<center>
+A tabela 2 a seguir apresenta a checklist referente aos itens exigidos para o planejamento da avaliação da análise de tarefas, conforme os conceitos apresentados por Barbosa e Silva.
 
 **Tabela 2** - Checklist para o Planejamento da Avaliação da Análise de Tarefas.
 
 | ID  | Descrição                                                                                                                                                                                                                                                                        | Avaliação | Observações |
 | --- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------- | ----------- |
-| 1   | O documento possui os objetivos do planejamento?                                                                                                                                                                                                                                 |           |             |
-| 2   | O planejamento segue o framework DECIDE?                                                                                                                                                                                                                                         |           |             |
-| 3   | O documento possui quais são os objetivos da avaliação?                                                                                                                                                                                                                          |           |             |
-| 4   | O documento possui quais são as perguntas a serem respondidas com a avaliação?                                                                                                                                                                                                   |           |             |
-| 5   | As perguntas selecionadas possuem fontes indicando de onde foram baseadas?                                                                                                                                                                                                       |           |             |
-| 6   | O documento possui quais são os métodos a serem utilizados na avaliação?                                                                                                                                                                                                         |           |             |
-| 7   | O documento possui os participantes da avaliação?                                                                                                                                                                                                                                |           |             |
-| 8   | O documento apresenta o motivo do número da escolha dos participantes?                                                                                                                                                                                                           |           |             |
-| 9   | O documento apresenta o perfil definido aos participantes de acordo com o perfil de usuário?                                                                                                                                                                                     |           |             |
-| 10  | O documento apresenta o papel desempenhado por cada participantes?                                                                                                                                                                                                               |           |             |
-| 11  | O documento possui um cronograma com data, hora e local da realização da avaliação?                                                                                                                                                                                              |           |             |
-| 12  | O documento apresenta quais as ferramentas e os equipamentos serão utilizados na avaliação?                                                                                                                                                                                      |           |             |
-| 13  | O documento apresenta quais são os custos?                                                                                                                                                                                                                                       |           |             |
-| 14  | O documento apresenta quais são os recursos de mão de obra necessários?                                                                                                                                                                                                          |           |             |
-| 15  | O documento possui uma seção sobre como as questões éticas são lidadas?                                                                                                                                                                                                          |           |             |
-| 16  | O documento possui uma seção sobre os dados (interpretação e apresentação)?                                                                                                                                                                                                      |           |             |
-| 17  | O documento apresenta tarefas de como deve ser realizada a avaliação?                                                                                                                                                                                                            |           |             |
-| 18  | O documento possui uma seção de teste piloto com sua definição, participantes, local, data e horário da realização do teste piloto?                                                                                                                                              |           |             |
-| 19  | Possui uma gravação do teste piloto?                                                                                                                                                                                                                                             |           |             |
-| 20  | O planejamento apresenta como serão documentados e tratados os dados obtidos durante o processo de avaliação? (Grau de confiabilidade das respostas, contexto em que as respostas foram produzidas e se os dados obtidos estão em conformidade com o perfil de usuário traçado.) |           |             |
+| 1   | O documento possui os objetivos do planejamento? <a id="anchor_3" href="#REF3">^3^</a>                                                                                                                                                                                          |           |             |
+| 2   | O documento possui quais são os objetivos da avaliação? <a id="anchor_3" href="#REF3">^3^</a>                                                                                                                                                                                   |           |             |
+| 3   | O documento possui quais são as perguntas a serem respondidas com a avaliação? <a id="anchor_4" href="#REF4">^4^</a>                                                                                                                                                            |           |             |
+| 4   | O documento possui quais são os métodos a serem utilizados na avaliação? <a id="anchor_5" href="#REF5">^5^</a>                                                                                                                                                                  |           |             |
+| 5   | O documento possui os participantes da avaliação? <a id="anchor_6" href="#REF6">^6^</a>                                                                                                                                                                                         |           |             |
+| 6   | O documento apresenta o motivo do número da escolha dos participantes? <a id="anchor_6" href="#REF6">^6^</a>                                                                                                                                                                    |           |             |
+| 7   | O documento apresenta o perfil definido aos participantes de acordo com o perfil de usuário? <a id="anchor_6" href="#REF6">^6^</a>                                                                                                                                              |           |             |
+| 8   | O documento apresenta quais as ferramentas e os equipamentos serão utilizados na avaliação? <a id="anchor_6" href="#REF6">^6^</a>                                                                                                                                               |           |             |
+| 9   | O documento apresenta quais são os custos? <a id="anchor_6" href="#REF6">^6^</a>                                                                                                                                                                                                |           |             |
+| 10  | O documento apresenta quais são os recursos de mão de obra necessários? <a id="anchor_6" href="#REF6">^6^</a>                                                                                                                                                                   |           |             |
+| 11  | O documento possui uma seção sobre como as questões éticas são lidadas? <a id="anchor_6" href="#REF6">^6^</a>                                                                                                                                                                   |           |             |
+| 12  | O documento apresenta tarefas de como deve ser realizada a avaliação? <a id="anchor_6" href="#REF6">^6^</a>                                                                                                                                                                     |           |             |
+| 13  | O documento possui uma seção de teste piloto com sua definição, participantes, local, data e horário da realização do teste piloto? <a id="anchor_7" href="#REF7">^7^</a>                                                                                                       |           |             |
+| 14  | Possui uma gravação do teste piloto? <a id="anchor_7" href="#REF7">^7^</a>                                                                                                                                                                                                      |           |             |
+| 15  | O documento possui uma seção sobre os dados (interpretação e apresentação)? <a id="anchor_8" href="#REF8">^8^</a>                                                                                                                                                               |           |             |
+| 16  | O planejamento segue o framework DECIDE? <a id="anchor_9" href="#REF9">^9^</a>                                                                                                                                                                                                 |           |             |
+| 17  | O planejamento apresenta como serão documentados e tratados os dados obtidos durante o processo de avaliação? (Grau de confiabilidade das respostas, contexto em que as respostas foram produzidas e se os dados obtidos estão em conformidade com o perfil de usuário traçado. <a id="anchor_9" href="#REF9">^9^</a>|  |           |             |
 
 <font size="3"><p style="text-align: center">Fonte: [Diego Sousa](https://github.com/DiegoSousaLeite).</p></font>
 
-</center>
-
-### Planejamento do Relato dos Resultados da Análise de Tarefas
+### <a>Planejamento do Relato dos Resultados da Análise de Tarefas </a>
 
 A tabela 3 a seguir apresenta a checklist referente aos itens exigidos para o documento de planejamento segundo Barbosa e Silva .<a href="#REF1"><sup>1</sup></a>
 
@@ -104,7 +97,7 @@ A tabela 3 a seguir apresenta a checklist referente aos itens exigidos para o do
 
 </center>
 
-### Planejamento do Relato dos Resultados do Storyboard
+### <a> Planejamento do Relato dos Resultados do Storyboard </a>
 
 A tabela 4 a seguir apresenta a checklist referente aos itens exigidos para o relato dos resultados segundo Barbosa e Silva.<a href="#REF1"><sup>1</sup></a>
 
@@ -139,6 +132,21 @@ A tabela 4 a seguir apresenta a checklist referente aos itens exigidos para o re
 > <a>1. </a>Gerência e Qualidade de Software - Aula 05 - Verificação e Validação. UNIVESP. Disponível em: <https://www.youtube.com/watch?v=1Y-1zz6rZxo&t=205s>. Acesso em: 05 de junho de 2024 às 12:00.
 
 > <a>2. </a>SERRANO, Milene. SERRANO, Maurício. Apresentação: Requisitos - Aula 23.
+>
+> <a id="REF3" href="#anchor_3">3.</a> Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) *Interação Humano-Computador e Experiência do usuário.* Capítulo 11. Planejamento da Avaliação de IHC, tópico 11.2 O que Avaliar?, página 264. Autopublicação. ISBN: 978-65-00-19677-1.
+>
+> <a id="REF4" href="#anchor_4">4.</a> Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) *Interação Humano-Computador e Experiência do usuário.* Capítulo 11. Planejamento da Avaliação de IHC, tópico 11.2 O que Avaliar?, página 266. Autopublicação. ISBN: 978-65-00-19677-1.
+>
+> <a id="REF5" href="#anchor_5">5.</a> Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) *Interação Humano-Computador e Experiência do usuário.* Capítulo 11. Planejamento da Avaliação de IHC, tópico 11.6 Qual Tipo de Método de Avaliação Escolher?, página 272. Autopublicação. ISBN: 978-65-00-19677-1.
+>
+> <a id="REF6" href="#anchor_6">6.</a> Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) *Interação Humano-Computador e Experiência do usuário.* Capítulo 11. Planejamento da Avaliação de IHC, tópico 11.7.2 Preparação, página 274 e 275. Autopublicação. ISBN: 978-65-00-19677-1.
+>
+> <a id="REF7" href="#anchor_7">7.</a> Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) *Interação Humano-Computador e Experiência do usuário.* Capítulo 11. Planejamento da Avaliação de IHC, tópico 11.7.2 Preparação, página 276. Autopublicação. ISBN: 978-65-00-19677-1.
+>
+> <a id="REF8" href="#anchor_8">8.</a> Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) *Interação Humano-Computador e Experiência do usuário.* Capítulo 11. Planejamento da Avaliação de IHC, 11.7.4 Interpretação, página 278 e 279. Autopublicação. ISBN: 978-65-00-19677-1.
+>
+> <a id="REF9" href="#anchor_9">9.</a> Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) *Interação Humano-Computador e Experiência do usuário.* Capítulo 11. Planejamento da Avaliação de IHC,11.8 O Framework DECIDE, página 279 e 280. Autopublicação. ISBN: 978-65-00-19677-1.
+
 
 
 ## <a>Histórico de Versão</a>
@@ -146,3 +154,4 @@ A tabela 4 a seguir apresenta a checklist referente aos itens exigidos para o re
 | Versão| Data | Data Prevista de Revisão| Descrição  | Autor(es)  | Revisor(es) |
 | ------- | ------ | ------ | ------- | -------- | -------- |
 | `1.0` | 11/06/2024 | 12/06/2024 | Criação do documento com Introdução, Metodologia e Características da Verificação dos artefatos e Checklists dos artefatos. | [Diego Sousa](https://github.com/DiegoSousaLeite)|[João Artur](https://github.com/joao-artl)|
+| `1.1` | 11/06/2024 | 12/06/2024 | Reformulação das perguntas do Planejamento da Avaliação da Análise de Tarefas| [Diego Sousa](https://github.com/DiegoSousaLeite)|[João Artur](https://github.com/joao-artl)|
