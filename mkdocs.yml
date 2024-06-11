@@ -87,7 +87,11 @@ nav:
       - Princípios Gerais do projeto: verificacao/etapa3/principiosGerais.md
       - Metas de Usabilidade: verificacao/etapa3/metaUsabilidade.md
       - Guia de Estilo: verificacao/etapa3/guiaEstilo.md
-
+    - Etapa 5:
+      - Planejamento da Verificação da Etapa 5: verificacao/etapa5/planejamento.md
+      - Relato dos Resultados da Avaliação da Análise de Tarefas: verificacao/etapa5/relatoAnaliseTaferas.md
+      - Planejamento da Avaliação do Protótipo de Papel: verificacao/etapa3/planejamentoPrototipoPapel.md
+      - Planejamento do Relato do Protótipo de Papel: verificacao/etapa3/planejamentoRelatoPapel.md
 
 
 theme:
