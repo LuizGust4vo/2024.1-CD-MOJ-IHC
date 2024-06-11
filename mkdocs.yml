@@ -82,6 +82,8 @@ nav:
       - Ferramentas: verificacao/etapa1/ferramentas.md
       - Processo de Design: verificacao/etapa1/processoDesign.md
       - Site Escolhido: verificacao/etapa1/siteEscolhido.md
+    - Etapa 2:
+      - Aspectos Éticos de Pesquisas Envolvendo Pessoas: verificacao/etapa2/aspectosEticos.md
     - Etapa 3:
       - Planejamento da Verificação da Etapa 3: verificacao/etapa3/planejamento.md
       - Princípios Gerais do projeto: verificacao/etapa3/principiosGerais.md
@@ -89,9 +91,11 @@ nav:
       - Guia de Estilo: verificacao/etapa3/guiaEstilo.md
     - Etapa 4:
       - Planejamento da Verificação da Etapa 4: verificacao/etapa4/planejamento.md
+      - Planejamento da Avaliação do Storyboard: verificacao/etapa4/planejamentoStoryboard.md
     - Etapa 5:
       - Planejamento da Verificação da Etapa 5: verificacao/etapa5/planejamento.md
       - Relato dos Resultados da Avaliação da Análise de Tarefas: verificacao/etapa5/relatoAnaliseTaferas.md
+      - Relato dos Resultados do Storyboard: verificacao/etapa5/relatoStoryboard.md
       - Planejamento da Avaliação do Protótipo de Papel: verificacao/etapa3/planejamentoPrototipoPapel.md
       - Planejamento do Relato do Protótipo de Papel: verificacao/etapa3/planejamentoRelatoPapel.md
 
