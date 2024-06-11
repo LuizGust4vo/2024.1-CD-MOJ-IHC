@@ -29,27 +29,20 @@ A Tabela 2 a seguir apresenta a verificação do artefato <a href="https://inter
 <font size="3"><p style="text-align: center"><b>Tabela 2</b> - Verificação dos Princípios Gerais do Projeto.</p></font>
 
 |**ID**|**Descrição**|**Avaliação**|**Observações**|
-|----|-----------|--------|-------------|
-|1|O artefato possui uma introdução descrevendo-o? |||
-|2|O artefato possui padronização nos títulos? |||
-|3|O artefato caso contenha tabelas, as chama no texto? |||
-|4|O artefato caso tenha figuras as chamam no texto? |||		
-|5|O artefato possui a fonte das figuras, tabelas e outras aspectos que necessitem da mesma? |||		
-|6|O artefato possui bibliografia e/ou referência bibliográfica? |||
-|7|O artefato chama as referências bibliográficas presentes de forma correta no texto? |||
-|8|O artefato possui um histórico de versão padronizado apresentando as versões, datas, datas de revisão, descrição, responsáveis e revisores? |||
-| 9 | O artefato apresenta os Princípios Gerais que serão utilizados no projeto?<a id="anchor_1" href="#REF1">^1^</a> |  |  |
-| 10 | Os Princípios Gerais do Projeto apresentam um tópico sobre "correspondência com as expectativas dos usuários"?<a id="anchor_2" href="#REF2">^2^</a> | | |
-| 11 | Os Princípios Gerais do Projeto apresentam um tópico sobre "simplicidade nas estruturas das tarefas"?<a id="anchor_3" href="#REF3">^3^</a> | | |
-| 12 | Os Princípios Gerais do Projeto apresentam um tópico sobre "equilíbrio entre controle e liberdade do usuário"?<a id="anchor_4" href="#REF4">^4^</a> | | |
-| 13 | Os Princípios Gerais do Projeto apresentam um tópico sobre "Consistênia e padronização"?<a id="anchor_5" href="#REF5">^5^</a> | | | 
-| 14 | Os Princípios Gerais do Projeto apresentam um tópico sobre  "promoção da eficiência do usuário"?<a id="anchor_6" href="#REF6">^6^</a> | | |
-| 15 | Os Princípios Gerais do Projeto apresentam um tópico sobre "Antecipação"?<a id="anchor_7" href="#REF7">^7^</a> | | |
-| 16 | Os Princípios Gerais do Projeto apresentam um tópico sobre "visibilidade e reconhecimento"?<a id="anchor_8" href="#REF8">^8^</a> | | |
-| 17 | Os Princípios Gerais do Projeto apresentam um tópico sobre "conteúdo relevante e expressão adequada"?<a id="anchor_9" href="#REF9">^9^</a> | | |
-| 18 | Os Princípios Gerais do Projeto apresentam um tópico sobre "projeto para erros"?<a id="anchor_10" href="#REF10">^10^</a>. | | |
-| 19 | Os Princípios Gerais possuem uma avaliação com "Problemas encontrados", incluindo fotos ou gravações?<a id="anchor_11" href="#REF11">^11^</a> |  | |
-| 20 | Os Princípios Gerais possuem uma avaliação com "Proposta de solução", para problemas encontrados?<a id="anchor_11" href="#REF11">^11^</a>|  | |
+|----|------------|-----|-------------|
+| 1 | O artefato apresenta os Princípios Gerais que serão utilizados no projeto?<a id="anchor_1" href="#REF1">^1^</a> |  |  |
+| 2 | Os Princípios Gerais do Projeto apresentam um tópico sobre "correspondência com as expectativas dos usuários"?<a id="anchor_2" href="#REF2">^2^</a> | | |
+| 3 | Os Princípios Gerais do Projeto apresentam um tópico sobre "simplicidade nas estruturas das tarefas"?<a id="anchor_3" href="#REF3">^3^</a> | | |
+| 4 | Os Princípios Gerais do Projeto apresentam um tópico sobre "equilíbrio entre controle e liberdade do usuário"?<a id="anchor_4" href="#REF4">^4^</a> | | |
+| 5 | Os Princípios Gerais do Projeto apresentam um tópico sobre "Consistênia e padronização"?<a id="anchor_5" href="#REF5">^5^</a> | | | 
+| 6 | Os Princípios Gerais do Projeto apresentam um tópico sobre  "promoção da eficiência do usuário"?<a id="anchor_6" href="#REF6">^6^</a> | | |
+| 7 | Os Princípios Gerais do Projeto apresentam um tópico sobre "Antecipação"?<a id="anchor_7" href="#REF7">^7^</a> | | |
+| 8 | Os Princípios Gerais do Projeto apresentam um tópico sobre "visibilidade e reconhecimento"?<a id="anchor_8" href="#REF8">^8^</a> | | |
+| 9 | Os Princípios Gerais do Projeto apresentam um tópico sobre "conteúdo relevante e expressão adequada"?<a id="anchor_9" href="#REF9">^9^</a> | | |
+| 10 | Os Princípios Gerais do Projeto apresentam um tópico sobre "projeto para erros"?<a id="anchor_10" href="#REF10">^10^</a>. | | |
+| 11 | Os Princípios Gerais possuem uma avaliação com "Problemas encontrados", incluindo fotos ou gravações?<a id="anchor_11" href="#REF11">^11^</a> |  | |
+| 12 | Os Princípios Gerais possuem uma avaliação com "Proposta de solução", para problemas encontrados?<a id="anchor_12" href="#REF12">^12^</a>|  | |
+
 
 <font size="3"><p style="text-align: center"><b>Fonte: </b> [João Artur](https://github.com/joao-artl).</p></font>
 </center>
