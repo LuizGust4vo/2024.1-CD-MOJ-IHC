@@ -23,16 +23,18 @@ O responsável pelo planejamento da verificação da entrega 1 será o integrant
 
 |**Entrega referente**|**Nome do Artefato**|**Versão do artefato**|**Responsável pelo Desenvolvimento do Artefato**|**Responsável pela Verificação do Artefato**|
 |---------|---------|---------|-----------|------------------|
+|Entrega 04|Planejamento da Avaliação do Storyboard|`1.6`|Breno, Bruno, Iago, Larissa, Luana, Pedro|[Eric Silveira](https://github.com/ericbky)|
 |Entrega 04|Planejamento da Avaliação da Análise de Tarefas|`1.6`|Iago Passaglia|A definir|
 |Entrega 04|Planejamento do Relato da Análise de Tarefas|`1.1`|Bruno Araújo|A definir|
 |Entrega 04|Planejamento do Relato do Storyboard|--|--|A definir|
 
 </center>
 
-<font size="3"><p style="text-align: center"><b>Fonte: </b> [Diego Sousa](https://github.com/DiegoSousaLeite).</p></font>
+<font size="3"><p style="text-align: center"><b>Fonte: </b> [Diego Sousa](https://github.com/DiegoSousaLeite) e [Eric Silveira](https://github.com/ericbky).</p></font>
 
 Os resultados obtidos após as verificações serão exibidos na respectiva guia destacadas a seguir:
 
+- <a href="https://interacao-humano-computador.github.io/2024.1-CD-MOJ/verificacao/etapa4/planejamentoStoryboard/">Planejamento da Avaliação do Storyboard</a>
 - <a href="https://interacao-humano-computador.github.io/2024.1-CD-MOJ/verificacao/etapa4/planejamentoAvaliacaoAnalise/">Planejamento da Avaliação da Análise de Tarefas</a>
 - <a href="https://interacao-humano-computador.github.io/2024.1-CD-MOJ/verificacao/etapa4/planejamentoRelatoAnalise/">Planejamento do Relato da Análise de Tarefas</a>
 - <a href="https://interacao-humano-computador.github.io/2024.1-CD-MOJ/verificacao/etapa3/planejamentoRelatoStory/">Planejamento do Relato do Storyboard</a>
@@ -48,24 +50,24 @@ A tabela 2 a seguir apresenta a checklist referente aos itens exigidos para o pl
 
 **Tabela 2** - Checklist para o Planejamento da Avaliação da Análise de Tarefas.
 
-| ID  | Descrição                                                                                                                                                                                                                                                                        | Avaliação | Observações |
-| --- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------- | ----------- |
-| 1   | O documento possui os objetivos do planejamento? <a id="anchor_3" href="#REF3">^3^</a>                                                                                                                                                                                          |           |             |
-| 2   | O documento possui quais são os objetivos da avaliação? <a id="anchor_3" href="#REF3">^3^</a>                                                                                                                                                                                   |           |             |
-| 3   | O documento possui quais são as perguntas a serem respondidas com a avaliação? <a id="anchor_4" href="#REF4">^4^</a>                                                                                                                                                            |           |             |
-| 4   | O documento possui quais são os métodos a serem utilizados na avaliação? <a id="anchor_5" href="#REF5">^5^</a>                                                                                                                                                                  |           |             |
-| 5   | O documento possui os participantes da avaliação? <a id="anchor_6" href="#REF6">^6^</a>                                                                                                                                                                                         |           |             |
-| 6   | O documento apresenta o motivo do número da escolha dos participantes? <a id="anchor_6" href="#REF6">^6^</a>                                                                                                                                                                    |           |             |
-| 7   | O documento apresenta o perfil definido aos participantes de acordo com o perfil de usuário? <a id="anchor_6" href="#REF6">^6^</a>                                                                                                                                              |           |             |
-| 8   | O documento apresenta quais as ferramentas e os equipamentos serão utilizados na avaliação? <a id="anchor_6" href="#REF6">^6^</a>                                                                                                                                               |           |             |
-| 9   | O documento apresenta quais são os custos? <a id="anchor_6" href="#REF6">^6^</a>                                                                                                                                                                                                |           |             |
-| 10  | O documento apresenta quais são os recursos de mão de obra necessários? <a id="anchor_6" href="#REF6">^6^</a>                                                                                                                                                                   |           |             |
-| 11  | O documento possui uma seção sobre como as questões éticas são lidadas? <a id="anchor_6" href="#REF6">^6^</a>                                                                                                                                                                   |           |             |
-| 12  | O documento apresenta tarefas de como deve ser realizada a avaliação? <a id="anchor_6" href="#REF6">^6^</a>                                                                                                                                                                     |           |             |
-| 13  | O documento possui uma seção de teste piloto com sua definição, participantes, local, data e horário da realização do teste piloto? <a id="anchor_7" href="#REF7">^7^</a>                                                                                                       |           |             |
-| 14  | Possui uma gravação do teste piloto? <a id="anchor_7" href="#REF7">^7^</a>                                                                                                                                                                                                      |           |             |
-| 15  | O documento possui uma seção sobre os dados (interpretação e apresentação)? <a id="anchor_8" href="#REF8">^8^</a>                                                                                                                                                               |           |             |
-| 16  | O planejamento segue o framework DECIDE? <a id="anchor_9" href="#REF9">^9^</a>                                                                                                                                                                                                 |           |             |
+| ID  | Descrição    | Avaliação | Observações |
+| --- | ------- | --------- | ----------- |
+| 1   | O documento possui os objetivos do planejamento? <a id="anchor_3" href="#REF3">^3^</a>   |           |             |
+| 2   | O documento possui quais são os objetivos da avaliação? <a id="anchor_3" href="#REF3">^3^</a>      |           |             |
+| 3   | O documento possui quais são as perguntas a serem respondidas com a avaliação? <a id="anchor_4" href="#REF4">^4^</a>|           |             |
+| 4   | O documento possui quais são os métodos a serem utilizados na avaliação? <a id="anchor_5" href="#REF5">^5^</a>      |           |             |
+| 5   | O documento possui os participantes da avaliação? <a id="anchor_6" href="#REF6">^6^</a>  |           |             |
+| 6   | O documento apresenta o motivo do número da escolha dos participantes? <a id="anchor_6" href="#REF6">^6^</a>        |           |             |
+| 7   | O documento apresenta o perfil definido aos participantes de acordo com o perfil de usuário? <a id="anchor_6" href="#REF6">^6^</a>           |           |             |
+| 8   | O documento apresenta quais as ferramentas e os equipamentos serão utilizados na avaliação? <a id="anchor_6" href="#REF6">^6^</a>            |           |             |
+| 9   | O documento apresenta quais são os custos? <a id="anchor_6" href="#REF6">^6^</a>         |           |             |
+| 10  | O documento apresenta quais são os recursos de mão de obra necessários? <a id="anchor_6" href="#REF6">^6^</a>       |           |             |
+| 11  | O documento possui uma seção sobre como as questões éticas são lidadas? <a id="anchor_6" href="#REF6">^6^</a>       |           |             |
+| 12  | O documento apresenta tarefas de como deve ser realizada a avaliação? <a id="anchor_6" href="#REF6">^6^</a>         |           |             |
+| 13  | O documento possui uma seção de teste piloto com sua definição, participantes, local, data e horário da realização do teste piloto? <a id="anchor_7" href="#REF7">^7^</a>       |           |             |
+| 14  | Possui uma gravação do teste piloto? <a id="anchor_7" href="#REF7">^7^</a>               |           |             |
+| 15  | O documento possui uma seção sobre os dados (interpretação e apresentação)? <a id="anchor_8" href="#REF8">^8^</a>   |           |             |
+| 16  | O planejamento segue o framework DECIDE? <a id="anchor_9" href="#REF9">^9^</a>          |           |             |
 | 17  | O planejamento apresenta como serão documentados e tratados os dados obtidos durante o processo de avaliação? (Grau de confiabilidade das respostas, contexto em que as respostas foram produzidas e se os dados obtidos estão em conformidade com o perfil de usuário traçado. <a id="anchor_9" href="#REF9">^9^</a>|  |           |             |
 
 <font size="3"><p style="text-align: center">Fonte: [Diego Sousa](https://github.com/DiegoSousaLeite).</p></font>
@@ -78,7 +80,7 @@ A tabela 3 a seguir apresenta a checklist referente aos itens exigidos para o do
 
 **Tabela 3** - Checklist para o Planejamento do Relato dos Resultados da Análise de Tarefas.
 
-| ID  | Descrição                                                                                                                          | Avaliação | Observações |
+| ID  | Descrição | Avaliação | Observações |
 | --- | ---------------------------------------------------------------------------------------------------------------------------------- | --------- | ----------- |
 | 1   | O planejamento define objetivo e escopo de avaliação dos resultados?<a id="anchor_1" href="#REF1">^1^</a>                          |           |             |
 | 2   | O planejamento define método de avaliação dos resultados?<a id="anchor_1" href="#REF1">^1^</a>                                     |           |             |
@@ -105,7 +107,7 @@ A tabela 4 a seguir apresenta a checklist referente aos itens exigidos para o re
 
 **Tabela 4** - Checklist para o Planejamento do Relato dos Resultados do Storyboard.
 
-| ID  | Descrição                                                                                                                          | Avaliação | Observações |
+| ID  | Descrição                  | Avaliação | Observações |
 | --- | ---------------------------------------------------------------------------------------------------------------------------------- | :-------: | :---------: |
 | 1   | O planejamento define objetivo e escopo de avaliação dos resultados?<a id="anchor_1" href="#REF1">^1^</a>                          |     -     |      -      |
 | 2   | O planejamento define método de avaliação dos resultados?<a id="anchor_1" href="#REF1">^1^</a>                                     |     -     |      -      |
@@ -123,6 +125,34 @@ A tabela 4 a seguir apresenta a checklist referente aos itens exigidos para o re
 <font size="3"><p style="text-align: center">Fonte: [Diego Sousa](https://github.com/DiegoSousaLeite).</p></font>
 
 </center>
+
+### <a> Planejamento da Avaliação do Storyboard </a>
+
+No planejamento da avaliação de um storyboard, é essencial garantir que todos os elementos sejam minuciosamente verificados para assegurar uma avaliação precisa e eficaz. O checklist a seguir aborda aspectos importantes como a clareza dos objetivos, a definição dos critérios de avaliação, e a identificação dos recursos necessários. Este processo é fundamental para garantir que a avaliação do storyboard seja conduzida de forma estruturada e que os resultados reflitam fielmente a qualidade e a eficácia do design proposto. A Tabela 5 a seguir apresenta o checklist para o planejamento da avaliação do storyboard.
+
+<center>
+
+**Tabela 5** - Checklist para o Planejamento da Avaliação do Storyboard.
+
+| *ID*  | *Descrição* | *Avaliação* | *Observações* | **Explicação e Referência** |
+| --- | ------------- | :-------: | :---------: | :--------: |
+| 1 | O planejamento define os objetivos da avaliação de forma bem evidentes? | - | - | Segundo o livro *Interação Humano-Computador e Experiência do Usuário*: "Os objetivos de uma avaliação determinam quais aspectos relacionados ao uso do sistema devem ser investigados." <a id="anchor_3" href="#REF3">^3^</a> |
+| 2 | O planejamento define os métodos para condução da avaliação? | - | - | Segundo o livro *Interação Humano-Computador e Experiência do Usuário*: "Existem vários métodos para avaliar a qualidade de uso propostos na literatura. Cada método atende melhor a certos objetivos de avaliação, orienta explicita ou implicitamente quando e onde os dados devem ser coletados, como eles devem ser analisados, e quais critérios de qualidade de uso (usabilidade, experiência do usuário, acessibilidade ou comunicabilidade) sua análise privilegia. Os métodos de avaliação de IHC podem ser classificados em: métodos de investigação, de observação de uso e de inspeção." <a id="anchor_5" href="#REF5">^5^</a> |
+| 3 | O planejamento apresenta os participantes e perfis selecionados para a avaliação? | - | - | Segundo o livro *Interação Humano-Computador e Experiência do Usuário*: "O avaliador deve também escolher o perfil e o número de participantes, com base nos perfis de usuários, nos objetivos e no escopo da avaliação." <a id="REF6" href="#anchor_6">^6^</a> |
+| 4 | O perfil dos participantes selecionados se enquadra no perfil de usuário esperado? | - | - | Segundo o livro *Interação Humano-Computador e Experiência do Usuário*: "Os avaliadores devem buscar participantes que representem o público-alvo do sistema avaliado, ou seja, que possuam características semelhantes aos usuários típicos. A definição dos perfis de participantes pode considerar fatores como: idade, sexo, formação acadêmica, grau de conhecimento sobre o domínio, nível de experiência na realização das tarefas e nível de experiência no uso do sistema avaliado e de sistemas semelhantes, por exemplo. Sempre que possível e pertinente, o avaliador deve buscar equilibrar o número de homens e mulheres." <a id="REF6" href="#anchor_6">^6^</a> |
+| 5 | O documento possui uma seção sobre as questões éticas envolvidas? | - | - | Segundo o livro *Interação Humano-Computador e Experiência do Usuário*: "Uma avaliação com usuários requer também a preparação do ambiente de teste, a realização de um teste-piloto e o recrutamento dos participantes. Ela envolve ainda questões éticas." <a id="anchor_6" href="#REF6">^6^</a> |
+| 6 | Há especificação dos equipamentos para registro dos dados? | - | - | Segundo o livro *Interação Humano-Computador e Experiência do Usuário*: "Equipamentos para o registro de dados, como câmeras, máquinas fotográficas e gravadores de áudio são comumente utilizados na coleta de dados, e equipamentos mais sofisticados podem requerer a contratação de profissionais especializados." <a id="anchor_6" href="#REF6">^6^</a> |
+| 7 | O documento possui uma seção detalhando o teste piloto, incluindo definição, participantes, local, data e horário? | - | - | Segundo o livro *Interação Humano-Computador e Experiência do Usuário*: "Concluído todo o planejamento da avaliação, é muito importante que o avaliador realize um teste-piloto. O objetivo desse teste é avaliar o próprio planejamento, e analisar se a avaliação, tal como planejada, produz os dados necessários para responder a questões e objetivos do estudo." <a id="anchor_7" href="#REF7">^7^</a> |
+| 8 | Foi utilizado o framework DECIDE no planejamento da avaliação? | - | - | Segundo o livro *Interação Humano-Computador e Experiência do Usuário*: "Preece et al. (2002) propõem um framework chamado DECIDE para orientar o planejamento, a execução e a análise de uma avaliação de IHC." <a id="anchor_9" href="#REF9">^9^</a> |
+|9|Os storyboards de todos os membros estão disponíveis para a avaliação?|-|-|Segundo o livro *Interação Humano-Computador e Experiência do Usuário*: O planejamento de uma avaliação envolve questões práticas, que incluem alocar pessoal, recursos e equipamentos e preparar o material de apoio."<a id="anchor_6" href="#REF6">^6^</a>|
+|10|O termo de consentimento e aspectos éticos necessários estão destacados no planejamento da avaliação?|-|-|Segundo o livro *Interação Humano-Computador e Experiência do Usuário*: "Uma avaliação com usuários requer também a preparação do ambiente de teste, a realização de um teste-piloto e o recrutamento dos participantes. Ela envolve ainda questões éticas."<a id="anchor_6" href="#REF6">^6^</a>|
+
+
+
+
+</center>
+
+<font size="3"><p style="text-align: center"><b>Fonte: </b> [Eric Silveira](https://github.com/ericbky).</p></font>
 
 ## <a>Referência Bibliografica</a>
 > <a id="REF1" href="#anchor_1">1. </a>Gerência e Qualidade de Software - Aula 05 - Verificação e Validação. UNIVESP. Disponível em: <https://www.youtube.com/watch?v=1Y-1zz6rZxo&t=205s>. Acesso em: 06 de junho de 2024 às 12:00.
@@ -159,3 +189,4 @@ A tabela 4 a seguir apresenta a checklist referente aos itens exigidos para o re
 | ------- | ------ | ------ | ------- | -------- | -------- |
 | `1.0` | 11/06/2024 | 12/06/2024 | Criação do documento com Introdução, Metodologia e Características da Verificação dos artefatos e Checklists dos artefatos. | [Diego Sousa](https://github.com/DiegoSousaLeite)|[João Artur](https://github.com/joao-artl)|
 | `1.1` | 11/06/2024 | 12/06/2024 | Reformulação das perguntas do Planejamento da Avaliação da Análise de Tarefas| [Diego Sousa](https://github.com/DiegoSousaLeite)|[João Artur](https://github.com/joao-artl)|
+| `1.2`| 11/06/2024 | 12/06/2024 |Adicionando o checklist sobre o planejamento dos Storyboards|[Eric Silveira](https://github.com/ericbky)|[João Artur](https://github.com/joao-artl)|

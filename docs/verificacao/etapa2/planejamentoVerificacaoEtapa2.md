@@ -43,7 +43,7 @@ A pesquisa envolvendo pessoas deve seguir rigorosos aspectos éticos, garantindo
 <center>
 <font size="3"><p style="text-align: center"><b>Tabela 2</b> - Checklist do artefato Aspectos Éticos de Pesquisas Envolvendo Pessoas.</p></font>
 
-|**ID**|**Descrição**|**Avaliação**|**Observações**|**Descrição**|
+|**ID**|**Descrição**|**Avaliação**|**Observações**|**Explicação e Referência**|
 |------|-------------|-------------|---------------|-------------|
 |1|O termo de consentimento especifica o objetivo do estudo?|||Segundo o livro *Interação Humano-Computador e Experiência do Usuário*: "O pesquisador deve explicar os objetivos da pesquisa aos participantes e dizer exatamente como deverá ser a participação deles."<a id="anchor_4" href="#REF4">^4^</a>|
 |2|O termo de consentimento especifica a duração estimada da pesquisa?|||Segundo o livro *Interação Humano-Computador e Experiência do Usuário*: "Deve deixar claro o que vai ocorrer durante a coleta de dados, o tempo aproximado da coleta."<a id="anchor_4" href="#REF4">^4^</a>|
