@@ -28,20 +28,20 @@ A Tabela 2 a seguir apresenta a verificação do artefato <a href="https://inter
 
 <font size="3"><p style="text-align: center"><b>Tabela 2</b> - Verificação dos Princípios Gerais do Projeto.</p></font>
 
-|**ID**|**Descrição**|**Avaliação**|**Observações**|
-|----|------------|-----|-------------|
-| 1 | O artefato apresenta os Princípios Gerais que serão utilizados no projeto?<a id="anchor_1" href="#REF1">^1^</a> |  |  |
-| 2 | Os Princípios Gerais do Projeto apresentam um tópico sobre "correspondência com as expectativas dos usuários"?<a id="anchor_2" href="#REF2">^2^</a> | | |
-| 3 | Os Princípios Gerais do Projeto apresentam um tópico sobre "simplicidade nas estruturas das tarefas"?<a id="anchor_3" href="#REF3">^3^</a> | | |
-| 4 | Os Princípios Gerais do Projeto apresentam um tópico sobre "equilíbrio entre controle e liberdade do usuário"?<a id="anchor_4" href="#REF4">^4^</a> | | |
-| 5 | Os Princípios Gerais do Projeto apresentam um tópico sobre "Consistênia e padronização"?<a id="anchor_5" href="#REF5">^5^</a> | | | 
-| 6 | Os Princípios Gerais do Projeto apresentam um tópico sobre  "promoção da eficiência do usuário"?<a id="anchor_6" href="#REF6">^6^</a> | | |
-| 7 | Os Princípios Gerais do Projeto apresentam um tópico sobre "Antecipação"?<a id="anchor_7" href="#REF7">^7^</a> | | |
-| 8 | Os Princípios Gerais do Projeto apresentam um tópico sobre "visibilidade e reconhecimento"?<a id="anchor_8" href="#REF8">^8^</a> | | |
-| 9 | Os Princípios Gerais do Projeto apresentam um tópico sobre "conteúdo relevante e expressão adequada"?<a id="anchor_9" href="#REF9">^9^</a> | | |
-| 10 | Os Princípios Gerais do Projeto apresentam um tópico sobre "projeto para erros"?<a id="anchor_10" href="#REF10">^10^</a>. | | |
-| 11 | Os Princípios Gerais possuem uma avaliação com "Problemas encontrados", incluindo fotos ou gravações?<a id="anchor_11" href="#REF11">^11^</a> |  | |
-| 12 | Os Princípios Gerais possuem uma avaliação com "Proposta de solução", para problemas encontrados?<a id="anchor_12" href="#REF12">^12^</a>|  | |
+|**ID**|**Descrição**|**Avaliação**|**Observações**|**Explicação e Referência**|
+|------|-------------|-------------|---------------|-------------|
+| 1 | O artefato apresenta os Princípios Gerais que serão utilizados no projeto?<a id="anchor_1" href="#REF1">^1^</a> |  |  | |
+| 2 | Os Princípios Gerais do Projeto apresentam um tópico sobre "correspondência com as expectativas dos usuários"?<a id="anchor_2" href="#REF2">^2^</a> | | | |
+| 3 | Os Princípios Gerais do Projeto apresentam um tópico sobre "simplicidade nas estruturas das tarefas"?<a id="anchor_3" href="#REF3">^3^</a> | | | |
+| 4 | Os Princípios Gerais do Projeto apresentam um tópico sobre "equilíbrio entre controle e liberdade do usuário"?<a id="anchor_4" href="#REF4">^4^</a> | | | |
+| 5 | Os Princípios Gerais do Projeto apresentam um tópico sobre "Consistênia e padronização"?<a id="anchor_5" href="#REF5">^5^</a> | | |  |
+| 6 | Os Princípios Gerais do Projeto apresentam um tópico sobre  "promoção da eficiência do usuário"?<a id="anchor_6" href="#REF6">^6^</a> | | | |
+| 7 | Os Princípios Gerais do Projeto apresentam um tópico sobre "Antecipação"?<a id="anchor_7" href="#REF7">^7^</a> | | | |
+| 8 | Os Princípios Gerais do Projeto apresentam um tópico sobre "visibilidade e reconhecimento"?<a id="anchor_8" href="#REF8">^8^</a> | | | |
+| 9 | Os Princípios Gerais do Projeto apresentam um tópico sobre "conteúdo relevante e expressão adequada"?<a id="anchor_9" href="#REF9">^9^</a> | | | |
+| 10 | Os Princípios Gerais do Projeto apresentam um tópico sobre "projeto para erros"?<a id="anchor_10" href="#REF10">^10^</a>. | | | |
+| 11 | Os Princípios Gerais possuem uma avaliação com "Problemas encontrados", incluindo fotos ou gravações?<a id="anchor_11" href="#REF11">^11^</a> |  | | |
+| 12 | Os Princípios Gerais possuem uma avaliação com "Proposta de solução", para problemas encontrados?<a id="anchor_12" href="#REF12">^12^</a>|  | | |
 
 
 <font size="3"><p style="text-align: center"><b>Fonte: </b> [João Artur](https://github.com/joao-artl).</p></font>
