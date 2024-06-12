@@ -40,26 +40,6 @@ Os resultados obtidos após as verificações serão exibidos na respectiva guia
 
 Os checklists são uma ferramenta essencial de verificação, ajudando a identificar defeitos ou características ausentes no projeto. Esses checklists asseguram a consistência, completude e conformidade dos artefatos com os requisitos estabelecidos, promovendo a qualidade e a integridade do projeto.
 
-Baseados na padronização dos repositórios da disciplina e dos artefatos, criamos checklists gerais que devem ser aplicados a todos os artefatos desenvolvidos pela equipe ao longo do projeto. A tabela 2 a seguir, representa as verificações gerais para todos os artefatos presentes no projeto:
-
-<center>
-
-<font size="3"><p style="text-align: center"><b>Tabela 2</b> - Checklist geral dos artefatos.</p></font>
-
-| **ID** | **Descrição** | **Avaliação** | **Observações** |
-| ---- | ----------- | ----------- | ------------- |
-| 1 | O artefato possui uma introdução descrevendo-o? |||
-| 2 | O artefato possui padronização nos títulos? |||
-| 3 | O artefato caso contenha tabelas, as chama no texto? |||
-| 4 | O artefato caso tenha figuras as chamam no texto? |||		
-| 5 | O artefato possui a fonte das figuras, tabelas e outras aspectos que necessitem da mesma? |||		
-| 6 | O artefato possui bibliografia e/ou referência bibliográfica? |||
-| 7 | O artefato chama as referências bibliográficas presentes de forma correta no texto? |||
-| 8 | O artefato possui um histórico de versão padronizado apresentando as versões, datas, datas de revisão, descrição, responsáveis e revisores? |||
-
-<font size="3"><p style="text-align: center"><b>Fonte: </b> [Eric Silveira](https://github.com/ericbky).</p></font>
-</center>
-
 
 ### <a> Planejamento do Relato dos Resultados da Avaliação do Protótipo de Alta Fidelidade </a>
 
@@ -78,7 +58,7 @@ Baseados na padronização dos repositórios da disciplina e dos artefatos, cria
 
 > <a>2. </a>SERRANO, Milene. SERRANO, Maurício. Apresentação: Requisitos - Aula 23.
 
-> <a>3.</a> Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) *Interação Humano-Computador e Experiência do usuário Autopublicação. ISBN: 978-65-00-19677-1.
+> <a>3.</a> Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) Interação Humano-Computador e Experiência do usuário Autopublicação. ISBN: 978-65-00-19677-1.
 
 
 ## <a>Histórico de Versão</a>
