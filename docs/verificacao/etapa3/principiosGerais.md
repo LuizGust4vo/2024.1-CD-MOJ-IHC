@@ -16,7 +16,7 @@ A Tabela 1 a seguir detalha as características referentes à execução da veri
 |---------|---------|---------|-----------|------------------|------|
 |Entrega 03|Princípios Gerais do Projeto|`2.5`|Breno, Pedro, Larissa, Iago, Luana e Bruno| [Arthur Alves](https://github.com/arthrok) e [Douglas Marinho](https://github.com/M4RINH0) | 12/06/2024 |
 
-<font size="3"><p style="text-align: center"><b>Fonte: </b> [João Artur](https://github.com/joao-artl).</p></font>
+<font size="3"><p style="text-align: center"><b>Fonte: </b> [Arthur Alves](https://github.com/arthrok) e [Douglas Marinho](https://github.com/M4RINH0).</p></font>
 </center>
 
 
@@ -42,7 +42,7 @@ A Tabela 2 a seguir apresenta a verificação do artefato <a href="https://inter
 | 10 | Os Princípios Gerais do Projeto apresentam um tópico sobre "projeto para erros"? | Sim | | Norman (1988) recomenda projetar para o erro, ou seja, assumir que qualquer erro potencial será cometido<a id="anchor_10" href="#REF10">^10^</a> |
 
 
-<font size="3"><p style="text-align: center"><b>Fonte: </b> [João Artur](https://github.com/joao-artl).</p></font>
+<font size="3"><p style="text-align: center"><b>Fonte: </b> [Arthur Alves](https://github.com/arthrok) e [Douglas Marinho](https://github.com/M4RINH0).</p></font>
 </center>
 
 ## <a>Referência Bibliografica</a>

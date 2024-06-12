@@ -23,7 +23,7 @@ O responsável pelo planejamento da verificação da entrega 3 será o integrant
 
 |**Entrega referente**|**Nome do Artefato**|**Versão do artefato**|**Responsável pelo Desenvolvimento do Artefato**|**Responsável pela Verificação do Artefato**|
 |---------|---------|---------|-----------|------------------|
-|Entrega 03|Princípios Gerais do Projeto|`2.5`|Breno, Pedro, Larissa, Iago, Luana e Bruno|A definir|
+|Entrega 03|Princípios Gerais do Projeto|`2.5`|Breno, Pedro, Larissa, Iago, Luana e Bruno|[Arthur Alves](https://github.com/arthrok) e [Douglas Marinho](https://github.com/M4RINH0)|
 |Entrega 03|Metas de Usabilidade|`1.1`|Pedro e Luana|A definir|
 |Entrega 03|Guia de Estilo|`1.6`|Breno, Pedro, Larissa, Iago, Luana e Bruno|A definir|
 
