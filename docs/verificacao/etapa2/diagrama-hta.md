@@ -21,7 +21,7 @@ A Tabela 1 a seguir detalha as características referentes à execução da veri
 </center>
 
 
-## <a>Checklist de Análise de Tarefas</a>
+### <a>Checklist</a>
 
 A Tabela 2 a seguir apresenta a verificação do artefato **Análise de Tarefas** do <a href="https://interacao-humano-computador.github.io/2024.1-SIGAA/#/">grupo 02</a> por meio de um checklist detalhado. Esta verificação tem como objetivo assegurar que todos os elementos essenciais do artefato estão presentes e bem definidos, garantindo sua qualidade e conformidade com os requisitos estabelecidos.
 
@@ -39,32 +39,6 @@ A Tabela 2 a seguir apresenta a verificação do artefato **Análise de Tarefas*
 | 7 | A análise inclui a representação das tarefas utilizando CTT (ConcurTaskTrees)? | Não | | "O modelo de árvores de tarefas concorrentes (ConcurTaskTrees – CTT) foi criado para auxiliar a avaliação e o design e avaliação de IHC."<a id="anchor_12" href="#REF12">^12^</a> |
 | 8 | As tarefas estão classificadas como do usuário, do sistema, interativas ou abstratas? | Não | | "Nesse modelo, existem quatro tipos de tarefas: tarefas do usuário, tarefas do sistema, tarefas interativas e tarefas abstratas."<a id="anchor_12" href="#REF12">^12^</a> |
 | 9 | A análise de tarefas foi validada junto às partes interessadas? | Incompleto | Seria interessante atualizar o artefato, a fim de incluir a validação com a parte interessada. | "Verificar a validade da decomposição junto às partes interessadas, visando assegurar a confiabilidade da análise."<a id="anchor_9" href="#REF9">^9^</a> |
-
-
-</center>
-
-<font size="3"><p style="text-align: center"><b>Fonte: </b> [Arthur Alves](https://github.com/arthrok) e [Douglas Marinho](https://github.com/M4RINH0).</p></font>
-
-
-## <a>Checklist para Diagramas HTA (Hierarchical Task Analysis)</a>
-
-A Tabela 3 a seguir apresenta a verificação dos **diagramas HTA** do <a href="https://interacao-humano-computador.github.io/2024.1-SIGAA/#/">grupo 02</a> por meio de um checklist detalhado. Esta verificação tem como objetivo assegurar que todos os elementos essenciais do artefato estão presentes e bem definidos, garantindo sua qualidade e conformidade com os requisitos estabelecidos.
-
-<center>
-<font size="3"><p style="text-align: center"><b>Tabela 3</b> - Checklist para Diagramas HTA.</p></font>
-
-### Checklist de Verificação para Diagramas HTA (Hierarchical Task Analysis)
-
-| **ID** | **Descrição** | **Avaliação** | **Observações** | **Explicação e Referência** |
-|------|-------------|-------------|---------------|-------------|
-| 1 | O diagrama HTA identifica claramente os objetivos de alto nível? | Sim | | "A HTA examina primeiramente os objetivos de alto nível, decompondo-os em subobjetivos, buscando identificar quais subobjetivos são mais difíceis de atingir e que, portanto, limitam ou mesmo impedem o atingimento do objetivo maior."<a id="anchor_8" href="#REF8">^8^</a> |
-| 2 | Os subobjetivos são detalhados de forma clara e sequencial? | Sim | | "Toda tarefa pode ser definida em termos de seu(s) objetivo(s). Tarefas complexas são definidas em termos de objetivos e subobjetivos, num desdobramento hierárquico."<a id="anchor_8" href="#REF8">^8^</a> |
-| 3 | O diagrama inclui todas as operações necessárias para atingir os objetivos? | Sim | | "A HTA examina os objetivos e as operações necessárias para atingi-los, decompondo-os em subobjetivos e operações menores."<a id="anchor_8" href="#REF8">^8^</a> |
-| 4 | As relações entre os subobjetivos estão corretamente representadas (sequencial, seleção, paralelo)? | Sim | | "A HTA deve mostrar as relações entre os subobjetivos, que podem ser sequenciais, de seleção ou em paralelo."<a id="anchor_8" href="#REF8">^8^</a> |
-| 5 | O diagrama inclui uma legenda que explica os elementos e as relações? | Sim | | "Um diagrama HTA bem-feito deve incluir uma legenda que explique os elementos e as relações entre eles."<a id="anchor_9" href="#REF9">^9^</a> |
-| 6 | O diagrama é fácil de entender e seguir, facilitando a análise das tarefas? | Sim | | "A clareza do diagrama é fundamental para que a análise de tarefas seja fácil de entender e seguir."<a id="anchor_9" href="#REF9">^9^</a> |
-| 7 | O diagrama é acompanhado de uma tabela detalhando as operações e subobjetivos? | Sim | | "A Tabela 8.4 apresenta a tabela equivalente ao diagrama, detalhando as operações e subobjetivos."<a id="anchor_9" href="#REF9">^9^</a> |
-| 8 | A decomposição das tarefas foi validada junto às partes interessadas? | Incompleto | FALTA ADICIONAR NO ARTEFATO HTA | "Verificar a validade da decomposição junto às partes interessadas, visando assegurar a confiabilidade da análise."<a id="anchor_9" href="#REF9">^9^</a> |
 
 
 </center>
