@@ -49,6 +49,7 @@ Os checklists são ferramentas essenciais de verificação que ajudam a identifi
 A tabela 2 a seguir apresenta a checklist referente aos itens exigidos para o planejamento da avaliação da análise de tarefas, conforme os conceitos apresentados por Barbosa e Silva.
 
 <center>
+
 **Tabela 2** - Checklist para o Planejamento da Avaliação da Análise de Tarefas.
 
 | ID  | Descrição    | Avaliação | Observações |
@@ -70,6 +71,7 @@ A tabela 2 a seguir apresenta a checklist referente aos itens exigidos para o pl
 | 15  | O documento inclui uma seção sobre a interpretação e apresentação dos dados? <a id="anchor_8" href="#REF8">^8^</a>   |           |             |
 | 16  | O planejamento segue o framework DECIDE? <a id="anchor_9" href="#REF9">^9^</a>          |           |             |
 | 17  | O planejamento descreve como serão documentados e tratados os dados obtidos durante a avaliação? (Inclui grau de confiabilidade das respostas, contexto em que foram produzidas e conformidade com o perfil de usuário traçado.) <a id="anchor_9" href="#REF9">^9^</a>|  |           |             |
+
 </center>
 
 <font size="3"><p style="text-align: center">Fonte: [Diego Sousa](https://github.com/DiegoSousaLeite).</p></font>
