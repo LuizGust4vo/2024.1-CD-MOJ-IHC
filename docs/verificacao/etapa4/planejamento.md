@@ -23,7 +23,7 @@ O responsável pelo planejamento da verificação da entrega 4 será o integrant
 
 |**Entrega referente**|**Nome do Artefato**|**Versão do artefato**|**Responsável pelo Desenvolvimento do Artefato**|**Responsável pela Verificação do Artefato**|
 |---------|---------|---------|-----------|------------------|
-|Entrega 04|Planejamento da Avaliação do Storyboard|`1.6`|Breno, Bruno, Iago, Larissa, Luana, Pedro|[Diego Sousa](https://github.com/DiegoSousaLeite) e [João Artur](https://github.com/joao-artl)|
+|Entrega 04|Planejamento da Avaliação do Storyboard|`1.6`|Breno, Bruno, Iago, Larissa, Luana, Pedro|[Eric Silveira](https://github.com/ericbky)|
 |Entrega 04|Planejamento da Avaliação da Análise de Tarefas|`1.6`|Iago Passaglia|a definir|
 |Entrega 04|Planejamento do Relato da Análise de Tarefas|`1.1`|Bruno Araújo|[Arthur Alves](https://github.com/arthrok) e [Douglas Marinho](https://github.com/M4RINH0)|
 |Entrega 04|Planejamento do Relato do Storyboard|--|--|A definir|
@@ -158,10 +158,6 @@ No planejamento da avaliação de um storyboard, é essencial garantir que todos
 > <a>1. </a>Gerência e Qualidade de Software - Aula 05 - Verificação e Validação. UNIVESP. Disponível em: <https://www.youtube.com/watch?v=1Y-1zz6rZxo&t=205s>. Acesso em: 05 de junho de 2024 às 12:00.
 
 > <a>2. </a>SERRANO, Milene. SERRANO, Maurício. Apresentação: Requisitos - Aula 23.
->
-
-
-
 
 ## <a>Histórico de Versão</a>
 

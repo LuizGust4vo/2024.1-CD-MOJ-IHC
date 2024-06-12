@@ -31,19 +31,19 @@ A Tabela 2 a seguir apresenta a verificação do artefato **Análise de Tarefas*
 | **ID** | **Descrição** | **Avaliação** | **Observações** | **Explicação e Referência** |
 |------|-------------|-------------|---------------|-------------|
 | 1 | Foi utilizada alguma técnica para especificar as tarefas? | Sim | | "A análise de tarefas pode ser utilizada nas três atividades habituais: para análise da situação atual, para o (re)design de um sistema computacional ou para a avaliação do resultado de uma intervenção que inclua a introdução de um (novo) sistema computacional."<a id="anchor_10" href="#REF10">^10^</a> |
-| 2 | As tarefas estão definidas em termos de objetivos e subobjetivos? | Sim | | "Uma tarefa é qualquer parte do trabalho que precisa ser realizada. Toda tarefa pode ser definida em termos de seu(s) objetivo(s). Tarefas complexas são definidas em termos de objetivos e subobjetivos, num desdobramento hierárquico."<a id="anchor_8" href="#REF8">^8^</a> |
+| 2 | As tarefas estão definidas em termos de objetivos e subobjetivos? | Incompleto | A análise de tarefas consulta de saldo não apresenta nada. | "Uma tarefa é qualquer parte do trabalho que precisa ser realizada. Toda tarefa pode ser definida em termos de seu(s) objetivo(s). Tarefas complexas são definidas em termos de objetivos e subobjetivos, num desdobramento hierárquico."<a id="anchor_8" href="#REF8">^8^</a> |
 | 3 | A análise inclui diagramas HTA (Hierarchical Task Analysis)? | Incompleto | Não tem diagrama em "Estágio" | "A HTA examina primeiramente os objetivos de alto nível, decompondo-os em subobjetivos, buscando identificar quais subobjetivos são mais difíceis de atingir e que, portanto, limitam ou mesmo impedem o atingimento do objetivo maior."<a id="anchor_8" href="#REF8">^8^</a> |
 | 4 | A análise inclui a representação em tabela das tarefas? | Sim | | "A Figura 8.2 ilustra um diagrama HTA para o cadastro de um projeto final em um sistema acadêmico, e a Tabela 8.4 apresenta a tabela equivalente ao diagrama."<a id="anchor_9" href="#REF9">^9^</a> |
 | 5 | Foram utilizados métodos GOMS (Goals, Operators, Methods, and Selection Rules)? | Sim | | "O GOMS é um método para descrever uma tarefa e o conhecimento do usuário sobre como realizá-la em termos de objetivos, operadores, métodos e regras de seleção."<a id="anchor_11" href="#REF11">^11^</a> |
 | 6 | Os métodos GOMS utilizados são adequados para prever o desempenho das tarefas? | Sim | | "Os modelos GOMS têm se mostrado úteis para prever o desempenho, ou seja, predizer o impacto de decisões de design no desempenho competente."<a id="anchor_11" href="#REF11">^11^</a> |
-| 7 | A análise inclui a representação das tarefas utilizando CTT (ConcurTaskTrees)? | Não | | "O modelo de árvores de tarefas concorrentes (ConcurTaskTrees – CTT) foi criado para auxiliar a avaliação e o design e avaliação de IHC."<a id="anchor_12" href="#REF12">^12^</a> |
+| 7 | A análise inclui a representação das tarefas utilizando CTT (ConcurTaskTrees)? | Não | Não é um pré-requisito mas seria interessante especificar. | "O modelo de árvores de tarefas concorrentes (ConcurTaskTrees – CTT) foi criado para auxiliar a avaliação e o design e avaliação de IHC."<a id="anchor_12" href="#REF12">^12^</a> |
 | 8 | As tarefas estão classificadas como do usuário, do sistema, interativas ou abstratas? | Não | | "Nesse modelo, existem quatro tipos de tarefas: tarefas do usuário, tarefas do sistema, tarefas interativas e tarefas abstratas."<a id="anchor_12" href="#REF12">^12^</a> |
 | 9 | A análise de tarefas foi validada junto às partes interessadas? | Incompleto | Seria interessante atualizar o artefato, a fim de incluir a validação com a parte interessada. | "Verificar a validade da decomposição junto às partes interessadas, visando assegurar a confiabilidade da análise."<a id="anchor_9" href="#REF9">^9^</a> |
 
 
 </center>
 
-<font size="3"><p style="text-align: center"><b>Fonte: </b> [Arthur Alves](https://github.com/arthrok) e [Douglas Marinho](https://github.com/M4RINH0).</p></font>
+<font size="3"><p style="text-align: center"><b>Fonte: </b> [Arthur Alves](https://github.com/arthrok), [Douglas Marinho](https://github.com/M4RINH0) e [Eric Silveira](https://github.com/ericbky).</p></font>
 
 
 ## <a>Checklist para Diagramas HTA (Hierarchical Task Analysis)</a>
@@ -68,7 +68,7 @@ A Tabela 3 a seguir apresenta a verificação dos **diagramas HTA** do <a href="
 
 </center>
 
-<font size="3"><p style="text-align: center"><b>Fonte: </b> [Arthur Alves](https://github.com/arthrok) e [Douglas Marinho](https://github.com/M4RINH0).</p></font>
+<font size="3"><p style="text-align: center"><b>Fonte: </b> [Arthur Alves](https://github.com/arthrok), [Douglas Marinho](https://github.com/M4RINH0).</p></font>
 
 
 ## <a>Referência Bibliografica</a>
@@ -113,3 +113,4 @@ A Tabela 3 a seguir apresenta a verificação dos **diagramas HTA** do <a href="
 | Versão| Data | Data Prevista de Revisão| Descrição  | Autor(es)  | Revisor(es) |
 | ------- | ------ | ------ | ------- | -------- | -------- |
 | `1.0` | 12/06/2024 | 12/06/2024 | Criação do documento. | [Arthur Alves](https://github.com/arthrok) e [Douglas Marinho](https://github.com/M4RINH0)|[João Artur](https://github.com/joao-artl)|
+| `1.1` | 12/06/2024 | 12/06/2024 | Inserção da análise da tarefa 5 e 6 e a gravação. | [Eric Silveira](https://github.com/ericbky) e [Luiz Gustavo](https://github.com/LuizGust4vo)|[Douglas Marinho](https://github.com/M4RINH0) e [João Artur](https://github.com/joao-artl)|
