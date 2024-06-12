@@ -25,19 +25,19 @@ A Tabela 2 a seguir apresenta a verificação do artefato <a href="https://inter
 
 | **ID** | **Descrição** | **Avaliação** | **Observações** | **Explicação e Referência** |
 |------|-------------|-------------|---------------|-------------|
-| 1 | A persona inclui nome e sobrenome representativos? | Incompleto|Na figura 5 a persona Ana não possui Sobrenome | "Dê a uma persona nome e sobrenome. Forneça uma idade e outros dados demográficos que seriam representativos do perfil do usuário."<a id="anchor_5" href="#REF5">^5^</a> |
-| 2 | A persona possui uma foto para torná-la mais realista? |Sim | -| "Inclua também uma foto, para tornar a persona ainda mais realista e memorável."<a id="anchor_5" href="#REF5">^5^</a> |
-| 3 | A persona é classificada como primária, secundária, ou outro stakeholder? | Incompleto|Na figura 5 a persona Ana não é classificada e uma sugestão é ter outras classificações além de primária| "Defina se esta persona é primária, secundária, outro stakeholder ou representa um antiusuário do seu sistema."<a id="anchor_5" href="#REF5">^5^</a> |
-| 4 | Os objetivos da persona são claramente definidos? |Incompleto |Na figura 5 a persona Ana não possui objetivos | "Quais são os objetivos desta persona? Não se limite a objetivos relacionados ao seu produto específico."<a id="anchor_5" href="#REF5">^5^</a> |
-| 5 | As habilidades da persona são descritas (educação, treinamento, competências específicas)? |Sim |- | "Qual é a especialidade da sua persona? Isso inclui educação, treinamento e competências específicas."<a id="anchor_5" href="#REF5">^5^</a> |
-| 6 | As tarefas básicas ou críticas realizadas pela persona são descritas? |Incompleto |Na figura 5 a persona Ana não possui | "Em linhas gerais, quais as tarefas básicas ou críticas que a persona realiza? Qual é a frequência, importância e duração dessas tarefas?"<a id="anchor_5" href="#REF5">^5^</a> |
-| 7 | Os relacionamentos da persona com outros stakeholders são mencionados? |Não |Algumas personas possui relacionamento, mas não necessariamete com stakeholders | "Entender com quem a persona se relaciona é importante, pois ajuda a identificar outros stakeholders."<a id="anchor_5" href="#REF5">^5^</a> |
-| 8 | Os requisitos da persona estão definidos? |Incompleto |Na figura 5 a persona Ana não possui | "De que a persona precisa? Inclua citações que ajudam a dar mais vida a essas necessidades."<a id="anchor_5" href="#REF5">^5^</a> |
-| 9 | As expectativas da persona sobre o produto estão descritas? |Incompleto |Na figura 5 a persona Ana não possui | "Como a persona acredita que o produto funciona? Como ela organiza as informações no seu domínio ou trabalho?"<a id="anchor_5" href="#REF5">^5^</a> |
-| 10 | As personas são específicas e bem detalhadas? |Sim |Uma recomendação é detalhar mais a persona 5 | "Embora personas sejam fictícias, elas são definidas com rigor e detalhes para representar usuários típicos."<a id="anchor_6" href="#REF6">^6^</a> |
-| 11 | Cada persona possui uma identidade clara e distintiva? |Sim |- | "Dar um nome à persona é uma parte importante da sua elaboração, para que ela se torne um indivíduo concreto na mente dos designers."<a id="anchor_6" href="#REF6">^6^</a> |
-| 12 | As personas são utilizadas em reuniões e discussões de design? |Sim |- | "Uma persona pode ser utilizada em reuniões como uma ferramenta de discussão."<a id="anchor_6" href="#REF6">^6^</a> |
-| 13 | O número de personas é adequado para evitar confusão entre os designers? | Sim|- | "É importante que as personas sejam memoráveis e, para isso, o elenco de personas deve ser reduzido."<a id="anchor_7" href="#REF7">^7^</a> |
+| 1 | A persona inclui nome e sobrenome representativos? | Incompleto|Na figura 5 a persona Ana não possui Sobrenome | "Dê a uma persona nome e sobrenome. Forneça uma idade e outros dados demográficos que seriam representativos do perfil do usuário."<a id="anchor_1" href="#REF1">^1^</a> |
+| 2 | A persona possui uma foto para torná-la mais realista? |Sim | -| "Inclua também uma foto, para tornar a persona ainda mais realista e memorável."<a id="anchor_1" href="#REF1">^1^</a> |
+| 3 | A persona é classificada como primária, secundária, ou outro stakeholder? | Incompleto|Na figura 5 a persona Ana não é classificada e uma sugestão é ter outras classificações além de primária| "Defina se esta persona é primária, secundária, outro stakeholder ou representa um antiusuário do seu sistema."<a id="anchor_1" href="#REF1">^1^</a> |
+| 4 | Os objetivos da persona são claramente definidos? |Incompleto |Na figura 5 a persona Ana não possui objetivos | "Quais são os objetivos desta persona? Não se limite a objetivos relacionados ao seu produto específico."<a id="anchor_1" href="#REF1">^1^</a> |
+| 5 | As habilidades da persona são descritas (educação, treinamento, competências específicas)? |Sim |- | "Qual é a especialidade da sua persona? Isso inclui educação, treinamento e competências específicas."<a id="anchor_1" href="#REF1">^1^</a> |
+| 6 | As tarefas básicas ou críticas realizadas pela persona são descritas? |Incompleto |Na figura 5 a persona Ana não possui | "Em linhas gerais, quais as tarefas básicas ou críticas que a persona realiza? Qual é a frequência, importância e duração dessas tarefas?"<a id="anchor_1" href="#REF1">^1^</a> |
+| 7 | Os relacionamentos da persona com outros stakeholders são mencionados? |Não |Algumas personas possui relacionamento, mas não necessariamete com stakeholders | "Entender com quem a persona se relaciona é importante, pois ajuda a identificar outros stakeholders."<a id="anchor_1" href="#REF1">^1^</a> |
+| 8 | Os requisitos da persona estão definidos? |Incompleto |Na figura 5 a persona Ana não possui | "De que a persona precisa? Inclua citações que ajudam a dar mais vida a essas necessidades."<a id="anchor_1" href="#REF1">^1^</a> |
+| 9 | As expectativas da persona sobre o produto estão descritas? |Incompleto |Na figura 5 a persona Ana não possui | "Como a persona acredita que o produto funciona? Como ela organiza as informações no seu domínio ou trabalho?"<a id="anchor_1" href="#REF1">^1^</a> |
+| 10 | As personas são específicas e bem detalhadas? |Sim |Uma recomendação é detalhar mais a persona 5 | "Embora personas sejam fictícias, elas são definidas com rigor e detalhes para representar usuários típicos."<a id="anchor_2" href="#REF2">^2^</a> |
+| 11 | Cada persona possui uma identidade clara e distintiva? |Sim |- | "Dar um nome à persona é uma parte importante da sua elaboração, para que ela se torne um indivíduo concreto na mente dos designers."<a id="anchor_2" href="#REF2">^2^</a> |
+| 12 | As personas são utilizadas em reuniões e discussões de design? |Sim |- | "Uma persona pode ser utilizada em reuniões como uma ferramenta de discussão."<a id="anchor_2" href="#REF2">^2^</a> |
+| 13 | O número de personas é adequado para evitar confusão entre os designers? | Sim|- | "É importante que as personas sejam memoráveis e, para isso, o elenco de personas deve ser reduzido."<a id="anchor_3" href="#REF3">^3^</a> |
 
 
 
@@ -50,6 +50,13 @@ A Tabela 2 a seguir apresenta a verificação do artefato <a href="https://inter
 
 <iframe width="853" height="480" src="https://www.youtube.com/embed/GJEOspbtluI" title="Verificação Grupo 2 - Personas" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+## <a>Referência Bibliografica</a>
+
+> <a id="REF1" href="#anchor_1">1.</a> Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) *Interação Humano-Computador e Experiência do usuário.* Capítulo 8 Organização do Espaço de Problema, tópico 8.2 Personas, página 168. Autopublicação. ISBN: 978-65-00-19677-1. 
+
+> <a id="REF2" href="#anchor_2">2.</a> Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) *Interação Humano-Computador e Experiência do usuário.* Capítulo 8 Organização do Espaço de Problema, tópico 8.2 Personas, página 169. Autopublicação. ISBN: 978-65-00-19677-1. 
+
+> <a id="REF3" href="#anchor_3">3.</a> Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) *Interação Humano-Computador e Experiência do usuário.* Capítulo 8 Organização do Espaço de Problema, tópico 8.2 Personas, página 170. Autopublicação. ISBN: 978-65-00-19677-1. 
 
 ## <a>Bibliografia</a>
 > <a>1. </a>Gerência e Qualidade de Software - Aula 05 - Verificação e Validação. UNIVESP. Disponível em: <https://www.youtube.com/watch?v=1Y-1zz6rZxo&t=205s>. Acesso em: 05 de junho de 2024 às 12:00.
