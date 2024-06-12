@@ -42,7 +42,7 @@ A Tabela 2 a seguir apresenta a verificação do artefato planejamento da avalia
 
 > <a>1.</a> Gerência e Qualidade de Software - Aula 05 - Verificação e Validação. UNIVESP. Disponível em: <https://www.youtube.com/watch?v=1Y-1zz6rZxo&t=205s>. Acesso em: 11 de junho de 2024.
 
-> <a>2.</a> Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) *Interação Humano-Computador e Experiência do usuário Autopublicação. ISBN: 978-65-00-19677-1.
+> <a>2.</a> Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) Interação Humano-Computador e Experiência do usuário Autopublicação. ISBN: 978-65-00-19677-1.
 
 > <a>3.</a> Projeto da disciplina Requisitos de Software. SIGAA. Disponível em: <https://interacao-humano-computador.github.io/2024.1-SIGAA/#/>. Acesso em 11 de junho de 2024. 
 
