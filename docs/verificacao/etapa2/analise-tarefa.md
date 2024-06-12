@@ -112,4 +112,4 @@ A Tabela 3 a seguir apresenta a verificação dos **diagramas HTA** do <a href="
 
 | Versão| Data | Data Prevista de Revisão| Descrição  | Autor(es)  | Revisor(es) |
 | ------- | ------ | ------ | ------- | -------- | -------- |
-| `1.0` | 12/06/2024 | 12/06/2024 | Criação do documento. | [Arthur Alves](https://github.com/Arthrok)|[João Artur](https://github.com/joao-artl)|
+| `1.0` | 12/06/2024 | 12/06/2024 | Criação do documento. | [Arthur Alves](https://github.com/arthrok) e [Douglas Marinho](https://github.com/M4RINH0)|[João Artur](https://github.com/joao-artl)|
