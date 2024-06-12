@@ -42,33 +42,38 @@ Os resultados obtidos após as verificações serão exibidos na respectiva guia
 
 Os checklists são uma ferramenta essencial de verificação, ajudando a identificar defeitos ou características ausentes no projeto. Esses checklists asseguram a consistência, completude e conformidade dos artefatos com os requisitos estabelecidos, promovendo a qualidade e a integridade do projeto.
 
-Baseados na padronização dos repositórios da disciplina e dos artefatos, criamos checklists gerais que devem ser aplicados a todos os artefatos desenvolvidos pela equipe ao longo do projeto. A tabela 2 a seguir, representa as verificações gerais para todos os artefatos presentes no projeto:
-
-<center>
-
-<font size="3"><p style="text-align: center"><b>Tabela 2</b> - Checklist geral dos artefatos.</p></font>
-
-| **ID** | **Descrição** | **Avaliação** | **Observações** |
-| ---- | ----------- | ----------- | ------------- |
-| 1 | O artefato possui uma introdução descrevendo-o? |||
-| 2 | O artefato possui padronização nos títulos? |||
-| 3 | O artefato caso contenha tabelas, as chama no texto? |||
-| 4 | O artefato caso tenha figuras as chamam no texto? |||		
-| 5 | O artefato possui a fonte das figuras, tabelas e outras aspectos que necessitem da mesma? |||		
-| 6 | O artefato possui bibliografia e/ou referência bibliográfica? |||
-| 7 | O artefato chama as referências bibliográficas presentes de forma correta no texto? |||
-| 8 | O artefato possui um histórico de versão padronizado apresentando as versões, datas, datas de revisão, descrição, responsáveis e revisores? |||
-
-<font size="3"><p style="text-align: center"><b>Fonte: </b> [Eric Silveira](https://github.com/ericbky).</p></font>
-</center>
-
-
 ### <a> Relato dos Resultados do Protótipo de Papel </a>
 
+Veja na tabela 2 de verificação que será usada para o relato dos resultados do protótipo de Papel.
 
+<center>
+<font size="3"><p style="text-align: center"><b>Tabela 2</b> - Checklist para o artefato relato dos resultados do protótipo de papel.</p></font>
+
+| **ID**  | **Descrição** | **Avaliação** | **Observações** | **Explicação e Referência** |
+| --- | ------------- | :-------: | :---------: | :--------: |
+| 1 | O artefato possui uma descrição clara dos objetivos e do escopo da avaliação? | - | - | Segundo o livro *Interação Humano-Computador e Experiência do Usuário*: "Os avaliadores devem relatar os resultados consolidados, que costumam incluir: objetivos e escopo da avaliação."<a id="anchor_3" href="#REF3">^3^</a> |
+| 2 | O artefato possui uma descrição detalhada do método de avaliação que foi utilizado? | - | - | Segundo o livro *Interação Humano-Computador e Experiência do Usuário*: "Os avaliadores devem relatar os resultados consolidados, que costumam incluir: a forma como a avaliação foi realizada (método de avaliação empregado)."<a id="anchor_3" href="#REF3">^3^</a> |
+| 3 | O artefato possui o número total e o perfil de usuários e avaliadores que participaram da avaliação? | - | - | Segundo o livro *Interação Humano-Computador e Experiência do Usuário*: "Os avaliadores devem relatar os resultados consolidados, que costumam incluir: o número e o perfil de usuários e avaliadores que participaram da avaliação."<a id="anchor_3" href="#REF3">^3^</a> |
+| 4 | O artefato possui um sumário dos dados coletados de forma organizada, incluindo tabelas e gráficos? | - | - | Segundo o livro *Interação Humano-Computador e Experiência do Usuário*: "Os avaliadores devem relatar os resultados consolidados, que costumam incluir: um sumário dos dados coletados, incluindo tabelas e gráficos."<a id="anchor_3" href="#REF3">^3^</a> |
+| 5 | O artefato possui um relato da interpretação e análise dos dados? | - | - | Segundo o livro *Interação Humano-Computador e Experiência do Usuário*: "Os avaliadores devem relatar os resultados consolidados, que costumam incluir: um relato da interpretação e análise dos dados."<a id="anchor_3" href="#REF3">^3^</a> |
+| 6 | O artefato possui uma lista dos problemas encontrados? | - | - | Segundo o livro *Interação Humano-Computador e Experiência do Usuário*: "Os avaliadores devem relatar os resultados consolidados, que costumam incluir: uma lista dos problemas encontrados."<a id="anchor_3" href="#REF3">^3^</a> |
+
+<font size="3"><p style="text-align: center"><b>Fonte: </b> [Luiz Gustavo](https://github.com/LuizGust4vo).</p></font>
+</center>
 
 ### <a> Planejamento da Avaliação do Protótipo de Alta Fidelidade </a>
 
+Veja na tabela 3 de verificação que será usada para o planejamento da avaliação do protótipo de alta fidelidade.
+
+<center>
+<font size="3"><p style="text-align: center"><b>Tabela 3</b> - Checklist para o artefato planejamento da avaliação do protótipo de alta fidelidade.</p></font>
+
+| **ID**  | **Descrição** | **Avaliação** | **Observações** | **Explicação e Referência** |
+| --- | ------------- | :-------: | :---------: | :--------: |
+| 1 |  | - | - | Segundo ...: "" <a id="anchor_x" href="#REFx">^x^</a> |
+
+<font size="3"><p style="text-align: center"><b>Fonte: </b> [Luiz Gustavo](https://github.com/LuizGust4vo).</p></font>
+</center>
 
 
 ## <a>Referência Bibliografica</a>
@@ -77,12 +82,14 @@ Baseados na padronização dos repositórios da disciplina e dos artefatos, cria
 
 > <a id="REF2" href="#anchor_2">2. </a>SERRANO, Milene. SERRANO, Maurício. Apresentação: Requisitos - Aula 23. Página 19.
 
+> <a id="REF3" href="#anchor_3">3. </a> Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) *Interação Humano-Computador e Experiência do usuário.* Capítulo 11. Planejamento da Avaliação de IHC, tópico 11.7. Como Avaliar?, página 279. Autopublicação. ISBN: 978-65-00-19677-1.
+
 
 ## <a>Bibliografia</a>
 
-> <a>1. </a>Gerência e Qualidade de Software - Aula 05 - Verificação e Validação. UNIVESP. Disponível em: <https://www.youtube.com/watch?v=1Y-1zz6rZxo&t=205s>. Acesso em: 05 de junho de 2024 às 12:00.
+> <a>1.</a> Gerência e Qualidade de Software - Aula 05 - Verificação e Validação. UNIVESP. Disponível em: <https://www.youtube.com/watch?v=1Y-1zz6rZxo&t=205s>. Acesso em: 11 de junho de 2024.
 
-> <a>2. </a>SERRANO, Milene. SERRANO, Maurício. Apresentação: Requisitos - Aula 23.
+> <a>2.</a> SERRANO, Milene. SERRANO, Maurício. Apresentação: Requisitos - Aula 23.
 
 > <a>3.</a> Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) *Interação Humano-Computador e Experiência do usuário Autopublicação. ISBN: 978-65-00-19677-1.
 

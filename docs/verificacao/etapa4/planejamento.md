@@ -1,4 +1,4 @@
-# Planejamento da Verificação da Etapa 1
+# Planejamento da Verificação da Etapa 4
 
 ## <a>Introdução</a>
 
@@ -16,7 +16,7 @@ Essa abordagem sistemática nos ajudará a identificar lacunas ou inconsistênci
 
 ## <a> Características da Verificação dos Artefatos </a>
 
-O responsável pelo planejamento da verificação da entrega 1 será o integrante do <b>*Grupo 01*</b> - [Diego Sousa](https://github.com/DiegoSousaLeite). A tabela 1 descreve as caraterísticas sobre como irá proceder as verificações dos documentos referente aos artefatos da terceira entrega:
+O responsável pelo planejamento da verificação da entrega 4 será o integrante do <b>*Grupo 01*</b> - [Diego Sousa](https://github.com/DiegoSousaLeite). A tabela 1 descreve as caraterísticas sobre como irá proceder as verificações dos documentos referente aos artefatos da quarta entrega:
 
 <font size="3"><p style="text-align: center"><b>Tabela 1</b> - Caracteristicas das Verificações dos Artefatos.</p></font>
 <center>
