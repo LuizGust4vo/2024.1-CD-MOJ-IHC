@@ -134,7 +134,7 @@ No planejamento da avaliação de um storyboard, é essencial garantir que todos
 
 **Tabela 5** - Checklist para o Planejamento da Avaliação do Storyboard.
 
-| *ID*  | *Descrição* | *Avaliação* | *Observações* | **Explicação e Referência** |
+| **ID**  | **Descrição** | **Avaliação** | **Observações** | **Explicação e Referência** |
 | --- | ------------- | :-------: | :---------: | :--------: |
 | 1 | O planejamento define os objetivos da avaliação de forma bem evidentes? | - | - | Segundo o livro *Interação Humano-Computador e Experiência do Usuário*: "Os objetivos de uma avaliação determinam quais aspectos relacionados ao uso do sistema devem ser investigados." <a id="anchor_3" href="#REF3">^3^</a> |
 | 2 | O planejamento define os métodos para condução da avaliação? | - | - | Segundo o livro *Interação Humano-Computador e Experiência do Usuário*: "Existem vários métodos para avaliar a qualidade de uso propostos na literatura. Cada método atende melhor a certos objetivos de avaliação, orienta explicita ou implicitamente quando e onde os dados devem ser coletados, como eles devem ser analisados, e quais critérios de qualidade de uso (usabilidade, experiência do usuário, acessibilidade ou comunicabilidade) sua análise privilegia. Os métodos de avaliação de IHC podem ser classificados em: métodos de investigação, de observação de uso e de inspeção." <a id="anchor_5" href="#REF5">^5^</a> |

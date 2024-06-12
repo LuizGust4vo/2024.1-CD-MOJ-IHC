@@ -24,16 +24,18 @@ O responsável pelo planejamento da verificação da entrega 3 será o integrant
 |**Entrega referente**|**Nome do Artefato**|**Versão do artefato**|**Responsável pelo Desenvolvimento do Artefato**|**Responsável pela Verificação do Artefato**|
 |---------|---------|---------|-----------|------------------|
 |Entrega 05|Relato dos Resultados da Avaliação da Análise de Tarefas|`1.5`|Pedro, Larissa, Iago, Breno e Bruno|A definir|
+|Entrega 05|Relato dos Resultados da Avaliação dos Storyboards|`1.5`|Larissa ou Pedro|A definir|
 |Entrega 05|Planejamento da Avaliação do Protótipo de Papel|`1.0`|Larissa|A definir|
 |Entrega 05|Planejamento do Relato do Protótipo de Papel|`1.0`|Bruno|A definir|
 
 </center>
 
-<font size="3"><p style="text-align: center"><b>Fonte: </b> [Douglas Marinho](https://github.com/M4RINH0).</p></font>
+<font size="3"><p style="text-align: center"><b>Fonte: </b> [Douglas Marinho](https://github.com/M4RINH0) e [Eric Silveira](https://github.com/ericbky).</p></font>
 
 Os resultados obtidos após as verificações serão exibidos na respectiva guia destacadas a seguir:
 
 - <a href="https://interacao-humano-computador.github.io/2024.1-CD-MOJ/verificacao/etapa5/relatoAnaliseTaferas/">Relato dos Resultados da Avaliação da Análise de Tarefas</a>
+- <a href="https://interacao-humano-computador.github.io/2024.1-CD-MOJ/verificacao/etapa5/relatoStoryboard/">Relato dos Resultados da Avaliação dos Storyboards</a>
 - <a href="https://interacao-humano-computador.github.io/2024.1-CD-MOJ/verificacao/etapa5/planejamentoPrototipoPapel/">Planejamento da Avaliação do Protótipo de Papel</a>
 - <a href="https://interacao-humano-computador.github.io/2024.1-CD-MOJ/verificacao/etapa5/planejamentoRelatoPapel/">Planejamento do Relato do Protótipo de Papel</a>
 
@@ -123,6 +125,37 @@ A tabela 5 a seguir demonstra o checklist referente as verificações desse arte
 <font size="3"><p style="text-align: center"><b>Fonte: </b> [Douglas Marinho](https://github.com/M4RINH0).</p></font>
 </center>
 
+
+
+
+### <a>Relato dos Resultados do Storyboard</a>
+
+O relato dos resultados dos storyboards documenta os achados obtidos durante a avaliação de interfaces e experiências do usuário. Este documento destaca pontos fortes e áreas de melhoria, ajudando stakeholders a entender como os usuários interagem com o sistema e identificar problemas de usabilidade. Para assegurar a qualidade do relato, foi elaborado um checklist que verifica se todos os critérios essenciais foram cumpridos.
+
+A tabela 6 a seguir apresenta esse checklist detalhado para o artefato dos relatos dos resultados dos storyboards.
+
+<center>
+
+<font size="3"><p style="text-align: center"><b>Tabela 6</b> - Checklist dos Relatos dos Resultados dos Storyboards.</p></font>
+
+|**ID**|**Descrição**|**Avaliação**|**Observações**|**Explicação e Referência** |
+|----|-----------|--------|-------------|-------------|
+| 1 | Os resultados seguem as especificações do método selecionado? |-|-| Segundo o livro *Interação Humano-Computador e Experiência do Usuário*: "os resultados individuais são consolidados e analisados em conjunto, em uma análise denominada de intersujeito ou interparticipante (Nicolaci-da Costa, 1994; Nicolaci-da Costa et al., 2004). Nessa atividade, os avaliadores buscam recorrências nos resultados de acordo com o método selecionado."<a id="REF7" href="#anchor_7">^7^</a>|
+| 2 | A motivação do estudo foi relatada? Se algum aspecto ficou ambíguo ou não foi respondido, há as respostas do por que? |-|-|Segundo o livro *Interação Humano-Computador e Experiência do Usuário*: "Na consolidação dos resultados, os avaliadores devem novamente endereçar as questões que motivaram o estudo, buscando respondê-las ou justificar por que alguma resposta não foi encontrada."<a id="REF7" href="#anchor_7">^7^</a>|
+| 3 | Foram documentados as tendencias de problemas da avaliação, caso tenham? |-|-|Segundo o livro *Interação Humano-Computador e Experiência do Usuário*: "Os resultados de uma avaliação de IHC normalmente indicam tendências de problemas, e não uma certeza de que eles vão ocorrer durante o uso do sistema."<a id="REF7" href="#anchor_7">^7^</a>|
+|4|O artefato possui os objetivos e escopo da avaliação? | - | - |Segundo o livro *Interação Humano-Computador e Experiência do Usuário*: "Finalmente, os avaliadores devem relatar os resultados consolidados, que costumam incluir:<br> - os objetivos e escopo da avaliação;"<a id="REF7" href="#anchor_7">^7^</a>|
+|5|O artefato descreve como a avaliação foi realizada, incluindo o método de avaliação empregado? | - | - |Segundo o livro *Interação Humano-Computador e Experiência do Usuário*: "Finalmente, os avaliadores devem relatar os resultados consolidados, que costumam incluir:<br> - a forma como a avaliação foi realizada (método de avaliação empregado);"<a id="REF7" href="#anchor_7">^7^</a>|
+|6|O artefato apresenta o número e o perfil de usuários e avaliadores que participaram da avaliação? | - | - |Segundo o livro *Interação Humano-Computador e Experiência do Usuário*: "Finalmente, os avaliadores devem relatar os resultados consolidados, que costumam incluir:<br> - o número e o perfil de usuários e avaliadores que participaram da avaliação;"<a id="REF7" href="#anchor_7">^7^</a>|
+|7|O artefato contém um sumário dos dados coletados, incluindo tabelas e gráficos? | - | - | Segundo o livro *Interação Humano-Computador e Experiência do Usuário*: Segundo o livro *Interação Humano-Computador e Experiência do Usuário*: "Finalmente, os avaliadores devem relatar os resultados consolidados, que costumam incluir:<br> - um sumário dos dados coletados, incluindo tabelas e gráficos;"<a id="REF7" href="#anchor_7">^7^</a>|
+|8|O artefato inclui um relato da interpretação e análise dos dados? | - | - | Segundo o livro *Interação Humano-Computador e Experiência do Usuário*: "Finalmente, os avaliadores devem relatar os resultados consolidados, que costumam incluir:<br> - um relato da interpretação e análise dos dados;"<a id="REF7" href="#anchor_7">^7^</a>|
+|9|O artefato fornece uma lista dos problemas encontrados durante a avaliação? | - | - | Segundo o livro *Interação Humano-Computador e Experiência do Usuário*: "Finalmente, os avaliadores devem relatar os resultados consolidados, que costumam incluir:<br> - uma lista dos problemas encontrados;"<a id="REF7" href="#anchor_7">^7^</a>|
+|10|O artefato apresenta um planejamento para o reprojeto do sistema? | - | - | Segundo o livro *Interação Humano-Computador e Experiência do Usuário*: "Finalmente, os avaliadores devem relatar os resultados consolidados, que costumam incluir:<br> - um planejamento para o reprojeto do sistema."<a id="REF7" href="#anchor_7">^7^</a>|
+
+
+<font size="3"><p style="text-align: center"><b>Fonte: </b> [Eric Silveira](https://github.com/ericbky).</p></font>
+</center>
+
+
 ## <a>Referência Bibliografica</a>
 > <a id="REF1" href="#anchor_1">1. </a>Gerência e Qualidade de Software - Aula 05 - Verificação e Validação. UNIVESP. Disponível em: <https://www.youtube.com/watch?v=1Y-1zz6rZxo&t=205s>. Acesso em: 06 de junho de 2024 às 12:00.
 
@@ -136,36 +169,13 @@ A tabela 5 a seguir demonstra o checklist referente as verificações desse arte
 
 > <a id="REF6" href="#anchor_6">6.</a> Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) *Interação Humano-Computador e Experiência do usuário.* Capítulo 10. Princípios e Diretrizes para o Design de IHC, tópico 10.2 Princípios e Diretrizes Gerais, página 238. Autopublicação. ISBN: 978-65-00-19677-1.
 
-> <a id="REF7" href="#anchor_7">7.</a> Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) *Interação Humano-Computador e Experiência do usuário.* Capítulo 10. Princípios e Diretrizes para o Design de IHC, tópico 10.2.1 Correspondência com as Expectativas dos Usuários página 238. Autopublicação. ISBN: 978-65-00-19677-1.
+> <a id="anchor_7" href="#REF7">7.</a> Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) *Interação Humano-Computador e Experiência do usuário.* Capítulo 11. Planejamento da Avaliação de IHC, tópico 11.7.5 Consolidação e Relato dos Resultados, página 279. Autopublicação. ISBN: 978-65-00-19677-1.
 
-> <a id="REF8" href="#anchor_8">8.</a> Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) *Interação Humano-Computador e Experiência do usuário.* Capítulo 10. Princípios e Diretrizes para o Design de IHC, tópico 10.2.2 Simplicidade nas Estruturas das Tarefas, página 239. Autopublicação. ISBN: 978-65-00-19677-1.
-
-> <a id="REF9" href="#anchor_9">9.</a> Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) *Interação Humano-Computador e Experiência do usuário.* Capítulo 10. Princípios e Diretrizes para o Design de IHC, tópico 10.2.3 Equilíbrio entre Controle e Liberdade do Usuário, página 239. Autopublicação. ISBN: 978-65-00-19677-1.
-
-> <a id="REF10" href="#anchor_10">10.</a>  Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) *Interação Humano-Computador e Experiência do usuário.* Capítulo 10. Princípios e Diretrizes para o Design de IHC, tópico 10.2.4 Consistência e Padronização, página 241. Autopublicação. ISBN: 978-65-00-19677-1.
-
-> <a id="REF11" href="#anchor_11">11. </a> Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) *Interação Humano-Computador e Experiência do usuário.* Capítulo 10. Princípios e Diretrizes para o Design de IHC, tópico 10.2.5 Promovendo a Eficiência do Usuário, página 242. Autopublicação. ISBN: 978-65-00-19677-1.
-
-> <a id="REF12" href="#anchor_12">12. </a> Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) *Interação Humano-Computador e Experiência do usuário.* Capítulo 10. Princípios e Diretrizes para o Design de IHC, tópico 10.2.6 Antecipação, página 243. Autopublicação. ISBN: 978-65-00-19677-1.
-
-> <a id="REF13" href="#anchor_13">13. </a>  Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) *Interação Humano-Computador e Experiência do usuário.* Capítulo 10. Princípios e Diretrizes para o Design de IHC, tópico 10.2.7 Visibilidade e Reconhecimento, página 244. Autopublicação. ISBN: 978-65-00-19677-1.
-
-> <a id="REF14" href="#anchor_14">14. </a> Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) *Interação Humano-Computador e Experiência do usuário.* Capítulo 10. Princípios e Diretrizes para o Design de IHC, tópico 10.2.8 Conteúdo Relevante e Expressão Adequada, página 246. Autopublicação. ISBN: 978-65-00-19677-1.
-
-> <a id="REF15" href="#anchor_15">15. </a> Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) *Interação Humano-Computador e Experiência do usuário.* Capítulo 10. Princípios e Diretrizes para o Design de IHC, tópico 10.2.9 Projeto para Erros, página 247. Autopublicação. ISBN: 978-65-00-19677-1.
-
-> <a id="REF16" href="#anchor_16">16. </a>  Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) *Interação Humano-Computador e Experiência do usuário.* Capítulo 10. Princípios e Diretrizes para o Design de IHC, tópico 10.2 Princípios e Diretrizes Gerais, página 238. Autopublicação. ISBN: 978-65-00-19677-1. 
-
-> <a id="REF17" href="#anchor_17">17. </a> Diana Fournier. As 6 metas de Usabilidade. MEDIUM, 2016. Disponível em: https://medium.com/vivareal-ux-chapter/as-6-metas-de-usabilidade-9491442fd56a. Acesso em: 6 de junho de 2024.
-
-> <a id="REF18" href="#anchor_18">18.</a> Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) *Interação Humano-Computador e Experiência do usuário.* Capítulo 10. Princípios e Diretrizes para o Design de IHC, tópico 10.5 Guias de Estilo, página 257. Autopublicação. ISBN: 978-65-00-19677-1.
-
-> <a id="REF19" href="#anchor_19">19.</a> Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) *Interação Humano-Computador e Experiência do usuário.* Capítulo 10. Princípios e Diretrizes para o Design de IHC, tópico 10.5 Guias de Estilo, página 258. Autopublicação. ISBN: 978-65-00-19677-1.
 
 ## <a>Bibliografia</a>
 > <a>1. </a>Gerência e Qualidade de Software - Aula 05 - Verificação e Validação. UNIVESP. Disponível em: <https://www.youtube.com/watch?v=1Y-1zz6rZxo&t=205s>. Acesso em: 05 de junho de 2024 às 12:00.
 
-> <a>2. </a>SERRANO, Milene. SERRANO, Maurício. Apresentação: Requisitos - Aula 23.
+> <a>2.</a> Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) *Interação Humano-Computador e Experiência do usuário.* Autopublicação. ISBN: 978-65-00-19677-1.
 
 
 ## <a>Histórico de Versão</a>
@@ -173,3 +183,4 @@ A tabela 5 a seguir demonstra o checklist referente as verificações desse arte
 | Versão| Data | Data Prevista de Revisão| Descrição  | Autor(es)  | Revisor(es) |
 | ------- | ------ | ------ | ------- | -------- | -------- |
 | `1.0` | 11/06/2024 | 12/06/2024 | Criação do documento com Introdução, Metodologia e Características da Verificação dos artefatos e Checklists dos artefatos. | [Douglas Marinho](https://github.com/M4RINH0)|[Eric Silveira](https://github.com/ericbky)|
+| `1.1` | 12/06/2024 | 12/06/2024 | Inserindo checklist de verificação do Relato dos Resultados do Storyboard. | [Eric Silveira](https://github.com/ericbky)|[Douglas Marinho](https://github.com/M4RINH0)|
