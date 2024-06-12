@@ -74,14 +74,17 @@ A tabela 3 a seguir demonstra o checklist referente as verificações desse arte
 
 <font size="3"><p style="text-align: center"><b>Tabela 3</b> - Checklist do Relato dos Resultados da Avaliação da Análise de Tarefa.</p></font>
 
-|**ID**|**Descrição**|**Avaliação**|**Observações**|
-|----|------------|-----|-------------|
-| 9 | As entrevistas realizadas cobrem um perfil diversificado de usuários, considerando variáveis como familiaridade com tecnologia e uso de sistemas acadêmicos? |  | A inclusão de um perfil diversificado garante que o sistema seja acessível e usável por todos os tipos de usuários.<a id="anchor_4" href="#REF4">^4^</a> |
-| 10 | Os problemas encontrados durante as entrevistas foram identificados e descritos de forma detalhada, com exemplos concretos das dificuldades dos usuários? |  | A identificação detalhada dos problemas permite uma análise mais precisa e a criação de soluções efetivas.<a id="anchor_3" href="#REF3">^3^</a> |
-| 11 | As soluções propostas para os problemas identificados são práticas e baseadas em princípios sólidos de usabilidade? |  | Propostas práticas e fundamentadas em princípios de usabilidade aumentam a eficácia das soluções implementadas.<a id="anchor_3" href="#REF3">^3^</a> |
-| 12 | Os feedbacks dos usuários sobre a análise de tarefas foram coletados e documentados de maneira estruturada? |  | A documentação estruturada de feedbacks facilita a avaliação contínua e a melhoria do sistema.<a id="anchor_5" href="#REF5">^5^</a> |
-| 13 | A reformulação das análises de tarefas levou em consideração todos os feedbacks e problemas identificados? |  | Considerar todos os feedbacks garante que nenhuma questão importante seja negligenciada, melhorando a experiência do usuário.<a id="anchor_6" href="#REF6">^6^</a> |
-| 14 | O documento apresenta uma estrutura clara e lógica, facilitando a navegação e compreensão dos resultados da avaliação? |  | Uma estrutura clara e lógica no documento de avaliação facilita a comunicação e a implementação das melhorias sugeridas.<a id="anchor_4" href="#REF4">^4^</a> |
+| **ID** | **Descrição** | **Avaliação** | **Observações** | **Explicação e Referência** |
+|--------|---------------|---------------|-----------------|----------------------------|
+| 9      | As entrevistas realizadas cobrem um perfil diversificado de usuários, considerando variáveis como familiaridade com tecnologia e uso de sistemas acadêmicos? |               |                             | A inclusão de um perfil diversificado garante que o sistema seja acessível e usável por todos os tipos de usuários. [^4^](#REF4) |
+| 10     | Os problemas encontrados durante as entrevistas foram identificados e descritos de forma detalhada, com exemplos concretos das dificuldades dos usuários? |               |                             | A identificação detalhada dos problemas permite uma análise mais precisa e a criação de soluções efetivas. [^3^](#REF3) |
+| 11     | As soluções propostas para os problemas identificados são práticas e baseadas em princípios sólidos de usabilidade? |               |                             | Propostas práticas e fundamentadas em princípios de usabilidade aumentam a eficácia das soluções implementadas. [^3^](#REF3) |
+| 12     | Os feedbacks dos usuários sobre a análise de tarefas foram coletados e documentados de maneira estruturada? |               |                             | A documentação estruturada de feedbacks facilita a avaliação contínua e a melhoria do sistema. [^5^](#REF5) |
+| 13     | A reformulação das análises de tarefas levou em consideração todos os feedbacks e problemas identificados? |               |                             | Considerar todos os feedbacks garante que nenhuma questão importante seja negligenciada, melhorando a experiência do usuário. [^6^](#REF6) |
+| 14     | O documento apresenta uma estrutura clara e lógica, facilitando a navegação e compreensão dos resultados da avaliação? |               |                             | Uma estrutura clara e lógica no documento de avaliação facilita a comunicação e a implementação das melhorias sugeridas. [^4^](#REF4) |
+
+
+
 
 
 <font size="3"><p style="text-align: center"><b>Fonte: </b> [Douglas Marinho](https://github.com/M4RINH0).</p></font>
@@ -96,12 +99,13 @@ A tabela 4 a seguir demonstra o checklist referente as verificações desse arte
 
 <font size="3"><p style="text-align: center"><b>Tabela 4</b> - Checklist do Planejamento da Avaliação do Protótipo de Papel.</p></font>
 
-|**ID**|**Descrição**|**Avaliação**|**Observações**|
-|----|-----------|--------|-------------|
-| 9 | 	As decisões de design tomadas para o protótipo de papel são consistentes com as necessidades e expectativas dos usuários identificadas na fase de pesquisa?| |Avaliação da consistência das decisões de design com as necessidades dos usuários.<a id="REF4" href="#anchor_4">4.</a>|
-| 10 |O artefato planeja o uso de DECIDE de forma clara e eficaz?| |A clareza na aplicação do DECIDE no planejamento do artefato assegura que os passos e critérios de decisão sejam compreendidos e seguidos de maneira eficaz durante a avaliação.<a id="REF5" href="#anchor_5">5.</a>|
-| 11 |As perguntas para a avaliação tem objetivo a ser explorado?| |Definir objetivos claros para cada pergunta da avaliação ajuda a garantir que as informações coletadas sejam relevantes e direcionadas aos aspectos críticos do protótipo.<a id="REF4" href="#anchor_4">4. </a>|
-| 12 |É planejado as questões práticas da avaliação como materiais necessários?| |O planejamento antecipado dos materiais necessários para a avaliação prática assegura que todos os recursos estejam disponíveis durante a execução do processo, otimizando sua eficiência.<a id="REF3" href="#anchor_3">3. </a>|
+| **ID** | **Descrição** | **Avaliação** | **Observações** | **Explicação e Referência** |
+|--------|---------------|---------------|-----------------|----------------------------|
+| 9      | As decisões de design tomadas para o protótipo de papel são consistentes com as necessidades e expectativas dos usuários identificadas na fase de pesquisa? |               |                             | Avaliação da consistência das decisões de design com as necessidades dos usuários. [^4^](#REF4) |
+| 10     | O artefato planeja o uso de DECIDE de forma clara e eficaz? |               |                             | A clareza na aplicação do DECIDE no planejamento do artefato assegura que os passos e critérios de decisão sejam compreendidos e seguidos de maneira eficaz durante a avaliação. [^5^](#REF5) |
+| 11     | As perguntas para a avaliação têm objetivo a ser explorado? |               |                             | Definir objetivos claros para cada pergunta da avaliação ajuda a garantir que as informações coletadas sejam relevantes e direcionadas aos aspectos críticos do protótipo. [^4^](#REF4) |
+| 12     | É planejado as questões práticas da avaliação como materiais necessários? |               |                             | O planejamento antecipado dos materiais necessários para a avaliação prática assegura que todos os recursos estejam disponíveis durante a execução do processo, otimizando sua eficiência. [^3^](#REF3) |
+
 
 <font size="3"><p style="text-align: center"><b>Fonte: </b> [Douglas Marinho](https://github.com/M4RINH0).</p></font>
 </center>
@@ -115,16 +119,16 @@ A tabela 5 a seguir demonstra o checklist referente as verificações desse arte
 
 <font size="3"><p style="text-align: center"><b>Tabela 5</b> - Checklist do Planejamento do Relato do Protótipo de Papel.</p></font>
 
-|**ID**|**Descrição**|**Avaliação**|**Observações**|
-|----|-----------|--------|-------------|
-| 9 | O objetivo e escopo da avaliação estão claramente definidos? | |A clareza na definição do escopo garante que a avaliação seja focada e eficaz. <a id="REF5" href="#anchor_5">5. </a>|
-| 10 | Os métodos de coleta de dados são adequados para avaliar o protótipo de papel? | |A escolha dos métodos influencia na qualidade e na relevância dos dados coletados. <a id="REF5" href="#anchor_5">5. </a>|
-| 11 | Foram definidos critérios claros para a análise dos resultados da avaliação? | |Critérios claros facilitam a interpretação e a tomada de decisões com base nos resultados obtidos.<a id="REF5" href="#anchor_5">5. </a>|
-| 12 | Foi realizado um teste piloto para verificar a eficácia do protocolo de avaliação? | |Testes pilotos ajudam a identificar problemas antes da implementação completa do processo. <a id="REF5" href="#anchor_5">5. </a>|
+| **ID** | **Descrição** | **Avaliação** | **Observações** | **Explicação e Referência** |
+|--------|---------------|---------------|-----------------|----------------------------|
+| 9      | O objetivo e escopo da avaliação estão claramente definidos? |               |                             | A clareza na definição do escopo garante que a avaliação seja focada e eficaz. [^5^](#REF5) |
+| 10     | Os métodos de coleta de dados são adequados para avaliar o protótipo de papel? |               |                             | A escolha dos métodos influencia na qualidade e na relevância dos dados coletados. [^5^](#REF5) |
+| 11     | Foram definidos critérios claros para a análise dos resultados da avaliação? |               |                             | Critérios claros facilitam a interpretação e a tomada de decisões com base nos resultados obtidos. [^5^](#REF5) |
+| 12     | Foi realizado um teste piloto para verificar a eficácia do protocolo de avaliação? |               |                             | Testes pilotos ajudam a identificar problemas antes da implementação completa do processo. [^5^](#REF5) |
+
 
 <font size="3"><p style="text-align: center"><b>Fonte: </b> [Douglas Marinho](https://github.com/M4RINH0).</p></font>
 </center>
-
 
 
 
