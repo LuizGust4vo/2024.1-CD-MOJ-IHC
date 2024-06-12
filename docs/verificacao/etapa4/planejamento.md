@@ -71,6 +71,7 @@ A tabela 2 a seguir apresenta a checklist referente aos itens exigidos para o pl
 | 16  | O planejamento segue o framework DECIDE? <a id="anchor_9" href="#REF9">^9^</a>          |           |             |
 | 17  | O planejamento descreve como serão documentados e tratados os dados obtidos durante a avaliação? (Inclui grau de confiabilidade das respostas, contexto em que foram produzidas e conformidade com o perfil de usuário traçado.) <a id="anchor_9" href="#REF9">^9^</a>|  |           |             |
 </center>
+
 <font size="3"><p style="text-align: center">Fonte: [Diego Sousa](https://github.com/DiegoSousaLeite).</p></font>
 
 
@@ -96,6 +97,7 @@ A tabela 3 a seguir apresenta a checklist referente aos itens exigidos para o re
 | 9  | O planejamento contempla um plano para o reprojeto do sistema, se necessário?<a id="anchor_10" href="#REF10">^10^</a>            |     -     |      -      |
 
 </center>
+
 <font size="3"><p style="text-align: center">Fonte: [Diego Sousa](https://github.com/DiegoSousaLeite).</p></font>
 
 

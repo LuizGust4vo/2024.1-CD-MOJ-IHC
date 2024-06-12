@@ -65,9 +65,10 @@ A tabela 3 a seguir demonstra o checklist referente as verificações desse arte
 | 10 | Os Princípios Gerais do Projeto apresentam um tópico sobre "projeto para erros"?<a id="anchor_15" href="#REF15">^15^</a>. | | |
 | 11 | Os Princípios Gerais possuem uma avaliação com "Problemas encontrados", incluindo fotos ou gravações?<a id="anchor_16" href="#REF16">^16^</a> |  | |
 | 12 | Os Princípios Gerais possuem uma avaliação com "Proposta de solução", para problemas encontrados?<a id="anchor_16" href="#REF16">^16^</a>|  | |
+</center>
 
 <font size="3"><p style="text-align: center"><b>Fonte: </b> [João Artur](https://github.com/joao-artl).</p></font>
-</center>
+
 
 ### <a>Metas de Usabilidade</a>
 
@@ -106,9 +107,9 @@ A tabela 5 a seguir demonstra o checklist referente as verificações desse arte
 | 5 | O artefato possui uma descrição sobre as cores do site?<a id="anchor_18" href="#REF18">^18^</a> | | |
 | 6 | O artefato possui uma descrição sobre a visualização de informações do site?<a id="anchor_18" href="#REF18">^18^</a> | | |
 | 7 |A guia de Estilo segue uma estrutura contendo: Introdução, Resultados de Ánalise, Elementos de interface, Elementos de interação, Elementos de Ação, Vocabulário e Padrões?<a id="anchor_19" href="#REF19">^19^</a> | | |
-
-<font size="3"><p style="text-align: center"><b>Fonte: </b> [João Artur](https://github.com/joao-artl).</p></font>
 </center>
+<font size="3"><p style="text-align: center"><b>Fonte: </b> [João Artur](https://github.com/joao-artl).</p></font>
+
 
 ## <a>Referência Bibliografica</a>
 > <a id="REF1" href="#anchor_1">1. </a>Gerência e Qualidade de Software - Aula 05 - Verificação e Validação. UNIVESP. Disponível em: <https://www.youtube.com/watch?v=1Y-1zz6rZxo&t=205s>. Acesso em: 06 de junho de 2024 às 12:00.
