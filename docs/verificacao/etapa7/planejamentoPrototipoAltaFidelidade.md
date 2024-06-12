@@ -2,6 +2,7 @@
 
 ## <a>Introdução</a>
 
+Neste artefato, nosso objetivo é relatar de forma detalhada a verificação do relato dos resultados do protótipo de papel, desenvolvido pelo <a href="https://interacao-humano-computador.github.io/2024.1-SIGAA/#/">Grupo 02</a>. Esta verificação é essencial para garantir que o planejamento do protótipo de alta fidelidade está devidamente alinhado com os objetivos do projeto e atende as expectativas dos stakeholders. Analisaremos a organização e metodologias utilizadas.
 
 
 ## <a>Características da Verificação do Cronograma</a>
