@@ -23,7 +23,7 @@ O responsável pelo planejamento da verificação da entrega 3 será o integrant
 
 |**Entrega referente**|**Nome do Artefato**|**Versão do artefato**|**Responsável pelo Desenvolvimento do Artefato**|**Responsável pela Verificação do Artefato**|
 |---------|---------|---------|-----------|------------------|
-|Entrega 05|Relato dos Resultados da Avaliação da Análise de Tarefas|`1.5`|Pedro, Larissa, Iago, Breno e Bruno|A definir|
+|Entrega 05|Relato dos Resultados da Avaliação da Análise de Tarefas|`1.5`|Pedro, Larissa, Iago, Breno e Bruno|[Douglas Marinho](https://github.com/M4RINH0) e [Arthur Alves](https://github.com/arthrok)|
 |Entrega 05|Relato dos Resultados da Avaliação dos Storyboards|`1.5`|Larissa ou Pedro|A definir|
 |Entrega 05|Planejamento da Avaliação do Protótipo de Papel|`1.0`|Larissa|A definir|
 |Entrega 05|Planejamento do Relato do Protótipo de Papel|`1.0`|Bruno|A definir|
@@ -36,33 +36,13 @@ Os resultados obtidos após as verificações serão exibidos na respectiva guia
 
 - <a href="https://interacao-humano-computador.github.io/2024.1-CD-MOJ/verificacao/etapa5/relatoAnaliseTaferas/">Relato dos Resultados da Avaliação da Análise de Tarefas</a>
 - <a href="https://interacao-humano-computador.github.io/2024.1-CD-MOJ/verificacao/etapa5/relatoStoryboard/">Relato dos Resultados da Avaliação dos Storyboards</a>
-- <a href="https://interacao-humano-computador.github.io/2024.1-CD-MOJ/verificacao/etapa5/planejamentoPrototipoPapel/">Planejamento da Avaliação do Protótipo de Papel</a>
+- <a href="https://interacao-humano-computador.github.io/2024.1-CD-MOJ/verificacao/etapa5/planejamentoAvaliacaoPapel/">Planejamento da Avaliação do Protótipo de Papel</a>
 - <a href="https://interacao-humano-computador.github.io/2024.1-CD-MOJ/verificacao/etapa5/planejamentoRelatoPapel/">Planejamento do Relato do Protótipo de Papel</a>
 
 
 ## <a>Checklists</a>
 
 Os checklists são ferramentas essenciais de verificação que ajudam a identificar defeitos ou características ausentes no projeto. Eles garantem a consistência, completude e conformidade dos artefatos com os requisitos estabelecidos, promovendo a qualidade e a integridade do projeto.
-
-Baseando-se na padronização dos repositórios da disciplina e dos artefatos, o integrante do grupo 01, [Eric Silveira](https://github.com/ericbky), elaborou checklists gerais que devem ser aplicados a todos os artefatos desenvolvidos pela equipe ao longo do projeto. A tabela 2 a seguir apresenta as verificações gerais para todos os artefatos incluídos no projeto:
-
-<center>
-
-<font size="3"><p style="text-align: center"><b>Tabela 2</b> - Checklist geral dos artefatos.</p></font>
-
-|**ID**|**Descrição**|**Avaliação**|**Observações**|
-|----|-----------|-----------|-------------|
-|1|O artefato possui uma introdução descrevendo-o?|||
-|2|O artefato possui padronização nos títulos?|||
-|3|O artefato caso contenha tabelas, as chama no texto?|||
-|4|O artefato caso tenha figuras as chamam no texto?|||		
-|5|O artefato possui a fonte das figuras, tabelas e outras aspectos que necessitem da mesma?|||		
-|6|O artefato possui bibliografia e/ou referência bibliográfica?|||
-|7|O artefato chama as referências bibliográficas presentes de forma correta no texto?|||
-|8|O artefato possui um histórico de versão padronizado apresentando as versões, datas, datas de revisão, descrição, responsáveis e revisores?|||
-
-<font size="3"><p style="text-align: center"><b>Fonte: </b> [Eric Silveira](https://github.com/ericbky).</p></font>
-</center>
 
 
 ### <a>Relato dos Resultados da Avaliação da Análise de Tarefas</a>
@@ -76,15 +56,12 @@ A tabela 3 a seguir demonstra o checklist referente as verificações desse arte
 
 | **ID** | **Descrição** | **Avaliação** | **Observações** | **Explicação e Referência** |
 |--------|---------------|---------------|-----------------|----------------------------|
-| 9      | As entrevistas realizadas cobrem um perfil diversificado de usuários, considerando variáveis como familiaridade com tecnologia e uso de sistemas acadêmicos? |               |                             | A inclusão de um perfil diversificado garante que o sistema seja acessível e usável por todos os tipos de usuários. [^4^](#REF4) |
-| 10     | Os problemas encontrados durante as entrevistas foram identificados e descritos de forma detalhada, com exemplos concretos das dificuldades dos usuários? |               |                             | A identificação detalhada dos problemas permite uma análise mais precisa e a criação de soluções efetivas. [^3^](#REF3) |
-| 11     | As soluções propostas para os problemas identificados são práticas e baseadas em princípios sólidos de usabilidade? |               |                             | Propostas práticas e fundamentadas em princípios de usabilidade aumentam a eficácia das soluções implementadas. [^3^](#REF3) |
-| 12     | Os feedbacks dos usuários sobre a análise de tarefas foram coletados e documentados de maneira estruturada? |               |                             | A documentação estruturada de feedbacks facilita a avaliação contínua e a melhoria do sistema. [^5^](#REF5) |
-| 13     | A reformulação das análises de tarefas levou em consideração todos os feedbacks e problemas identificados? |               |                             | Considerar todos os feedbacks garante que nenhuma questão importante seja negligenciada, melhorando a experiência do usuário. [^6^](#REF6) |
-| 14     | O documento apresenta uma estrutura clara e lógica, facilitando a navegação e compreensão dos resultados da avaliação? |               |                             | Uma estrutura clara e lógica no documento de avaliação facilita a comunicação e a implementação das melhorias sugeridas. [^4^](#REF4) |
-
-
-
+| 1      | As entrevistas realizadas cobrem um perfil diversificado de usuários, considerando variáveis como familiaridade com tecnologia e uso de sistemas acadêmicos? |        -      |              -              | A inclusão de um perfil diversificado garante que o sistema seja acessível e usável por todos os tipos de usuários. [^4^](#REF4) |
+| 2     | Os problemas encontrados durante as entrevistas foram identificados e descritos de forma detalhada, com exemplos concretos das dificuldades dos usuários? |      -        |             -               | A identificação detalhada dos problemas permite uma análise mais precisa e a criação de soluções efetivas. [^3^](#REF3) |
+| 3     | As soluções propostas para os problemas identificados são práticas e baseadas em princípios sólidos de usabilidade? |       -       |            -                | Propostas práticas e fundamentadas em princípios de usabilidade aumentam a eficácia das soluções implementadas. [^3^](#REF3) |
+| 4     | Os feedbacks dos usuários sobre a análise de tarefas foram coletados e documentados de maneira estruturada? |      -        |               -             | A documentação estruturada de feedbacks facilita a avaliação contínua e a melhoria do sistema. [^5^](#REF5) |
+| 5     | A reformulação das análises de tarefas levou em consideração todos os feedbacks e problemas identificados? |      -        |               -             | Considerar todos os feedbacks garante que nenhuma questão importante seja negligenciada, melhorando a experiência do usuário. [^6^](#REF6) |
+| 6     | O documento apresenta uma estrutura clara e lógica, facilitando a navegação e compreensão dos resultados da avaliação? |        -      |                 -           | Uma estrutura clara e lógica no documento de avaliação facilita a comunicação e a implementação das melhorias sugeridas. [^4^](#REF4) |
 
 
 <font size="3"><p style="text-align: center"><b>Fonte: </b> [Douglas Marinho](https://github.com/M4RINH0).</p></font>
@@ -101,10 +78,10 @@ A tabela 4 a seguir demonstra o checklist referente as verificações desse arte
 
 | **ID** | **Descrição** | **Avaliação** | **Observações** | **Explicação e Referência** |
 |--------|---------------|---------------|-----------------|----------------------------|
-| 9      | As decisões de design tomadas para o protótipo de papel são consistentes com as necessidades e expectativas dos usuários identificadas na fase de pesquisa? |               |                             | Avaliação da consistência das decisões de design com as necessidades dos usuários. [^4^](#REF4) |
-| 10     | O artefato planeja o uso de DECIDE de forma clara e eficaz? |               |                             | A clareza na aplicação do DECIDE no planejamento do artefato assegura que os passos e critérios de decisão sejam compreendidos e seguidos de maneira eficaz durante a avaliação. [^5^](#REF5) |
-| 11     | As perguntas para a avaliação têm objetivo a ser explorado? |               |                             | Definir objetivos claros para cada pergunta da avaliação ajuda a garantir que as informações coletadas sejam relevantes e direcionadas aos aspectos críticos do protótipo. [^4^](#REF4) |
-| 12     | É planejado as questões práticas da avaliação como materiais necessários? |               |                             | O planejamento antecipado dos materiais necessários para a avaliação prática assegura que todos os recursos estejam disponíveis durante a execução do processo, otimizando sua eficiência. [^3^](#REF3) |
+| 1      | As decisões de design tomadas para o protótipo de papel são consistentes com as necessidades e expectativas dos usuários identificadas na fase de pesquisa? |       -       |               -             | Avaliação da consistência das decisões de design com as necessidades dos usuários. [^4^](#REF4) |
+| 2     | O artefato planeja o uso de DECIDE de forma clara e eficaz? |        -      |             -               | A clareza na aplicação do DECIDE no planejamento do artefato assegura que os passos e critérios de decisão sejam compreendidos e seguidos de maneira eficaz durante a avaliação. [^5^](#REF5) |
+| 3     | As perguntas para a avaliação têm objetivo a ser explorado? |     -         |                  -          | Definir objetivos claros para cada pergunta da avaliação ajuda a garantir que as informações coletadas sejam relevantes e direcionadas aos aspectos críticos do protótipo. [^4^](#REF4) |
+| 4     | É planejado as questões práticas da avaliação como materiais necessários? |         -     |                -            | O planejamento antecipado dos materiais necessários para a avaliação prática assegura que todos os recursos estejam disponíveis durante a execução do processo, otimizando sua eficiência. [^3^](#REF3) |
 
 
 <font size="3"><p style="text-align: center"><b>Fonte: </b> [Douglas Marinho](https://github.com/M4RINH0).</p></font>
@@ -121,10 +98,10 @@ A tabela 5 a seguir demonstra o checklist referente as verificações desse arte
 
 | **ID** | **Descrição** | **Avaliação** | **Observações** | **Explicação e Referência** |
 |--------|---------------|---------------|-----------------|----------------------------|
-| 9      | O objetivo e escopo da avaliação estão claramente definidos? |               |                             | A clareza na definição do escopo garante que a avaliação seja focada e eficaz. [^5^](#REF5) |
-| 10     | Os métodos de coleta de dados são adequados para avaliar o protótipo de papel? |               |                             | A escolha dos métodos influencia na qualidade e na relevância dos dados coletados. [^5^](#REF5) |
-| 11     | Foram definidos critérios claros para a análise dos resultados da avaliação? |               |                             | Critérios claros facilitam a interpretação e a tomada de decisões com base nos resultados obtidos. [^5^](#REF5) |
-| 12     | Foi realizado um teste piloto para verificar a eficácia do protocolo de avaliação? |               |                             | Testes pilotos ajudam a identificar problemas antes da implementação completa do processo. [^5^](#REF5) |
+| 1      | O objetivo e escopo da avaliação estão claramente definidos? |      -        |                 -           | A clareza na definição do escopo garante que a avaliação seja focada e eficaz. [^5^](#REF5) |
+| 2     | Os métodos de coleta de dados são adequados para avaliar o protótipo de papel? |        -      |           -                 | A escolha dos métodos influencia na qualidade e na relevância dos dados coletados. [^5^](#REF5) |
+| 3     | Foram definidos critérios claros para a análise dos resultados da avaliação? |        -      |              -              | Critérios claros facilitam a interpretação e a tomada de decisões com base nos resultados obtidos. [^5^](#REF5) |
+| 4     | Foi realizado um teste piloto para verificar a eficácia do protocolo de avaliação? |       -       |                     -       | Testes pilotos ajudam a identificar problemas antes da implementação completa do processo. [^5^](#REF5) |
 
 
 <font size="3"><p style="text-align: center"><b>Fonte: </b> [Douglas Marinho](https://github.com/M4RINH0).</p></font>
@@ -167,9 +144,9 @@ A tabela 6 a seguir apresenta esse checklist detalhado para o artefato dos relat
 
 > <a id="REF3" href="#anchor_3">3. </a> NORMAN, Don. The Psychology Of Everyday Things. Basic Books, New York, illustrated edition, 1988.
 
-> <a id="REF4" href="#anchor_4">4. </a> NIELSEN, Jacob. Designing Web Usability: The Practice of Simplicity Peachpit Press, la edição 1999
+> <a id="REF4" href="#anchor_4">4. </a> NIELSEN, Jacob. Designing Web Usability: The Practice of Simplicity Peachpit Press, la edição 1999. Capítulo 8. Design, Prototipação e Construção. tópico 8.2 Prototipação e Construção, página 260.
 
-> <a id="REF5" href="#anchor_5">5. </a> Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) *Interação Humano-Computador e Experiência do usuário Autopublicação. ISBN: 978-65-00-19677-1.
+> <a id="REF5" href="#anchor_5">5. </a> Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) *Interação Humano-Computador e Experiência do usuário*.Capítulo 10. Princípios e Diretrizes para o Design de IHC, tópico 10 Princípios e Diretrizes Gerais, página 316. Autopublicação. ISBN: 978-65-00-19677-1.
 
 > <a id="REF6" href="#anchor_6">6.</a> Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) *Interação Humano-Computador e Experiência do usuário.* Capítulo 10. Princípios e Diretrizes para o Design de IHC, tópico 10.2 Princípios e Diretrizes Gerais, página 238. Autopublicação. ISBN: 978-65-00-19677-1.
 

@@ -25,7 +25,7 @@ O responsável pela execução da verificação da entrega 8 será o integrante 
 
 | **Entrega referente** | **Nome do Artefato** | **Versão do artefato** | **Responsável pelo Desenvolvimento do Artefato** | **Responsável pela Verificação do Artefato** |
 | --------- | --------- | --------- | ----------- | ------------------ |
-| Entrega 08 | Planejamento do Relato dos Resultados da Avaliação do Protótipo de Alta Fidelidade | `Documento Ausente` | - | A definir |
+| Entrega 08 | Planejamento do Relato dos Resultados da Avaliação do Protótipo de Alta Fidelidade | `Documento Ausente` | - | [Douglas Marinho](https://github.com/M4RINH0) e [Arthur Alves](https://github.com/arthrok) |
 
 </center>
 
