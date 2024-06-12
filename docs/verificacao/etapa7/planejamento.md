@@ -32,7 +32,7 @@ O responsável pela execução da verificação da entrega 7 será o integrante 
 
 <font size="3"><p style="text-align: center"><b>Fonte: </b> [Luiz Gustavo](https://github.com/LuizGust4vo).</p></font>
 
-Os resultados obtidos após as verificações serão exibidos na respectiva guia destacadas a seguir:
+Os resultados obtidos após as verificações serão exibidos na respectiva guia destacada a seguir:
 
 - <a href="https://interacao-humano-computador.github.io/2024.1-CD-MOJ/verificacao/etapa7/relatoPrototipoPapel/">Verificação do artefato relato dos resultados do protótipo de papel </a>
 - <a href="https://interacao-humano-computador.github.io/2024.1-CD-MOJ/verificacao/etapa7/planejamentoPrototipoAltaFidelidade/">Verificação do artefato de planejamento da avaliação do protótipo de alta fidelidade </a>
@@ -44,7 +44,7 @@ Os checklists são uma ferramenta essencial de verificação, ajudando a identif
 
 ### <a> Relato dos Resultados do Protótipo de Papel </a>
 
-Veja na tabela 2 de verificação que será usada para o relato dos resultados do protótipo de Papel.
+Veja na tabela 2 abaixo os itens que serão utilizados para a verificação do relato dos resultados do protótipo de papel.
 
 <center>
 <font size="3"><p style="text-align: center"><b>Tabela 2</b> - Checklist para o artefato relato dos resultados do protótipo de papel.</p></font>
@@ -63,7 +63,7 @@ Veja na tabela 2 de verificação que será usada para o relato dos resultados d
 
 ### <a> Planejamento da Avaliação do Protótipo de Alta Fidelidade </a>
 
-Veja na tabela 3 de verificação que será usada para o planejamento da avaliação do protótipo de alta fidelidade.
+Veja na tabela 3 abaixo os itens que serão utilizados para a verificação do planejamento da avaliação do protótipo de alta fidelidade.
 
 <center>
 <font size="3"><p style="text-align: center"><b>Tabela 3</b> - Checklist para o artefato planejamento da avaliação do protótipo de alta fidelidade.</p></font>
