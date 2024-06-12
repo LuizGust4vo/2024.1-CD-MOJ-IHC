@@ -53,7 +53,6 @@ A Tabela 3 a seguir apresenta a verificação dos **diagramas HTA** do <a href="
 <center>
 <font size="3"><p style="text-align: center"><b>Tabela 3</b> - Checklist para Diagramas HTA.</p></font>
 
-### Checklist de Verificação para Diagramas HTA (Hierarchical Task Analysis)
 
 | **ID** | **Descrição** | **Avaliação** | **Observações** | **Explicação e Referência** |
 |------|-------------|-------------|---------------|-------------|
