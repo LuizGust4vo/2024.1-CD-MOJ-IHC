@@ -22,7 +22,8 @@ O responsável pelo planejamento da verificação da entrega 02 será dos integr
 |**Entrega referente**|**Nome do Artefato**|**Versão do artefato**|**Responsável pelo Desenvolvimento do Artefato**|**Responsável pela Verificação do Artefato**|
 |---------|---------|---------|-----------|------------------|
 |Entrega 02|Aspectos Éticos de Pesquisas Envolvendo Pessoas|`--`|Larissa Stéfane|[Eric Silveira](https://github.com/ericbky)|
-|Entrega 02|Perifl de Usuário|`1.0`|Larissa Stéfane|[Arthur Alves](https://github.com/arthrok)|
+|Entrega 02|Perfil de Usuário|`1.0`|Larissa Stéfane|[Arthur Alves](https://github.com/arthrok)|
+|Entrega 02|Personas|`--`|--|[Arthur Alves](https://github.com/arthrok)|
 
 </center>
 
@@ -40,7 +41,7 @@ Os checklists são ferramentas essenciais de verificação que ajudam a identifi
 
 ### <a> Checklist do Perfil de Usuário </a>
 
-
+Um perfil de usuário é uma descrição detalhada das características dos usuários cujos objetivos devem ser apoiados pelo sistema sendo projetado. Devemos identificar características como cargo, função, experiência, nível de instrução, atividades principais e faixa etária, e conduzir estudos como entrevistas e questionários para coletar esses dados. Os dados coletados são agrupados em faixas para traçar perfis de usuários com características semelhantes. A elaboração de um perfil de usuário é um processo iterativo, começando com uma ideia inicial que se refina com o tempo para garantir uma representação precisa dos usuários<a id="anchor_4" href="#REF4">^4^</a>. A seguir, a tabela 2 contém uma série de itens que serão verificados no artefato de Perfil de Usuário do **Grupo 02 - SIGAA**.
 
 <center>
 <font size="3"><p style="text-align: center"><b>Tabela 2</b> - Checklist do artefato Perfil de Usuário.</p></font>
@@ -95,6 +96,39 @@ A pesquisa envolvendo pessoas deve seguir rigorosos aspectos éticos, garantindo
 
 <font size="3"><p style="text-align: center"><b>Fonte: </b> [Eric Silveira](https://github.com/ericbky).</p></font>
 
+
+
+### <a> Checklist de Personas </a>
+
+Uma persona é um personagem fictício, criado para descrever um usuário típico e representar um grupo de usuários reais (Cooper et al., 2014; Pruitt e Adlin, 2006; Cooper, 1999). Utilizada nas discussões de design, as personas mantêm todos focados no mesmo alvo. Definidas por seus objetivos, as personas são refinadas durante a investigação inicial do domínio de atividade do usuário. Começa-se com uma aproximação razoável e converge-se para uma população plausível de personas<a id="anchor_5" href="#REF5">^5^</a>. A seguir, a tabela 4 contém uma série de itens que serão verificados no artefato de Personas do **Grupo 02 - SIGAA**.
+
+<center>
+<font size="3"><p style="text-align: center"><b>Tabela 4</b> - Checklist do artefato Personas.</p></font>
+
+| **ID** | **Descrição** | **Avaliação** | **Observações** | **Explicação e Referência** |
+|------|-------------|-------------|---------------|-------------|
+| 1 | A persona inclui nome e sobrenome representativos? | | | "Dê a uma persona nome e sobrenome. Forneça uma idade e outros dados demográficos que seriam representativos do perfil do usuário."<a id="anchor_5" href="#REF5">^5^</a> |
+| 2 | A persona possui uma foto para torná-la mais realista? | | | "Inclua também uma foto, para tornar a persona ainda mais realista e memorável."<a id="anchor_5" href="#REF5">^5^</a> |
+| 3 | A persona é classificada como primária, secundária, ou outro stakeholder? | | | "Defina se esta persona é primária, secundária, outro stakeholder ou representa um antiusuário do seu sistema."<a id="anchor_5" href="#REF5">^5^</a> |
+| 4 | Os objetivos da persona são claramente definidos? | | | "Quais são os objetivos desta persona? Não se limite a objetivos relacionados ao seu produto específico."<a id="anchor_5" href="#REF5">^5^</a> |
+| 5 | As habilidades da persona são descritas (educação, treinamento, competências específicas)? | | | "Qual é a especialidade da sua persona? Isso inclui educação, treinamento e competências específicas."<a id="anchor_5" href="#REF5">^5^</a> |
+| 6 | As tarefas básicas ou críticas realizadas pela persona são descritas? | | | "Em linhas gerais, quais as tarefas básicas ou críticas que a persona realiza? Qual é a frequência, importância e duração dessas tarefas?"<a id="anchor_5" href="#REF5">^5^</a> |
+| 7 | Os relacionamentos da persona com outros stakeholders são mencionados? | | | "Entender com quem a persona se relaciona é importante, pois ajuda a identificar outros stakeholders."<a id="anchor_5" href="#REF5">^5^</a> |
+| 8 | Os requisitos da persona estão definidos? | | | "De que a persona precisa? Inclua citações que ajudam a dar mais vida a essas necessidades."<a id="anchor_5" href="#REF5">^5^</a> |
+| 9 | As expectativas da persona sobre o produto estão descritas? | | | "Como a persona acredita que o produto funciona? Como ela organiza as informações no seu domínio ou trabalho?"<a id="anchor_5" href="#REF5">^5^</a> |
+| 10 | As personas são específicas e bem detalhadas? | | | "Embora personas sejam fictícias, elas são definidas com rigor e detalhes para representar usuários típicos."<a id="anchor_6" href="#REF6">^6^</a> |
+| 11 | Cada persona possui uma identidade clara e distintiva? | | | "Dar um nome à persona é uma parte importante da sua elaboração, para que ela se torne um indivíduo concreto na mente dos designers."<a id="anchor_6" href="#REF6">^6^</a> |
+| 12 | As personas são utilizadas em reuniões e discussões de design? | | | "Uma persona pode ser utilizada em reuniões como uma ferramenta de discussão."<a id="anchor_6" href="#REF6">^6^</a> |
+| 13 | O número de personas é adequado para evitar confusão entre os designers? | | | "É importante que as personas sejam memoráveis e, para isso, o elenco de personas deve ser reduzido."<a id="anchor_7" href="#REF7">^7^</a> |
+
+
+
+
+</center>
+
+<font size="3"><p style="text-align: center"><b>Fonte: </b> [Arthur Alves](https://github.com/arthrok).</p></font>
+
+
 ## <a>Referência Bibliografica</a>
 
 > <a id="REF1" href="#anchor_1">1. </a>Gerência e Qualidade de Software - Aula 05 - Verificação e Validação. UNIVESP. Disponível em: <https://www.youtube.com/watch?v=1Y-1zz6rZxo&t=205s>. Acesso em: 05 de junho de 2024 às 12:00.
@@ -106,6 +140,14 @@ A pesquisa envolvendo pessoas deve seguir rigorosos aspectos éticos, garantindo
 > <a id="REF3" href="#anchor_3">3.</a> Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) *Interação Humano-Computador e Experiência do usuário.* Capítulo 7 Identificação de Necessidades dos Usuários e Definição dos Requisitos de IHC, tópico 7.4 Aspectos Éticos de Pesquisas Envolvendo Pessoas, página 141 e 142. Autopublicação. ISBN: 978-65-00-19677-1. 
 
 > <a id="REF4" href="#anchor_4">4.</a> Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) *Interação Humano-Computador e Experiência do usuário.* Capítulo 8 Organização do Espaço de Problema, tópico 8.1 Perfil de Usuário, página 166. Autopublicação. ISBN: 978-65-00-19677-1. 
+
+> <a id="REF5" href="#anchor_5">5.</a> Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) *Interação Humano-Computador e Experiência do usuário.* Capítulo 8 Organização do Espaço de Problema, tópico 8.2 Personas, página 168. Autopublicação. ISBN: 978-65-00-19677-1. 
+
+> <a id="REF6" href="#anchor_6">6.</a> Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) *Interação Humano-Computador e Experiência do usuário.* Capítulo 8 Organização do Espaço de Problema, tópico 8.2 Personas, página 169. Autopublicação. ISBN: 978-65-00-19677-1. 
+
+> <a id="REF7" href="#anchor_7">7.</a> Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) *Interação Humano-Computador e Experiência do usuário.* Capítulo 8 Organização do Espaço de Problema, tópico 8.2 Personas, página 170. Autopublicação. ISBN: 978-65-00-19677-1. 
+
+
 
 
 ## <a>Bibliografia</a>
