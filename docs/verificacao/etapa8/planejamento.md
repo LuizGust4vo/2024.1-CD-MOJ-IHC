@@ -1,4 +1,4 @@
-# Planejamento da Verificação da Etapa 7
+# Planejamento da Verificação da Etapa 8
 
 ## <a>Introdução</a>
 
@@ -18,15 +18,14 @@ Essa abordagem sistemática nos ajudará a identificar lacunas ou inconsistênci
 
 ## <a> Características da Verificação dos Artefatos </a>
 
-O responsável pela execução da verificação da entrega 7 será o integrante do <b>*Grupo 01*</b> - [Luiz Gustavo](https://github.com/LuizGust4vo). A tabela 1 descreve as caraterísticas sobre como irá proceder as verificações dos documentos referente aos artefatos da sétima entrega:
+O responsável pela execução da verificação da entrega 8 será o integrante do <b>*Grupo 01*</b> - [Luiz Gustavo](https://github.com/LuizGust4vo). A tabela 1 descreve as caraterísticas sobre como irá proceder as verificações dos documentos referente aos artefatos da oitava entrega:
 
 <font size="3"><p style="text-align: center"><b>Tabela 1</b> - Caracteristicas das Verificações dos Artefatos.</p></font>
 <center>
 
 | **Entrega referente** | **Nome do Artefato** | **Versão do artefato** | **Responsável pelo Desenvolvimento do Artefato** | **Responsável pela Verificação do Artefato** |
 | --------- | --------- | --------- | ----------- | ------------------ |
-| Entrega 07 | Relato dos Resultados do Protótipo de Papel | `Documento Ausente` | - | A definir |
-| Entrega 07 | Planejamento da Avaliação do Protótipo de Alta Fidelidade | `Documento Ausente` | - | A definir |
+| Entrega 08 | Planejamento do Relato dos Resultados da Avaliação do Protótipo de Alta Fidelidade | `Documento Ausente` | - | A definir |
 
 </center>
 
@@ -34,8 +33,7 @@ O responsável pela execução da verificação da entrega 7 será o integrante 
 
 Os resultados obtidos após as verificações serão exibidos na respectiva guia destacadas a seguir:
 
-- <a href="https://interacao-humano-computador.github.io/2024.1-CD-MOJ/verificacao/etapa7/relatoPrototipoPapel/">Verificação do artefato relato dos resultados do protótipo de papel </a>
-- <a href="https://interacao-humano-computador.github.io/2024.1-CD-MOJ/verificacao/etapa7/planejamentoPrototipoAltaFidelidade/">Verificação do artefato de planejamento da avaliação do protótipo de alta fidelidade </a>
+- <a href="https://interacao-humano-computador.github.io/2024.1-CD-MOJ/verificacao/etapa8/planejamentoResultadoPrototipoAltaFidelidade/">Verificação do artefato de planejamento do relato dos resultados da avaliação do protótipo de alta fidelidade </a>
 
 
 ## <a>Checklists</a>
@@ -63,11 +61,7 @@ Baseados na padronização dos repositórios da disciplina e dos artefatos, cria
 </center>
 
 
-### <a> Relato dos Resultados do Protótipo de Papel </a>
-
-
-
-### <a> Planejamento da Avaliação do Protótipo de Alta Fidelidade </a>
+### <a> Planejamento do Relato dos Resultados da Avaliação do Protótipo de Alta Fidelidade </a>
 
 
 
@@ -91,4 +85,4 @@ Baseados na padronização dos repositórios da disciplina e dos artefatos, cria
 
 | Versão| Data | Data Prevista de Revisão| Descrição  | Autor(es)  | Revisor(es) |
 | ------- | ------ | ------ | ------- | -------- | -------- |
-| `1.0` | 11/06/2024 | 12/06/2024 | Criação do documento com Introdução, Metodologia e Características da Verificação dos artefatos e Checklists dos artefatos. | [Luiz Gustavo](https://github.com/LuizGust4vo) | [Arthur Alves](https://github.com/Arthrok), [Diego Sousa](https://github.com/DiegoSousaLeite), [Douglas Marinho](https://github.com/M4RINH0), [Eric Silveira](https://github.com/ericbky) e [João Artur](https://github.com/joao-artl) |
+| `1.0` | 11/06/2024 | 12/06/2024 | Criação do documento com Introdução, Metodologia e Características da Verificação dos artefatos e Checklists dos artefatos. | [Luiz Gustavo](https://github.com/LuizGust4vo) |  |
