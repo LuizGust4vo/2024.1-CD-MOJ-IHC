@@ -41,9 +41,9 @@ A Tabela 2 a seguir apresenta a verificação do artefato <a href="https://inter
 
 ## <a>Referência Bibliografica</a>
 
-> <a id="REF 1" href="#anchor_ 1"> 1.</a> Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) *Interação Humano-Computador e Experiência do usuário.* Capítulo 10. Princípios e Diretrizes para o Design de IHC, tópico 10.5 Guias de Estilo, página 257. Autopublicação. ISBN: 978-65-00-19677-1.
+> <a id="REF1" href="#anchor_1"> 1.</a> Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) *Interação Humano-Computador e Experiência do usuário.* Capítulo 10. Princípios e Diretrizes para o Design de IHC, tópico 10.5 Guias de Estilo, página 257. Autopublicação. ISBN: 978-65-00-19677-1.
 
-> <a id="REF 2" href="#anchor_ 2"> 2.</a> Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) *Interação Humano-Computador e Experiência do usuário.* Capítulo 10. Princípios e Diretrizes para o Design de IHC, tópico 10.5 Guias de Estilo, página 258. Autopublicação. ISBN: 978-65-00-19677-1.
+> <a id="REF2" href="#anchor_2"> 2.</a> Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) *Interação Humano-Computador e Experiência do usuário.* Capítulo 10. Princípios e Diretrizes para o Design de IHC, tópico 10.5 Guias de Estilo, página 258. Autopublicação. ISBN: 978-65-00-19677-1.
 
 ## <a>Bibliografia</a>
 

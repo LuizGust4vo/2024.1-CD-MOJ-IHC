@@ -40,7 +40,7 @@ A Tabela 2 a seguir apresenta a verificação do artefato <a href="https://inter
 
 ## <a>Referência Bibliografica</a>
 
-> <a id="REF 1" href="#anchor_ 1"> 1. </a> Diana Fournier. As 6 metas de Usabilidade. MEDIUM, 2016. Disponível em: https://medium.com/vivareal-ux-chapter/as-6-metas-de-usabilidade-9491442fd56a. Acesso em: 6 de junho de 2024.
+> <a id="REF1" href="#anchor_1"> 1. </a> Diana Fournier. As 6 metas de Usabilidade. MEDIUM, 2016. Disponível em: https://medium.com/vivareal-ux-chapter/as-6-metas-de-usabilidade-9491442fd56a. Acesso em: 6 de junho de 2024.
 
 ## <a>Bibliografia</a>
 
