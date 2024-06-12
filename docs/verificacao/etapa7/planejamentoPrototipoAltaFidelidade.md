@@ -29,8 +29,6 @@ A Tabela 2 a seguir apresenta a verificação do artefato planejamento da avalia
 
 | **ID**  | **Descrição** | **Avaliação** | **Observações** | **Explicação e Referência** |
 | --- | ------------- | :-------: | :---------: | :--------: |
-| **ID**  | **Descrição** | **Avaliação** | **Observações** | **Explicação e Referência** |
-| --- | ------------- | :-------: | :---------: | :--------: |
 | 1 | Os objetivos da avaliação estão bem definidos? | - | - | Segundo o livro *Interação Humano-Computador e Experiência do Usuário*: "A questão fundamental de uma avaliação de IHC é definir quais são os objetivos da avaliação, a quem eles interessam e por quê. Os objetivos de uma avaliação determinam quais aspectos relacionados ao uso do sistema devem ser investigados."<a id="anchor_1" href="#REF1">^1^</a> |
 | 2 | Os objetivos da avaliação estão alinhados com os interesses dos stakeholders? | - | - | Segundo o livro *Interação Humano-Computador e Experiência do Usuário*: "O avaliador deve estar atento para definir os objetivos de uma avaliação de IHC de acordo com os interesses dos stakeholders. A decisão sobre o que avaliar orienta o avaliador no planejamento, na execução e na apresentação dos resultados da avaliação de IHC."<a id="anchor_1" href="#REF1">^1^</a> |
 | 3 | O artefato possui a metodologia que será utilizada para identificação de problemas na interação e na interface? | - | - | Segundo o livro *Interação Humano-Computador e Experiência do Usuário*: "Problemas na interação e na interface são os aspectos mais avaliados na área de IHC. Na avaliação desses aspectos, o avaliador pode contar ou não com a participação dos usuários para coletar dados relacionados ao uso de sistemas interativos."<a id="anchor_2" href="#REF2">^2^</a> |
