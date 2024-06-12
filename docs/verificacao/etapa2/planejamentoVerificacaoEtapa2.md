@@ -163,4 +163,4 @@ Uma persona é um personagem fictício, criado para descrever um usuário típic
 | Versão| Data | Data Prevista de Revisão| Descrição  | Autor(es)  | Revisor(es) |
 | ------- | ------ | ------ | ------- | -------- | -------- |
 | `1.0` | 11/06/2024 | 12/06/2024 | Criação do documento com Introdução, Metodologia e Características da Verificação dos artefatos e Checklists dos Aspectos Éticos. | [Eric Silveira](https://github.com/ericbky)|[Luiz Gustavo](https://github.com/LuizGust4vo)|
-| `1.1` | 11/06/2024 | 12/06/2024 | Alteração na metodologia, correções nas características da verificação do artefato e adição do checklists do Perfil de Usuário. | [Arthur Alves](https://github.com/arthrok)|[Luiz Gustavo](https://github.com/LuizGust4vo)|
+| `1.1` | 11/06/2024 | 12/06/2024 | Alteração na metodologia, correções nas características da verificação do artefato e adição do checklists do Perfil de Usuário, Personas e Análise de Tarefas. | [Arthur Alves](https://github.com/arthrok)|[Luiz Gustavo](https://github.com/LuizGust4vo)|
