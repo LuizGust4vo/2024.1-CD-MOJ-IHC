@@ -42,27 +42,6 @@ Os resultados obtidos após as verificações serão exibidos na respectiva guia
 
 Os checklists são ferramentas essenciais de verificação que ajudam a identificar defeitos ou características ausentes no projeto. Eles garantem a consistência, completude e conformidade dos artefatos com os requisitos estabelecidos, promovendo a qualidade e a integridade do projeto.
 
-Baseando-se na padronização dos repositórios da disciplina e dos artefatos, o integrante do grupo 01, [Eric Silveira](https://github.com/ericbky), elaborou checklists gerais que devem ser aplicados a todos os artefatos desenvolvidos pela equipe ao longo do projeto. A tabela 2 a seguir apresenta as verificações gerais para todos os artefatos incluídos no projeto:
-
-<center>
-
-<font size="3"><p style="text-align: center"><b>Tabela 2</b> - Checklist geral dos artefatos.</p></font>
-
-|**ID**|**Descrição**|**Avaliação**|**Observações**|
-|----|-----------|-----------|-------------|
-|1|O artefato possui uma introdução descrevendo-o?|||
-|2|O artefato possui padronização nos títulos?|||
-|3|O artefato caso contenha tabelas, as chama no texto?|||
-|4|O artefato caso tenha figuras as chamam no texto?|||		
-|5|O artefato possui a fonte das figuras, tabelas e outras aspectos que necessitem da mesma?|||		
-|6|O artefato possui bibliografia e/ou referência bibliográfica?|||
-|7|O artefato chama as referências bibliográficas presentes de forma correta no texto?|||
-|8|O artefato possui um histórico de versão padronizado apresentando as versões, datas, datas de revisão, descrição, responsáveis e revisores?|||
-
-<font size="3"><p style="text-align: center"><b>Fonte: </b> [Eric Silveira](https://github.com/ericbky).</p></font>
-</center>
-
-
 ### <a>Princípios Gerais do Projeto</a>
 
 Para que um modelo conceitual seja eficaz e atenda às necessidades dos usuários, ele deve seguir princípios de design que incluem visibilidade dos elementos importantes, feedback imediato, uso de restrições para guiar os usuários, mapeamentos naturais entre intenções e ações, consistência, acessibilidade, simplicidade, aforramentos claros, tolerância a erros e flexibilidade para usuários experientes. Esses princípios facilitam a compreensão das ações necessárias, proporcionam uma visualização clara do estado do sistema e permitem uma fácil avaliação das consequências das ações, promovendo uma interação intuitiva, eficiente e adaptável com o sistema.<a id="anchor_3" href="#REF3">^3^</a>.
@@ -72,20 +51,20 @@ A tabela 3 a seguir demonstra o checklist referente as verificações desse arte
 
 <font size="3"><p style="text-align: center"><b>Tabela 3</b> - Checklist dos Princípios Gerais do Projeto.</p></font>
 
-|**ID**|**Descrição**|**Avaliação**|**Observações**|
-|----|------------|-----|-------------|
-| 9 | O artefato apresenta os Princípios Gerais que serão utilizados no projeto?<a id="anchor_6" href="#REF6">^6^</a> |  |  |
-| 10 | Os Princípios Gerais do Projeto apresentam um tópico sobre "correspondência com as expectativas dos usuários"?<a id="anchor_7" href="#REF7">^7^</a> | | |
-| 11 | Os Princípios Gerais do Projeto apresentam um tópico sobre "simplicidade nas estruturas das tarefas"?<a id="anchor_8" href="#REF8">^8^</a> | | |
-| 12 | Os Princípios Gerais do Projeto apresentam um tópico sobre "equilíbrio entre controle e liberdade do usuário"?<a id="anchor_9" href="#REF9">^9^</a> | | |
-| 13 | Os Princípios Gerais do Projeto apresentam um tópico sobre "Consistênia e padronização"?<a id="anchor_10" href="#REF10">^10^</a> | | | 
-| 14 | Os Princípios Gerais do Projeto apresentam um tópico sobre  "promoção da eficiência do usuário"?<a id="anchor_11" href="#REF11">^11^</a> | | |
-| 15 | Os Princípios Gerais do Projeto apresentam um tópico sobre "Antecipação"?<a id="anchor_12" href="#REF12">^12^</a> | | |
-| 16 | Os Princípios Gerais do Projeto apresentam um tópico sobre "visibilidade e reconhecimento"?<a id="anchor_13" href="#REF13">^13^</a> | | |
-| 17 | Os Princípios Gerais do Projeto apresentam um tópico sobre "conteúdo relevante e expressão adequada"?<a id="anchor_14" href="#REF14">^14^</a> | | |
-| 18 | Os Princípios Gerais do Projeto apresentam um tópico sobre "projeto para erros"?<a id="anchor_15" href="#REF15">^15^</a>. | | |
-| 19 | Os Princípios Gerais possuem uma avaliação com "Problemas encontrados", incluindo fotos ou gravações?<a id="anchor_16" href="#REF16">^16^</a> |  | |
-| 20 | Os Princípios Gerais possuem uma avaliação com "Proposta de solução", para problemas encontrados?<a id="anchor_16" href="#REF16">^16^</a>|  | |
+|**ID**|**Descrição**|**Avaliação**|**Observações**|**Explicação e Referência**|
+|------|-------------|-------------|---------------|-------------|
+| 9 | O artefato apresenta os Princípios Gerais que serão utilizados no projeto?<a id="anchor_6" href="#REF6">^6^</a> |  |  | |
+| 10 | Os Princípios Gerais do Projeto apresentam um tópico sobre "correspondência com as expectativas dos usuários"?<a id="anchor_7" href="#REF7">^7^</a> | | | |
+| 11 | Os Princípios Gerais do Projeto apresentam um tópico sobre "simplicidade nas estruturas das tarefas"?<a id="anchor_8" href="#REF8">^8^</a> | | | |
+| 12 | Os Princípios Gerais do Projeto apresentam um tópico sobre "equilíbrio entre controle e liberdade do usuário"?<a id="anchor_9" href="#REF9">^9^</a> | | | |
+| 13 | Os Princípios Gerais do Projeto apresentam um tópico sobre "Consistênia e padronização"?<a id="anchor_10" href="#REF10">^10^</a> | | |  |
+| 14 | Os Princípios Gerais do Projeto apresentam um tópico sobre  "promoção da eficiência do usuário"?<a id="anchor_11" href="#REF11">^11^</a> | | | |
+| 15 | Os Princípios Gerais do Projeto apresentam um tópico sobre "Antecipação"?<a id="anchor_12" href="#REF12">^12^</a> | | | |
+| 16 | Os Princípios Gerais do Projeto apresentam um tópico sobre "visibilidade e reconhecimento"?<a id="anchor_13" href="#REF13">^13^</a> | | | |
+| 17 | Os Princípios Gerais do Projeto apresentam um tópico sobre "conteúdo relevante e expressão adequada"?<a id="anchor_14" href="#REF14">^14^</a> | | | |
+| 18 | Os Princípios Gerais do Projeto apresentam um tópico sobre "projeto para erros"?<a id="anchor_15" href="#REF15">^15^</a>. | | | |
+| 19 | Os Princípios Gerais possuem uma avaliação com "Problemas encontrados", incluindo fotos ou gravações?<a id="anchor_16" href="#REF16">^16^</a> |  | | |
+| 20 | Os Princípios Gerais possuem uma avaliação com "Proposta de solução", para problemas encontrados?<a id="anchor_16" href="#REF16">^16^</a>|  | | |
 
 <font size="3"><p style="text-align: center"><b>Fonte: </b> [João Artur](https://github.com/joao-artl).</p></font>
 </center>
@@ -99,12 +78,12 @@ A tabela 4 a seguir demonstra o checklist referente as verificações desse arte
 
 <font size="3"><p style="text-align: center"><b>Tabela 4</b> - Checklist das Metas de Usabilidade.</p></font>
 
-|**ID**|**Descrição**|**Avaliação**|**Observações**|
-|----|-----------|--------|-------------|
-| 9 | O artefato apresenta a descrição das metas de usabilidade a serem alcançadas no projeto?<a id="anchor_17" href="#REF17">^17^</a> | | |
-| 10 |O artefato apresenta as 6 metas de usabilidade(Eficácia, Eficiência, Segurança, Utilidade, Aprendizagem, Memorização)?<a id="anchor_17" href="#REF17">^17^</a> | | |
-| 11 |As metas foram definidas através do perfil de usuário?<a id="anchor_17" href="#REF17">^17^</a> | | |
-| 12 |Cada meta de usabilidade possui uma breve explicação?<a id="anchor_17" href="#REF17">^17^</a> | | |
+|**ID**|**Descrição**|**Avaliação**|**Observações**|**Explicação e Referência**|
+|------|-------------|-------------|---------------|-------------|
+| 9 | O artefato apresenta a descrição das metas de usabilidade a serem alcançadas no projeto?<a id="anchor_17" href="#REF17">^17^</a> | | | |
+| 10 |O artefato apresenta as 6 metas de usabilidade(Eficácia, Eficiência, Segurança, Utilidade, Aprendizagem, Memorização)?<a id="anchor_17" href="#REF17">^17^</a> | | | |
+| 11 |As metas foram definidas através do perfil de usuário?<a id="anchor_17" href="#REF17">^17^</a> | | | |
+| 12 |Cada meta de usabilidade possui uma breve explicação?<a id="anchor_17" href="#REF17">^17^</a> | | | |
 
 <font size="3"><p style="text-align: center"><b>Fonte: </b> [João Artur](https://github.com/joao-artl).</p></font>
 </center>
@@ -118,15 +97,15 @@ A tabela 5 a seguir demonstra o checklist referente as verificações desse arte
 
 <font size="3"><p style="text-align: center"><b>Tabela 5</b> - Checklist da Guia de Estilo.</p></font>
 
-|**ID**|**Descrição**|**Avaliação**|**Observações**|
-|----|-----------|--------|-------------|
+|**ID**|**Descrição**|**Avaliação**|**Observações**|**Explicação e Referência**|
+|------|-------------|-------------|---------------|-------------|
 | 9 |  O Guia de Estilo corresponde ao site avaliado?<a id="anchor_18" href="#REF18">^18^</a> | | |
-| 10 |O Guia de Estilo possui uma descrição sobre o layout do site?<a id="anchor_18" href="#REF18">^18^</a> | | |
-| 11 |O Guia de Estilo possui uma descrição sobre a tipografia?<a id="anchor_18" href="#REF18">^18^</a>| | |
-| 12 | O Guia de Estilo possui uma descrição sobre o simbolismo dos ícones?<a id="anchor_18" href="#REF18">^18^</a>| | |
-| 13 | O artefato possui uma descrição sobre as cores do site?<a id="anchor_18" href="#REF18">^18^</a> | | |
-| 14 | O artefato possui uma descrição sobre a visualização de informações do site?<a id="anchor_18" href="#REF18">^18^</a> | | |
-| 15 |A guia de Estilo segue uma estrutura contendo: Introdução, Resultados de Ánalise, Elementos de interface, Elementos de interação, Elementos de Ação, Vocabulário e Padrões?<a id="anchor_19" href="#REF19">^19^</a> | | |
+| 10 |O Guia de Estilo possui uma descrição sobre o layout do site?<a id="anchor_18" href="#REF18">^18^</a> | | | |
+| 11 |O Guia de Estilo possui uma descrição sobre a tipografia?<a id="anchor_18" href="#REF18">^18^</a>| | | |
+| 12 | O Guia de Estilo possui uma descrição sobre o simbolismo dos ícones?<a id="anchor_18" href="#REF18">^18^</a>| | | | 
+| 13 | O artefato possui uma descrição sobre as cores do site?<a id="anchor_18" href="#REF18">^18^</a> | | | |
+| 14 | O artefato possui uma descrição sobre a visualização de informações do site?<a id="anchor_18" href="#REF18">^18^</a> | | | |
+| 15 |A guia de Estilo segue uma estrutura contendo: Introdução, Resultados de Ánalise, Elementos de interface, Elementos de interação, Elementos de Ação, Vocabulário e Padrões?<a id="anchor_19" href="#REF19">^19^</a> | | | |
 
 <font size="3"><p style="text-align: center"><b>Fonte: </b> [João Artur](https://github.com/joao-artl).</p></font>
 </center>

@@ -28,6 +28,8 @@ A Tabela 2 a seguir apresenta a verificação do artefato <a href="https://inter
 
 <font size="3"><p style="text-align: center"><b>Tabela 2</b> - Verificação da Guia de Estilo.</p></font>
 
+|**ID**|**Descrição**|**Avaliação**|**Observações**|**Explicação e Referência**|
+|------|-------------|-------------|---------------|-------------|
 | 1 |  O Guia de Estilo corresponde ao site avaliado?<a id="anchor_1" href="#REF1">^1^</a> | | |
 | 2 |O Guia de Estilo possui uma descrição sobre o layout do site?<a id="anchor_1" href="#REF1">^1^</a> | | |
 | 3 |O Guia de Estilo possui uma descrição sobre a tipografia?<a id="anchor_1" href="#REF1">^1^</a>| | |

@@ -28,12 +28,12 @@ A Tabela 2 a seguir apresenta a verificação do artefato <a href="https://inter
 
 <font size="3"><p style="text-align: center"><b>Tabela 2</b> - Verificação das Metas de Usabilidade.</p></font>
 
-|**ID**|**Descrição**|**Avaliação**|**Observações**|
-|----|-----------|--------|-------------|
-| 1 | O artefato apresenta a descrição das metas de usabilidade a serem alcançadas no projeto?<a id="anchor_1" href="#REF1">^1^</a> | | |
-| 2 |O artefato apresenta as 6 metas de usabilidade(Eficácia, Eficiência, Segurança, Utilidade, Aprendizagem, Memorização)?<a id="anchor_1" href="#REF1">^1^</a> | | |
-| 3 |As metas foram definidas através do perfil de usuário?<a id="anchor_1" href="#REF1">^1^</a> | | |
-| 4 |Cada meta de usabilidade possui uma breve explicação?<a id="anchor_1" href="#REF1">^1^</a> | | |
+|**ID**|**Descrição**|**Avaliação**|**Observações**|**Explicação e Referência**|
+|------|-------------|-------------|---------------|-------------|
+| 1 | O artefato apresenta a descrição das metas de usabilidade a serem alcançadas no projeto?<a id="anchor_1" href="#REF1">^1^</a> | | | |
+| 2 |O artefato apresenta as 6 metas de usabilidade(Eficácia, Eficiência, Segurança, Utilidade, Aprendizagem, Memorização)?<a id="anchor_1" href="#REF1">^1^</a> | | | |
+| 3 |As metas foram definidas através do perfil de usuário?<a id="anchor_1" href="#REF1">^1^</a> | | | |
+| 4 |Cada meta de usabilidade possui uma breve explicação?<a id="anchor_1" href="#REF1">^1^</a> | | | |
 
 <font size="3"><p style="text-align: center"><b>Fonte: </b> [João Artur](https://github.com/joao-artl).</p></font>
 </center>
