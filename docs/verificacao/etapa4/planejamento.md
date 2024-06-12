@@ -48,91 +48,67 @@ Os checklists são ferramentas essenciais de verificação que ajudam a identifi
 
 A tabela 2 a seguir apresenta a checklist referente aos itens exigidos para o planejamento da avaliação da análise de tarefas, conforme os conceitos apresentados por Barbosa e Silva.
 
+<center>
 **Tabela 2** - Checklist para o Planejamento da Avaliação da Análise de Tarefas.
 
 | ID  | Descrição    | Avaliação | Observações |
 | --- | ------- | --------- | ----------- |
-| 1   | O documento possui os objetivos do planejamento? <a id="anchor_3" href="#REF3">^3^</a>   |           |             |
-| 2   | O documento possui quais são os objetivos da avaliação? <a id="anchor_3" href="#REF3">^3^</a>      |           |             |
-| 3   | O documento possui quais são as perguntas a serem respondidas com a avaliação? <a id="anchor_4" href="#REF4">^4^</a>|           |             |
-| 4   | O documento possui quais são os métodos a serem utilizados na avaliação? <a id="anchor_5" href="#REF5">^5^</a>      |           |             |
-| 5   | O documento possui os participantes da avaliação? <a id="anchor_6" href="#REF6">^6^</a>  |           |             |
-| 6   | O documento apresenta o motivo do número da escolha dos participantes? <a id="anchor_6" href="#REF6">^6^</a>        |           |             |
-| 7   | O documento apresenta o perfil definido aos participantes de acordo com o perfil de usuário? <a id="anchor_6" href="#REF6">^6^</a>           |           |             |
-| 8   | O documento apresenta quais as ferramentas e os equipamentos serão utilizados na avaliação? <a id="anchor_6" href="#REF6">^6^</a>            |           |             |
-| 9   | O documento apresenta quais são os custos? <a id="anchor_6" href="#REF6">^6^</a>         |           |             |
-| 10  | O documento apresenta quais são os recursos de mão de obra necessários? <a id="anchor_6" href="#REF6">^6^</a>       |           |             |
-| 11  | O documento possui uma seção sobre como as questões éticas são lidadas? <a id="anchor_6" href="#REF6">^6^</a>       |           |             |
-| 12  | O documento apresenta tarefas de como deve ser realizada a avaliação? <a id="anchor_6" href="#REF6">^6^</a>         |           |             |
-| 13  | O documento possui uma seção de teste piloto com sua definição, participantes, local, data e horário da realização do teste piloto? <a id="anchor_7" href="#REF7">^7^</a>       |           |             |
-| 14  | Possui uma gravação do teste piloto? <a id="anchor_7" href="#REF7">^7^</a>               |           |             |
-| 15  | O documento possui uma seção sobre os dados (interpretação e apresentação)? <a id="anchor_8" href="#REF8">^8^</a>   |           |             |
+| 1   | O documento define os objetivos do planejamento? <a id="anchor_3" href="#REF3">^3^</a>   |           |             |
+| 2   | O documento especifica os objetivos da avaliação? <a id="anchor_3" href="#REF3">^3^</a>      |           |             |
+| 3   | O documento identifica as perguntas a serem respondidas durante a avaliação? <a id="anchor_4" href="#REF4">^4^</a>|           |             |
+| 4   | O documento descreve os métodos a serem utilizados na avaliação? <a id="anchor_5" href="#REF5">^5^</a>      |           |             |
+| 5   | O documento lista os participantes da avaliação? <a id="anchor_6" href="#REF6">^6^</a>  |           |             |
+| 6   | O documento justifica o número de participantes escolhidos? <a id="anchor_6" href="#REF6">^6^</a>        |           |             |
+| 7   | O documento define o perfil dos participantes de acordo com o perfil de usuário? <a id="anchor_6" href="#REF6">^6^</a>           |           |             |
+| 8   | O documento especifica as ferramentas e os equipamentos que serão utilizados na avaliação? <a id="anchor_6" href="#REF6">^6^</a>            |           |             |
+| 9   | O documento apresenta uma estimativa dos custos? <a id="anchor_6" href="#REF6">^6^</a>         |           |             |
+| 10  | O documento detalha os recursos humanos necessários? <a id="anchor_6" href="#REF6">^6^</a>       |           |             |
+| 11  | O documento aborda como as questões éticas serão tratadas? <a id="anchor_6" href="#REF6">^6^</a>       |           |             |
+| 12  | O documento descreve as tarefas a serem realizadas durante a avaliação? <a id="anchor_6" href="#REF6">^6^</a>         |           |             |
+| 13  | O documento inclui uma seção de teste piloto com definição, participantes, local, data e horário da realização do teste piloto? <a id="anchor_7" href="#REF7">^7^</a>       |           |             |
+| 14  | O planejamento prevê a gravação do teste piloto? <a id="anchor_7" href="#REF7">^7^</a>               |           |             |
+| 15  | O documento inclui uma seção sobre a interpretação e apresentação dos dados? <a id="anchor_8" href="#REF8">^8^</a>   |           |             |
 | 16  | O planejamento segue o framework DECIDE? <a id="anchor_9" href="#REF9">^9^</a>          |           |             |
-| 17  | O planejamento apresenta como serão documentados e tratados os dados obtidos durante o processo de avaliação? (Grau de confiabilidade das respostas, contexto em que as respostas foram produzidas e se os dados obtidos estão em conformidade com o perfil de usuário traçado. <a id="anchor_9" href="#REF9">^9^</a>|  |           |             |
+| 17  | O planejamento descreve como serão documentados e tratados os dados obtidos durante a avaliação? (Inclui grau de confiabilidade das respostas, contexto em que foram produzidas e conformidade com o perfil de usuário traçado.) <a id="anchor_9" href="#REF9">^9^</a>|  |           |             |
+</center>
 
 <font size="3"><p style="text-align: center">Fonte: [Diego Sousa](https://github.com/DiegoSousaLeite).</p></font>
 
-### <a>Planejamento do Relato dos Resultados da Análise de Tarefas </a>
 
-A tabela 3 a seguir apresenta a checklist referente aos itens exigidos para o documento de planejamento segundo Barbosa e Silva .<a href="#REF1"><sup>1</sup></a>
+
+### <a> Planejamento do Relato dos Resultados da Análise de Tarefa e Storyboard </a>
+
+A tabela 3 a seguir apresenta a checklist referente aos itens exigidos para o relato dos resultados segundo Barbosa e Silva.<a href="#REF1"><sup>1</sup></a>
 
 <center>
 
-**Tabela 3** - Checklist para o Planejamento do Relato dos Resultados da Análise de Tarefas.
+**Tabela 3** - Checklist para o Planejamento do Relato dos Resultados do Storyboard.
 
-| ID  | Descrição | Avaliação | Observações |
-| --- | ---------------------------------------------------------------------------------------------------------------------------------- | --------- | ----------- |
-| 1   | O planejamento define objetivo e escopo de avaliação dos resultados?<a id="anchor_1" href="#REF1">^1^</a>                          |           |             |
-| 2   | O planejamento define método de avaliação dos resultados?<a id="anchor_1" href="#REF1">^1^</a>                                     |           |             |
-| 3   | O planejamento apresenta os participantes selecionados?<a id="anchor_1" href="#REF1">^1^</a>                                       |           |             |
-| 4   | O perfil de usuário dos participantes selecionados se enquadram no perfil de usuário?<a id="anchor_1" href="#REF1">^1^</a>         |           |             |
-| 5   | O planejamento apresenta como serão abordados os problemas e dificuldades presentes nos resultados?                                |           |             |
-| 6   | O planejamento apresenta instruções com relação às sugestões de melhorias?<a id="anchor_1" href="#REF1">^1^</a>                    |           |             |
-| 7   | O planejamento apresenta uma seção para o feedback dos usuários?<a id="anchor_1" href="#REF1">^1^</a>                              |           |             |
-| 8   | O planejamento aborda como será realizada a análise da interação do usuário com o artefato?                                        |           |             |
-| 9   | O planejamento define tópico para sumarizar os principais resultados?<a id="anchor_1" href="#REF1">^1^</a>                         |           |             |
-| 10  | O planejamento explicita que o resultado precisa relembrar quais questões motivaram o estudo?<a id="anchor_1" href="#REF1">^1^</a> |           |             |
-| 11  | O planejamento considera no resultado um planejamento para o reprojeto do sistema?<a id="anchor_1" href="#REF1">^1^</a>            |           |             |
-| 12  | O planejamento segue um padrão consolidado para todos os outros planejamentos de artefatos de planejamento do relato?              |           |             |
-
-<font size="3"><p style="text-align: center">Fonte:  [Diego Sousa](https://github.com/DiegoSousaLeite).</p></font>
+| ID  | Descrição                                                                                                                                                                                                                                                                        | Avaliação | Observações |
+| --- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :-------: | :---------: |
+| 1   | O planejamento estabelece os objetivos e o escopo para avaliar os resultados?<a id="anchor_10" href="#REF10">^10^</a>                          |     -     |      -      |
+| 2   | O planejamento define o método de avaliação dos resultados?<a id="anchor_10" href="#REF10">^10^</a>                                     |     -     |      -      |
+| 3   | O planejamento apresenta os participantes selecionados?<a id="anchor_10" href="#REF10">^10^</a>                                       |     -     |      -      |
+| 4   | O perfil dos participantes selecionados está alinhado com o perfil de usuário?<a id="anchor_10" href="#REF10">^10^</a>         |     -     |      -      |
+| 5   | O planejamento fornece instruções sobre as sugestões de melhorias?<a id="anchor_10" href="#REF10">^10^</a>                    |     -     |      -      |
+| 6   | O planejamento inclui uma seção para feedback dos usuários?<a id="anchor_10" href="#REF10">^10^</a>                              |     -     |      -      |
+| 7   | O planejamento identifica um tópico para resumir os principais resultados?<a id="anchor_10" href="#REF10">^10^</a>                         |     -     |      -      |
+| 8  | O planejamento esclarece que os resultados devem remeter às questões que motivaram o estudo?<a id="anchor_10" href="#REF10">^10^</a> |     -     |      -      |
+| 9  | O planejamento contempla um plano para o reprojeto do sistema, se necessário?<a id="anchor_10" href="#REF10">^10^</a>            |     -     |      -      |
 
 </center>
-
-### <a> Planejamento do Relato dos Resultados do Storyboard </a>
-
-A tabela 4 a seguir apresenta a checklist referente aos itens exigidos para o relato dos resultados segundo Barbosa e Silva.<a href="#REF1"><sup>1</sup></a>
-
-<center>
-
-**Tabela 4** - Checklist para o Planejamento do Relato dos Resultados do Storyboard.
-
-| ID  | Descrição                  | Avaliação | Observações |
-| --- | ---------------------------------------------------------------------------------------------------------------------------------- | :-------: | :---------: |
-| 1   | O planejamento define objetivo e escopo de avaliação dos resultados?<a id="anchor_1" href="#REF1">^1^</a>                          |     -     |      -      |
-| 2   | O planejamento define método de avaliação dos resultados?<a id="anchor_1" href="#REF1">^1^</a>                                     |     -     |      -      |
-| 3   | O planejamento apresenta os participantes selecionados?<a id="anchor_1" href="#REF1">^1^</a>                                       |     -     |      -      |
-| 4   | O perfil de usuário dos participantes selecionados se enquadram no perfil de usuário?<a id="anchor_1" href="#REF1">^1^</a>         |     -     |      -      |
-| 5   | O planejamento apresenta como serão abordados os problemas e dificuldades presentes nos resultados?                                |     -     |      -      |
-| 6   | O planejamento apresenta instruções com relação às sugestões de melhorias?<a id="anchor_1" href="#REF1">^1^</a>                    |     -     |      -      |
-| 7   | O planejamento apresenta uma seção para o feedback dos usuários?<a id="anchor_1" href="#REF1">^1^</a>                              |     -     |      -      |
-| 8   | O planejamento aborda como será realizada a análise da interação do usuário com o artefato?                                        |     -     |      -      |
-| 9   | O planejamento define tópico para sumarizar os principais resultados?<a id="anchor_1" href="#REF1">^1^</a>                         |     -     |      -      |
-| 10  | O planejamento explicita que o resultado precisa relembrar quais questões motivaram o estudo?<a id="anchor_1" href="#REF1">^1^</a> |     -     |      -      |
-| 11  | O planejamento considera no resultado um planejamento para o reprojeto do sistema?<a id="anchor_1" href="#REF1">^1^</a>            |     -     |      -      |
-| 12  | O planejamento segue um padrão consolidado para todos os outros planejamentos de artefatos de planejamento do relato?              |     -     |      -      |
 
 <font size="3"><p style="text-align: center">Fonte: [Diego Sousa](https://github.com/DiegoSousaLeite).</p></font>
 
-</center>
+
 
 ### <a> Planejamento da Avaliação do Storyboard </a>
 
-No planejamento da avaliação de um storyboard, é essencial garantir que todos os elementos sejam minuciosamente verificados para assegurar uma avaliação precisa e eficaz. O checklist a seguir aborda aspectos importantes como a clareza dos objetivos, a definição dos critérios de avaliação, e a identificação dos recursos necessários. Este processo é fundamental para garantir que a avaliação do storyboard seja conduzida de forma estruturada e que os resultados reflitam fielmente a qualidade e a eficácia do design proposto. A Tabela 5 a seguir apresenta o checklist para o planejamento da avaliação do storyboard.
+No planejamento da avaliação de um storyboard, é essencial garantir que todos os elementos sejam minuciosamente verificados para assegurar uma avaliação precisa e eficaz. O checklist a seguir aborda aspectos importantes como a clareza dos objetivos, a definição dos critérios de avaliação, e a identificação dos recursos necessários. Este processo é fundamental para garantir que a avaliação do storyboard seja conduzida de forma estruturada e que os resultados reflitam fielmente a qualidade e a eficácia do design proposto. A Tabela 4 a seguir apresenta o checklist para o planejamento da avaliação do storyboard.
 
 <center>
 
-**Tabela 5** - Checklist para o Planejamento da Avaliação do Storyboard.
+**Tabela 4** - Checklist para o Planejamento da Avaliação do Storyboard.
 
 | **ID**  | **Descrição** | **Avaliação** | **Observações** | **Explicação e Referência** |
 | --- | ------------- | :-------: | :---------: | :--------: |
@@ -172,6 +148,8 @@ No planejamento da avaliação de um storyboard, é essencial garantir que todos
 > <a id="REF8" href="#anchor_8">8.</a> Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) *Interação Humano-Computador e Experiência do usuário.* Capítulo 11. Planejamento da Avaliação de IHC, 11.7.4 Interpretação, página 278 e 279. Autopublicação. ISBN: 978-65-00-19677-1.
 >
 > <a id="REF9" href="#anchor_9">9.</a> Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) *Interação Humano-Computador e Experiência do usuário.* Capítulo 11. Planejamento da Avaliação de IHC,11.8 O Framework DECIDE, página 279 e 280. Autopublicação. ISBN: 978-65-00-19677-1.
+> 
+> <a id="REF10" href="#anchor_10">10.</a> Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) *Interação Humano-Computador e Experiência do usuário.* Capítulo 11 Planejamento da Avaliação de IHC, tópico 11.7.5 Consolidação e Relato dos Resultados, página 279 . Autopublicação. ISBN: 978-65-00-19677-1.
 
 
 ## <a>Bibliografia</a>
@@ -190,3 +168,4 @@ No planejamento da avaliação de um storyboard, é essencial garantir que todos
 | `1.0` | 11/06/2024 | 12/06/2024 | Criação do documento com Introdução, Metodologia e Características da Verificação dos artefatos e Checklists dos artefatos. | [Diego Sousa](https://github.com/DiegoSousaLeite)|[João Artur](https://github.com/joao-artl)|
 | `1.1` | 11/06/2024 | 12/06/2024 | Reformulação das perguntas do Planejamento da Avaliação da Análise de Tarefas| [Diego Sousa](https://github.com/DiegoSousaLeite)|[João Artur](https://github.com/joao-artl)|
 | `1.2`| 11/06/2024 | 12/06/2024 |Adicionando o checklist sobre o planejamento dos Storyboards|[Eric Silveira](https://github.com/ericbky)|[João Artur](https://github.com/joao-artl)|
+| `1.3`| 12/06/2024 | 12/06/2024 |Reformulação das perguntas do Planejamento do Relato dos Resultados da Análise de Tarefa e Storyboard|[Diego Sousa](https://github.com/DiegoSousaLeite)|[João Artur](https://github.com/joao-artl)|
