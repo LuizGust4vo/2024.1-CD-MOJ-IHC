@@ -39,7 +39,7 @@ A Tabela 2 a seguir apresenta a verificação do artefato <a href="https://inter
 
 ## <a>Vídeo da Verificação</a>
 
-video 
+<iframe width="853" height="480" src="https://www.youtube.com/embed/uaiHwWiSF-U" title="Verificação Grupo 2 - Planejamento do resultado do protótipo de papel" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
 ## <a>Referência Bibliografica</a>
@@ -74,3 +74,4 @@ video
 | Versão| Data | Data Prevista de Revisão| Descrição  | Autor(es)  | Revisor(es) |
 | ------- | ------ | ------ | ------- | -------- | -------- |
 | `1.0` | 12/06/2024 | 12/06/2024 | Criando documento, introdução e checklist do artefato | [João Artur](https://github.com/joao-artl)|[Diego Sousa](https://github.com/DiegoSousaLeite)|
+| `1.1` | 12/06/2024 | 12/06/2024 | Adicionando vídeo | [Diego Sousa](https://github.com/DiegoSousaLeite)|[João Artur](https://github.com/joao-artl)|
