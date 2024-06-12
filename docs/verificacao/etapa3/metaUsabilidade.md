@@ -30,10 +30,10 @@ A Tabela 2 a seguir apresenta a verificação do artefato <a href="https://inter
 
 |**ID**|**Descrição**|**Avaliação**|**Observações**|**Explicação e Referência**|
 |------|-------------|-------------|---------------|-------------|
-| 1 | O artefato apresenta a descrição das metas de usabilidade a serem alcançadas no projeto?<a id="anchor_1" href="#REF1">^1^</a> | | | |
-| 2 |O artefato apresenta as 6 metas de usabilidade(Eficácia, Eficiência, Segurança, Utilidade, Aprendizagem, Memorização)?<a id="anchor_1" href="#REF1">^1^</a> | | | |
-| 3 |As metas foram definidas através do perfil de usuário?<a id="anchor_1" href="#REF1">^1^</a> | | | |
-| 4 |Cada meta de usabilidade possui uma breve explicação?<a id="anchor_1" href="#REF1">^1^</a> | | | |
+| 1 | O artefato apresenta a descrição das metas de usabilidade a serem alcançadas no projeto? | | |A utilização das metas de usabilidade durante o projeto ajuda a solucionar preocupações como a produtividade do usuário durante a utilização do sistema e motivação desse usuário para um aprendizado eficaz. <a id="anchor_1" href="#REF1">^1^</a>|
+| 2 |O artefato apresenta as 6 metas de usabilidade(Eficácia, Eficiência, Segurança, Utilidade, Aprendizagem, Memorização)? | | | Um desses estudos são as 6 metas de usabilidade, uma lista de fatores que estão ligadas diretamente ao uso de sistemas, segundo Jakob Nielsen (1993).<a id="anchor_1" href="#REF1">^1^</a>|
+| 3 |As metas foram definidas através do perfil de usuário? | | | Cada sistema tem uma utilidade. Para fazê-la acontecer da melhor maneira é necessário fornecer ao usuário um conjunto de funções, estas que são esperadas pelo usuário naquele devido contexto.<a id="anchor_1" href="#REF1">^1^</a>|
+| 4 |Cada meta de usabilidade possui uma breve explicação? | | |Levar em consideração tais metas na hora da projetação, garante o mínimo necessário para o desenvolvimento de boas interfaces digitais e experiências válidas para o usuário. <a id="anchor_1" href="#REF1">^1^</a>|
 
 <font size="3"><p style="text-align: center"><b>Fonte: </b> [João Artur](https://github.com/joao-artl).</p></font>
 </center>

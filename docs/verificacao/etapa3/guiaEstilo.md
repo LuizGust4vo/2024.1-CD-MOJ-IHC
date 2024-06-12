@@ -30,13 +30,14 @@ A Tabela 2 a seguir apresenta a verificação do artefato <a href="https://inter
 
 |**ID**|**Descrição**|**Avaliação**|**Observações**|**Explicação e Referência**|
 |------|-------------|-------------|---------------|-------------|
-| 1 |  O Guia de Estilo corresponde ao site avaliado?<a id="anchor_1" href="#REF1">^1^</a> | | |
-| 2 |O Guia de Estilo possui uma descrição sobre o layout do site?<a id="anchor_1" href="#REF1">^1^</a> | | |
-| 3 |O Guia de Estilo possui uma descrição sobre a tipografia?<a id="anchor_1" href="#REF1">^1^</a>| | |
-| 4 | O Guia de Estilo possui uma descrição sobre o simbolismo dos ícones?<a id="anchor_1" href="#REF1">^1^</a>| | |
-| 5 | O artefato possui uma descrição sobre as cores do site?<a id="anchor_1" href="#REF1">^1^</a> | | |
-| 6 | O artefato possui uma descrição sobre a visualização de informações do site?<a id="anchor_1" href="#REF1">^1^</a> | | |
-| 7 |A guia de Estilo segue uma estrutura contendo: Introdução, Resultados de Ánalise, Elementos de interface, Elementos de interação, Elementos de Ação, Vocabulário e Padrões?<a id="anchor_19" href="#REF2">^2^</a> | | |
+| 1 |  O Guia de Estilo corresponde ao site avaliado? | ||Um guia de estilo pode ser elaborado com diferentes escopos: plataforma (composição de dispositivo e sistema operacional), corporativo (para assegurar a padronização e consistência entre produtos de uma empresa), família de produtos e um produto especifico (Mayhew, 1999).<a id="anchor_1" href="#REF1">^1^</a>  |
+| 2 |O Guia de Estilo possui uma descrição sobre o layout do site? | | | layout: proporção e grids; uso de metáforas espaciais; design gráfico de exibidores e ferramentas<a id="anchor_1" href="#REF1">^1^</a>|
+| 3 |O Guia de Estilo possui uma descrição sobre a tipografia?| | |tipografia e seu uso em diálogos, formulários e relatórios<a id="anchor_1" href="#REF1">^1^</a> |
+| 4 | O Guia de Estilo possui uma descrição sobre o simbolismo dos ícones?| | |Simbolismo: clareza e consistência no design de ícones<a id="anchor_1" href="#REF1">^1^</a> | 
+| 5 | O artefato possui uma descrição sobre as cores do site? | | |cores: os dez mandamentos sobre o uso de cores<a id="anchor_1" href="#REF1">^1^</a>  |
+| 6 | O artefato possui uma descrição sobre a visualização de informações do site? | | |visualização de informação: design de gráficos, diagramas e mapas <a id="anchor_1" href="#REF1">^1^</a> |
+| 7 |A guia de Estilo segue uma estrutura contendo: Introdução, Resultados de Ánalise, Elementos de interface, Elementos de interação, Elementos de Ação, Vocabulário e Padrões?| | | Uma estrutura comum de guia de estilo é a seguinte (Marcus, 1991; Mayhew, 1999): Introdução, Resultados de Ánalise, Elementos de interface, Elementos de interação, Elementos de Ação, Vocabulário e Padrões <a id="anchor_2" href="#REF2">^2^</a>|
+
 
 <font size="3"><p style="text-align: center"><b>Fonte: </b> [João Artur](https://github.com/joao-artl).</p></font>
 </center>
