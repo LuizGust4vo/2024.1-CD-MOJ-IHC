@@ -26,7 +26,7 @@ A Tabela 2 a seguir apresenta a verificação do artefato <a href="https://inter
 
 
 
-**Tabela 1** - Checklist para o Planejamento do Relato dos Resultados do Storyboard.
+**Tabela 2** - Checklist para o Planejamento do Relato dos Resultados da Análise de Tarefas.
 
 | ID  | Descrição                                                                                                                                                                                                                                                                        | Avaliação | Observações |
 | --- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :-------: | :---------: |
