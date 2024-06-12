@@ -71,6 +71,10 @@ A Tabela 3 a seguir apresenta a verificação dos **diagramas HTA** do <a href="
 <font size="3"><p style="text-align: center"><b>Fonte: </b> [Arthur Alves](https://github.com/arthrok), [Douglas Marinho](https://github.com/M4RINH0).</p></font>
 
 
+## <a>Gravação da Verificação</a>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlVJk5tQ0c4?si=3jOVbQx66BY3MiMW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ## <a>Referência Bibliografica</a>
 
 > <a id="REF1" href="#anchor_1">1. </a>Gerência e Qualidade de Software - Aula 05 - Verificação e Validação. UNIVESP. Disponível em: <https://www.youtube.com/watch?v=1Y-1zz6rZxo&t=205s>. Acesso em: 05 de junho de 2024 às 12:00.

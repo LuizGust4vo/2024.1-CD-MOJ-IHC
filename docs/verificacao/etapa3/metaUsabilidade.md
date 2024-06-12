@@ -38,6 +38,10 @@ A Tabela 2 a seguir apresenta a verificação do artefato <a href="https://inter
 <font size="3"><p style="text-align: center"><b>Fonte: </b> [Eric Silveira](https://github.com/ericbky) e [Luiz Gustavo](https://github.com/LuizGust4vo).</p></font>
 </center>
 
+## <a>Gravação da Verificação</a>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KLL23_XT_aU?si=8M51ULNe-f_coatp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ## <a>Referência Bibliografica</a>
 
 > <a id="REF1" href="#anchor_1"> 1. </a> Diana Fournier. As 6 metas de Usabilidade. MEDIUM, 2016. Disponível em: https://medium.com/vivareal-ux-chapter/as-6-metas-de-usabilidade-9491442fd56a. Acesso em: 6 de junho de 2024.

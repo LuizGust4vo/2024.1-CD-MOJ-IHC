@@ -14,9 +14,9 @@ A Tabela 1 a seguir detalha as características referentes à execução da veri
 
 |**Entrega referente**|**Nome do Artefato**|**Versão do artefato**|**Responsável pelo Desenvolvimento do Artefato**|**Responsável pela Verificação do Artefato**|**Data da Verificação**|
 |---------|---------|---------|-----------|------------------|------|
-|Entrega 03|Guia de Estilo|`1.6`|Breno, Pedro, Larissa, Iago, Luana e Bruno|A definir|----|
+|Entrega 03|Guia de Estilo|`1.6`|Breno, Pedro, Larissa, Iago, Luana e Bruno|[Eric Silveira](https://github.com/ericbky) e [Luiz Gustavo](https://github.com/LuizGust4vo)|12/06/2024|
 
-<font size="3"><p style="text-align: center"><b>Fonte: </b> [João Artur](https://github.com/joao-artl).</p></font>
+<font size="3"><p style="text-align: center"><b>Fonte: </b> [Eric Silveira](https://github.com/ericbky) e [Luiz Gustavo](https://github.com/LuizGust4vo).</p></font>
 </center>
 
 
@@ -28,19 +28,23 @@ A Tabela 2 a seguir apresenta a verificação do artefato <a href="https://inter
 
 <font size="3"><p style="text-align: center"><b>Tabela 2</b> - Verificação da Guia de Estilo.</p></font>
 
-|**ID**|**Descrição**|**Avaliação**|**Observações**|**Explicação e Referência**|
+| **ID** | **Descrição** | **Avaliação** | **Observações** | **Explicação e Referência** |
 |------|-------------|-------------|---------------|-------------|
-| 1 |  O Guia de Estilo corresponde ao site avaliado? | ||Um guia de estilo pode ser elaborado com diferentes escopos: plataforma (composição de dispositivo e sistema operacional), corporativo (para assegurar a padronização e consistência entre produtos de uma empresa), família de produtos e um produto especifico (Mayhew, 1999).<a id="anchor_1" href="#REF1">^1^</a>  |
-| 2 |O Guia de Estilo possui uma descrição sobre o layout do site? | | | layout: proporção e grids; uso de metáforas espaciais; design gráfico de exibidores e ferramentas<a id="anchor_1" href="#REF1">^1^</a>|
-| 3 |O Guia de Estilo possui uma descrição sobre a tipografia?| | |tipografia e seu uso em diálogos, formulários e relatórios<a id="anchor_1" href="#REF1">^1^</a> |
-| 4 | O Guia de Estilo possui uma descrição sobre o simbolismo dos ícones?| | |Simbolismo: clareza e consistência no design de ícones<a id="anchor_1" href="#REF1">^1^</a> | 
-| 5 | O artefato possui uma descrição sobre as cores do site? | | |cores: os dez mandamentos sobre o uso de cores<a id="anchor_1" href="#REF1">^1^</a>  |
-| 6 | O artefato possui uma descrição sobre a visualização de informações do site? | | |visualização de informação: design de gráficos, diagramas e mapas <a id="anchor_1" href="#REF1">^1^</a> |
-| 7 |A guia de Estilo segue uma estrutura contendo: Introdução, Resultados de Ánalise, Elementos de interface, Elementos de interação, Elementos de Ação, Vocabulário e Padrões?| | | Uma estrutura comum de guia de estilo é a seguinte (Marcus, 1991; Mayhew, 1999): Introdução, Resultados de Ánalise, Elementos de interface, Elementos de interação, Elementos de Ação, Vocabulário e Padrões <a id="anchor_2" href="#REF2">^2^</a>|
+| 1 | O Guia de Estilo corresponde ao site avaliado? | Sim | - | Um guia de estilo pode ser elaborado com diferentes escopos: plataforma (composição de dispositivo e sistema operacional), corporativo (para assegurar a padronização e consistência entre produtos de uma empresa), família de produtos e um produto específico (Mayhew, 1999). <a id="anchor_1" href="#REF1">^1^</a> |
+| 2 | O Guia de Estilo possui uma descrição sobre o layout do site? | Sim | Seria interessante descrever mais | Layout: proporção e grids; uso de metáforas espaciais; design gráfico de exibidores e ferramentas. <a id="anchor_1" href="#REF1">^1^</a> |
+| 3 | O Guia de Estilo possui uma descrição sobre a tipografia? | Sim | - | Tipografia e seu uso em diálogos, formulários e relatórios. <a id="anchor_1" href="#REF1">^1^</a> |
+| 4 | O Guia de Estilo possui uma descrição sobre o simbolismo dos ícones? | Sim | Seria interessante descrever mais | Simbolismo: clareza e consistência no design de ícones. <a id="anchor_1" href="#REF1">^1^</a> |
+| 5 | O artefato possui uma descrição sobre as cores do site? | Sim | Seria interessante descrever mais | Cores: os dez mandamentos sobre o uso de cores. <a id="anchor_1" href="#REF1">^1^</a> |
+| 6 | O artefato possui uma descrição sobre a visualização de informações do site? | Sim | - | Visualização de informação: design de gráficos, diagramas e mapas. <a id="anchor_1" href="#REF1">^1^</a> |
+| 7 | A guia de Estilo segue uma estrutura contendo: Introdução, Resultados de Análise, Elementos de interface, Elementos de interação, Elementos de Ação, Vocabulário e Padrões? | Sim | - | Uma estrutura comum de guia de estilo é a seguinte (Marcus, 1991; Mayhew, 1999): Introdução, Resultados de Análise, Elementos de interface, Elementos de interação, Elementos de Ação, Vocabulário e Padrões. <a id="anchor_2" href="#REF2">^2^</a> |
 
 
-<font size="3"><p style="text-align: center"><b>Fonte: </b> [João Artur](https://github.com/joao-artl).</p></font>
+<font size="3"><p style="text-align: center"><b>Fonte: </b> [Eric Silveira](https://github.com/ericbky) e [Luiz Gustavo](https://github.com/LuizGust4vo).</p></font>
 </center>
+
+## <a>Gravação da Verificação</a>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mRYEor2vFFI?si=HFgBDOi_h1XJZd-p" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## <a>Referência Bibliografica</a>
 
@@ -64,3 +68,4 @@ A Tabela 2 a seguir apresenta a verificação do artefato <a href="https://inter
 | ------- | ------ | ------ | ------- | -------- | -------- |
 | `1.0` | 06/06/2024 | 07/06/2024 | Criando documento, introdução e checklist do artefato | [João Artur](https://github.com/joao-artl)|[Diego Sousa](https://github.com/DiegoSousaLeite)|
 | `1.1` | 09/06/2024 | 10/06/2024 | Padronizando referências | [João Artur](https://github.com/joao-artl)|[Diego Sousa](https://github.com/DiegoSousaLeite)|
+| `1.2` | 12/06/2024 | 12/06/2024 | Inserindo as verificações | [Eric Silveira](https://github.com/ericbky) e [Luiz Gustavo](https://github.com/LuizGust4vo)|[Diego Sousa](https://github.com/DiegoSousaLeite)|

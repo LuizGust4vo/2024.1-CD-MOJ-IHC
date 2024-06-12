@@ -37,6 +37,10 @@ O protótipo de papel é uma técnica inicial no design de interfaces de usuári
 <font size="3"><p style="text-align: center"><b>Fonte: </b> [Eric Silveira](https://github.com/ericbky) e [Luiz Gustavo](https://github.com/LuizGust4vo).</p></font>
 </center>
 
+## <a>Gravação da Verificação</a>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c6O2pgXhKeE?si=ecgT-NRo2HnvN2Qk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ## <a>Referência Bibliografica</a>
 > <a id="REF1" href="#anchor_1">1. </a>Gerência e Qualidade de Software - Aula 05 - Verificação e Validação. UNIVESP. Disponível em: <https://www.youtube.com/watch?v=1Y-1zz6rZxo&t=205s>. Acesso em: 06 de junho de 2024 às 12:00.
 
