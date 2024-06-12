@@ -23,7 +23,7 @@ O responsável pelo planejamento da verificação da entrega 3 será o integrant
 
 |**Entrega referente**|**Nome do Artefato**|**Versão do artefato**|**Responsável pelo Desenvolvimento do Artefato**|**Responsável pela Verificação do Artefato**|
 |---------|---------|---------|-----------|------------------|
-|Entrega 05|Relato dos Resultados da Avaliação da Análise de Tarefas|`1.5`|Pedro, Larissa, Iago, Breno e Bruno|[Douglas Marinho](https://github.com/M4RINH0) e [Arthur Alves](https://github.com/arthrok)|
+|Entrega 05|Relato dos Resultados da Avaliação da Análise de Tarefas|`1.5`|Pedro, Larissa, Iago, Breno e Bruno| a definir |
 |Entrega 05|Relato dos Resultados da Avaliação dos Storyboards|`1.5`|Larissa ou Pedro|A definir|
 |Entrega 05|Planejamento da Avaliação do Protótipo de Papel|`1.0`|Larissa|A definir|
 |Entrega 05|Planejamento do Relato do Protótipo de Papel|`1.0`|Bruno|A definir|
