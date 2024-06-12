@@ -22,8 +22,8 @@ O responsável pelo planejamento da verificação da entrega 02 será dos integr
 |**Entrega referente**|**Nome do Artefato**|**Versão do artefato**|**Responsável pelo Desenvolvimento do Artefato**|**Responsável pela Verificação do Artefato**|
 |---------|---------|---------|-----------|------------------|
 |Entrega 02|Aspectos Éticos de Pesquisas Envolvendo Pessoas|`--`|Larissa Stéfane|[Eric Silveira](https://github.com/ericbky)|
-|Entrega 02|Perfil de Usuário|`1.0`|Larissa Stéfane|[Arthur Alves](https://github.com/arthrok)|
-|Entrega 02|Personas|`--`|--|[Arthur Alves](https://github.com/arthrok)|
+|Entrega 02|Perfil de Usuário|`1.0`|Larissa Stéfane|[Douglas Marinho](https://github.com/M4RINH0) e [Arthur Alves](https://github.com/arthrok)|
+|Entrega 02|Personas|`--`|--|[Douglas Marinho](https://github.com/M4RINH0) e [Arthur Alves](https://github.com/arthrok)|
 
 </center>
 
