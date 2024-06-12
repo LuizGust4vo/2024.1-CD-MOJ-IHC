@@ -23,7 +23,7 @@ O responsável pelo planejamento da verificação da entrega 3 será o integrant
 
 |**Entrega referente**|**Nome do Artefato**|**Versão do artefato**|**Responsável pelo Desenvolvimento do Artefato**|**Responsável pela Verificação do Artefato**|
 |---------|---------|---------|-----------|------------------|
-|Entrega 03|Princípios Gerais do Projeto|`2.5`|Breno, Pedro, Larissa, Iago, Luana e Bruno|[Douglas Marinho](https://github.com/M4RINH0) e [Arthur Alves](https://github.com/arthrok)|
+|Entrega 03|Princípios Gerais do Projeto|`2.5`|Breno, Pedro, Larissa, Iago, Luana e Bruno|A definir|
 |Entrega 03|Metas de Usabilidade|`1.1`|Pedro e Luana|A definir|
 |Entrega 03|Guia de Estilo|`1.6`|Breno, Pedro, Larissa, Iago, Luana e Bruno|A definir|
 
@@ -40,7 +40,7 @@ Os resultados obtidos após as verificações serão exibidos na respectiva guia
 
 ## <a>Checklists</a>
 
-Os checklists são ferramentas essenciais de verificação que ajudam a identificar defeitos ou características ausentes no projeto. Eles garantem a consistência, completude conformidade dos artefatos com os requisitos estabelecidos, promovendo a qualidade e a integridade do projeto.
+Os checklists são ferramentas essenciais de verificação que ajudam a identificar defeitos ou características ausentes no projeto. Eles garantem a consistência, completude e conformidade dos artefatos com os requisitos estabelecidos, promovendo a qualidade e a integridade do projeto.
 
 ### <a>Princípios Gerais do Projeto</a>
 
@@ -51,24 +51,21 @@ A tabela 3 a seguir demonstra o checklist referente as verificações desse arte
 
 <font size="3"><p style="text-align: center"><b>Tabela 3</b> - Checklist dos Princípios Gerais do Projeto.</p></font>
 
-|**ID**|**Descrição**|**Avaliação**|**Observações**|
-|----|------------|-----|-------------|
-| 1 | O artefato apresenta os Princípios Gerais que serão utilizados no projeto?<a id="anchor_6" href="#REF6">^6^</a> |  |  |
-| 2 | Os Princípios Gerais do Projeto apresentam um tópico sobre "correspondência com as expectativas dos usuários"?<a id="anchor_7" href="#REF7">^7^</a> | | |
-| 3 | Os Princípios Gerais do Projeto apresentam um tópico sobre "simplicidade nas estruturas das tarefas"?<a id="anchor_8" href="#REF8">^8^</a> | | |
-| 4 | Os Princípios Gerais do Projeto apresentam um tópico sobre "equilíbrio entre controle e liberdade do usuário"?<a id="anchor_9" href="#REF9">^9^</a> | | |
-| 5 | Os Princípios Gerais do Projeto apresentam um tópico sobre "Consistênia e padronização"?<a id="anchor_10" href="#REF10">^10^</a> | | | 
-| 6 | Os Princípios Gerais do Projeto apresentam um tópico sobre  "promoção da eficiência do usuário"?<a id="anchor_11" href="#REF11">^11^</a> | | |
-| 7 | Os Princípios Gerais do Projeto apresentam um tópico sobre "Antecipação"?<a id="anchor_12" href="#REF12">^12^</a> | | |
-| 8 | Os Princípios Gerais do Projeto apresentam um tópico sobre "visibilidade e reconhecimento"?<a id="anchor_13" href="#REF13">^13^</a> | | |
-| 9 | Os Princípios Gerais do Projeto apresentam um tópico sobre "conteúdo relevante e expressão adequada"?<a id="anchor_14" href="#REF14">^14^</a> | | |
-| 10 | Os Princípios Gerais do Projeto apresentam um tópico sobre "projeto para erros"?<a id="anchor_15" href="#REF15">^15^</a>. | | |
-| 11 | Os Princípios Gerais possuem uma avaliação com "Problemas encontrados", incluindo fotos ou gravações?<a id="anchor_16" href="#REF16">^16^</a> |  | |
-| 12 | Os Princípios Gerais possuem uma avaliação com "Proposta de solução", para problemas encontrados?<a id="anchor_16" href="#REF16">^16^</a>|  | |
-</center>
+|**ID**|**Descrição**|**Avaliação**|**Observações**|**Explicação e Referência**|
+|------|-------------|-------------|---------------|-------------|
+| 1 | O artefato apresenta os Princípios Gerais que serão utilizados no projeto? |  |  | Norman (1988) destaca a necessidade de projetarmos o sistema utilizando um modelo conceitual que o usuário possa apreender rapidamente e sem dificuldade<a id="anchor_6" href="#REF6">^6^</a>|
+| 2 | Os Princípios Gerais do Projeto apresentam um tópico sobre "correspondência com as expectativas dos usuários"? | | |Devemos nos certificar de que o usuário consegue determinar os relacionamentos entre: intenções e ações possíveis; entre ações e seus efeitos no sistema; entre o estado real do sistema e o que é percebido pela visão, audição ou tato; entre o estado percebido do sistema e as<a id="anchor_7" href="#REF7">^7^</a>| necessidades, intenções e expectativas do usuário |
+| 3 | Os Princípios Gerais do Projeto apresentam um tópico sobre "simplicidade nas estruturas das tarefas"? | | |Norman (1988) recomenda simplificar a estrutura das tarefas, reduzindo a quantidade de planejamento e resolução de problemas que elas requerem. <a id="anchor_8" href="#REF8">^8^</a> |
+| 4 | Os Princípios Gerais do Projeto apresentam um tópico sobre "equilíbrio entre controle e liberdade do usuário"?| | | Norman (1988); Nielsen (1994c); Tognazzini (2014); Shneiderman (1998); Cooper (1999) destacam a importância de manter o usuário no controle. Tognazzini (2014) lembra que o computador, a interface e ambiente de trabalho “pertencem” ao usuário.<a id="anchor_9" href="#REF9">^9^</a> |
+| 5 | Os Princípios Gerais do Projeto apresentam um tópico sobre "Consistênia e padronização"? | | |  Para facilitar o aprendizado e uso de um sistema, Norman (1988) recomenda assegurar a consistência da interface com o modelo conceitual embutido no sistema.<a id="anchor_10" href="#REF10">^10^</a>|
+| 6 | Os Princípios Gerais do Projeto apresentam um tópico sobre  "promoção da eficiência do usuário"? | | | Tognazzini (2014) recomenda considerar sempre a eficiência do usuário em primeiro lugar, e não a do computador.<a id="anchor_11" href="#REF11">^11^</a>|
+| 7 | Os Princípios Gerais do Projeto apresentam um tópico sobre "Antecipação"?| | | As aplicações devem tentar prever o que o usuário quer e precisa, em vez de esperar que os usuários busquem ou coletem informações ou invoquem ferramentas. O designer deve fornecer ao usuário todas as informações e ferramentas necessárias para cada passo do processo (Tognazzini, 2014).<a id="anchor_12" href="#REF12">^12^</a> |
+| 8 | Os Princípios Gerais do Projeto apresentam um tópico sobre "visibilidade e reconhecimento"? | | | Norman (1988) afirma que o designer deve tornar as coisas visíveis: abreviar os golfos de execução e avaliação (veja Seção 5.4). Antes de executar uma ação, é necessário tornar visível para os usuários o que é possível realizar e como as ações devem ser feitas.<a id="anchor_13" href="#REF13">^13^</a>|
+| 9 | Os Princípios Gerais do Projeto apresentam um tópico sobre "conteúdo relevante e expressão adequada"? | | | Uma constante dentre os profissionais de IHC é a busca pela simplicidade. Seguem o lema “menos é mais”. A máxima da quantidade está fortemente relacionada à simplicidade da interface. A máxima da relação ou relevância afirma que tudo o que for dito deve ter relação clara com os tópicos da conversa até o momento e ser relevante ao objetivo dos interlocutores<a id="anchor_14" href="#REF14">^14^</a>|
+| 10 | Os Princípios Gerais do Projeto apresentam um tópico sobre "projeto para erros"?. | | | Norman (1988) recomenda projetar para o erro, ou seja, assumir que qualquer erro potencial será cometido.<a id="anchor_15" href="#REF15">^15^</a>|
 
 <font size="3"><p style="text-align: center"><b>Fonte: </b> [João Artur](https://github.com/joao-artl).</p></font>
-
+</center>
 
 ### <a>Metas de Usabilidade</a>
 
@@ -79,12 +76,12 @@ A tabela 4 a seguir demonstra o checklist referente as verificações desse arte
 
 <font size="3"><p style="text-align: center"><b>Tabela 4</b> - Checklist das Metas de Usabilidade.</p></font>
 
-|**ID**|**Descrição**|**Avaliação**|**Observações**|
-|----|-----------|--------|-------------|
-| 1 | O artefato apresenta a descrição das metas de usabilidade a serem alcançadas no projeto?<a id="anchor_17" href="#REF17">^17^</a> | | |
-| 2 |O artefato apresenta as 6 metas de usabilidade(Eficácia, Eficiência, Segurança, Utilidade, Aprendizagem, Memorização)?<a id="anchor_17" href="#REF17">^17^</a> | | |
-| 3 |As metas foram definidas através do perfil de usuário?<a id="anchor_17" href="#REF17">^17^</a> | | |
-| 4 |Cada meta de usabilidade possui uma breve explicação?<a id="anchor_17" href="#REF17">^17^</a> | | |
+|**ID**|**Descrição**|**Avaliação**|**Observações**|**Explicação e Referência**|
+|------|-------------|-------------|---------------|-------------|
+| 1 | O artefato apresenta a descrição das metas de usabilidade a serem alcançadas no projeto? | | |A utilização das metas de usabilidade durante o projeto ajuda a solucionar preocupações como a produtividade do usuário durante a utilização do sistema e motivação desse usuário para um aprendizado eficaz. <a id="anchor_17" href="#REF17">^17^</a>|
+| 2 |O artefato apresenta as 6 metas de usabilidade(Eficácia, Eficiência, Segurança, Utilidade, Aprendizagem, Memorização)? | | | Um desses estudos são as 6 metas de usabilidade, uma lista de fatores que estão ligadas diretamente ao uso de sistemas, segundo Jakob Nielsen (1993).<a id="anchor_17" href="#REF17">^17^</a>|
+| 3 |As metas foram definidas através do perfil de usuário? | | | Cada sistema tem uma utilidade. Para fazê-la acontecer da melhor maneira é necessário fornecer ao usuário um conjunto de funções, estas que são esperadas pelo usuário naquele devido contexto.<a id="anchor_17" href="#REF17">^17^</a>|
+| 4 |Cada meta de usabilidade possui uma breve explicação? | | |Levar em consideração tais metas na hora da projetação, garante o mínimo necessário para o desenvolvimento de boas interfaces digitais e experiências válidas para o usuário. <a id="anchor_17" href="#REF17">^17^</a>|
 
 <font size="3"><p style="text-align: center"><b>Fonte: </b> [João Artur](https://github.com/joao-artl).</p></font>
 </center>
@@ -98,18 +95,18 @@ A tabela 5 a seguir demonstra o checklist referente as verificações desse arte
 
 <font size="3"><p style="text-align: center"><b>Tabela 5</b> - Checklist da Guia de Estilo.</p></font>
 
-|**ID**|**Descrição**|**Avaliação**|**Observações**|
-|----|-----------|--------|-------------|
-| 1 |  O Guia de Estilo corresponde ao site avaliado?<a id="anchor_18" href="#REF18">^18^</a> | | |
-| 2 |O Guia de Estilo possui uma descrição sobre o layout do site?<a id="anchor_18" href="#REF18">^18^</a> | | |
-| 3 |O Guia de Estilo possui uma descrição sobre a tipografia?<a id="anchor_18" href="#REF18">^18^</a>| | |
-| 4 | O Guia de Estilo possui uma descrição sobre o simbolismo dos ícones?<a id="anchor_18" href="#REF18">^18^</a>| | |
-| 5 | O artefato possui uma descrição sobre as cores do site?<a id="anchor_18" href="#REF18">^18^</a> | | |
-| 6 | O artefato possui uma descrição sobre a visualização de informações do site?<a id="anchor_18" href="#REF18">^18^</a> | | |
-| 7 |A guia de Estilo segue uma estrutura contendo: Introdução, Resultados de Ánalise, Elementos de interface, Elementos de interação, Elementos de Ação, Vocabulário e Padrões?<a id="anchor_19" href="#REF19">^19^</a> | | |
-</center>
-<font size="3"><p style="text-align: center"><b>Fonte: </b> [João Artur](https://github.com/joao-artl).</p></font>
+|**ID**|**Descrição**|**Avaliação**|**Observações**|**Explicação e Referência**|
+|------|-------------|-------------|---------------|-------------|
+| 9 |  O Guia de Estilo corresponde ao site avaliado? | ||Um guia de estilo pode ser elaborado com diferentes escopos: plataforma (composição de dispositivo e sistema operacional), corporativo (para assegurar a padronização e consistência entre produtos de uma empresa), família de produtos e um produto especifico (Mayhew, 1999).<a id="anchor_18" href="#REF18">^18^</a>  |
+| 10 |O Guia de Estilo possui uma descrição sobre o layout do site? | | | layout: proporção e grids; uso de metáforas espaciais; design gráfico de exibidores e ferramentas<a id="anchor_18" href="#REF18">^18^</a>|
+| 11 |O Guia de Estilo possui uma descrição sobre a tipografia?| | |tipografia e seu uso em diálogos, formulários e relatórios<a id="anchor_18" href="#REF18">^18^</a> |
+| 12 | O Guia de Estilo possui uma descrição sobre o simbolismo dos ícones?| | |Simbolismo: clareza e consistência no design de ícones<a id="anchor_18" href="#REF18">^18^</a> | 
+| 13 | O artefato possui uma descrição sobre as cores do site? | | |cores: os dez mandamentos sobre o uso de cores<a id="anchor_18" href="#REF18">^18^</a>  |
+| 14 | O artefato possui uma descrição sobre a visualização de informações do site? | | |visualização de informação: design de gráficos, diagramas e mapas <a id="anchor_18" href="#REF18">^18^</a> |
+| 15 |A guia de Estilo segue uma estrutura contendo: Introdução, Resultados de Ánalise, Elementos de interface, Elementos de interação, Elementos de Ação, Vocabulário e Padrões?| | | Uma estrutura comum de guia de estilo é a seguinte (Marcus, 1991; Mayhew, 1999): Introdução, Resultados de Ánalise, Elementos de interface, Elementos de interação, Elementos de Ação, Vocabulário e Padrões <a id="anchor_19" href="#REF19">^19^</a>|
 
+<font size="3"><p style="text-align: center"><b>Fonte: </b> [João Artur](https://github.com/joao-artl).</p></font>
+</center>
 
 ## <a>Referência Bibliografica</a>
 > <a id="REF1" href="#anchor_1">1. </a>Gerência e Qualidade de Software - Aula 05 - Verificação e Validação. UNIVESP. Disponível em: <https://www.youtube.com/watch?v=1Y-1zz6rZxo&t=205s>. Acesso em: 06 de junho de 2024 às 12:00.
