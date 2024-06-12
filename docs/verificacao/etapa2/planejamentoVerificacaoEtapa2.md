@@ -133,20 +133,24 @@ Uma persona é um personagem fictício, criado para descrever um usuário típic
 
 ### <a>Checklist de Análise de Tarefas</a>
 
+Uma análise de tarefas é utilizada para se ter um entendimento sobre qual é o trabalho dos usuários,
+como eles o realizam e por quê. Nesse tipo de análise, o trabalho é definido em termos dos objetivos
+que os usuários querem ou precisam atingir<a id="anchor_10" href="#REF10">^10^</a>. A seguir, a tabela 5 contém uma série de itens que serão verificados no artefato de Análise de Tarefas do **Grupo 02 - SIGAA**.
+
 <center>
 <font size="3"><p style="text-align: center"><b>Tabela 5</b> - Checklist do artefato Análise de Tarefas.</p></font>
 
 | **ID** | **Descrição** | **Avaliação** | **Observações** | **Explicação e Referência** |
 |------|-------------|-------------|---------------|-------------|
-| 1 | Foi utilizada alguma técnica para especificar as tarefas? | | | "A análise de tarefas pode ser utilizada nas três atividades habituais: para análise da situação atual, para o (re)design de um sistema computacional ou para a avaliação do resultado de uma intervenção que inclua a introdução de um (novo) sistema computacional." (Capítulo 8, p. 177) |
-| 2 | As tarefas estão definidas em termos de objetivos e subobjetivos? | | | "Uma tarefa é qualquer parte do trabalho que precisa ser realizada. Toda tarefa pode ser definida em termos de seu(s) objetivo(s). Tarefas complexas são definidas em termos de objetivos e subobjetivos, num desdobramento hierárquico." (Capítulo 8, p. 179) |
-| 3 | A análise inclui diagramas HTA (Hierarchical Task Analysis)? | | | "A HTA examina primeiramente os objetivos de alto nível, decompondo-os em subobjetivos, buscando identificar quais subobjetivos são mais difíceis de atingir e que, portanto, limitam ou mesmo impedem o atingimento do objetivo maior." (Capítulo 8, p. 179) |
-| 4 | A análise inclui a representação em tabela das tarefas? | | | "A Figura 8.2 ilustra um diagrama HTA para o cadastro de um projeto final em um sistema acadêmico, e a Tabela 8.4 apresenta a tabela equivalente ao diagrama." (Capítulo 8, p. 181) |
-| 5 | Foram utilizados métodos GOMS (Goals, Operators, Methods, and Selection Rules)? | | | "O GOMS é um método para descrever uma tarefa e o conhecimento do usuário sobre como realizá-la em termos de objetivos, operadores, métodos e regras de seleção." (Capítulo 8, p. 182) |
-| 6 | Os métodos GOMS utilizados são adequados para prever o desempenho das tarefas? | | | "Os modelos GOMS têm se mostrado úteis para prever o desempenho, ou seja, predizer o impacto de decisões de design no desempenho competente." (Capítulo 8, p. 182) |
-| 7 | A análise inclui a representação das tarefas utilizando CTT (ConcurTaskTrees)? | | | "O modelo de árvores de tarefas concorrentes (ConcurTaskTrees – CTT) foi criado para auxiliar a avaliação e o design e avaliação de IHC." (Capítulo 8, p. 187) |
-| 8 | As tarefas estão classificadas como do usuário, do sistema, interativas ou abstratas? | | | "Nesse modelo, existem quatro tipos de tarefas: tarefas do usuário, tarefas do sistema, tarefas interativas e tarefas abstratas." (Capítulo 8, p. 188) |
-| 9 | A análise de tarefas foi validada junto às partes interessadas? | | | "Verificar a validade da decomposição junto às partes interessadas, visando assegurar a confiabilidade da análise." (Capítulo 8, p. 181) |
+| 1 | Foi utilizada alguma técnica para especificar as tarefas? | | | "A análise de tarefas pode ser utilizada nas três atividades habituais: para análise da situação atual, para o (re)design de um sistema computacional ou para a avaliação do resultado de uma intervenção que inclua a introdução de um (novo) sistema computacional."<a id="anchor_10" href="#REF10">^10^</a> |
+| 2 | As tarefas estão definidas em termos de objetivos e subobjetivos? | | | "Uma tarefa é qualquer parte do trabalho que precisa ser realizada. Toda tarefa pode ser definida em termos de seu(s) objetivo(s). Tarefas complexas são definidas em termos de objetivos e subobjetivos, num desdobramento hierárquico."<a id="anchor_8" href="#REF8">^8^</a> |
+| 3 | A análise inclui diagramas HTA (Hierarchical Task Analysis)? | | | "A HTA examina primeiramente os objetivos de alto nível, decompondo-os em subobjetivos, buscando identificar quais subobjetivos são mais difíceis de atingir e que, portanto, limitam ou mesmo impedem o atingimento do objetivo maior."<a id="anchor_8" href="#REF8">^8^</a> |
+| 4 | A análise inclui a representação em tabela das tarefas? | | | "A Figura 8.2 ilustra um diagrama HTA para o cadastro de um projeto final em um sistema acadêmico, e a Tabela 8.4 apresenta a tabela equivalente ao diagrama."<a id="anchor_9" href="#REF9">^9^</a> |
+| 5 | Foram utilizados métodos GOMS (Goals, Operators, Methods, and Selection Rules)? | | | "O GOMS é um método para descrever uma tarefa e o conhecimento do usuário sobre como realizá-la em termos de objetivos, operadores, métodos e regras de seleção."<a id="anchor_11" href="#REF11">^11^</a> |
+| 6 | Os métodos GOMS utilizados são adequados para prever o desempenho das tarefas? | | | "Os modelos GOMS têm se mostrado úteis para prever o desempenho, ou seja, predizer o impacto de decisões de design no desempenho competente."<a id="anchor_11" href="#REF11">^11^</a> |
+| 7 | A análise inclui a representação das tarefas utilizando CTT (ConcurTaskTrees)? | | | "O modelo de árvores de tarefas concorrentes (ConcurTaskTrees – CTT) foi criado para auxiliar a avaliação e o design e avaliação de IHC."<a id="anchor_12" href="#REF12">^12^</a> |
+| 8 | As tarefas estão classificadas como do usuário, do sistema, interativas ou abstratas? | | | "Nesse modelo, existem quatro tipos de tarefas: tarefas do usuário, tarefas do sistema, tarefas interativas e tarefas abstratas."<a id="anchor_12" href="#REF12">^12^</a> |
+| 9 | A análise de tarefas foi validada junto às partes interessadas? | | | "Verificar a validade da decomposição junto às partes interessadas, visando assegurar a confiabilidade da análise."<a id="anchor_9" href="#REF9">^9^</a> |
 
 </center>
 
@@ -156,17 +160,25 @@ Uma persona é um personagem fictício, criado para descrever um usuário típic
 
 ### Checklist para Diagramas HTA (Hierarchical Task Analysis)
 
+A seguir, a tabela 6 contém uma série de itens que serão verificados no artefato de Análise de Tarefas do **Grupo 02 - SIGAA**.
+
+<center>
+<font size="3"><p style="text-align: center"><b>Tabela 6</b> - Checklist para Diagramas HTA.</p></font>
+
 | **ID** | **Descrição** | **Avaliação** | **Observações** | **Explicação e Referência** |
 |------|-------------|-------------|---------------|-------------|
-| 1 | O diagrama HTA identifica claramente os objetivos de alto nível? | | | "A HTA examina primeiramente os objetivos de alto nível, decompondo-os em subobjetivos, buscando identificar quais subobjetivos são mais difíceis de atingir e que, portanto, limitam ou mesmo impedem o atingimento do objetivo maior." (Capítulo 8, p. 179) |
-| 2 | Os subobjetivos são detalhados de forma clara e sequencial? | | | "Toda tarefa pode ser definida em termos de seu(s) objetivo(s). Tarefas complexas são definidas em termos de objetivos e subobjetivos, num desdobramento hierárquico." (Capítulo 8, p. 179) |
-| 3 | O diagrama inclui todas as operações necessárias para atingir os objetivos? | | | "A HTA examina os objetivos e as operações necessárias para atingi-los, decompondo-os em subobjetivos e operações menores." (Capítulo 8, p. 179) |
-| 4 | As relações entre os subobjetivos estão corretamente representadas (sequencial, seleção, paralelo)? | | | "A HTA deve mostrar as relações entre os subobjetivos, que podem ser sequenciais, de seleção ou em paralelo." (Capítulo 8, p. 179) |
-| 5 | O diagrama inclui uma legenda que explica os elementos e as relações? | | | "Um diagrama HTA bem-feito deve incluir uma legenda que explique os elementos e as relações entre eles." (Capítulo 8, p. 181) |
-| 6 | O diagrama é fácil de entender e seguir, facilitando a análise das tarefas? | | | "A clareza do diagrama é fundamental para que a análise de tarefas seja fácil de entender e seguir." (Capítulo 8, p. 181) |
-| 7 | O diagrama é acompanhado de uma tabela detalhando as operações e subobjetivos? | | | "A Tabela 8.4 apresenta a tabela equivalente ao diagrama, detalhando as operações e subobjetivos." (Capítulo 8, p. 181) |
-| 8 | A decomposição das tarefas foi validada junto às partes interessadas? | | | "Verificar a validade da decomposição junto às partes interessadas, visando assegurar a confiabilidade da análise." (Capítulo 8, p. 181) |
+| 1 | O diagrama HTA identifica claramente os objetivos de alto nível? | | | "A HTA examina primeiramente os objetivos de alto nível, decompondo-os em subobjetivos, buscando identificar quais subobjetivos são mais difíceis de atingir e que, portanto, limitam ou mesmo impedem o atingimento do objetivo maior."<a id="anchor_8" href="#REF8">^8^</a> |
+| 2 | Os subobjetivos são detalhados de forma clara e sequencial? | | | "Toda tarefa pode ser definida em termos de seu(s) objetivo(s). Tarefas complexas são definidas em termos de objetivos e subobjetivos, num desdobramento hierárquico."<a id="anchor_8" href="#REF8">^8^</a> |
+| 3 | O diagrama inclui todas as operações necessárias para atingir os objetivos? | | | "A HTA examina os objetivos e as operações necessárias para atingi-los, decompondo-os em subobjetivos e operações menores."<a id="anchor_8" href="#REF8">^8^</a> |
+| 4 | As relações entre os subobjetivos estão corretamente representadas (sequencial, seleção, paralelo)? | | | "A HTA deve mostrar as relações entre os subobjetivos, que podem ser sequenciais, de seleção ou em paralelo."<a id="anchor_8" href="#REF8">^8^</a> |
+| 5 | O diagrama inclui uma legenda que explica os elementos e as relações? | | | "Um diagrama HTA bem-feito deve incluir uma legenda que explique os elementos e as relações entre eles."<a id="anchor_9" href="#REF9">^9^</a> |
+| 6 | O diagrama é fácil de entender e seguir, facilitando a análise das tarefas? | | | "A clareza do diagrama é fundamental para que a análise de tarefas seja fácil de entender e seguir."<a id="anchor_9" href="#REF9">^9^</a> |
+| 7 | O diagrama é acompanhado de uma tabela detalhando as operações e subobjetivos? | | | "A Tabela 8.4 apresenta a tabela equivalente ao diagrama, detalhando as operações e subobjetivos."<a id="anchor_9" href="#REF9">^9^</a> |
+| 8 | A decomposição das tarefas foi validada junto às partes interessadas? | | | "Verificar a validade da decomposição junto às partes interessadas, visando assegurar a confiabilidade da análise."<a id="anchor_9" href="#REF9">^9^</a> |
 
+</center>
+
+<font size="3"><p style="text-align: center"><b>Fonte: </b> [Arthur Alves](https://github.com/arthrok).</p></font>
 
 ## <a>Referência Bibliografica</a>
 
@@ -186,7 +198,15 @@ Uma persona é um personagem fictício, criado para descrever um usuário típic
 
 > <a id="REF7" href="#anchor_7">7.</a> Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) *Interação Humano-Computador e Experiência do usuário.* Capítulo 8 Organização do Espaço de Problema, tópico 8.2 Personas, página 170. Autopublicação. ISBN: 978-65-00-19677-1. 
 
+> <a id="REF8" href="#anchor_8">8.</a> Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) *Interação Humano-Computador e Experiência do usuário.* Capítulo 8 Organização do Espaço de Problema, tópico 8.4 Análise de Tarefas, página 179. Autopublicação. ISBN: 978-65-00-19677-1. 
 
+> <a id="REF9" href="#anchor_9">9.</a> Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) *Interação Humano-Computador e Experiência do usuário.* Capítulo 8 Organização do Espaço de Problema, tópico 8.4 Análise de Tarefas, página 181. Autopublicação. ISBN: 978-65-00-19677-1. 
+
+> <a id="REF10" href="#anchor_10">10.</a> Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) *Interação Humano-Computador e Experiência do usuário.* Capítulo 8 Organização do Espaço de Problema, tópico 8.4 Análise de Tarefas, página 177. Autopublicação. ISBN: 978-65-00-19677-1. 
+
+> <a id="REF11" href="#anchor_11">11.</a> Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) *Interação Humano-Computador e Experiência do usuário.* Capítulo 8 Organização do Espaço de Problema, tópico 8.4 Análise de Tarefas, página 182. Autopublicação. ISBN: 978-65-00-19677-1. 
+
+> <a id="REF12" href="#anchor_12">12.</a> Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) *Interação Humano-Computador e Experiência do usuário.* Capítulo 8 Organização do Espaço de Problema, tópico 8.4 Análise de Tarefas, páginas 187 e 188. Autopublicação. ISBN: 978-65-00-19677-1. 
 
 
 ## <a>Bibliografia</a>
