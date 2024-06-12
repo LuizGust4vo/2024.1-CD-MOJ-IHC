@@ -4,6 +4,7 @@
 
 De Acordo com Barbosa e Silva (2021)<a id="anchor_1" href="#REF1">^1^</a>, o relato de resultados da avaliação é utilizado para registrar de maneira sistemática e detalhada as descobertas obtidas durante a avaliação. O documento oferece informações sobre como os usuários interagem com o sistema. Através desse resultado, é possível avaliar a qualidade do uso da solução e identificar problemas na interação e na interface que possam comprometer a experiência do usuário. Este documento apresenta os resultados obtidos durante as avaliações dos Storyboards.
 
+
 ## <a>Relato - Verificação de Submissão</a>
 
 ### <a>Objetivos e Escopo da Avaliação</a>
@@ -15,9 +16,9 @@ O método de avaliação foi uma combinação de observação e entrevistas com 
 
 <font size="3"><p style="text-align: center"><b>Tabela 1</b> - Cronograma da Entrevista</p></font>
 
-| Entrevistador(es) | Entrevistado(s) | Horário | Duração  | Data    |    Local     |
+| Entrevistador(es) | Entrevistado(s) | Horário | Duração  | Data | Local |
 | :----------------: | :-------------: | :---------------: | :------------: | :--------: | :----------: |
-|  [João Artur](https://github.com/joao-artl)  |   Júlio    |  16:00 | 15 minutos | 27/05/2023 | FGA |
+| [João Artur](https://github.com/joao-artl) | Júlio |  16:00 | 15 minutos | 27/05/2023 | FGA |
 
 <font size="3"><p style="text-align: center"><b>Fonte:</b> [João Artur](https://github.com/joao-artl)</p></font>
 
@@ -41,20 +42,17 @@ O usuário relatou não conseguir visualizar um log de testes detalhado como o m
 As mudanças sugeridas pelo usuário serão adicionadas ao storyboard, a alteração será realizada pelo entrevistador conforme o cronograma presente na tabela 2 a seguir:
 
 <center>
-
 <figure markdown>
 <font size="3"><b>Tabela 2</b> - Correção do Storyboard.</font>
 
 | Entrevistador | Data | Alteração |
 | :----------------: | :-------------: | :---------------: | 
-|  [João Artur](https://github.com/joao-artl)  |   04/06/2024   | Alterar informações sobre o log de testes |
+| [João Artur](https://github.com/joao-artl) | 04/06/2024 | Alterar informações sobre o log de testes |
 
 <font size="3">Fonte: [João Artur](https://github.com/joao-artl).</font>
-
 </center>
 
 ### <a>Gravação da Entevista</a>
-
 
 <center><iframe width="853" height="480" src="https://www.youtube.com/embed/xeOTy8jUfmA?si=fpyTfEsLIlOfiFge" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></center>
 
@@ -96,9 +94,7 @@ O usuário relatou que o storyboard está de acordo com o conhecido sobre a tare
 
 Não houve sugestão de mudança pois ficou bem explicativo a tarefa e de acordo com o que é informado sobre a tarefa
 
-
 ### <a>Gravação da Entevista</a>
-
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/dEShJ1aPeG8?si=Y-0k6NzRgk1ICobF" title="Relato Criação de Contest Storyboard" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -108,20 +104,16 @@ Não houve sugestão de mudança pois ficou bem explicativo a tarefa e de acordo
 ### <a>Objetivos e Escopo da Avaliação</a>
 A avaliação teve como objetivo validar se o storyboard de [Tuturoial de Resolução de Questões Pós-Contest](https://interacao-humano-computador.github.io/2024.1-CD-MOJ/design-avaliacao-desenvolvimento/nivel1/storyboard/storyboards/#tarefa-2-tutorial-de-resolucao-de-questoes-pos-contest) que é uma tarefa ainda não implementada no CD-MOJ, está de acordo com um fluxo padrão de atividades da plataforma, além de identificar áreas de melhoria para que esta funcionalidade, quando implementada, possa fornecer com êxito todas as expectativas do usuário em relação a funcionalidade.
 
-
-
 ### <a>Método de Avaliação Empregado</a>
 O método de avaliação foi uma combinação de observação e entrevistas com o usuário, conforme o framework DECIDE<a id="anchor_2" href="#REF2">^2^</a>. Nela foi pedido que o usuário verificasse o fluxo apresentado pelo storyboard e após isso ele foi perguntado sobre algumas questões. A tabela 4 apresenta as informações sobre a entrevista:
 
 <font size="3"><p style="text-align: center"><b>Tabela 4</b> - Cronograma da Entrevista</p></font>
 
-| Entrevistador(es) | Entrevistado(s) | Horário | Duração  | Data    |    Local     |
+| Entrevistador(es) | Entrevistado(s) | Horário | Duração  | Data | Local |
 | :----------------: | :-------------: | :---------------: | :------------: | :--------: | :----------: |
-|  [Arthur Alves](https://github.com/arthrok)  |   Danilo    |  13:00 | 15 minutos | 29/05/2023 | FGA - Contâiner ITRAC |
-
+| [Arthur Alves](https://github.com/arthrok)  | Danilo | 13:00 | 15 minutos | 29/05/2023 | FGA - Contâiner ITRAC |
 
 <font size="3"><p style="text-align: center"><b>Fonte:</b> [Arthur Alves](https://github.com/arthrok)</p></font>
-
 
 ### <a>Número e Perfil dos Usuários e Avaliadores</a>
 A entrevista foi feita com um usuário. O participante se encaixa no [perfil de usuário](https://interacao-humano-computador.github.io/2024.1-CD-MOJ/analise-de-requisitos/perfildeUsuario/), ele é um usuário de 21 anos, cursando ensino superior em Engenharia de Software e usa frequentemente o CD-MOJ.
@@ -129,9 +121,7 @@ A entrevista foi feita com um usuário. O participante se encaixa no [perfil de 
 ### <a>Sumário dos Dados Coletados</a>
 Durante a entrevista foram coletados dados sobre, a interação do usuário com o sistema, feedbacks sobre o storyboard e as respostas das perguntas presentes no [planejamento da avaliação](https://interacao-humano-computador.github.io/2024.1-CD-MOJ/design-avaliacao-desenvolvimento/nivel1/storyboard/planejamentoAvaliacao/). Confira na tabela 5 os dados coletados durante a entrevista:
 
-
 <font size="3"><p style="text-align: center"><b>Tabela 5</b> - Respostas da entrevista</p></font>
-
 
 | Número | Pergunta                                                                                           | Resposta                                                                                                                                     | Objetivo                  |
 |--------|---------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------|---------------------------|
@@ -155,7 +145,6 @@ Durante a entrevista foram coletados dados sobre, a interação do usuário com 
 
 <font size="3"><p style="text-align: center"><b>Fonte:</b> [Arthur Alves](https://github.com/arthrok)</p></font>
 
-
 ### <a>Análise dos Dados Coletados</a>
 Com base nas respostas obtidas durante a entrevista, foi possível avaliar a eficácia do storyboard e identificar áreas de melhoria que são relevantes para a experiência do usuário.
 De maneira geral, a representação dos usuários no storyboard foi considerada autêntica e alinhada com os verdadeiros usuários do sistema, o que demonstra a eficácia em refletir as situações reais. Não foram identificadas discrepâncias significativas.
@@ -163,10 +152,6 @@ De maneira geral, a representação dos usuários no storyboard foi considerada 
 As tarefas representadas nos storyboards estão de acordo com as atividades reais dos usuários, indicando que o storyboard é relevante e aplicável para orientação e treinamento. As informações foram apresentadas de maneira clara e direta, facilitando a compreensão dos usuários. Os processos e sequências de ações são detalhados o suficiente, e os elementos visuais e gráficos foram considerados eficazes em ajudar na compreensão das informações. Todas as informações foram vistas como relevantes para a compreensão do cenário, o que significa que o storyboard está bem focado e livre de informações desnecessárias.
 
 O storyboard foi persuasivo em transmitir a importância e urgência das informações, e as situações apresentadas foram consideradas relevantes para os usuários. A curiosidade despertada sobre a implementação das funcionalidades indica um bom engajamento do entrevistado.
-
-
-
-
 
 ### <a>Sugestões de Melhoria</a>
 A usuário sugeriu algumas ideias para incluir no CD-MOJ, embora não faça parte do cenário proposto:
@@ -213,11 +198,10 @@ Para ele não ressaltou nenhum problema além da poluição de informações na 
 
 Nenhuma mudança requerida pelo participante, para ele está condizente tanto a parte textual quanto o storyboard em si.
 
-</center>
-
 ### <a>Gravação da Entevista</a>
 
 <center><iframe width="853" height="480" src="https://www.youtube.com/embed/jyLzI_2XEDs?si=Bmwc5w8nww4PzBhy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> </center>
+
 
 ## <a>Relato - Criação de Ranking de Contest</a>
 
@@ -310,22 +294,21 @@ Para o entrevistado, dá para entender o objetivo e o fluxo do storyboard e da i
 <iframe width="853" height="480" src="https://www.youtube.com/embed/1hBg0JAQ6vs?si=hDoUoN4sMzEKhjyh" title="Relato Storyboard - Criação de Problema - Grupo 1 IHC" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </center>
 
+
 ## <a>Referências Bibliográficas</a>
 
 > <a id="REF1" href="#anchor_1">1.</a> Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) *Interação Humano-Computador e Experiência do usuário.* Capítulo 11 Planejamento da Avaliação de IHC, tópico 11.7.5 Consolidação e Relato dos Resultados, página 279 . Autopublicação. ISBN: 978-65-00-19677-1.
 
 > <a id="REF2" href="#anchor_2">2.</a> Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) *Interação Humano-Computador e Experiência do usuário.* Capítulo 11 Planejamento da Avaliação de IHC, tópico 11.8 O Framework DECIDE, página 279 e 280. Autopublicação. ISBN: 978-65-00-19677-1.
 
+
 ## <a>Histórico de Versão</a>
 
 | Versão | Data | Data Prevista de Revisão | Descrição  | Autor(es)  | Revisor(es) |
 | ------- | ------ | ------ | ------- | -------- | -------- |
-| `1.0` | 31/05/2024 | 02/06/2024 | Criação do documento e relato da verificação de submissões| [João Artur](https://github.com/joao-artl)|[Eric Silveira](https://github.com/ericbky)|
-| `1.1` | 02/06/2024 | 03/06/2024 | Relato da Criação de Contest| [Douglas Marinho](https://github.com/M4RINH0)|[Eric Silveira](https://github.com/ericbky)|
-| `1.2` | 03/06/2024 | 03/06/2024 | Relato da Submissão de Problemas| [Eric Silveira](https://github.com/ericbky)|[Arthur Alves](https://github.com/Arthrok)|
-| `1.3` | 03/06/2024 | 03/06/2024 | Relato do Ranking de Contest | [Diego Sousa](https://github.com/DiegoSousaLeite)|[João Artur](https://github.com/joao-artl)|
-<<<<<<< HEAD
-| `1.4` | 03/06/2024 | 03/06/2024 | Relato da Submissão de Problemas| [Eric Silveira](https://github.com/ericbky)|[Arthur](https://github.com/Arthrok)|
+| `1.0` | 31/05/2024 | 02/06/2024 | Criação do documento e relato da verificação de submissões| [João Artur](https://github.com/joao-artl) | [Eric Silveira](https://github.com/ericbky) |
+| `1.1` | 02/06/2024 | 03/06/2024 | Relato da Criação de Contest| [Douglas Marinho](https://github.com/M4RINH0) | [Eric Silveira](https://github.com/ericbky) |
+| `1.2` | 03/06/2024 | 03/06/2024 | Relato da Submissão de Problemas| [Eric Silveira](https://github.com/ericbky) | [Arthur Alves](https://github.com/Arthrok) |
+| `1.3` | 03/06/2024 | 03/06/2024 | Relato do Ranking de Contest | [Diego Sousa](https://github.com/DiegoSousaLeite) | [João Artur](https://github.com/joao-artl) |
+| `1.4` | 03/06/2024 | 03/06/2024 | Relato da Submissão de Problemas| [Eric Silveira](https://github.com/ericbky) | [Arthur](https://github.com/Arthrok) |
 | `1.5` | 04/06/2024 | 04/06/2024 | Relato da Criação de Problema e correção das tabelas | [Luiz Gustavo](https://gith3ub.com/LuizGust4vo) | [Eric Silveira](https://github.com/ericbky) |
-=======
->>>>>>> 92e6b0e (Sei lá)
