@@ -28,7 +28,14 @@ A Tabela 2 a seguir apresenta a verificação do artefato planejamento da avalia
 
 | **ID**  | **Descrição** | **Avaliação** | **Observações** | **Explicação e Referência** |
 | --- | ------------- | :-------: | :---------: | :--------: |
-| 1 |  | - | - | <a id="anchor_x" href="#REFx">^x^</a> |
+| **ID**  | **Descrição** | **Avaliação** | **Observações** | **Explicação e Referência** |
+| --- | ------------- | :-------: | :---------: | :--------: |
+| 1 | Os objetivos da avaliação estão bem definidos? | - | - | Segundo o livro *Interação Humano-Computador e Experiência do Usuário*: "A questão fundamental de uma avaliação de IHC é definir quais são os objetivos da avaliação, a quem eles interessam e por quê. Os objetivos de uma avaliação determinam quais aspectos relacionados ao uso do sistema devem ser investigados."<a id="anchor_1" href="#REF1">^1^</a> |
+| 2 | Os objetivos da avaliação estão alinhados com os interesses dos stakeholders? | - | - | Segundo o livro *Interação Humano-Computador e Experiência do Usuário*: "O avaliador deve estar atento para definir os objetivos de uma avaliação de IHC de acordo com os interesses dos stakeholders. A decisão sobre o que avaliar orienta o avaliador no planejamento, na execução e na apresentação dos resultados da avaliação de IHC."<a id="anchor_1" href="#REF1">^1^</a> |
+| 3 | O artefato possui a metodologia que será utilizada para identificação de problemas na interação e na interface? | - | - | Segundo o livro *Interação Humano-Computador e Experiência do Usuário*: "Problemas na interação e na interface são os aspectos mais avaliados na área de IHC. Na avaliação desses aspectos, o avaliador pode contar ou não com a participação dos usuários para coletar dados relacionados ao uso de sistemas interativos."<a id="anchor_2" href="#REF2">^2^</a> |
+| 4 | Há um plano detalhado para o registro de dados durante a avaliação? | - | - | Segundo o livro *Interação Humano-Computador e Experiência do Usuário*: "Através do registro dos dados observados, esses métodos permitem identificar problemas reais que os usuários enfrentaram durante sua experiência de uso do sistema sendo avaliado."<a id="anchor_3" href="#REF3">^3^</a> |
+| 5 | Está identificado em que momento no processo de desenvolvimento a avaliação será realizada? | - | - | Segundo o livro *Interação Humano-Computador e Experiência do Usuário*: "No planejamento da avaliação, o avaliador deve identificar em que momento no processo de desenvolvimento a avaliação será realizada."<a id="anchor_4" href="#REF4">^4^</a> |
+| 6 | Os métodos de avaliação estão claramente descritos? | - | - | Segundo o livro *Interação Humano-Computador e Experiência do Usuário*: "Os métodos de avaliação de IHC podem ser aplicados em diferentes momentos do processo de desenvolvimento, dependendo dos dados disponíveis sobre a solução de IHC sendo concebida."<a id="anchor_4" href="#REF4">^4^</a> |
 
 <font size="3"><p style="text-align: center"><b>Fonte: </b> [Luiz Gustavo](https://github.com/LuizGust4vo).</p></font>
 </center>
@@ -36,6 +43,13 @@ A Tabela 2 a seguir apresenta a verificação do artefato planejamento da avalia
 
 ## <a>Referência Bibliografica</a>
 
+> <a id="REF1" href="#anchor_1">1. </a> Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) *Interação Humano-Computador e Experiência do usuário.* Capítulo 11. Planejamento da Avaliação de IHC, tópico 11.2. O que Avaliar?, página 264. Autopublicação. ISBN: 978-65-00-19677-1.
+
+> <a id="REF2" href="#anchor_2">2. </a> Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) *Interação Humano-Computador e Experiência do usuário.* Capítulo 11. Planejamento da Avaliação de IHC, tópico 11.2. O que Avaliar?, página 265. Autopublicação. ISBN: 978-65-00-19677-1.
+
+> <a id="REF3" href="#anchor_3">3. </a> Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) *Interação Humano-Computador e Experiência do usuário.* Capítulo 11. Planejamento da Avaliação de IHC, tópico 11.6. Qual Tipo de Método de Avaliação Escolher?, página 272. Autopublicação. ISBN: 978-65-00-19677-1.
+
+> <a id="REF4" href="#anchor_4">4. </a> Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) *Interação Humano-Computador e Experiência do usuário.* Capítulo 11. Planejamento da Avaliação de IHC, tópico 11.3. Quando Avaliar o Uso de um Sistema?, página 267. Autopublicação. ISBN: 978-65-00-19677-1.
 
 
 ## <a>Bibliografia</a>
