@@ -24,8 +24,10 @@ O responsável pelo planejamento da verificação da entrega 02 será dos integr
 |Entrega 02|Aspectos Éticos de Pesquisas Envolvendo Pessoas|`--`|Larissa Stéfane|[Diego Sousa](https://github.com/DiegoSousaLeite) e [João Artur](https://github.com/joao-artl)|
 |Entrega 02|Perfil de Usuário|`1.0`|Larissa Stéfane|[Diego Sousa](https://github.com/DiegoSousaLeite) e [João Artur](https://github.com/joao-artl)|
 |Entrega 02|Personas|`1.0`|Larissa Stéfane|[Diego Sousa](https://github.com/DiegoSousaLeite) e [João Artur](https://github.com/joao-artl)|
+|Entrega 02|Análise de Tarefas|`1.0`|Luana Medeiros	|[Arthur Alves](https://github.com/arthrok), [Eric Silveira](https://github.com/ericbky), [Diego Sousa](https://github.com/DiegoSousaLeite), [Douglas Marinho](https://github.com/M4RINH0), [João Artur](https://github.com/joao-artl) e [Luiz Gustavo](https://github.com/LuizGust4vo)|
 
 </center>
+
 
 <font size="3"><p style="text-align: center"><b>Fonte: </b> [Eric Silveira](https://github.com/ericbky).</p></font>
 
@@ -34,6 +36,7 @@ Os resultados obtidos após as verificações serão exibidos na respectiva guia
 - <a href="https://interacao-humano-computador.github.io/2024.1-CD-MOJ/verificacao/etapa2/perfil-usuario/">Perfil de Usuário</a>
 - <a href="https://interacao-humano-computador.github.io/2024.1-CD-MOJ/verificacao/etapa2/aspectosEticos/">Aspectos Éticos de Pesquisas Envolvendo Pessoas</a>
 - <a href="https://interacao-humano-computador.github.io/2024.1-CD-MOJ/verificacao/etapa2/personas/">Personas</a>
+- <a href="https://interacao-humano-computador.github.io/2024.1-CD-MOJ/verificacao/etapa2/analise-tarefa/">Análise de Tarefas</a>
 
 ## <a>Checklists</a>
 

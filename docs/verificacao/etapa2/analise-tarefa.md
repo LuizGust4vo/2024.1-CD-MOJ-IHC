@@ -13,7 +13,7 @@ A Tabela 1 a seguir detalha as características referentes à execução da veri
 
 |**Entrega referente**|**Nome do Artefato**|**Versão do artefato**|**Responsável pelo Desenvolvimento do Artefato**|**Responsável pela Verificação do Artefato**|**Data da Verificação**|
 |---------|---------|---------|-----------|------------------|------|
-|Entrega 02|Análise de Tarefas|`x.x`|any|[Arthur Alves](https://github.com/arthrok), [Douglas Marinho](https://github.com/M4RINH0), resto| 12/06/2024 |
+|Entrega 02|Análise de Tarefas|`1.0`|Luana Medeiros	|[Arthur Alves](https://github.com/arthrok), [Eric Silveira](https://github.com/ericbky), [Diego Sousa](https://github.com/DiegoSousaLeite), [Douglas Marinho](https://github.com/M4RINH0), [João Artur](https://github.com/joao-artl) e [Luiz Gustavo](https://github.com/LuizGust4vo)| 12/06/2024 |
 
 <font size="3"><p style="text-align: center"><b>Fonte: </b> [Arthur Alves](https://github.com/arthrok).</p></font>
 
