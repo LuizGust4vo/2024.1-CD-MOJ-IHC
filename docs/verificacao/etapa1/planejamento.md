@@ -168,7 +168,7 @@ A tabela 6 a seguir demonstra o checklist referente as verificações desse arte
 
 > <a>2. </a>SERRANO, Milene. SERRANO, Maurício. Apresentação: Requisitos - Aula 23.
 
-> <a>3.</a> Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) *Interação Humano-Computador e Experiência do usuário Autopublicação. ISBN: 978-65-00-19677-1.
+> <a>3.</a> Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) *Interação Humano-Computador e Experiência do usuário Autopublicação.* ISBN: 978-65-00-19677-1.
 
 
 ## <a>Histórico de Versão</a>
