@@ -45,6 +45,10 @@ A Tabela 2 a seguir apresenta a verificação do artefato <a href="https://inter
 <font size="3"><p style="text-align: center"><b>Fonte: </b> [Arthur Alves](https://github.com/arthrok) e [Douglas Marinho](https://github.com/M4RINH0).</p></font>
 </center>
 
+## <a>Vídeo da Verificação</a>
+<iframe width="1280" height="720" src="https://www.youtube.com/embed/RhT0i4GCm8U" title="verificação princípios gerais" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
 ## <a>Referência Bibliografica</a>
 
 > <a id="REF1" href="#anchor_1">1.</a> Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) *Interação Humano-Computador e Experiência do usuário.* Capítulo 10. Princípios e Diretrizes para o Design de IHC, tópico 10.2 Princípios e Diretrizes Gerais, página 238. Autopublicação. ISBN: 978-65-00-19677-1.

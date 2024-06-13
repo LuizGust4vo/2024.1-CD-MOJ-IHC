@@ -5,7 +5,7 @@
 O propósito desta página é hospedar o vídeo da apresentação da Entrega 6.1. Caso não seja viável assistir ao vídeo diretamente nesta página, por favor, clique no link fornecido para acessá-lo.
 
 ## <a>Vídeo de Apresentação</a>
-
+<iframe width="1280" height="720" src="https://www.youtube.com/embed/esfXxn_PBng" title="Apresentação da 6ª Entrega - Grupo 01 (CDMOJ) - Interação Humano-Computador" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## <a>Bibliografia</a>
 

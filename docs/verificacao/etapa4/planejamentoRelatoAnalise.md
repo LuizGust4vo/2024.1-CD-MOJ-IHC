@@ -45,6 +45,11 @@ A Tabela 2 a seguir apresenta a verificação do artefato <a href="https://inter
 
 <font size="3"><p style="text-align: center">Fonte: [Arthur Alves](https://github.com/arthrok) e [Douglas Marinho](https://github.com/M4RINH0).</p></font>
 
+## Vídeo da Verificação
+
+<iframe width="1280" height="720" src="https://www.youtube.com/embed/bxYjS7SiHsg" title="verificação planejamento do relato de análise de tarefas" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
 ## <a>Referência Bibliografica</a>
 > <a id="REF1" href="#anchor_1">1. </a>Gerência e Qualidade de Software - Aula 05 - Verificação e Validação. UNIVESP. Disponível em: <https://www.youtube.com/watch?v=1Y-1zz6rZxo&t=205s>. Acesso em: 06 de junho de 2024 às 12:00.
 
