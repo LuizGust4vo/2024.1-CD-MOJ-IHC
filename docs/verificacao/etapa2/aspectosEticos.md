@@ -43,7 +43,7 @@ A Tabela 2 a seguir apresenta a verificação do artefato <a href="https://inter
 
 ## <a>Vídeo da Verificação</a>
 
-Como não há artefato, não fizemos a gravação da verificação do mesmo.
+<iframe width="853" height="480" src="https://www.youtube.com/embed/2M-SuAslLnY" title="Verificação Grupo 2 - Aspectos Éticos" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
 ## <a>Referência Bibliografica</a>
