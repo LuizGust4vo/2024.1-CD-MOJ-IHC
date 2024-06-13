@@ -37,8 +37,8 @@ A Tabela 2 a seguir apresenta a verificação do artefato <a href="https://inter
 | 5   | O planejamento fornece instruções sobre as sugestões de melhorias?<a id="anchor_10" href="#REF10">^10^</a>                    |     Sim     |      -      |
 | 6   | O planejamento inclui uma seção para feedback dos usuários?<a id="anchor_10" href="#REF10">^10^</a>                              |     Sim     |      -      |
 | 7   | O planejamento identifica um tópico para resumir os principais resultados?<a id="anchor_10" href="#REF10">^10^</a>                         |     Sim     |      -      |
-| 8  | O planejamento esclarece que os resultados devem remeter às questões que motivaram o estudo?<a id="anchor_10" href="#REF10">^10^</a> |     Sim     |      -      |
-| 9  | O planejamento contempla um plano para o reprojeto do sistema, se necessário?<a id="anchor_10" href="#REF10">^10^</a>            |     Não     |      -      |
+| 8  | O planejamento esclarece que os resultados devem remeter às questões que motivaram o estudo?<a id="anchor_10" href="#REF10">^10^</a> |     Não     |      -      |
+| 9  | O planejamento contempla um plano para o reprojeto do sistema, se necessário?<a id="anchor_10" href="#REF10">^10^</a>            |     Sim     |      -      |
 
 
 </center>
