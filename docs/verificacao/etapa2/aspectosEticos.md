@@ -28,14 +28,14 @@ A Tabela 2 a seguir apresenta a verificação do artefato <a href="https://inter
 
 |**ID**|**Descrição**|**Avaliação**|**Observações**|**Explicação e Referência**|
 |------|-------------|-------------|---------------|-------------|
-|1|O termo de consentimento especifica o objetivo do estudo?|||Segundo o livro *Interação Humano-Computador e Experiência do Usuário*: "O pesquisador deve explicar os objetivos da pesquisa aos participantes e dizer exatamente como deverá ser a participação deles."<a id="anchor_4" href="#REF4">^4^</a>|
-|2|O termo de consentimento especifica a duração estimada da pesquisa?|||Segundo o livro *Interação Humano-Computador e Experiência do Usuário*: "Deve deixar claro o que vai ocorrer durante a coleta de dados, o tempo aproximado da coleta."<a id="anchor_4" href="#REF4">^4^</a>|
-|3|O termo de consentimento especifica os procedimentos de coleta de dados?|||Segundo o livro *Interação Humano-Computador e Experiência do Usuário*: "Deve deixar claro o que vai ocorrer durante a coleta de dados, os tipos de dados que serão coletados."<a id="anchor_4" href="#REF4">^4^</a>|
-|4|O termo de consentimento especifica o uso que será feito da informação coletada?|||Segundo o livro *Interação Humano-Computador e Experiência do Usuário*: "Qualquer dúvida do participante sobre a pesquisa deve ser esclarecida prontamente pelo avaliador."<a id="anchor_4" href="#REF4">^4^</a>|
-|5|O termo de consentimento especifica os direitos do entrevistado enquanto participante do estudo?|||Segundo o livro *Interação Humano-Computador e Experiência do Usuário*: "O pesquisador deve garantir aos participantes a confidencialidade e a privacidade dos dados brutos coletados."<a id="anchor_4" href="#REF4">^4^</a>|
-|6|O termo de consentimento especifica que os participantes com menos de 18 anos necessitam da autorização do seu responsável legal?|||Segundo o livro *Interação Humano-Computador e Experiência do Usuário*: "Se o participante tiver menos de 18 anos, o termo de consentimento deve ser assinado pelo seu responsável legal."<a id="anchor_4" href="#REF4">^4^</a>|
-|7|O termo de consentimento especifica um campo para a assinatura do responsável pelo estudo?|||Segundo o livro *Interação Humano-Computador e Experiência do Usuário*: "O termo de consentimento também deve ser assinado pelo responsável pelo estudo, atestando sua responsabilidade e comprometimento com as garantias ali asseguradas."<a id="anchor_4" href="#REF4">^4^</a>|
-|8|O artefato especifica com quais indivíduos preferencialmente a pesquisa deve ser desenvolvida?|||Segundo o livro *Interação Humano-Computador e Experiência do Usuário*: "Devemos evitar a participação de sujeitos vulneráveis, tais como: menores de idade, alunos ou subordinados, a menos que este seja explicitamente o perfil dos participantes. Nesses casos, o pesquisador deve tomar um cuidado ainda maior para não causar constrangimentos ou danos aos participantes."<a id="anchor_4" href="#REF4">^4^</a>|
+|1|O termo de consentimento especifica o objetivo do estudo?|Não||Segundo o livro *Interação Humano-Computador e Experiência do Usuário*: "O pesquisador deve explicar os objetivos da pesquisa aos participantes e dizer exatamente como deverá ser a participação deles."<a id="anchor_4" href="#REF4">^4^</a>|
+|2|O termo de consentimento especifica a duração estimada da pesquisa?|Não||Segundo o livro *Interação Humano-Computador e Experiência do Usuário*: "Deve deixar claro o que vai ocorrer durante a coleta de dados, o tempo aproximado da coleta."<a id="anchor_4" href="#REF4">^4^</a>|
+|3|O termo de consentimento especifica os procedimentos de coleta de dados?|Não||Segundo o livro *Interação Humano-Computador e Experiência do Usuário*: "Deve deixar claro o que vai ocorrer durante a coleta de dados, os tipos de dados que serão coletados."<a id="anchor_4" href="#REF4">^4^</a>|
+|4|O termo de consentimento especifica o uso que será feito da informação coletada?|Não||Segundo o livro *Interação Humano-Computador e Experiência do Usuário*: "Qualquer dúvida do participante sobre a pesquisa deve ser esclarecida prontamente pelo avaliador."<a id="anchor_4" href="#REF4">^4^</a>|
+|5|O termo de consentimento especifica os direitos do entrevistado enquanto participante do estudo?|Não||Segundo o livro *Interação Humano-Computador e Experiência do Usuário*: "O pesquisador deve garantir aos participantes a confidencialidade e a privacidade dos dados brutos coletados."<a id="anchor_4" href="#REF4">^4^</a>|
+|6|O termo de consentimento especifica que os participantes com menos de 18 anos necessitam da autorização do seu responsável legal?|Não||Segundo o livro *Interação Humano-Computador e Experiência do Usuário*: "Se o participante tiver menos de 18 anos, o termo de consentimento deve ser assinado pelo seu responsável legal."<a id="anchor_4" href="#REF4">^4^</a>|
+|7|O termo de consentimento especifica um campo para a assinatura do responsável pelo estudo?|Não||Segundo o livro *Interação Humano-Computador e Experiência do Usuário*: "O termo de consentimento também deve ser assinado pelo responsável pelo estudo, atestando sua responsabilidade e comprometimento com as garantias ali asseguradas."<a id="anchor_4" href="#REF4">^4^</a>|
+|8|O artefato especifica com quais indivíduos preferencialmente a pesquisa deve ser desenvolvida?|Não||Segundo o livro *Interação Humano-Computador e Experiência do Usuário*: "Devemos evitar a participação de sujeitos vulneráveis, tais como: menores de idade, alunos ou subordinados, a menos que este seja explicitamente o perfil dos participantes. Nesses casos, o pesquisador deve tomar um cuidado ainda maior para não causar constrangimentos ou danos aos participantes."<a id="anchor_4" href="#REF4">^4^</a>|
 
 <font size="3"><p style="text-align: center"><b>Fonte: </b> [Eric Silveira](https://github.com/ericbky).</p></font>
 </center>
@@ -43,7 +43,7 @@ A Tabela 2 a seguir apresenta a verificação do artefato <a href="https://inter
 
 ## <a>Vídeo da Verificação</a>
 
-video 
+Como não há artefato, não fizemos a gravação da verificação do mesmo.
 
 
 ## <a>Referência Bibliografica</a>
