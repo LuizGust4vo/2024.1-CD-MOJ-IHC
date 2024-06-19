@@ -73,6 +73,11 @@ As mudanças sugeridas pelo usuário serão adicionadas ao Protótipo de Papel, 
 
 
 
+
+
+
+
+
 ## <a>Relato - Tutorial de Resolução de Questões Pós-Contest</a>
 
 ### <a>Objetivos e Escopo da Avaliação</a>
@@ -220,11 +225,85 @@ O usuário não relatou problemas, afirmou que o uso é satisfatório.
 
 Não houve mudanças sugeridas pelo entrevistado.
 
+
+
+
 ### Gravação para o Reprojeto do Sistema
 
 <center>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/7jzpgGZMPpo?si=6l9K6OJcqTJdJPKq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </center>
+
+
+
+
+
+
+## <a>Relato - Criação de Contest</a>
+
+### <a>Objetivos e Escopo da Avaliação</a>
+
+A avaliação teve como objetivo validar se o Protótipo de Papel Criação de Contest está de acordo com o fluxo de atividades do CD-MOJ e identificar áreas de melhoria para fornecer um suporte mais eficaz aos usuários.
+
+### <a>Método de Avaliação Empregado</a>
+O método de avaliação foi uma combinação de observação e entrevistas com o usuário, conforme o framework DECIDE<a id="anchor_2" href="#REF2">^2^</a>. Nela foi pedido que o usuário verificasse o fluxo apresentado pelo Protótipo de Papel e após isso ele foi perguntado sobre algumas questões. A tabela N apresenta as informações sobre a entrevista e as imagens X, Y e Z apresentam os Protótipos de Papel:
+
+<font size="3"><p style="text-align: center"><b>Tabela N</b> - Cronograma da Entrevista</p></font>
+
+| Entrevistador(es) | Entrevistado(s) | Horário | Duração  | Data | Local |
+| :----------------: | :-------------: | :---------------: | :------------: | :--------: | :----------: |
+| [Douglas Marinho](https://github.com/M4RINH0)| Felipe Motta | 09:50 | 5 minutos | 19/06/2023 | ITRAC (Contâiner) - FGA |
+
+<font size="3"><p style="text-align: center"><b>Fonte:</b> [Douglas Marinho](https://github.com/M4RINH0)</p></font>
+
+
+<font size="3"><p style="text-align: center"><b>Imagem X</b> - Formulário em site</p></font>
+
+![imagem](./assets/d1.png){width: 250px}
+
+<font size="3"><p style="text-align: center"><b>Fonte:</b> [Douglas Marinho](https://github.com/M4RINH0)</p></font>
+
+<font size="3"><p style="text-align: center"><b>Imagem X</b> - PopUps abertos</p></font>
+
+![imagem](./assets/d2.png){width: 250px}
+
+<font size="3"><p style="text-align: center"><b>Fonte:</b> [Douglas Marinho](https://github.com/M4RINH0)</p></font>
+
+<font size="3"><p style="text-align: center"><b>Imagem X</b> - Template para .txt</p></font>
+
+![imagem](./assets/d3.png){width: 250px}
+
+<font size="3"><p style="text-align: center"><b>Fonte:</b> [Douglas Marinho](https://github.com/M4RINH0)</p></font>
+
+
+
+### <a>Número e Perfil dos Usuários e Avaliadores</a>
+
+O participante se encaixa no [perfil de usuário](https://interacao-humano-computador.github.io/2024.1-CD-MOJ/analise-de-requisitos/perfildeUsuario/), ele é um usuário de entre de 21 anos, estudante de ensino superior (cursa Engenharia de Software) e usuário frequente do CD-MOJ.
+
+### <a>Sumário dos Dados Coletados</a>
+
+Durante a entrevista foram coletados dados sobre, a interação do usuário com o sistema, feedbacks sobre o Protótipo de Papel e as respostas das perguntas presentes no [planejamento da avaliação](https://interacao-humano-computador.github.io/2024.1-CD-MOJ/design-avaliacao-desenvolvimento/nivel2/prototipoPapel/planejamentoAvaliacao/#roteiro-de-perguntas).
+
+### <a>Interpretação e Análise dos Dados</a>
+
+A partir da entrevista realizada e da observação do usuário, pode-se concluir que os Protótipos de Papel das tarefas de **Criação de Contest** está em conformidade com a realidade e atende às necessidades dos usuários do CD-MOJ. O Usuário sugeriu que todas as informações no site fossem disponibilizadas em português, atualmente o inglês predomina no site.
+
+### <a>Lista dos Problemas Encontrados</a>
+O usuário não relatou problemas.
+
+### <a>Planejamento para o Reprojeto do Sistema</a>
+
+Não houve mudanças sugeridas pelo entrevistado.
+
+
+### <a>Gravação da Entevista</a>
+
+<center>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3rk_C3nB-Jo" title="Avaliação do protótipo de papel (Criação de Contest) IHC - Grupo 01" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</center>
+
+
 
 ## <a>Referências Bibliográficas</a>
 
