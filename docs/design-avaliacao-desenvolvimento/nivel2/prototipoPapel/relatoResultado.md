@@ -14,6 +14,7 @@ A avaliação teve como objetivo validar se o Protótipo de Papel Verificação 
 O método de avaliação foi uma combinação de observação e entrevistas com o usuário, conforme o framework DECIDE<a id="anchor_2" href="#REF2">^2^</a>. Nela foi pedido que o usuário verificasse o fluxo apresentado pelo Protótipo de Papel e após isso ele foi perguntado sobre algumas questões. A tabela 1 apresenta as informações sobre a entrevista e as imagens 1 e 2 apresentam os Protótipos de Papel:
 
 <center>
+
 <font size="3"><p style="text-align: center"><b>Tabela 1</b> - Cronograma da Entrevista</p></font>
 
 | Entrevistador(es) | Entrevistado(s) | Horário | Duração  | Data | Local |
@@ -24,13 +25,13 @@ O método de avaliação foi uma combinação de observação e entrevistas com 
 
 <font size="3"><p style="text-align: center"><b>Imagem 1</b> - Protótipo de Papel Verificação de Submissão</p></font>
 
-![Imagem prototipo Verificação](./assets/prototipoVerificacao.jpeg){width: 300}
+<img src="./assets/prototipoVerificacao.jpeg" alt="Imagem prototipo Verificação de submissão" style="width: 250px;"/>
 
 <font size="3"><p style="text-align: center"><b>Fonte:</b> [João Artur](https://github.com/joao-artl)</p></font>
 
 <font size="3"><p style="text-align: center"><b>Imagem 2</b> - Protótipo de Papel Ranking de Contest</p></font>
 
-![Imagem prototipo Ranking](){width: 300}
+<img src="" alt="Imagem prototipo ranking de contest" style="width: 250px;"/>
 
 <font size="3"><p style="text-align: center"><b>Fonte:</b>[Diego Sousa](https://github.com/DiegoSousaLeite)</p></font>
 
