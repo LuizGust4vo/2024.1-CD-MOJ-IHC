@@ -149,6 +149,83 @@ Não houve mudanças sugeridas pelo entrevistado.
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## <a>Relato - Submissão de Problemas</a>
+
+### <a>Objetivos e Escopo da Avaliação</a>
+
+A avaliação teve como objetivo validar se o Protótipo de papel relacionado a tarefa de Submissão de Problemas está de acordo com o fluxo de atividades do CD-MOJ e identificar áreas de melhoria para fornecer um suporte mais eficaz aos usuários.
+
+### <a>Método de Avaliação Empregado</a>
+O método de avaliação foi uma combinação de observação e entrevistas com o usuário, conforme o framework DECIDE<a id="anchor_2" href="#REF2">^2^</a>. Nela foi pedido que o usuário verificasse o fluxo apresentado pelo Protótipo de Papel e após isso ele foi perguntado sobre algumas questões. A tabela 3 apresenta as informações sobre a entrevista e as imagens 3, 4, 5 e 6 apresentam os Protótipos de Papel:
+
+<font size="3"><p style="text-align: center"><b>Tabela 3</b> - Cronograma da Entrevista</p></font>
+
+| Entrevistador(es) | Entrevistado(s) | Horário | Duração  | Data | Local |
+| :----------------: | :-------------: | :---------------: | :------------: | :--------: | :----------: |
+| [Eric Silveira](https://github.com/ericbky)| William Bernardo | 16:20 | 5 minutos | 19/06/2023 | ITRAC (LDTEA) - FGA |
+
+<font size="3"><p style="text-align: center"><b>Fonte:</b> [Eric Silveira](https://github.com/ericbky)</p></font>
+
+
+### <a>Número e Perfil dos Usuários e Avaliadores</a>
+
+O participante se encaixa no [perfil de usuário](https://interacao-humano-computador.github.io/2024.1-CD-MOJ/analise-de-requisitos/perfildeUsuario/), ele é um usuário de 21 anos, estudante de ensino superior (cursa Engenharia de Software) e usuário frequente do CD-MOJ.
+
+### <a>Sumário dos Dados Coletados</a>
+
+Durante a entrevista foram coletados dados sobre, a interação do usuário com o sistema, feedbacks sobre o Protótipo de Papel e as respostas das perguntas presentes no [planejamento da avaliação](https://interacao-humano-computador.github.io/2024.1-CD-MOJ/design-avaliacao-desenvolvimento/nivel2/prototipoPapel/planejamentoAvaliacao/#roteiro-de-perguntas).
+
+### <a>Interpretação e Análise dos Dados</a>
+
+A partir da entrevista realizada e da observação do usuário, pode-se concluir que os Protótipos de Papel das tarefas de **Submissão de Problemas** está em conformidade com a realidade e atende às necessidades dos usuários do CD-MOJ. O usuário relatou que o protótipo de papel está atendendo as expectativas e é de fácil navegabilidade.
+
+### <a>Lista dos Problemas Encontrados</a>
+O usuário não relatou problemas, afirmou que o uso é satisfatório.
+
+### <a>Planejamento para o Reprojeto do Sistema</a>
+
+Não houve mudanças sugeridas pelo entrevistado.
+
+### Gravação para o Reprojeto do Sistema
+
+<center>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7jzpgGZMPpo?si=6l9K6OJcqTJdJPKq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</center>
+
 ## <a>Referências Bibliográficas</a>
 
 > <a id="REF1" href="#anchor_1">1.</a> Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) *Interação Humano-Computador e Experiência do usuário.* Capítulo 11 Planejamento da Avaliação de IHC, tópico 11.7.5 Consolidação e Relato dos Resultados, página 279 . Autopublicação. ISBN: 978-65-00-19677-1.
