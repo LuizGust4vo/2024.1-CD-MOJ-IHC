@@ -25,13 +25,13 @@ O método de avaliação foi uma combinação de observação e entrevistas com 
 
 <font size="3"><p style="text-align: center"><b>Imagem 1</b> - Protótipo de Papel Verificação de Submissão</p></font>
 
-<img src="./assets/prototipoVerificacao.png" alt="Imagem prototipo Verificação de submissão" style="width: 250px;"/>
+![imagem](./assets/prototipoVerificacao.png){width: 250px}
 
 <font size="3"><p style="text-align: center"><b>Fonte:</b> [João Artur](https://github.com/joao-artl)</p></font>
 
 <font size="3"><p style="text-align: center"><b>Imagem 2</b> - Protótipo de Papel Ranking de Contest</p></font>
 
-<img src="" alt="Imagem prototipo ranking de contest" style="width: 250px;"/>
+![imagem](){width: 250px}
 
 <font size="3"><p style="text-align: center"><b>Fonte:</b>[Diego Sousa](https://github.com/DiegoSousaLeite)</p></font>
 
@@ -47,7 +47,7 @@ Durante a entrevista foram coletados dados sobre, a interação do usuário com 
 
 ### <a>Interpretação e Análise dos Dados</a>
 
-A partir da entrevista realizada e da observação do usuário, pode-se concluir que o Storyboard da tarefa de Verificar Submissões e Ranking de Contest está em conformidade com a realidade e atende às necessidades dos usuários do CD-MOJ. O Usuário sugeriu que todas as informações no site fossem disponibilizadas em português, atualmente o inglês predomina no site.
+A partir da entrevista realizada e da observação do usuário, pode-se concluir que os Protótipos de Papel das tarefas de Verificar Submissões e Ranking de Contest está em conformidade com a realidade e atende às necessidades dos usuários do CD-MOJ. O Usuário sugeriu que todas as informações no site fossem disponibilizadas em português, atualmente o inglês predomina no site.
 
 ### <a>Lista dos Problemas Encontrados</a>
 O usuário não relatou problemas, porém sugeriu que o site possuisse apenas o português como linguagem e não a junção de termos em diferentes línguas, como ocorre atualmente.
