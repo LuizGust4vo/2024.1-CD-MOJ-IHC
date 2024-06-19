@@ -71,6 +71,84 @@ As mudanças sugeridas pelo usuário serão adicionadas ao Protótipo de Papel, 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/YgvQ_9zKFK0?si=6YbVbOJSe82hguH_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+
+
+## <a>Relato - Tutorial de Resolução de Questões Pós-Contest</a>
+
+### <a>Objetivos e Escopo da Avaliação</a>
+
+A avaliação teve como objetivo validar se o Protótipo de Papel Tutorial de Resolução de Questões Pós-Contest está de acordo com o fluxo de atividades do CD-MOJ e identificar áreas de melhoria para fornecer um suporte mais eficaz aos usuários.
+
+### <a>Método de Avaliação Empregado</a>
+O método de avaliação foi uma combinação de observação e entrevistas com o usuário, conforme o framework DECIDE<a id="anchor_2" href="#REF2">^2^</a>. Nela foi pedido que o usuário verificasse o fluxo apresentado pelo Protótipo de Papel e após isso ele foi perguntado sobre algumas questões. A tabela 3 apresenta as informações sobre a entrevista e as imagens 3, 4, 5 e 6 apresentam os Protótipos de Papel:
+
+<font size="3"><p style="text-align: center"><b>Tabela 3</b> - Cronograma da Entrevista</p></font>
+
+| Entrevistador(es) | Entrevistado(s) | Horário | Duração  | Data | Local |
+| :----------------: | :-------------: | :---------------: | :------------: | :--------: | :----------: |
+| [Arthur Alves](https://github.com/arthrok)| Luan Mateus | 16:00 | 5 minutos | 19/06/2023 | ITRAC (LDTEA) - FGA |
+
+<font size="3"><p style="text-align: center"><b>Fonte:</b> [Arthur Alves](https://github.com/arthrok)</p></font>
+
+
+<font size="3"><p style="text-align: center"><b>Imagem 3</b> - Tela inicial do contest</p></font>
+
+![imagem](./assets/a1.png){width: 250px}
+
+<font size="3"><p style="text-align: center"><b>Fonte:</b> [Arthur Alves](https://github.com/arthrok)</p></font>
+
+
+<font size="3"><p style="text-align: center"><b>Imagem 4</b> - Popup de tutorial</p></font>
+
+![imagem](./assets/a2.png){width: 250px}
+
+<font size="3"><p style="text-align: center"><b>Fonte:</b> [Arthur Alves](https://github.com/arthrok)</p></font>
+
+
+<font size="3"><p style="text-align: center"><b>Imagem 5</b> - Selecionar problema</p></font>
+
+![imagem](./assets/a3.png){width: 250px}
+
+<font size="3"><p style="text-align: center"><b>Fonte:</b> [Arthur Alves](https://github.com/arthrok)</p></font>
+
+
+<font size="3"><p style="text-align: center"><b>Imagem 6</b> - Popup com a resolução do problema</p></font>
+
+![imagem](./assets/a4.png){width: 250px}
+
+<font size="3"><p style="text-align: center"><b>Fonte:</b> [Arthur Alves](https://github.com/arthrok)</p></font>
+
+
+
+
+### <a>Número e Perfil dos Usuários e Avaliadores</a>
+
+O participante se encaixa no [perfil de usuário](https://interacao-humano-computador.github.io/2024.1-CD-MOJ/analise-de-requisitos/perfildeUsuario/), ele é um usuário de entre de 21 anos, estudante de ensino superior (cursa Engenharia de Software) e usuário frequente do CD-MOJ.
+
+### <a>Sumário dos Dados Coletados</a>
+
+Durante a entrevista foram coletados dados sobre, a interação do usuário com o sistema, feedbacks sobre o Protótipo de Papel e as respostas das perguntas presentes no [planejamento da avaliação](https://interacao-humano-computador.github.io/2024.1-CD-MOJ/design-avaliacao-desenvolvimento/nivel2/prototipoPapel/planejamentoAvaliacao/#roteiro-de-perguntas).
+
+### <a>Interpretação e Análise dos Dados</a>
+
+A partir da entrevista realizada e da observação do usuário, pode-se concluir que os Protótipos de Papel das tarefas de **Tutorial de Resolução de Questões Pós-Contest** está em conformidade com a realidade e atende às necessidades dos usuários do CD-MOJ. O Usuário sugeriu que todas as informações no site fossem disponibilizadas em português, atualmente o inglês predomina no site.
+
+### <a>Lista dos Problemas Encontrados</a>
+O usuário não relatou problemas.
+
+### <a>Planejamento para o Reprojeto do Sistema</a>
+
+Não houve mudanças sugeridas pelo entrevistado.
+
+
+### <a>Gravação da Entevista</a>
+
+<center>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P3l0chrw9W8" title="entrevista protótipo de papel" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</center>
+
+
+
 ## <a>Referências Bibliográficas</a>
 
 > <a id="REF1" href="#anchor_1">1.</a> Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) *Interação Humano-Computador e Experiência do usuário.* Capítulo 11 Planejamento da Avaliação de IHC, tópico 11.7.5 Consolidação e Relato dos Resultados, página 279 . Autopublicação. ISBN: 978-65-00-19677-1.
