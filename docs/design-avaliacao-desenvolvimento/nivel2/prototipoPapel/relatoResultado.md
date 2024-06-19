@@ -81,4 +81,4 @@ As mudanças sugeridas pelo usuário serão adicionadas ao Protótipo de Papel, 
 
 | Versão | Data | Data Prevista de Revisão | Descrição  | Autor(es)  | Revisor(es) |
 | ------- | ------ | ------ | ------- | -------- | -------- |
-| `1.0` | 31/05/2024 | 02/06/2024 | Criação do documento, introdução e relato do protótipo de papel de verificação de submissões e ranking de Contest| [João Artur](https://github.com/joao-artl) | [Eric Silveira](https://github.com/ericbky) |
+| `1.0` | 19/06/2024 | 19/06/2024 | Criação do documento, introdução e relato do protótipo de papel de verificação de submissões e ranking de Contest| [João Artur](https://github.com/joao-artl) | [Eric Silveira](https://github.com/ericbky) |
