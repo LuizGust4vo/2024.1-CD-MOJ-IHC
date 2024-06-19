@@ -160,3 +160,4 @@ Não houve mudanças sugeridas pelo entrevistado.
 | Versão | Data | Data Prevista de Revisão | Descrição  | Autor(es)  | Revisor(es) |
 | ------- | ------ | ------ | ------- | -------- | -------- |
 | `1.0` | 19/06/2024 | 19/06/2024 | Criação do documento, introdução e relato do protótipo de papel de verificação de submissões e ranking de Contest| [João Artur](https://github.com/joao-artl) | [Eric Silveira](https://github.com/ericbky) |
+| `1.1` | 19/06/2024 | 19/06/2024 | Relato de Tutorial de Resolução de Questões Pós-Contest  | [Arthur Alves](https://github.com/arthrok) | [Eric Silveira](https://github.com/ericbky) |
