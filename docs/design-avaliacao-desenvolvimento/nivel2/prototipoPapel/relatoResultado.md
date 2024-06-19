@@ -25,7 +25,7 @@ O método de avaliação foi uma combinação de observação e entrevistas com 
 
 <font size="3"><p style="text-align: center"><b>Imagem 1</b> - Protótipo de Papel Verificação de Submissão</p></font>
 
-<img src="./assets/prototipoVerificacao.jpeg" alt="Imagem prototipo Verificação de submissão" style="width: 250px;"/>
+<img src="./assets/prototipoVerificacao.png" alt="Imagem prototipo Verificação de submissão" style="width: 250px;"/>
 
 <font size="3"><p style="text-align: center"><b>Fonte:</b> [João Artur](https://github.com/joao-artl)</p></font>
 
