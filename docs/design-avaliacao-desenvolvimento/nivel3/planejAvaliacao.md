@@ -192,7 +192,7 @@ De acordo com nosso planejamento, o teste-piloto será executado conforme as esp
 
 ### <a>Resultados do Teste-piloto</a>
 
-A execução do teste-piloto ocorreu conforme o de planejamento e a tabela 6 descreve sobre a sua execução:
+A execução do teste-piloto ocorreu conforme o de planejamento e a tabela 6 descreve sobre sua execução:
 
 <font size="3"><p style="text-align: center"><b>Tabela 6</b> - Execução da entrevista do teste-piloto</p></font>
 
