@@ -228,7 +228,7 @@ Não houve mudanças sugeridas pelo entrevistado.
 
 
 
-### Gravação para o Reprojeto do Sistema
+### <a>Gravação da Entrevista</a>
 
 <center>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/7jzpgGZMPpo?si=6l9K6OJcqTJdJPKq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -246,9 +246,9 @@ Não houve mudanças sugeridas pelo entrevistado.
 A avaliação teve como objetivo validar se o Protótipo de Papel Criação de Contest está de acordo com o fluxo de atividades do CD-MOJ e identificar áreas de melhoria para fornecer um suporte mais eficaz aos usuários.
 
 ### <a>Método de Avaliação Empregado</a>
-O método de avaliação foi uma combinação de observação e entrevistas com o usuário, conforme o framework DECIDE<a id="anchor_2" href="#REF2">^2^</a>. Nela foi pedido que o usuário verificasse o fluxo apresentado pelo Protótipo de Papel e após isso ele foi perguntado sobre algumas questões. A tabela N apresenta as informações sobre a entrevista e as imagens X, Y e Z apresentam os Protótipos de Papel:
+O método de avaliação foi uma combinação de observação e entrevistas com o usuário, conforme o framework DECIDE<a id="anchor_2" href="#REF2">^2^</a>. Nela foi pedido que o usuário verificasse o fluxo apresentado pelo Protótipo de Papel e após isso ele foi perguntado sobre algumas questões. A tabela 4 apresenta as informações sobre a entrevista e as imagens 7, 8 e 9 apresentam os Protótipos de Papel:
 
-<font size="3"><p style="text-align: center"><b>Tabela N</b> - Cronograma da Entrevista</p></font>
+<font size="3"><p style="text-align: center"><b>Tabela 4</b> - Cronograma da Entrevista</p></font>
 
 | Entrevistador(es) | Entrevistado(s) | Horário | Duração  | Data | Local |
 | :----------------: | :-------------: | :---------------: | :------------: | :--------: | :----------: |
@@ -257,19 +257,19 @@ O método de avaliação foi uma combinação de observação e entrevistas com 
 <font size="3"><p style="text-align: center"><b>Fonte:</b> [Douglas Marinho](https://github.com/M4RINH0)</p></font>
 
 
-<font size="3"><p style="text-align: center"><b>Imagem X</b> - Formulário em site</p></font>
+<font size="3"><p style="text-align: center"><b>Imagem 7</b> - Formulário em site</p></font>
 
 ![imagem](./assets/d1.png){width: 250px}
 
 <font size="3"><p style="text-align: center"><b>Fonte:</b> [Douglas Marinho](https://github.com/M4RINH0)</p></font>
 
-<font size="3"><p style="text-align: center"><b>Imagem X</b> - PopUps abertos</p></font>
+<font size="3"><p style="text-align: center"><b>Imagem 8</b> - PopUps abertos</p></font>
 
 ![imagem](./assets/d2.png){width: 250px}
 
 <font size="3"><p style="text-align: center"><b>Fonte:</b> [Douglas Marinho](https://github.com/M4RINH0)</p></font>
 
-<font size="3"><p style="text-align: center"><b>Imagem X</b> - Template para .txt</p></font>
+<font size="3"><p style="text-align: center"><b>Imagem 9</b> - Template para .txt</p></font>
 
 ![imagem](./assets/d3.png){width: 250px}
 
@@ -317,3 +317,4 @@ Não houve mudanças sugeridas pelo entrevistado.
 | ------- | ------ | ------ | ------- | -------- | -------- |
 | `1.0` | 19/06/2024 | 19/06/2024 | Criação do documento, introdução e relato do protótipo de papel de verificação de submissões e ranking de Contest| [João Artur](https://github.com/joao-artl) | [Eric Silveira](https://github.com/ericbky) |
 | `1.1` | 19/06/2024 | 19/06/2024 | Relato de Tutorial de Resolução de Questões Pós-Contest  | [Arthur Alves](https://github.com/arthrok) | [Eric Silveira](https://github.com/ericbky) |
+| `1.2` | 19/06/2024 | 19/06/2024 | Relato de Criação de Contest  | [Douglas Marinho](https://github.com/M4RINH0) | [Eric Silveira](https://github.com/ericbky) |
