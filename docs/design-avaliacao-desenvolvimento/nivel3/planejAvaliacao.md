@@ -162,7 +162,7 @@ Os entrevistados receberão informações completas sobre os termos da pesquisa 
 <center>
     <figure markdown>
     <font size="3"><p style="text-align: center"><b>Figura 1</b> -  Termo de consentimento para a avaliação.</p></font>
-    ![Meta de usabilidade Aprendizagem](../../../../assets/termo.png){width: 300}
+    ![Meta de usabilidade Aprendizagem](../../../assets/termo.png){width: 300}
     </figure>
 
   <font size="3"><p style="text-align: center"><b>Fonte:</b> [Arthur Alves](https://github.com/Arthrok).</p></font>
