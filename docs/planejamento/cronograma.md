@@ -302,30 +302,33 @@ Na Tabela 14, está explicitado o cronograma executado das atividades da segunda
 
 Na Tabela 15, tem-se o cronograma planejado para todas as atividades da sétima entrega.
 
-<font size="3"><p style="text-align: center"><b>Tabela 15</b> - Relato do Protótipo de Papel</p></font>
+=== "Cronograma Planejado"
+    Na Tabela 15, tem-se o cronograma planejado para todas as atividades da sétima entrega.
 
-| Atividade | Período de desenvolvimento | Responsável | Revisão | Revisores | Data da Entrega |
-| --------- | -----------| ------------ | ------- | ------- | ------- |
-|Relato do Protótipo de Papel|Início dia 11/06 e Fim dia 14/06|Luiz Gustavo e João Artur|Início dia 12/06 e Fim dia 14/06|Diego Sousa, Douglas Marinho|15/06|
-|Planejamento da Avaliação do protótipo de alta fidelidade|Início dia 12/06 e Fim dia 14/06|Arthur Alves|Início dia 12/06 e Fim dia 14/06|Diego Sousa, Douglas Marinho|15/06|
-|Planejamento do relato dos resultados da avaliação do protótipo de alta fidelidade|Início dia 12/06 e Fim dia 14/06|Eric Silveira|Início dia 13/06 e Fim dia 15/06|Diego Sousa, Douglas Marinho|15/06|
-|Iteração do Git Pages|Início dia 16/06 e Fim dia 17/06|Luiz Gustavo|Início dia 16/06 e Fim dia 17/06|João Artur|18/06|
-|Período de gravação da apresentação|Início dia 18/06 e Fim dia 19/06|Douglas Marinho|Início dia 18/06 e Fim dia 19/06|Eric Silveira|19/06|
-|Correção pós apresentação|Início dia 20/06 e Fim dia 21/06|Arthur Alves, Diego Sousa, Douglas Marinho, Eric Silveira, João Artur, Luiz Gustavo|Início dia 20/06 e Fim dia 21/06|Arthur Alves, Diego Sousa, Douglas Marinho, Eric Silveira, João Artur, Luiz Gustavo|Não há entrega|
+    <font size="3"><p style="text-align: center"><b>Tabela 15</b> - Relato do Protótipo de Papel</p></font>
+
+    | Atividade | Período de desenvolvimento | Responsável | Revisão | Revisores | Data da Entrega |
+    | --------- | -----------| ------------ | ------- | ------- | ------- |
+    |Relato do Protótipo de Papel|Início dia 11/06 e Fim dia 14/06|Luiz Gustavo e João Artur|Início dia 12/06 e Fim dia 14/06|Diego Sousa, Douglas Marinho|15/06|
+    |Planejamento da Avaliação do protótipo de alta fidelidade|Início dia 12/06 e Fim dia 14/06|Arthur Alves|Início dia 12/06 e Fim dia 14/06|Diego Sousa, Douglas Marinho|15/06|
+    |Planejamento do relato dos resultados da avaliação do protótipo de alta fidelidade|Início dia 12/06 e Fim dia 14/06|Eric Silveira|Início dia 13/06 e Fim dia 15/06|Diego Sousa, Douglas Marinho|15/06|
+    |Iteração do Git Pages|Início dia 16/06 e Fim dia 17/06|Luiz Gustavo|Início dia 16/06 e Fim dia 17/06|João Artur|18/06|
+    |Período de gravação da apresentação|Início dia 18/06 e Fim dia 19/06|Douglas Marinho|Início dia 18/06 e Fim dia 19/06|Eric Silveira|19/06|
+    |Correção pós apresentação|Início dia 20/06 e Fim dia 21/06|Arthur Alves, Diego Sousa, Douglas Marinho, Eric Silveira, João Artur, Luiz Gustavo|Início dia 20/06 e Fim dia 21/06|Arthur Alves, Diego Sousa, Douglas Marinho, Eric Silveira, João Artur, Luiz Gustavo|Não há entrega|
+
+=== "Cronograma Executado"
+
+
+    | Atividade | Período de Desenvolvimento (Planejado) | Período de Desenvolvimento (Executado) | Responsável | Revisão (Planejado) | Revisão (Executado) | Revisores | Data da Entrega (Planejado) | Data da Entrega (Executado) |
+    | --------- | -------------------------------------- | ------------------------------------- | ----------- | ------------------- | ------------------ | --------- | -------------------------- | -------------------------- |
+    | Relato do Protótipo de Papel | Início dia 11/06 e Fim dia 14/06 | Início dia 12/06 e Fim dia 15/06 | Luiz Gustavo e João Artur | Início dia 12/06 e Fim dia 14/06 | Início dia 13/06 e Fim dia 15/06 | Diego Sousa, Douglas Marinho | 15/06 | 16/06 |
+    | Planejamento da Avaliação do protótipo de alta fidelidade | Início dia 12/06 e Fim dia 14/06 | Início dia 13/06 e Fim dia 15/06 | Arthur Alves | Início dia 12/06 e Fim dia 14/06 | Início dia 13/06 e Fim dia 15/06 | Diego Sousa, Douglas Marinho | 15/06 | 16/06 |
+    | Planejamento do relato dos resultados da avaliação do protótipo de alta fidelidade | Início dia 12/06 e Fim dia 14/06 | Início dia 13/06 e Fim dia 15/06 | Eric Silveira | Início dia 13/06 e Fim dia 15/06 | Início dia 14/06 e Fim dia 16/06 | Diego Sousa, Douglas Marinho | 15/06 | 16/06 |
+    | Iteração do Git Pages | Início dia 16/06 e Fim dia 17/06 | Início dia 17/06 e Fim dia 18/06 | Luiz Gustavo | Início dia 16/06 e Fim dia 17/06 | Início dia 17/06 e Fim dia 18/06 | João Artur | 18/06 | 19/06 |
+    | Período de gravação da apresentação | Início dia 18/06 e Fim dia 19/06 | Início dia 19/06 e Fim dia 20/06 | Douglas Marinho | Início dia 18/06 e Fim dia 19/06 | Início dia 19/06 e Fim dia 20/06 | Eric Silveira | 19/06 | 20/06 |
+    | Correção pós apresentação | Início dia 20/06 e Fim dia 21/06 | Início dia 21/06 e Fim dia 22/06 | Arthur Alves, Diego Sousa, Douglas Marinho, Eric Silveira, João Artur, Luiz Gustavo | Início dia 20/06 e Fim dia 21/06 | Início dia 21/06 e Fim dia 22/06 | Arthur Alves, Diego Sousa, Douglas Marinho, Eric Silveira, João Artur, Luiz Gustavo | Não há entrega | Não há entrega |
 
 <font size="3"><p style="text-align: center">Fonte: Autores.</p></font>
-
-<!-- ### Executado
-
-Na Tabela 16, está explicitado o cronograma executado das atividades da sétima entrega.
-
-<font size="3"><p style="text-align: center"><b>Tabela 16</b> - Relato do Protótipo de Papel</p></font>
-
-| Atividade | Período de desenvolvimento | Responsável | Revisão | Revisores | Data da Entrega |
-| --------- | -----------| ------------ | ------- | ------- | ------- | 
-
-<font size="3"><p style="text-align: center">Fonte: Autores.</p></font>
--->
 
 ## <a>Etapa 8 - Relato do Protótipo de alta fidelidade</a>
 
@@ -373,3 +376,6 @@ Na Tabela 18, está explicitado o cronograma executado das atividades da oitava 
 | `1.4` | 01/05/2024 | 02/05/2024 | Cronograma executado da segunda entrega| [Eric Silveira](https://github.com/ericbky) |[João Artur](https://github.com/joao-artl)|
 | `1.5` | 12/05/2024 | 12/05/2024 | Cronograma executado da terceira entrega| [Eric Silveira](https://github.com/ericbky) |[Diego Sousa](https://github.com/DiegoSousaLeite)|
 | `1.6` | 22/05/2024 | 22/05/2024 | Cronograma executado da quarta entrega| [Eric Silveira](https://github.com/ericbky) |[Arthur Alves](https://github.com/Arthrok)|
+| `1.7` | 04/06/2024 | 04/06/2024 | Cronograma executado da quinta entrega| [Eric Silveira](https://github.com/ericbky) |[Arthur Alves](https://github.com/Arthrok)|
+| `1.8` | 09/06/2024 | 09/05/2024 | Cronograma executado da entrega 6.1| [Eric Silveira](https://github.com/ericbky) |[Arthur Alves](https://github.com/Arthrok)|
+| `1.9` | 15/06/2024 | 15/06/2024 | Cronograma executado da sétima entrega| [Eric Silveira](https://github.com/ericbky) |[Arthur Alves](https://github.com/Arthrok)|
