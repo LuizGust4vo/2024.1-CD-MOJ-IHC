@@ -116,7 +116,7 @@ Confira na Tabela 4, que apresenta o cronograma, como ficou definido o agendamen
 
 | Entrevistador | Entrevistado | Protótipo Analisado | Horário de Início | Horário de Fim | Data       | Local |
 |-------------------|-----------------|----------------------|-------------------|----------------|------------|-------|
-| Arthur Alves      | -| Tutorial de Resolução de Contest         | -   | -  | 05/06  | FGA   |
+| Arthur Alves      | Luan Mateus | Tutorial de Resolução de Contest         | 15:50   | 16:00  | 19/06  | FGA   |
 | Diego Sousa  | - | Ranking de Contest   | -|-| 05/06 | FGA   |
 | Douglas Marinho  | -  | Criar Constest          | -   | -  | 05/06 | FGA   |
 | Eric Silveira   | William Bernardo     |Submissão de Problemas        | 13:00| 13:30  | 04/06 | FGA   |
