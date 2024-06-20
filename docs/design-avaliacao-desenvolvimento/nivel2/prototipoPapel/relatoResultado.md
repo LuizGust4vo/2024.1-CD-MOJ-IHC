@@ -31,7 +31,7 @@ O método de avaliação foi uma combinação de observação e entrevistas com 
 
 <font size="3"><p style="text-align: center"><b>Imagem 2</b> - Protótipo de Papel Ranking de Contest</p></font>
 
-![imagem](){width: 250px}
+![imagem](./assets/prototipoRank.png){width: 250px}
 
 <font size="3"><p style="text-align: center"><b>Fonte:</b>[Diego Sousa](https://github.com/DiegoSousaLeite)</p></font>
 
