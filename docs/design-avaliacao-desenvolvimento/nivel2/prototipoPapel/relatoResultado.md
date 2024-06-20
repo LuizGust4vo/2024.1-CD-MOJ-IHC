@@ -289,6 +289,7 @@ Durante a entrevista foram coletados dados sobre, a interação do usuário com 
 
 A partir da entrevista realizada e da observação do usuário, pode-se concluir que os Protótipos de Papel das tarefas de **Criação de Contest** está em conformidade com a realidade e atende às necessidades dos usuários do CD-MOJ. O Usuário sugeriu que todas as informações no site fossem disponibilizadas em português, atualmente o inglês predomina no site.
 
+
 ### <a>Lista dos Problemas Encontrados</a>
 O usuário não relatou problemas.
 
@@ -304,12 +305,83 @@ Não houve mudanças sugeridas pelo entrevistado.
 </center>
 
 
+## <a>Relato - Criação de Problemas</a>
+
+### <a>Objetivos e Escopo da Avaliação</a>
+
+A avaliação teve como objetivo validar se o Protótipo de papel relacionado com a tarefa de Criação de Problemas está de acordo com o fluxo de atividades do CD-MOJ e identificar áreas de melhoria para fornecer um suporte mais eficaz aos usuários.
+
+
+### <a>Método de Avaliação Empregado</a>
+O método de avaliação foi uma combinação de observação e entrevistas com o usuário, conforme o framework DECIDE<a id="anchor_2" href="#REF2">^2^</a>. Nela foi pedido que o usuário verificasse o fluxo apresentado pelo Protótipo de Papel e após isso ele foi perguntado sobre algumas questões. A tabela 5 apresenta as informações sobre a entrevista e as imagens 10, 11 e 12 apresentam os Protótipos de Papel:
+
+<font size="3"><p style="text-align: center"><b>Tabela 5</b> - Cronograma da Entrevista</p></font>
+
+| Entrevistador(es) | Entrevistado(s) | Horário | Duração  | Data | Local |
+| :----------------: | :-------------: | :---------------: | :------------: | :--------: | :----------: |
+| Luiz Gustavo | Lidiane | 20:30 | 5 minutos | 19/06/2023 | Flávio Joias |
+
+<font size="3"><p style="text-align: center"><b>Fonte:</b> [Luiz Gustavo](https://gith3ub.com/LuizGust4vo) </p></font>
+
+
+<font size="3"><p style="text-align: center"><b>Imagem 10</b> - Aba de edição de problemas </p></font>
+
+![imagem](./assets/cp1.jpg){width: 250px}
+
+<font size="3"><p style="text-align: center"><b>Fonte:</b> [Luiz Gustavo](https://gith3ub.com/LuizGust4vo) </p></font>
+
+
+<font size="3"><p style="text-align: center"><b>Imagem 11</b> - Aba de criação de problemas </p></font>
+
+![imagem](./assets/cp2.jpg){width: 250px}
+
+<font size="3"><p style="text-align: center"><b>Fonte:</b> [Luiz Gustavo](https://gith3ub.com/LuizGust4vo) </p></font>
+
+
+<font size="3"><p style="text-align: center"><b>Imagem 12</b> - Template para criação de problema em pdf </p></font>
+
+![imagem](./assets/cp3.jpg){width: 250px}
+
+<font size="3"><p style="text-align: center"><b>Fonte:</b> [Luiz Gustavo](https://gith3ub.com/LuizGust4vo) </p></font>
+
+
+### <a>Número e Perfil dos Usuários e Avaliadores</a>
+
+A participante se encaixa no [perfil de usuário](https://interacao-humano-computador.github.io/2024.1-CD-MOJ/analise-de-requisitos/perfildeUsuario/), ela é uma usuária de 30 anos, formada em ciência da computação e já utilizou o CD-MOJ algumas vezes.
+
+
+### <a>Sumário dos Dados Coletados</a>
+
+Durante a entrevista foram coletados dados sobre, a interação do usuário com o sistema, feedbacks sobre o Protótipo de Papel e as respostas das perguntas presentes no [planejamento da avaliação](https://interacao-humano-computador.github.io/2024.1-CD-MOJ/design-avaliacao-desenvolvimento/nivel2/prototipoPapel/planejamentoAvaliacao/#roteiro-de-perguntas).
+
+
+### <a>Interpretação e Análise dos Dados</a>
+
+A partir da entrevista realizada e da observação do usuário, pode-se concluir que o Protótipo de Papel da tarefa de **Criação de Problemas (Administrador)** está em conformidade com a realidade e atende às necessidades dos usuários do CD-MOJ. O usuário relatou que o protótipo de papel está atendendo as expectativas e é de fácil navegabilidade.
+
+
+### <a>Lista dos Problemas Encontrados</a>
+O usuário não relatou problemas, afirmou que o uso é satisfatório.
+
+
+### <a>Planejamento para o Reprojeto do Sistema</a>
+
+Não houve mudanças sugeridas pelo entrevistado.
+
+
+### Gravação para o Reprojeto do Sistema
+
+<center>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/80RD4zAS2VU?si=1-51JIuIy8w5FSPO" title="Gravação - Avaliação do Protótipo de Papel" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</center>
+
 
 ## <a>Referências Bibliográficas</a>
 
 > <a id="REF1" href="#anchor_1">1.</a> Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) *Interação Humano-Computador e Experiência do usuário.* Capítulo 11 Planejamento da Avaliação de IHC, tópico 11.7.5 Consolidação e Relato dos Resultados, página 279 . Autopublicação. ISBN: 978-65-00-19677-1.
 
 > <a id="REF2" href="#anchor_2">2.</a> Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) *Interação Humano-Computador e Experiência do usuário.* Capítulo 11 Planejamento da Avaliação de IHC, tópico 11.8 O Framework DECIDE, página 279 e 280. Autopublicação. ISBN: 978-65-00-19677-1.
+
 
 ## <a>Histórico de Versão</a>
 
@@ -318,3 +390,4 @@ Não houve mudanças sugeridas pelo entrevistado.
 | `1.0` | 19/06/2024 | 19/06/2024 | Criação do documento, introdução e relato do protótipo de papel de verificação de submissões e ranking de Contest| [João Artur](https://github.com/joao-artl) | [Eric Silveira](https://github.com/ericbky) |
 | `1.1` | 19/06/2024 | 19/06/2024 | Relato de Tutorial de Resolução de Questões Pós-Contest  | [Arthur Alves](https://github.com/arthrok) | [Eric Silveira](https://github.com/ericbky) |
 | `1.2` | 19/06/2024 | 19/06/2024 | Relato de Criação de Contest  | [Douglas Marinho](https://github.com/M4RINH0) | [Eric Silveira](https://github.com/ericbky) |
+| `1.3` | 19/06/2024 | 20/06/2024 | Relato de Criação de Problema  | [Luiz Gustavo](https://gith3ub.com/LuizGust4vo) | [Eric Silveira](https://github.com/ericbky) |
