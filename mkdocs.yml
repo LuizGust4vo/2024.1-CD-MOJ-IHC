@@ -125,6 +125,7 @@ nav:
       - Personas : verificacaoG1/etapa2/personas.md
     - Etapa 3:
       - Planejamento da Verificação da Etapa 3: verificacaoG1/etapa3/planejamento.md
+      - Princípios Gerais do projeto: verificacaoG1/etapa3/principiosGerais.md
 
 theme:
   name: material
