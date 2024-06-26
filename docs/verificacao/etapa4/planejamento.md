@@ -52,25 +52,26 @@ A tabela 2 a seguir apresenta a checklist referente aos itens exigidos para o pl
 
 **Tabela 2** - Checklist para o Planejamento da Avaliação da Análise de Tarefas.
 
-| ID  | Descrição    | Avaliação | Observações |
-| --- | ------- | --------- | ----------- |
-| 1   | O documento define os objetivos do planejamento? <a id="anchor_3" href="#REF3">^3^</a>   |           |             |
-| 2   | O documento especifica os objetivos da avaliação? <a id="anchor_3" href="#REF3">^3^</a>      |           |             |
-| 3   | O documento identifica as perguntas a serem respondidas durante a avaliação? <a id="anchor_4" href="#REF4">^4^</a>|           |             |
-| 4   | O documento descreve os métodos a serem utilizados na avaliação? <a id="anchor_5" href="#REF5">^5^</a>      |           |             |
-| 5   | O documento lista os participantes da avaliação? <a id="anchor_6" href="#REF6">^6^</a>  |           |             |
-| 6   | O documento justifica o número de participantes escolhidos? <a id="anchor_6" href="#REF6">^6^</a>        |           |             |
-| 7   | O documento define o perfil dos participantes de acordo com o perfil de usuário? <a id="anchor_6" href="#REF6">^6^</a>           |           |             |
-| 8   | O documento especifica as ferramentas e os equipamentos que serão utilizados na avaliação? <a id="anchor_6" href="#REF6">^6^</a>            |           |             |
-| 9   | O documento apresenta uma estimativa dos custos? <a id="anchor_6" href="#REF6">^6^</a>         |           |             |
-| 10  | O documento detalha os recursos humanos necessários? <a id="anchor_6" href="#REF6">^6^</a>       |           |             |
-| 11  | O documento aborda como as questões éticas serão tratadas? <a id="anchor_6" href="#REF6">^6^</a>       |           |             |
-| 12  | O documento descreve as tarefas a serem realizadas durante a avaliação? <a id="anchor_6" href="#REF6">^6^</a>         |           |             |
-| 13  | O documento inclui uma seção de teste piloto com definição, participantes, local, data e horário da realização do teste piloto? <a id="anchor_7" href="#REF7">^7^</a>       |           |             |
-| 14  | O planejamento prevê a gravação do teste piloto? <a id="anchor_7" href="#REF7">^7^</a>               |           |             |
-| 15  | O documento inclui uma seção sobre a interpretação e apresentação dos dados? <a id="anchor_8" href="#REF8">^8^</a>   |           |             |
-| 16  | O planejamento segue o framework DECIDE? <a id="anchor_9" href="#REF9">^9^</a>          |           |             |
-| 17  | O planejamento descreve como serão documentados e tratados os dados obtidos durante a avaliação? (Inclui grau de confiabilidade das respostas, contexto em que foram produzidas e conformidade com o perfil de usuário traçado.) <a id="anchor_9" href="#REF9">^9^</a>|  |           |             |
+
+| **ID** | **Descrição** | **Avaliação** | **Observações** | **Explicação e Referência** | **Print** |
+|--------|---------------|---------------|-----------------|----------------------------|-----------|
+| 1      | O documento define os objetivos do planejamento? <a id="anchor_3" href="#REF3">^3^</a> | - | - | - | <button style="background-color: red; color: white; border: none; padding: 5px 10px; cursor: pointer;" onclick="window.open('../Prints/pagina264.png', '_blank', 'toolbar=no,scrollbars=yes,resizable=yes,width=600,height=600');">Página 264</button> |
+| 2      | O documento especifica os objetivos da avaliação? <a id="anchor_3" href="#REF3">^3^</a> | - | - | - |<button style="background-color: red; color: white; border: none; padding: 5px 10px; cursor: pointer;" onclick="window.open('../Prints/pagina264.png', '_blank', 'toolbar=no,scrollbars=yes,resizable=yes,width=600,height=600');">Página 264</button> |
+| 3      | O documento identifica as perguntas a serem respondidas durante a avaliação? <a id="anchor_4" href="#REF4">^4^</a> | - | - | - | <button style="background-color: red; color: white; border: none; padding: 5px 10px; cursor: pointer;" onclick="window.open('../Prints/pagina266.png', '_blank', 'toolbar=no,scrollbars=yes,resizable=yes,width=600,height=600');">Página 266</button> |
+| 4      | O documento descreve os métodos a serem utilizados na avaliação? <a id="anchor_5" href="#REF5">^5^</a> | - | - | - | <button style="background-color: red; color: white; border: none; padding: 5px 10px; cursor: pointer;" onclick="window.open('../Prints/pagina272.png', '_blank', 'toolbar=no,scrollbars=yes,resizable=yes,width=600,height=600');">Página 272</button> |
+| 5      | O documento lista os participantes da avaliação? <a id="anchor_6" href="#REF6">^6^</a> | - | - | - | <button style="background-color: red; color: white; border: none; padding: 5px 10px; cursor: pointer;" onclick="window.open('../Prints/pagina274.png', '_blank', 'toolbar=no,scrollbars=yes,resizable=yes,width=600,height=600');">Página 274</button> |
+| 6      | O documento justifica o número de participantes escolhidos? <a id="anchor_6" href="#REF6">^6^</a> | - | - | - | <button style="background-color: red; color: white; border: none; padding: 5px 10px; cursor: pointer;" onclick="window.open('../Prints/pagina274.png', '_blank', 'toolbar=no,scrollbars=yes,resizable=yes,width=600,height=600');">Página 274</button> |
+| 7      | O documento define o perfil dos participantes de acordo com o perfil de usuário? <a id="anchor_6" href="#REF6">^6^</a> | - | - | - | <button style="background-color: red; color: white; border: none; padding: 5px 10px; cursor: pointer;" onclick="window.open('../Prints/pagina274.png', '_blank', 'toolbar=no,scrollbars=yes,resizable=yes,width=600,height=600');">Página 274</button> |
+| 8      | O documento especifica as ferramentas e os equipamentos que serão utilizados na avaliação? <a id="anchor_6" href="#REF6">^6^</a> | - | - | - | <button style="background-color: red; color: white; border: none; padding: 5px 10px; cursor: pointer;" onclick="window.open('../Prints/pagina275.png', '_blank', 'toolbar=no,scrollbars=yes,resizable=yes,width=600,height=600');">Página 275</button> |
+| 9      | O documento apresenta uma estimativa dos custos? <a id="anchor_6" href="#REF6">^6^</a> | - | - | - | <button style="background-color: red; color: white; border: none; padding: 5px 10px; cursor: pointer;" onclick="window.open('../Prints/pagina275.png', '_blank', 'toolbar=no,scrollbars=yes,resizable=yes,width=600,height=600');">Página 275</button> |
+| 10     | O documento detalha os recursos humanos necessários? <a id="anchor_6" href="#REF6">^6^</a> | - | - | - | <button style="background-color: red; color: white; border: none; padding: 5px 10px; cursor: pointer;" onclick="window.open('../Prints/pagina275.png', '_blank', 'toolbar=no,scrollbars=yes,resizable=yes,width=600,height=600');">Página 275</button>  |
+| 11     | O documento aborda como as questões éticas serão tratadas? <a id="anchor_6" href="#REF6">^6^</a> | - | - | - | <button style="background-color: red; color: white; border: none; padding: 5px 10px; cursor: pointer;" onclick="window.open('../Prints/pagina275.png', '_blank', 'toolbar=no,scrollbars=yes,resizable=yes,width=600,height=600');">Página 275</button>  |
+| 12     | O documento descreve as tarefas a serem realizadas durante a avaliação? <a id="anchor_6" href="#REF6">^6^</a> | - | - | - | <button style="background-color: red; color: white; border: none; padding: 5px 10px; cursor: pointer;" onclick="window.open('../Prints/pagina275.png', '_blank', 'toolbar=no,scrollbars=yes,resizable=yes,width=600,height=600');">Página 275</button> |
+| 13     | O documento inclui uma seção de teste piloto com definição, participantes, local, data e horário da realização do teste piloto? <a id="anchor_7" href="#REF7">^7^</a> | - | - | - | <button style="background-color: red; color: white; border: none; padding: 5px 10px; cursor: pointer;" onclick="window.open('../Prints/pagina276.png', '_blank', 'toolbar=no,scrollbars=yes,resizable=yes,width=600,height=600');">Página 276</button> |
+| 14     | O planejamento prevê a gravação do teste piloto? <a id="anchor_7" href="#REF7">^7^</a> | - | - | - | <button style="background-color: red; color: white; border: none; padding: 5px 10px; cursor: pointer;" onclick="window.open('../Prints/pagina276.png', '_blank', 'toolbar=no,scrollbars=yes,resizable=yes,width=600,height=600');">Página 276</button> |
+| 15     | O documento inclui uma seção sobre a interpretação e apresentação dos dados? <a id="anchor_8" href="#REF8">^8^</a> | - | - | - | <button style="background-color: red; color: white; border: none; padding: 5px 10px; cursor: pointer;" onclick="window.open('../Prints/pagina278279.png', '_blank', 'toolbar=no,scrollbars=yes,resizable=yes,width=600,height=600');">Página 278 e 279</button> |
+| 16     | O planejamento segue o framework DECIDE? <a id="anchor_9" href="#REF9">^9^</a> | - | - | - | <button style="background-color: red; color: white; border: none; padding: 5px 10px; cursor: pointer;" onclick="window.open('../Prints/pagina279280.png', '_blank', 'toolbar=no,scrollbars=yes,resizable=yes,width=600,height=600');">Página 279 e 280</button> |
+| 17     | O planejamento descreve como serão documentados e tratados os dados obtidos durante a avaliação? (Inclui grau de confiabilidade das respostas, contexto em que foram produzidas e conformidade com o perfil de usuário traçado.) <a id="anchor_9" href="#REF9">^9^</a> | - | - | - | <button style="background-color: red; color: white; border: none; padding: 5px 10px; cursor: pointer;" onclick="window.open('../Prints/pagina279280.png', '_blank', 'toolbar=no,scrollbars=yes,resizable=yes,width=600,height=600');">Página 279 e 280</button> |
 
 </center>
 
@@ -84,7 +85,7 @@ A tabela 3 a seguir apresenta a checklist referente aos itens exigidos para o re
 
 <center>
 
-**Tabela 3** - Checklist para o Planejamento do Relato dos Resultados do Storyboard.
+**Tabela 3** - Checklist para o Planejamento do Relato dos Resultados da Análise de Tarefa e Storyboard
 
 | ID  | Descrição                                                                                                                                                                                                                                                                        | Avaliação | Observações |
 | --- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :-------: | :---------: |
