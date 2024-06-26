@@ -22,7 +22,7 @@ A Tabela 1 a seguir detalha as características referentes à execução da veri
 
 ## <a>Checklist</a>
 
-A Tabela 2 a seguir apresenta a verificação do artefato <a href="https://interacao-humano-computador.github.io/2024.1-SIGAA/#/Requisitos2/principiosGerais/PrincipiosGerais">Princípios Gerais do Projeto</a> do **grupo 01** por meio de um checklist detalhado. Esta verificação tem como objetivo assegurar que todos os elementos essenciais do artefato estão presentes e bem definidos, garantindo sua qualidade e conformidade com os requisitos estabelecidos.
+A Tabela 2 a seguir apresenta a verificação do artefato <a href="https://interacao-humano-computador.github.io/2024.1-CD-MOJ/analise-de-requisitos/principios/">Princípios Gerais do Projeto</a> do **grupo 01** por meio de um checklist detalhado. Esta verificação tem como objetivo assegurar que todos os elementos essenciais do artefato estão presentes e bem definidos, garantindo sua qualidade e conformidade com os requisitos estabelecidos.
 
 <center>
 
