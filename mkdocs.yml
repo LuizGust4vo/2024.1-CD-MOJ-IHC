@@ -126,6 +126,8 @@ nav:
     - Etapa 3:
       - Planejamento da Verificação da Etapa 3: verificacaoG1/etapa3/planejamento.md
       - Princípios Gerais do projeto: verificacaoG1/etapa3/principiosGerais.md
+    - Etapa 7:
+      - Planejamento da Avaliação do Protótipo de Alta Fidelidade: verificacaoG1/etapa7/avaliacaoAltaFidelidade.md
 
 theme:
   name: material
