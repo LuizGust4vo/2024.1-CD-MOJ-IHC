@@ -39,7 +39,7 @@ A Tabela 2 a seguir apresenta a verificação do artefato <a href="http://localh
 | 5 | Está identificado em que momento no processo de desenvolvimento a avaliação será realizada? | Sim | - | Segundo o livro *Interação Humano-Computador e Experiência do Usuário*: "No planejamento da avaliação, o avaliador deve identificar em que momento no processo de desenvolvimento a avaliação será realizada."<a id="anchor_7" href="#REF7">^7^</a> |
 | 6 | Os métodos de avaliação estão claramente descritos? | Sim | - | Segundo o livro *Interação Humano-Computador e Experiência do Usuário*: "Os métodos de avaliação de IHC podem ser aplicados em diferentes momentos do processo de desenvolvimento, dependendo dos dados disponíveis sobre a solução de IHC sendo concebida."<a id="anchor_7" href="#REF7">^7^</a> |
 
-<font size="3"><p style="text-align: center"><b>Fonte: </b> [Luiz Gustavo](https://github.com/LuizGust4vo).</p></font>
+<font size="3"><p style="text-align: center"><b>Fonte: </b> [Arthur Alves](https://github.com/arthrok) e [Douglas Marinho](https://github.com/M4RINH0).</p></font>
 </center>
 
 
