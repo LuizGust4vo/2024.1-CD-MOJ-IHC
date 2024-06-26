@@ -40,9 +40,24 @@ Os resultados obtidos após as verificações serão exibidos na respectiva guia
 
 Os checklists são uma ferramenta essencial de verificação, ajudando a identificar defeitos ou características ausentes no projeto. Esses checklists asseguram a consistência, completude e conformidade dos artefatos com os requisitos estabelecidos, promovendo a qualidade e a integridade do projeto.
 
-
 ### <a> Planejamento do Relato dos Resultados da Avaliação do Protótipo de Alta Fidelidade </a>
 
+Veja na tabela 2 abaixo os itens que serão utilizados para a verificação do planejamento do relato dos resultados da avaliação do protótipo de alta fidelidade.
+
+<center>
+<font size="3"><p style="text-align: center"><b>Tabela 2</b> - Checklist para o artefato planejamento do relato dos resultados avaliação do protótipo de alta fidelidade.</p></font>
+
+| **ID**  | **Descrição** | **Avaliação** | **Observações** | **Explicação e Referência** |
+| --- | ------------- | :-------: | :---------: | :--------: |
+| 1 | O propósito/objetivo da avaliação está descrito? | - | - | Segundo o livro *Interação Humano-Computador e Experiência do Usuário*: "Os avaliadores devem relatar os resultados consolidados, que costumam incluir: os objetivos e escopo da avaliação;"<a id="anchor_3" href="#REF3">^3^</a> |
+| 2 | O artefato possui uma descrição detalhada do método de avaliação que foi utilizado? | - | - | Segundo o livro *Interação Humano-Computador e Experiência do Usuário*: "Os avaliadores devem relatar os resultados consolidados, que costumam incluir: a forma como a avaliação foi realizada (método de avaliação empregado)."<a id="anchor_3" href="#REF3">^3^</a> |
+| 3 | O artefato possui o número total e o perfil de usuários e avaliadores que participaram da avaliação? | - | - | Segundo o livro *Interação Humano-Computador e Experiência do Usuário*: "Os avaliadores devem relatar os resultados consolidados, que costumam incluir: o número e o perfil de usuários e avaliadores que participaram da avaliação."<a id="anchor_3" href="#REF3">^3^</a> |
+| 4 | O artefato possui um sumário dos dados coletados de forma organizada, incluindo tabelas e gráficos? | - | - | Segundo o livro *Interação Humano-Computador e Experiência do Usuário*: "Os avaliadores devem relatar os resultados consolidados, que costumam incluir: um sumário dos dados coletados, incluindo tabelas e gráficos."<a id="anchor_3" href="#REF3">^3^</a> |
+| 5 | O artefato possui um relato da interpretação e análise dos dados? | - | - | Segundo o livro *Interação Humano-Computador e Experiência do Usuário*: "Os avaliadores devem relatar os resultados consolidados, que costumam incluir: um relato da interpretação e análise dos dados."<a id="anchor_3" href="#REF3">^3^</a> |
+| 6 | O artefato possui uma lista dos problemas encontrados? | - | - | Segundo o livro *Interação Humano-Computador e Experiência do Usuário*: "Os avaliadores devem relatar os resultados consolidados, que costumam incluir: uma lista dos problemas encontrados."<a id="anchor_3" href="#REF3">^3^</a> |
+
+<font size="3"><p style="text-align: center"><b>Fonte: </b> [Luiz Gustavo](https://github.com/LuizGust4vo).</p></font>
+</center>
 
 
 ## <a>Referência Bibliografica</a>
@@ -50,6 +65,8 @@ Os checklists são uma ferramenta essencial de verificação, ajudando a identif
 > <a id="REF1" href="#anchor_1">1. </a>Gerência e Qualidade de Software - Aula 05 - Verificação e Validação. UNIVESP. Disponível em: <https://www.youtube.com/watch?v=1Y-1zz6rZxo&t=205s>. Acesso em: 05 de junho de 2024 às 12:00.
 
 > <a id="REF2" href="#anchor_2">2. </a>SERRANO, Milene. SERRANO, Maurício. Apresentação: Requisitos - Aula 23. Página 19.
+
+> <a id="REF3" href="#anchor_3">3. </a> Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) *Interação Humano-Computador e Experiência do usuário.* Capítulo 11. Planejamento da Avaliação de IHC, tópico 11.7. Como Avaliar?, página 279. Autopublicação. ISBN: 978-65-00-19677-1.
 
 
 ## <a>Bibliografia</a>
@@ -65,4 +82,5 @@ Os checklists são uma ferramenta essencial de verificação, ajudando a identif
 
 | Versão| Data | Data Prevista de Revisão| Descrição  | Autor(es)  | Revisor(es) |
 | ------- | ------ | ------ | ------- | -------- | -------- |
-| `1.0` | 11/06/2024 | 12/06/2024 | Criação do documento com Introdução, Metodologia e Características da Verificação dos artefatos e Checklists dos artefatos. | [Luiz Gustavo](https://github.com/LuizGust4vo) |  |
+| `1.0` | 11/06/2024 | 12/06/2024 | Criação do documento com Introdução, Metodologia e Características da Verificação dos artefatos e Checklists dos artefatos. | [Luiz Gustavo](https://github.com/LuizGust4vo) | - |
+| `1.1` | 26/06/2024 | 26/06/2024 | Adição da tabela de verificação | [Luiz Gustavo](https://github.com/LuizGust4vo) | [Douglas Marinho](https://github.com/M4RINH0) |
