@@ -53,8 +53,7 @@ A seguir, apresentamos o checklist detalhado na Tabela 1 para garantir que todos
 
 ## <a>Gravação da Verificação</a>
 
-<iframe width="560" height="315" src="" title="Gravação da Verificação - Planejamento da Verificação da Análise de Tarefas" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7p3Wwzy9TMw?si=ia6MQKUX6dF-dH93" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## <a>Referência Bibliografica</a>
 
