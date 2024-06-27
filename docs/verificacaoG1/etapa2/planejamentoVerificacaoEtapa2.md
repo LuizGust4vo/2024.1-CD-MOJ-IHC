@@ -45,7 +45,7 @@ Os checklists são ferramentas essenciais de verificação que ajudam a identifi
 
 ### <a> Checklist do Perfil de Usuário </a>
 
-Um perfil de usuário é uma descrição detalhada das características dos usuários cujos objetivos devem ser apoiados pelo sistema sendo projetado. Devemos identificar características como cargo, função, experiência, nível de instrução, atividades principais e faixa etária, e conduzir estudos como entrevistas e questionários para coletar esses dados. Os dados coletados são agrupados em faixas para traçar perfis de usuários com características semelhantes. A elaboração de um perfil de usuário é um processo iterativo, começando com uma ideia inicial que se refina com o tempo para garantir uma representação precisa dos usuários<a id="anchor_4" href="#REF4">^4^</a>. A seguir, a tabela 2 contém uma série de itens que serão verificados no artefato de Perfil de Usuário do **Grupo 02 - SIGAA**.
+Um perfil de usuário é uma descrição detalhada das características dos usuários cujos objetivos devem ser apoiados pelo sistema sendo projetado. Devemos identificar características como cargo, função, experiência, nível de instrução, atividades principais e faixa etária, e conduzir estudos como entrevistas e questionários para coletar esses dados. Os dados coletados são agrupados em faixas para traçar perfis de usuários com características semelhantes. A elaboração de um perfil de usuário é um processo iterativo, começando com uma ideia inicial que se refina com o tempo para garantir uma representação precisa dos usuários<a id="anchor_4" href="#REF4">^4^</a>. A seguir, a tabela 2 contém uma série de itens que serão verificados no artefato de Perfil de Usuário do **Grupo 01 - CDMOJ**.
 
 <center>
 <font size="3"><p style="text-align: center"><b>Tabela 2</b> - Checklist do artefato Perfil de Usuário.</p></font>
@@ -105,7 +105,7 @@ A pesquisa envolvendo pessoas deve seguir rigorosos aspectos éticos, garantindo
 
 ### <a> Checklist de Personas </a>
 
-Uma persona é um personagem fictício, criado para descrever um usuário típico e representar um grupo de usuários reais (Cooper et al., 2014; Pruitt e Adlin, 2006; Cooper, 1999). Utilizada nas discussões de design, as personas mantêm todos focados no mesmo alvo. Definidas por seus objetivos, as personas são refinadas durante a investigação inicial do domínio de atividade do usuário. Começa-se com uma aproximação razoável e converge-se para uma população plausível de personas<a id="anchor_5" href="#REF5">^5^</a>. A seguir, a tabela 4 contém uma série de itens que serão verificados no artefato de Personas do **Grupo 02 - SIGAA**.
+Uma persona é um personagem fictício, criado para descrever um usuário típico e representar um grupo de usuários reais (Cooper et al., 2014; Pruitt e Adlin, 2006; Cooper, 1999). Utilizada nas discussões de design, as personas mantêm todos focados no mesmo alvo. Definidas por seus objetivos, as personas são refinadas durante a investigação inicial do domínio de atividade do usuário. Começa-se com uma aproximação razoável e converge-se para uma população plausível de personas<a id="anchor_5" href="#REF5">^5^</a>. A seguir, a tabela 4 contém uma série de itens que serão verificados no artefato de Personas do **Grupo 01 - CDMOJ**.
 
 <center>
 <font size="3"><p style="text-align: center"><b>Tabela 4</b> - Checklist do artefato Personas.</p></font>
@@ -140,7 +140,7 @@ Uma persona é um personagem fictício, criado para descrever um usuário típic
 
 Uma análise de tarefas é utilizada para se ter um entendimento sobre qual é o trabalho dos usuários,
 como eles o realizam e por quê. Nesse tipo de análise, o trabalho é definido em termos dos objetivos
-que os usuários querem ou precisam atingir<a id="anchor_10" href="#REF10">^10^</a>. A seguir, a tabela 5 contém uma série de itens que serão verificados no artefato de Análise de Tarefas do **Grupo 02 - SIGAA**.
+que os usuários querem ou precisam atingir<a id="anchor_10" href="#REF10">^10^</a>. A seguir, a tabela 5 contém uma série de itens que serão verificados no artefato de Análise de Tarefas do **Grupo 01 - CDMOJ**.
 
 <center>
 <font size="3"><p style="text-align: center"><b>Tabela 5</b> - Checklist do artefato Análise de Tarefas.</p></font>
@@ -166,7 +166,7 @@ que os usuários querem ou precisam atingir<a id="anchor_10" href="#REF10">^10^<
 
 ### Checklist para Diagramas HTA (Hierarchical Task Analysis)
 
-A seguir, a tabela 6 contém uma série de itens que serão verificados no artefato de Análise de Tarefas do **Grupo 02 - SIGAA**.
+A seguir, a tabela 6 contém uma série de itens que serão verificados no artefato de Análise de Tarefas do **Grupo 01 - CDMOJ**.
 
 <center>
 <font size="3"><p style="text-align: center"><b>Tabela 6</b> - Checklist para Diagramas HTA.</p></font>
