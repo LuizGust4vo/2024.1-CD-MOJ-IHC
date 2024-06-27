@@ -23,13 +23,13 @@ O responsável pelo planejamento da verificação da entrega 3 será o integrant
 
 |**Entrega referente**|**Nome do Artefato**|**Versão do artefato**|**Responsável pelo Desenvolvimento do Artefato**|**Responsável pela Verificação do Artefato**|
 |---------|---------|---------|-----------|------------------|
-|Entrega 03|Princípios Gerais do Projeto|`1.4`|Diego e João|-|
-|Entrega 03|Metas de Usabilidade|`1.0`|Arthur|-|
-|Entrega 03|Guia de Estilo|`1.3`|Douglas e Luiz|-|
+|Entrega 03|Princípios Gerais do Projeto|`1.4`|Diego e João|[Arthur Alves](https://github.com/arthrok) e [Douglas Marinho](https://github.com/M4RINH0)|
+|Entrega 03|Metas de Usabilidade|`1.0`|Arthur|[Eric Silveira](https://github.com/ericbky) e [Luiz Gustavo](https://github.com/LuizGust4vo)|
+|Entrega 03|Guia de Estilo|`1.3`|Douglas e Luiz|[Eric Silveira](https://github.com/ericbky) e [Luiz Gustavo](https://github.com/LuizGust4vo)|
 
 </center>
 
-<font size="3"><p style="text-align: center"><b>Fonte: </b> [João Artur](https://github.com/joao-artl).</p></font>
+<font size="3"><p style="text-align: center"><b>Fonte: </b> [Eric Silveira](https://github.com/ericbky) e [Luiz Gustavo](https://github.com/LuizGust4vo).</p></font>
 
 Os resultados obtidos após as verificações serão exibidos na respectiva guia destacadas a seguir:
 
