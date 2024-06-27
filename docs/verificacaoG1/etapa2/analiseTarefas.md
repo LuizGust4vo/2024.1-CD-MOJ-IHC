@@ -68,7 +68,9 @@ A Tabela 3 a seguir apresenta a verificação dos **diagramas HTA** do <a href="
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/uHmCwcHAgVk?si=Eg45dbHuzaCw9OyY" title="Gravação da Verificação da análise de tarefas (1 e 2)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-<iframe width="560" height="315" src="" title="Gravação da Verificação da Análise de Tarefas (5 e 6)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## <a>Gravação da Verificação das Análise de tarefas 5 e 6</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sIR2VxmyNsA?si=yMC2B2E8zHxHOW9v" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
 ## <a>Referência Bibliografica</a>
@@ -110,4 +112,4 @@ A Tabela 3 a seguir apresenta a verificação dos **diagramas HTA** do <a href="
 | Versão| Data | Data Prevista de Revisão| Descrição  | Autor(es)  | Revisor(es) |
 | ------- | ------ | ------ | ------- | -------- | -------- |
 | `1.0` | 26/06/2024 | 26/06/2024 | Criação do documento com Introdução, Metodologia e Características da Verificação dos artefatos e Checklists dos artefatos | [João Artur](https://github.com/joao-artl) | [Diego Sousa](https://github.com/DiegoSousaLeite)|
-| `1.1` | 26/06/2024 | 26/06/2024 | Adição da verificação da análise de tarefas 5 e 6 | [Eric Silveira](https://github.com/ericbky) e [Luiz Gustavo](https://github.com/LuizGust4vo) | [Arthur Alves](https://github.com/arthrok), [Diego Sousa](https://github.com/DiegoSousaLeite), [Douglas Marinho](https://github.com/M4RINH0) e [João Artur](https://github.com/joao-artl) | 
+| `1.1` | 26/06/2024 | 26/06/2024 | Adição da verificação da análise de tarefas 5 e 6 | [Eric Silveira](https://github.com/ericbky) e [Luiz Gustavo](https://github.com/LuizGust4vo) | [Arthur Alves](https://github.com/arthrok), [Diego Sousa](https://github.com/DiegoSousaLeite) e [João Artur](https://github.com/joao-artl) | 
