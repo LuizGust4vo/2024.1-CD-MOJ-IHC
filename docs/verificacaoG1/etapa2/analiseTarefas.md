@@ -13,7 +13,7 @@ A Tabela 1 a seguir detalha as características referentes à execução da veri
 
 |**Entrega referente**|**Nome do Artefato**|**Versão do artefato**|**Responsável pelo Desenvolvimento do Artefato**|**Responsável pela Verificação do Artefato**|**Data da Verificação**|
 |---------|---------|---------|-----------|------------------|------|
-|Entrega 02|Análise de Tarefas|`1.0`|[Arthur Alves](https://github.com/arthrok), [Eric Silveira](https://github.com/ericbky), [Diego Sousa](https://github.com/DiegoSousaLeite), [Douglas Marinho](https://github.com/M4RINH0), [João Artur](https://github.com/joao-artl) e [Luiz Gustavo](https://github.com/LuizGust4vo)|[Arthur Alves](https://github.com/arthrok), [Eric Silveira](https://github.com/ericbky), [Diego Sousa](https://github.com/DiegoSousaLeite), [Douglas Marinho](https://github.com/M4RINH0), [João Artur](https://github.com/joao-artl) e [Luiz Gustavo](https://github.com/LuizGust4vo)| 12/06/2024 |
+|Entrega 02|Análise de Tarefas|`1.0`|[Arthur Alves](https://github.com/arthrok), [Eric Silveira](https://github.com/ericbky), [Diego Sousa](https://github.com/DiegoSousaLeite), [Douglas Marinho](https://github.com/M4RINH0), [João Artur](https://github.com/joao-artl) e [Luiz Gustavo](https://github.com/LuizGust4vo)|[Arthur Alves](https://github.com/arthrok), [Eric Silveira](https://github.com/ericbky), [Diego Sousa](https://github.com/DiegoSousaLeite), [Douglas Marinho](https://github.com/M4RINH0), [João Artur](https://github.com/joao-artl) e [Luiz Gustavo](https://github.com/LuizGust4vo) | 12/06/2024 |
 
 <font size="3"><p style="text-align: center"><b>Fonte: </b> [Diego Sousa](https://github.com/DiegoSousaLeite) e [João Artur](https://github.com/joao-artl).</p></font>
 
@@ -72,7 +72,10 @@ A Tabela 3 a seguir apresenta a verificação dos **diagramas HTA** do <a href="
 
 ## <a>Gravação da Verificação</a>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uHmCwcHAgVk?si=Eg45dbHuzaCw9OyY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uHmCwcHAgVk?si=Eg45dbHuzaCw9OyY" title="Gravação da Verificação da análise de tarefas (1 e 2)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uHmCwcHAgVk?si=Eg45dbHuzaCw9OyY" title="Gravação da Verificação da Análise de Tarefas (5 e 6)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 
 ## <a>Referência Bibliografica</a>
 
@@ -114,4 +117,5 @@ A Tabela 3 a seguir apresenta a verificação dos **diagramas HTA** do <a href="
 ## <a>Histórico de Versão</a>
 | Versão| Data | Data Prevista de Revisão| Descrição  | Autor(es)  | Revisor(es) |
 | ------- | ------ | ------ | ------- | -------- | -------- |
-| `1.0` | 26/06/2024 | 26/06/2024 | Criação do documento com Introdução, Metodologia e Características da Verificação dos artefatos e Checklists dos artefatos |[João Artur](https://github.com/joao-artl)| [Diego Sousa](https://github.com/DiegoSousaLeite)|
+| `1.0` | 26/06/2024 | 26/06/2024 | Criação do documento com Introdução, Metodologia e Características da Verificação dos artefatos e Checklists dos artefatos | [João Artur](https://github.com/joao-artl) | [Diego Sousa](https://github.com/DiegoSousaLeite)|
+| `1.1` | 26/06/2024 | 26/06/2024 | Adição da verificação da análise de tarefas 5 e 6 | [Eric Silveira](https://github.com/ericbky) e [Luiz Gustavo](https://github.com/LuizGust4vo) | [Arthur Alves](https://github.com/arthrok), [Diego Sousa](https://github.com/DiegoSousaLeite), [Douglas Marinho](https://github.com/M4RINH0) e [João Artur](https://github.com/joao-artl) | 
