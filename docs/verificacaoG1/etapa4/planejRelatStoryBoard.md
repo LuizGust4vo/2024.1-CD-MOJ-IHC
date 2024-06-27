@@ -29,7 +29,7 @@ A Tabela 2 a seguir apresenta a verificação do artefato <a href="https://inter
 | --- | --------- | :-------: | :---------: |
 | 1   | O planejamento estabelece os objetivos e o escopo para avaliar os resultados?<a id="anchor_10" href="#REF10">^10^</a>  |     Sim     |-|
 | 2   | O planejamento define o método de avaliação dos resultados?<a id="anchor_10" href="#REF10">^10^</a> |     Sim     |-|
-| 3   | O planejamento apresenta os participantes selecionados?<a id="anchor_10" href="#REF10">^10^</a>   |     Incompleto    |-|
+| 3   | O planejamento apresenta os participantes selecionados?<a id="anchor_10" href="#REF10">^10^</a>   |     Incompleto    | O número de participantes e avaliadores não é apresentado |
 | 4   | O perfil dos participantes selecionados está alinhado com o perfil de usuário?<a id="anchor_10" href="#REF10">^10^</a>   |     Sim     |-|
 | 5   | O planejamento fornece instruções sobre as sugestões de melhorias?<a id="anchor_10" href="#REF10">^10^</a>  |     Sim     |-|
 | 6   | O planejamento inclui uma seção para feedback dos usuários?<a id="anchor_10" href="#REF10">^10^</a>|     Sim     |-|
