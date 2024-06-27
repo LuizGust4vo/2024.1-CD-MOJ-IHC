@@ -228,5 +228,4 @@ A seguir, a tabela 6 contém uma série de itens que serão verificados no artef
 
 | Versão| Data | Data Prevista de Revisão| Descrição  | Autor(es)  | Revisor(es) |
 | ------- | ------ | ------ | ------- | -------- | -------- |
-| `1.0` | 11/06/2024 | 12/06/2024 | Criação do documento com Introdução, Metodologia e Características da Verificação dos artefatos e Checklists dos Aspectos Éticos. | [Eric Silveira](https://github.com/ericbky)|[Luiz Gustavo](https://github.com/LuizGust4vo)|
-| `1.1` | 11/06/2024 | 12/06/2024 | Alteração na metodologia, correções nas características da verificação do artefato e adição do checklists do Perfil de Usuário, Personas e Análise de Tarefas. | [Arthur Alves](https://github.com/arthrok)|[Luiz Gustavo](https://github.com/LuizGust4vo)|
+| `1.0` | 26/06/2024 | 27/06/2024 | Criação do Documento | [Arthur Alves](https://github.com/arthrok)|[Luiz Gustavo](https://github.com/LuizGust4vo)|
