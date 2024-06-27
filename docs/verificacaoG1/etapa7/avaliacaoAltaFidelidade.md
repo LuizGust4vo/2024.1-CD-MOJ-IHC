@@ -49,9 +49,7 @@ A Tabela 2 a seguir apresenta a verificação do artefato <a href="http://localh
 
 
 ## <a>Vídeo da Verificação</a>
-<iframe width="1280" height="720" src="https://www.youtube.com/embed/RhT0i4GCm8U" title="verificação princípios gerais" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-
+<iframe width="1280" height="720" src="https://www.youtube.com/embed/YbmvhXMT28k" title="Verificação Planejamento da Avaliação do Protótipo de Alta Fidelidade" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
 
