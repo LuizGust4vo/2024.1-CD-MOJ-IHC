@@ -68,8 +68,8 @@ A Tabela 3 a seguir apresenta a verificação dos **diagramas HTA** do <a href="
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/uHmCwcHAgVk?si=Eg45dbHuzaCw9OyY" title="Gravação da Verificação da análise de tarefas (1 e 2)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nOt3ZZens0A" title="Verificação diagramas HTA 3 e 4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-## <a>Gravação da Verificação das Análise de tarefas 5 e 6</a>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/sIR2VxmyNsA?si=yMC2B2E8zHxHOW9v" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
