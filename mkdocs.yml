@@ -122,10 +122,16 @@ nav:
     - Etapa 2: 
       - Análise de Tarefas : verificacaoG1/etapa2/analiseTarefas.md
       - Aspectos Éticos: verificacaoG1/etapa2/aspectosEticos.md
+      - Perfil do Usuário: verificacaoG1/etapa2/perfil-usuario.md
       - Personas : verificacaoG1/etapa2/personas.md
+     
     - Etapa 3:
       - Planejamento da Verificação da Etapa 3: verificacaoG1/etapa3/planejamento.md
       - Princípios Gerais do projeto: verificacaoG1/etapa3/principiosGerais.md
+    - Etapa 4:
+      - Planejamento da Avaliação do Storyboard: verificacaoG1/etapa4/planejamentoStoryboard.md
+    - Etapa 5: 
+      - Planejamento do Relato do Protótipo de Papel: verificacaoG1/etapa5/planejamentoRelatoPapel.md
     - Etapa 7:
       - Planejamento da Avaliação do Protótipo de Alta Fidelidade: verificacaoG1/etapa7/avaliacaoAltaFidelidade.md
 
