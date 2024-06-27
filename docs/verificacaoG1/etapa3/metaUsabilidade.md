@@ -7,7 +7,7 @@ Neste artefato, nosso objetivo é relatar de forma detalhada a verificação do 
 
 ## <a>Características da Verificação das Metas de Usabilidade</a>
 
-A Tabela 1 a seguir detalha as características referentes à execução da verificação do artefato desenvolvido pelo <a href="https://interacao-humano-computador.github.io/2024.1-SIGAA/#/">grupo 02</a>, destacando informações essenciais como a entrega referente, nome do artefato, versão, responsável pelo desenvolvimento e verificação, e a data em que a verificação foi realizada.
+A Tabela 1 a seguir detalha as características referentes à execução da verificação do artefato desenvolvido pelo <a href="https://interacao-humano-computador.github.io/2024.1-SIGAA/#/">grupo 01</a>, destacando informações essenciais como a entrega referente, nome do artefato, versão, responsável pelo desenvolvimento e verificação, e a data em que a verificação foi realizada.
 
 <center>
 
