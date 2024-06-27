@@ -129,11 +129,16 @@ nav:
       - Planejamento da Verificação da Etapa 3: verificacaoG1/etapa3/planejamento.md
       - Metas de Usabilidade: verificacaoG1/etapa3/metaUsabilidade.md
       - Princípios Gerais do projeto: verificacaoG1/etapa3/principiosGerais.md
+      - Guia de Estilo: verificacaoG1/etapa3/guiaEstilo.md
+
+
     - Etapa 4:
       - Planejamento da Verificação da Etapa 4: verificacaoG1/etapa4/planejamento.md
-      - Planejamento do Relato dos Resultados da Análise de Tarefa: verificacaoG1/etapa4/planejamentoRelatoAnalise.md
+      - Planejamento da Avaliação da Análise de Tarefas: verificacaoG1/etapa4/planejamentoAvaliacaoAnalise.md
       - Planejamento da Avaliação do Storyboard: verificacaoG1/etapa4/planejamentoStoryboard.md
-     
+      - Planejamento do Relato dos Resultados da Análise de Tarefa: verificacaoG1/etapa4/planejamentoRelatoAnalise.md
+      - Planejamento do Relato dos Resultados do Storyboard: verificacaoG1/etapa4/planejRelatStoryBoard.md
+
     - Etapa 5: 
       - Planejamento do Relato do Protótipo de Papel: verificacaoG1/etapa5/planejamentoRelatoPapel.md
     - Etapa 7:
