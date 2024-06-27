@@ -2,11 +2,11 @@
 
 ## <a>Introdução</a>
 
-Neste artefato, nosso objetivo é relatar de forma detalhada a verificação da <a href="https://interacao-humano-computador.github.io/2024.1-SIGAA/#/PerfilUsuario/Professores/PerfilProfessor">Perfil de Usuário</a> desenvolvido pelo <a href="https://interacao-humano-computador.github.io/2024.1-SIGAA/#/">grupo 02</a>. Essa verificação é fundamental para garantir que todas as atividades planejadas estejam devidamente alinhadas com os objetivos do projeto, os prazos estabelecidos e as expectativas dos stakeholders. Analisaremos a coerência das datas, a distribuição das tarefas e a viabilidade da Perfil de Usuário.
+Neste artefato, nosso objetivo é relatar de forma detalhada a verificação da <a href="https://interacao-humano-computador.github.io/2024.1-CD-MOJ/analise-de-requisitos/perfildeUsuario/">Perfil de Usuário</a> desenvolvido pelo <a href="https://interacao-humano-computador.github.io/2024.1-CD-MOJ/">grupo 01</a>. Essa verificação é fundamental para garantir que todas as atividades planejadas estejam devidamente alinhadas com os objetivos do projeto, os prazos estabelecidos e as expectativas dos stakeholders. Analisaremos a coerência das datas, a distribuição das tarefas e a viabilidade da Perfil de Usuário.
 
 ## <a>Características da Verificação dos Princípios Gerais do Projeto</a>
 
-A Tabela 1 a seguir detalha as características referentes à execução da verificação do artefato desenvolvido pelo <a href="https://interacao-humano-computador.github.io/2024.1-SIGAA/#/">grupo 02</a>, destacando informações essenciais como a entrega referente, nome do artefato, versão, responsável pelo desenvolvimento e verificação, e a data em que a verificação foi realizada.
+A Tabela 1 a seguir detalha as características referentes à execução da verificação do artefato desenvolvido pelo <a href="https://interacao-humano-computador.github.io/2024.1-CD-MOJ/">grupo 01</a>, destacando informações essenciais como a entrega referente, nome do artefato, versão, responsável pelo desenvolvimento e verificação, e a data em que a verificação foi realizada.
 
 <center>
 
@@ -21,7 +21,7 @@ A Tabela 1 a seguir detalha as características referentes à execução da veri
 
 ## <a>Checklist</a>
 
-A Tabela 2 a seguir apresenta a verificação do artefato <a href="https://interacao-humano-computador.github.io/2024.1-SIGAA/#/PerfilUsuario/Professores/PerfilProfessor">Perfil de Usuário</a> do <a href="https://interacao-humano-computador.github.io/2024.1-SIGAA/#/">grupo 02</a> por meio de um checklist detalhado. Esta verificação tem como objetivo assegurar que todos os elementos essenciais do artefato estão presentes e bem definidos, garantindo sua qualidade e conformidade com os requisitos estabelecidos.
+A Tabela 2 a seguir apresenta a verificação do artefato <a href="https://interacao-humano-computador.github.io/2024.1-CD-MOJ/analise-de-requisitos/perfildeUsuario/">Perfil de Usuário</a> do <a href="https://interacao-humano-computador.github.io/2024.1-CD-MOJ/">grupo 01</a> por meio de um checklist detalhado. Esta verificação tem como objetivo assegurar que todos os elementos essenciais do artefato estão presentes e bem definidos, garantindo sua qualidade e conformidade com os requisitos estabelecidos.
 
 <center>
 
@@ -33,17 +33,17 @@ A Tabela 2 a seguir apresenta a verificação do artefato <a href="https://inter
 | 2 | O perfil do usuário inclui experiência no cargo atual (cargo, experiência, tempo na empresa, responsabilidades)? |Sim |- | "Devemos identificar as características de interesse (e.g., cargo, função, experiência...)"<a id="anchor_1" href="#REF1">^1^</a> |
 | 3 | O perfil do usuário inclui informações sobre a empresa (tamanho, área de atuação)? | Sim|- | "As características de um perfil de usuário podem ser priorizadas conforme o produto e projeto em questão."<a id="anchor_1" href="#REF1">^1^</a> |
 | 4 | O perfil do usuário inclui educação (grau de instrução, área de formação, cursos realizados)? |Sim |- | "Devemos identificar as características de interesse (e.g.,... nível de instrução...)"<a id="anchor_1" href="#REF1">^1^</a> |
-| 5 | O perfil do usuário inclui experiência com computadores (alfabetismo computacional, habilidade, anos de experiência)? |Incompleto | Não é citado no perfil dos servidores| "Devemos identificar as características de interesse (... habilidades com computadores...)"<a id="anchor_1" href="#REF1">^1^</a> |
-| 6 | O perfil do usuário inclui experiência com um produto específico ou ferramentas semelhantes? |Incompleto | Não é citado no perfil dos servidores| "Devemos identificar as características de interesse (... experiência com produtos concorrentes...)"<a id="anchor_1" href="#REF1">^1^</a> |
-| 7 | O perfil do usuário inclui tecnologia disponível (hardware, software e outras ferramentas)? |Incompleto |Não é citado no perfil dos servidores | "As características de um perfil de usuário podem ser priorizadas conforme o produto e projeto em questão."<a id="anchor_1" href="#REF1">^1^</a> |
+| 5 | O perfil do usuário inclui experiência com computadores (alfabetismo computacional, habilidade, anos de experiência)? |Incompleto | Não é citado de maneira direta| "Devemos identificar as características de interesse (... habilidades com computadores...)"<a id="anchor_1" href="#REF1">^1^</a> |
+| 6 | O perfil do usuário inclui experiência com um produto específico ou ferramentas semelhantes? |Sim | | "Devemos identificar as características de interesse (... experiência com produtos concorrentes...)"<a id="anchor_1" href="#REF1">^1^</a> |
+| 7 | O perfil do usuário inclui tecnologia disponível (hardware, software e outras ferramentas)? |Incompleto |Não é citado de maneira direta | "As características de um perfil de usuário podem ser priorizadas conforme o produto e projeto em questão."<a id="anchor_1" href="#REF1">^1^</a> |
 | 8 | O perfil do usuário inclui treinamento (preferências de aprendizado, disponibilidade de tempo para treinamento)? |Não |Em nenhuma parte do documento é citado | "Devemos identificar as características de interesse (... o quanto o usuário valoriza treinamento...)"<a id="anchor_1" href="#REF1">^1^</a> |
-| 9 | O perfil do usuário inclui atitudes e valores (preferências de produto, medo de tecnologia)? | Não|O perfil é bastante generalista | "Devemos identificar as características de interesse (... preferências e descontentamentos...)"<a id="anchor_1" href="#REF1">^1^</a> |
-| 10 | O perfil do usuário inclui conhecimento do domínio (nível de especialização)? |Não | - | "Devemos identificar as características de interesse (... conhecimento do domínio...)"<a id="anchor_1" href="#REF1">^1^</a> |
-| 11 | O perfil do usuário inclui objetivos (principais objetivos e como são alcançados)? |Incompleto |Não é citado no perfil dos servidores | "Devemos identificar as características de interesse (... objetivos...)"<a id="anchor_1" href="#REF1">^1^</a> |
-| 12 | O perfil do usuário inclui tarefas (tarefa primária, secundária, frequência, inovação, experiência)? |Não | -| "Devemos identificar as características de interesse (... tarefas do usuário que precisam ser apoiadas...)"<a id="anchor_1" href="#REF1">^1^</a> |
-| 13 | O perfil do usuário inclui gravidade dos erros (possíveis consequências negativas dos erros)? |Não |- | "Devemos identificar as características de interesse (... gravidade dos erros...)"<a id="anchor_1" href="#REF1">^1^</a> |
-| 14 | O perfil do usuário inclui motivação para o trabalho (carga horária, interação social, ambição)? |Incompleto |Não é citado no perfil dos servidores | "Devemos identificar as características de interesse (... motivação para o trabalho...)"<a id="anchor_1" href="#REF1">^1^</a> |
-| 15 | O perfil do usuário inclui idiomas e jargões (idiomas conhecidos, jargão profissional)? |Não |- | "Devemos identificar as características de interesse (... idiomas e jargões...)"<a id="anchor_1" href="#REF1">^1^</a> |
+| 9 | O perfil do usuário inclui atitudes e valores (preferências de produto, medo de tecnologia)? | Não|Em nenhuma parte do documento é citado | "Devemos identificar as características de interesse (... preferências e descontentamentos...)"<a id="anchor_1" href="#REF1">^1^</a> |
+| 10 | O perfil do usuário inclui conhecimento do domínio (nível de especialização)? |Não | Em nenhuma parte do documento é citado | "Devemos identificar as características de interesse (... conhecimento do domínio...)"<a id="anchor_1" href="#REF1">^1^</a> |
+| 11 | O perfil do usuário inclui objetivos (principais objetivos e como são alcançados)? |Sim |- | "Devemos identificar as características de interesse (... objetivos...)"<a id="anchor_1" href="#REF1">^1^</a> |
+| 12 | O perfil do usuário inclui tarefas (tarefa primária, secundária, frequência, inovação, experiência)? |Sim | -| "Devemos identificar as características de interesse (... tarefas do usuário que precisam ser apoiadas...)"<a id="anchor_1" href="#REF1">^1^</a> |
+| 13 | O perfil do usuário inclui gravidade dos erros (possíveis consequências negativas dos erros)? |Não |Em nenhuma parte do documento é citado | "Devemos identificar as características de interesse (... gravidade dos erros...)"<a id="anchor_1" href="#REF1">^1^</a> |
+| 14 | O perfil do usuário inclui motivação para o trabalho (carga horária, interação social, ambição)? |Sim |- | "Devemos identificar as características de interesse (... motivação para o trabalho...)"<a id="anchor_1" href="#REF1">^1^</a> |
+| 15 | O perfil do usuário inclui idiomas e jargões (idiomas conhecidos, jargão profissional)? |Não |Em nenhuma parte do documento é citado | "Devemos identificar as características de interesse (... idiomas e jargões...)"<a id="anchor_1" href="#REF1">^1^</a> |
 | 16 | O perfil do usuário define grupos de atributos (idade, experiência, atitudes, tarefas primárias)? |Sim | -| "Perfil de usuário é uma descrição detalhada das características dos usuários cujos objetivos devem ser apoiados pelo sistema sendo projetado."<a id="anchor_1" href="#REF1">^1^</a> |
 | 17 | O perfil do usuário categoriza os usuários em grupos com base em suas semelhanças, após determinar a faixa de respostas para cada característica e a porcentagem de usuários em cada faixa? |Sim |- | "Uma vez que a faixa de respostas para cada uma das características e a porcentagem de usuários nessa faixa tiverem sido determinadas, podemos categorizar seus usuários em grupos, com base em suas semelhanças."<a id="anchor_1" href="#REF1">^1^</a> |
 
@@ -52,7 +52,7 @@ A Tabela 2 a seguir apresenta a verificação do artefato <a href="https://inter
 
 ## <a>Vídeo da verificação</a>
 
-<iframe width="853" height="480" src="https://www.youtube.com/embed/2sksTriY0QU" title="Verificação Grupo 2 - Perfil do usuário" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="853" height="480" src="https://www.youtube.com/embed/ax4OcazmDOw" title="Verificação Grupo 01 - Perfil do Usuário" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
 
@@ -70,4 +70,4 @@ A Tabela 2 a seguir apresenta a verificação do artefato <a href="https://inter
 ## <a>Histórico de Versão</a>
 | Versão| Data | Data Prevista de Revisão| Descrição  | Autor(es)  | Revisor(es) |
 | ------- | ------ | ------ | ------- | -------- | -------- |
-| `1.0` | 12/06/2024 | 12/06/2024 | Criação do documento com Introdução, Metodologia e Características da Verificação dos artefatos e Checklists dos artefatos | [Diego Sousa](https://github.com/DiegoSousaLeite)|[João Artur](https://github.com/joao-artl)|
+| `1.0` | 25/06/2024 | 26/06/2024 | Criação do documento com Introdução, Metodologia e Características da Verificação dos artefatos e Checklists dos artefatos | [Diego Sousa](https://github.com/DiegoSousaLeite)|[João Artur](https://github.com/joao-artl)|

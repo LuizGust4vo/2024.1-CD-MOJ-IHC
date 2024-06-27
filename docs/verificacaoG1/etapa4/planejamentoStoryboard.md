@@ -2,11 +2,11 @@
 
 ## <a>Introdução</a>
 
-Neste artefato, nosso objetivo é relatar de forma detalhada a verificação do <a href="https://interacao-humano-computador.github.io/2024.1-SIGAA/#/DesignAvaliaçãoDesenvolvimento/Nível1/Storyboard/PlanejamentoAvaliaçãoStoryboard">Planejamento da Avaliação do Storyboard</a> desenvolvido pelo <a href="https://interacao-humano-computador.github.io/2024.1-SIGAA/#/">grupo 02</a>. Essa verificação é fundamental para garantir que todas as atividades planejadas estejam devidamente alinhadas com os objetivos do projeto, os prazos estabelecidos e as expectativas dos stakeholders. Analisaremos a coerência das datas, a distribuição das tarefas e a viabilidade do Planejamento da Avaliação do Storyboard, assegurando que ele seja realista e exequível.
+Neste artefato, nosso objetivo é relatar de forma detalhada a verificação do <a href="https://interacao-humano-computador.github.io/2024.1-SIGAA/#/DesignAvaliaçãoDesenvolvimento/Nível1/Storyboard/PlanejamentoAvaliaçãoStoryboard">Planejamento da Avaliação do Storyboard</a> desenvolvido pelo <a href="https://interacao-humano-computador.github.io/2024.1-SIGAA/#/">grupo 01</a>. Essa verificação é fundamental para garantir que todas as atividades planejadas estejam devidamente alinhadas com os objetivos do projeto, os prazos estabelecidos e as expectativas dos stakeholders. Analisaremos a coerência das datas, a distribuição das tarefas e a viabilidade do Planejamento da Avaliação do Storyboard, assegurando que ele seja realista e exequível.
 
 ## <a>Características da Verificação da Guia de Estilo</a>
 
-A Tabela 1 a seguir detalha as características referentes à execução da verificação do artefato desenvolvido pelo <a href="https://interacao-humano-computador.github.io/2024.1-SIGAA/#/">grupo 02</a>, destacando informações essenciais como a entrega referente, nome do artefato, versão, responsável pelo desenvolvimento e verificação, e a data em que a verificação foi realizada.
+A Tabela 1 a seguir detalha as características referentes à execução da verificação do artefato desenvolvido pelo <a href="https://interacao-humano-computador.github.io/2024.1-SIGAA/#/">grupo 01</a>, destacando informações essenciais como a entrega referente, nome do artefato, versão, responsável pelo desenvolvimento e verificação, e a data em que a verificação foi realizada.
 
 <center>
 
@@ -22,7 +22,7 @@ A Tabela 1 a seguir detalha as características referentes à execução da veri
 
 ## <a>Checklist</a>
 
-A Tabela 2 a seguir apresenta a verificação do artefato <a href="https://interacao-humano-computador.github.io/2024.1-SIGAA/#/DesignAvaliaçãoDesenvolvimento/Nível1/Storyboard/PlanejamentoAvaliaçãoStoryboard">Planejamento da Avaliação do Storyboard</a> do <a href="https://interacao-humano-computador.github.io/2024.1-SIGAA/#/">grupo 02</a> por meio de um checklist detalhado. Esta verificação tem como objetivo assegurar que todos os elementos essenciais do artefato estão presentes e bem definidos, garantindo sua qualidade e conformidade com os requisitos estabelecidos.
+A Tabela 2 a seguir apresenta a verificação do artefato <a href="https://interacao-humano-computador.github.io/2024.1-SIGAA/#/DesignAvaliaçãoDesenvolvimento/Nível1/Storyboard/PlanejamentoAvaliaçãoStoryboard">Planejamento da Avaliação do Storyboard</a> do <a href="https://interacao-humano-computador.github.io/2024.1-SIGAA/#/">grupo 01</a> por meio de um checklist detalhado. Esta verificação tem como objetivo assegurar que todos os elementos essenciais do artefato estão presentes e bem definidos, garantindo sua qualidade e conformidade com os requisitos estabelecidos.
 
 <font size="3"><p style="text-align: center"><b>Tabela 2</b> - Checklist do Planejamento da Avaliação do Storyboard.</p></font>
 
@@ -44,7 +44,7 @@ A Tabela 2 a seguir apresenta a verificação do artefato <a href="https://inter
 
 ## <a>Vídeo da Verificação</a>
 
-<iframe width="853" height="480" src="https://www.youtube.com/embed/BaZ3BPvCHy8" title="Verificação Grupo 2 - Planejamento do StoryBoard" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="853" height="480" src="https://www.youtube.com/embed/pGLx8xp3cUs" title="Verificação Grupo 01 - Planejamento do Storyboard" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
 ## <a>Referência Bibliografica</a>

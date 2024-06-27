@@ -2,11 +2,11 @@
 
 ## <a>Introdução</a>
 
-Neste artefato, nosso objetivo é relatar de forma detalhada a verificação do <a href="https://interacao-humano-computador.github.io/2024.1-SIGAA/#/DesignAvalia%C3%A7%C3%A3oDesenvolvimento/N%C3%ADvel1/PrototipodePapel">Planejamento do Relato do Protótipo de Papel</a> desenvolvido pelo <a href="https://interacao-humano-computador.github.io/2024.1-SIGAA/#/">grupo 02</a>. Essa verificação é fundamental para garantir que todas as atividades planejadas estejam devidamente alinhadas com os objetivos do projeto, os prazos estabelecidos e as expectativas dos stakeholders. Analisaremos a coerência das datas, a distribuição das tarefas e a viabilidade do Planejamento do Relato do Protótipo de Papel, assegurando que ele seja realista e exequível.
+Neste artefato, nosso objetivo é relatar de forma detalhada a verificação do <a href="https://interacao-humano-computador.github.io/2024.1-CD-MOJ/design-avaliacao-desenvolvimento/nivel2/prototipoPapel/planejamentoResultados/">Planejamento do Relato do Protótipo de Papel</a> desenvolvido pelo <a href="https://interacao-humano-computador.github.io/2024.1-CD-MOJ/">grupo 01</a>. Essa verificação é fundamental para garantir que todas as atividades planejadas estejam devidamente alinhadas com os objetivos do projeto, os prazos estabelecidos e as expectativas dos stakeholders. Analisaremos a coerência das datas, a distribuição das tarefas e a viabilidade do Planejamento do Relato do Protótipo de Papel, assegurando que ele seja realista e exequível.
 
 ## <a>Características da Verificação da Guia de Estilo</a>
 
-A Tabela 1 a seguir detalha as características referentes à execução da verificação do artefato desenvolvido pelo <a href="https://interacao-humano-computador.github.io/2024.1-SIGAA/#/">grupo 02</a>, destacando informações essenciais como a entrega referente, nome do artefato, versão, responsável pelo desenvolvimento e verificação, e a data em que a verificação foi realizada.
+A Tabela 1 a seguir detalha as características referentes à execução da verificação do artefato desenvolvido pelo <a href="https://interacao-humano-computador.github.io/2024.1-CD-MOJ/">grupo 01</a>, destacando informações essenciais como a entrega referente, nome do artefato, versão, responsável pelo desenvolvimento e verificação, e a data em que a verificação foi realizada.
 
 <center>
 
@@ -14,7 +14,7 @@ A Tabela 1 a seguir detalha as características referentes à execução da veri
 
 |**Entrega referente**|**Nome do Artefato**|**Versão do artefato**|**Responsável pelo Desenvolvimento do Artefato**|**Responsável pela Verificação do Artefato**|**Data da Verificação**|
 |---------|---------|---------|-----------|------------------|------|
-|Entrega 05|Planejamento do Relato do Protótipo de Papel|`1.0`|Bruno|[João Artur](https://github.com/joao-artl) e [Diego Sousa](https://github.com/DiegoSousaLeite)|12/06|
+|Entrega 05|Planejamento do Relato do Protótipo de Papel|`1.2`|Douglas Marinho|[João Artur](https://github.com/joao-artl) e [Diego Sousa](https://github.com/DiegoSousaLeite)|12/06|
 
 <font size="3"><p style="text-align: center"><b>Fonte: </b> [João Artur](https://github.com/joao-artl).</p></font>
 </center>
@@ -22,7 +22,7 @@ A Tabela 1 a seguir detalha as características referentes à execução da veri
 
 ## <a>Checklist</a>
 
-A Tabela 2 a seguir apresenta a verificação do artefato <a href="https://interacao-humano-computador.github.io/2024.1-SIGAA/#/DesignAvalia%C3%A7%C3%A3oDesenvolvimento/N%C3%ADvel1/PrototipodePapel">Planejamento do Relato do Protótipo de Papel</a> do <a href="https://interacao-humano-computador.github.io/2024.1-SIGAA/#/">grupo 02</a> por meio de um checklist detalhado. Esta verificação tem como objetivo assegurar que todos os elementos essenciais do artefato estão presentes e bem definidos, garantindo sua qualidade e conformidade com os requisitos estabelecidos.
+A Tabela 2 a seguir apresenta a verificação do artefato <a href="https://interacao-humano-computador.github.io/2024.1-CD-MOJ/design-avaliacao-desenvolvimento/nivel2/prototipoPapel/planejamentoResultados/">Planejamento do Relato do Protótipo de Papel</a> do <a href="https://interacao-humano-computador.github.io/2024.1-CD-MOJ/">grupo 01</a> por meio de um checklist detalhado. Esta verificação tem como objetivo assegurar que todos os elementos essenciais do artefato estão presentes e bem definidos, garantindo sua qualidade e conformidade com os requisitos estabelecidos.
 
 <font size="3"><p style="text-align: center"><b>Tabela 5</b> - Checklist do Planejamento do Relato do Protótipo de Papel.</p></font>
 
@@ -73,5 +73,4 @@ A Tabela 2 a seguir apresenta a verificação do artefato <a href="https://inter
 
 | Versão| Data | Data Prevista de Revisão| Descrição  | Autor(es)  | Revisor(es) |
 | ------- | ------ | ------ | ------- | -------- | -------- |
-| `1.0` | 12/06/2024 | 12/06/2024 | Criando documento, introdução e checklist do artefato | [João Artur](https://github.com/joao-artl)|[Diego Sousa](https://github.com/DiegoSousaLeite)|
-| `1.1` | 12/06/2024 | 12/06/2024 | Adicionando vídeo | [Diego Sousa](https://github.com/DiegoSousaLeite)|[João Artur](https://github.com/joao-artl)|
+| `1.0` | 26/06/2024 | 26/06/2024 | Criando documento, introdução e checklist do artefato | [Diego Sousa](https://github.com/DiegoSousaLeite)|[João Artur](https://github.com/joao-artl)|
