@@ -14,7 +14,7 @@ A Tabela 1 a seguir detalha as características referentes à execução da veri
 
 |**Entrega referente**|**Nome do Artefato**|**Versão do artefato**|**Responsável pelo Desenvolvimento do Artefato**|**Responsável pela Verificação do Artefato**|
 |---------|---------|---------|-----------|------------------|
-|Entrega 02|Perfil de Usuário|`1.0`|Larissa Stéfane|[Diego Sousa](https://github.com/DiegoSousaLeite) e [João Artur](https://github.com/joao-artl)|
+|Entrega 02|Perfil de Usuário|`1.1`|Erick|[Diego Sousa](https://github.com/DiegoSousaLeite) e [João Artur](https://github.com/joao-artl)|
 
 <font size="3"><p style="text-align: center"><b>Fonte: </b>[Diego Sousa](https://github.com/DiegoSousaLeite).</p></font>
 </center>

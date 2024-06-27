@@ -2,11 +2,11 @@
 
 ## <a>Introdução</a>
 
-Neste artefato, nosso objetivo é relatar de forma detalhada a verificação do <a href="https://interacao-humano-computador.github.io/2024.1-SIGAA/#/DesignAvaliaçãoDesenvolvimento/Nível1/Storyboard/PlanejamentoAvaliaçãoStoryboard">Planejamento da Avaliação do Storyboard</a> desenvolvido pelo <a href="https://interacao-humano-computador.github.io/2024.1-SIGAA/#/">grupo 01</a>. Essa verificação é fundamental para garantir que todas as atividades planejadas estejam devidamente alinhadas com os objetivos do projeto, os prazos estabelecidos e as expectativas dos stakeholders. Analisaremos a coerência das datas, a distribuição das tarefas e a viabilidade do Planejamento da Avaliação do Storyboard, assegurando que ele seja realista e exequível.
+Neste artefato, nosso objetivo é relatar de forma detalhada a verificação do <a href="https://interacao-humano-computador.github.io/2024.1-CD-MOJ/design-avaliacao-desenvolvimento/nivel1/storyboard/planejamentoAvaliacao/#referencia-bibliografica">Planejamento da Avaliação do Storyboard</a> desenvolvido pelo <a href="https://interacao-humano-computador.github.io/2024.1-CD-MOJ/">grupo 01</a>. Essa verificação é fundamental para garantir que todas as atividades planejadas estejam devidamente alinhadas com os objetivos do projeto, os prazos estabelecidos e as expectativas dos stakeholders. Analisaremos a coerência das datas, a distribuição das tarefas e a viabilidade do Planejamento da Avaliação do Storyboard, assegurando que ele seja realista e exequível.
 
 ## <a>Características da Verificação da Guia de Estilo</a>
 
-A Tabela 1 a seguir detalha as características referentes à execução da verificação do artefato desenvolvido pelo <a href="https://interacao-humano-computador.github.io/2024.1-SIGAA/#/">grupo 01</a>, destacando informações essenciais como a entrega referente, nome do artefato, versão, responsável pelo desenvolvimento e verificação, e a data em que a verificação foi realizada.
+A Tabela 1 a seguir detalha as características referentes à execução da verificação do artefato desenvolvido pelo <a href="https://interacao-humano-computador.github.io/2024.1-CD-MOJ/">grupo 01</a>, destacando informações essenciais como a entrega referente, nome do artefato, versão, responsável pelo desenvolvimento e verificação, e a data em que a verificação foi realizada.
 
 <center>
 
@@ -14,7 +14,7 @@ A Tabela 1 a seguir detalha as características referentes à execução da veri
 
 |**Entrega referente**|**Nome do Artefato**|**Versão do artefato**|**Responsável pelo Desenvolvimento do Artefato**|**Responsável pela Verificação do Artefato**|**Data da Verificação**|
 |---------|---------|---------|-----------|------------------|------|
-|Entrega 04|Planejamento da Avaliação do Storyboard|`1.0`|Breno Alexandre|[Diego Sousa](https://github.com/DiegoSousaLeite) e [João Artur](https://github.com/joao-artl)|
+|Entrega 04|Planejamento da Avaliação do Storyboard|`1.1`|Arthur Alves e Eric Silveira|[Diego Sousa](https://github.com/DiegoSousaLeite) e [João Artur](https://github.com/joao-artl)|
 
 <font size="3"><p style="text-align: center"><b>Fonte: </b> [Diego Sousa](https://github.com/DiegoSousaLeite).</p></font>
 </center>
@@ -22,7 +22,7 @@ A Tabela 1 a seguir detalha as características referentes à execução da veri
 
 ## <a>Checklist</a>
 
-A Tabela 2 a seguir apresenta a verificação do artefato <a href="https://interacao-humano-computador.github.io/2024.1-SIGAA/#/DesignAvaliaçãoDesenvolvimento/Nível1/Storyboard/PlanejamentoAvaliaçãoStoryboard">Planejamento da Avaliação do Storyboard</a> do <a href="https://interacao-humano-computador.github.io/2024.1-SIGAA/#/">grupo 01</a> por meio de um checklist detalhado. Esta verificação tem como objetivo assegurar que todos os elementos essenciais do artefato estão presentes e bem definidos, garantindo sua qualidade e conformidade com os requisitos estabelecidos.
+A Tabela 2 a seguir apresenta a verificação do artefato <a href="https://interacao-humano-computador.github.io/2024.1-CD-MOJ/design-avaliacao-desenvolvimento/nivel1/storyboard/planejamentoAvaliacao/#referencia-bibliografica">Planejamento da Avaliação do Storyboard</a> do <a href="https://interacao-humano-computador.github.io/2024.1-CD-MOJ/">grupo 01</a> por meio de um checklist detalhado. Esta verificação tem como objetivo assegurar que todos os elementos essenciais do artefato estão presentes e bem definidos, garantindo sua qualidade e conformidade com os requisitos estabelecidos.
 
 <font size="3"><p style="text-align: center"><b>Tabela 2</b> - Checklist do Planejamento da Avaliação do Storyboard.</p></font>
 
@@ -69,4 +69,4 @@ A Tabela 2 a seguir apresenta a verificação do artefato <a href="https://inter
 
 | Versão| Data | Data Prevista de Revisão| Descrição  | Autor(es)  | Revisor(es) |
 | ------- | ------ | ------ | ------- | -------- | -------- |
-| `1.0` | 12/06/2024 | 12/06/2024 | Criando documento, introdução e checklist do artefato | [Diego Sousa](https://github.com/DiegoSousaLeite)|[João Artur](https://github.com/joao-artl)|
+| `1.0` | 26/06/2024 | 26/06/2024 | Criando documento, introdução e checklist do artefato | [Diego Sousa](https://github.com/DiegoSousaLeite)|[João Artur](https://github.com/joao-artl)|
