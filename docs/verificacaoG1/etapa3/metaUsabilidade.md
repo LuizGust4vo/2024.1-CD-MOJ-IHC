@@ -7,7 +7,7 @@ Neste artefato, nosso objetivo é relatar de forma detalhada a verificação do 
 
 ## <a>Características da Verificação das Metas de Usabilidade</a>
 
-A Tabela 1 a seguir detalha as características referentes à execução da verificação do artefato desenvolvido pelo <a href="https://interacao-humano-computador.github.io/2024.1-SIGAA/#/">grupo 01</a>, destacando informações essenciais como a entrega referente, nome do artefato, versão, responsável pelo desenvolvimento e verificação, e a data em que a verificação foi realizada.
+A Tabela 1 a seguir detalha as características referentes à execução da verificação do artefato desenvolvido pelo <a href="https://interacao-humano-computador.github.io/2024.1-CD-MOJ/analise-de-requisitos/metasDeUsabilidade/">grupo 01</a>, destacando informações essenciais como a entrega referente, nome do artefato, versão, responsável pelo desenvolvimento e verificação, e a data em que a verificação foi realizada.
 
 <center>
 
@@ -30,10 +30,10 @@ A Tabela 2 a seguir apresenta a verificação do artefato <a href="https://inter
 
 | **ID** | **Descrição** | **Avaliação** | **Observações** | **Explicação e Referência** |
 | ------ | ------------- | ------------- | --------------- | ------------- |
-| 1 | O artefato apresenta a descrição das metas de usabilidade a serem alcançadas no projeto? | - | - | A utilização das metas de usabilidade durante o projeto ajuda a solucionar preocupações como a produtividade do usuário durante a utilização do sistema e motivação desse usuário para um aprendizado eficaz. <a id="anchor_1" href="#REF1">^1^</a>|
-| 2 | O artefato apresenta as 6 metas de usabilidade(Eficácia, Eficiência, Segurança, Utilidade, Aprendizagem, Memorização)? | - | - | Um desses estudos são as 6 metas de usabilidade, uma lista de fatores que estão ligadas diretamente ao uso de sistemas, segundo Jakob Nielsen (1993).<a id="anchor_1" href="#REF1">^1^</a>|
-| 3 | As metas foram definidas através do perfil de usuário? | - | - | Cada sistema tem uma utilidade. Para fazê-la acontecer da melhor maneira é necessário fornecer ao usuário um conjunto de funções, estas que são esperadas pelo usuário naquele devido contexto.<a id="anchor_1" href="#REF1">^1^</a>|
-| 4 | Cada meta de usabilidade possui uma breve explicação? | - | - | Levar em consideração tais metas na hora da projetação, garante o mínimo necessário para o desenvolvimento de boas interfaces digitais e experiências válidas para o usuário. <a id="anchor_1" href="#REF1">^1^</a>|
+| 1 | O artefato apresenta a descrição das metas de usabilidade a serem alcançadas no projeto? | Sim | - | A utilização das metas de usabilidade durante o projeto ajuda a solucionar preocupações como a produtividade do usuário durante a utilização do sistema e motivação desse usuário para um aprendizado eficaz. <a id="anchor_1" href="#REF1">^1^</a>|
+| 2 | O artefato apresenta as 6 metas de usabilidade(Eficácia, Eficiência, Segurança, Utilidade, Aprendizagem, Memorização)? | Sim | - | Um desses estudos são as 6 metas de usabilidade, uma lista de fatores que estão ligadas diretamente ao uso de sistemas, segundo Jakob Nielsen (1993).<a id="anchor_1" href="#REF1">^1^</a>|
+| 3 | As metas foram definidas através do perfil de usuário? | SIm | - | Cada sistema tem uma utilidade. Para fazê-la acontecer da melhor maneira é necessário fornecer ao usuário um conjunto de funções, estas que são esperadas pelo usuário naquele devido contexto.<a id="anchor_1" href="#REF1">^1^</a>|
+| 4 | Cada meta de usabilidade possui uma breve explicação? | Sim | - | Levar em consideração tais metas na hora da projetação, garante o mínimo necessário para o desenvolvimento de boas interfaces digitais e experiências válidas para o usuário. <a id="anchor_1" href="#REF1">^1^</a>|
 
 <font size="3"><p style="text-align: center"><b>Fonte: </b> [Eric Silveira](https://github.com/ericbky) e [Luiz Gustavo](https://github.com/LuizGust4vo).</p></font>
 </center>
@@ -41,7 +41,8 @@ A Tabela 2 a seguir apresenta a verificação do artefato <a href="https://inter
 
 ## <a>Gravação da Verificação</a>
 
-<iframe width="560" height="315" src="" title="Gravação da Verificação - Metas de Usabilidade" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/v6kJzsgMsqI?si=EnCjCoL2tdvrTfZk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 
 
 ## <a>Referência Bibliografica</a>
@@ -64,4 +65,4 @@ A Tabela 2 a seguir apresenta a verificação do artefato <a href="https://inter
 
 | Versão| Data | Data Prevista de Revisão| Descrição  | Autor(es)  | Revisor(es) |
 | ------- | ------ | ------ | ------- | -------- | -------- |
-| `1.0` | 26/06/2024 | 26/06/2024 | Criando documento, introdução e checklist do artefato | [Eric Silveira](https://github.com/ericbky) e [Luiz Gustavo](https://github.com/LuizGust4vo) | [Arthur Alves](https://github.com/arthrok), [Diego Sousa](https://github.com/DiegoSousaLeite), [Douglas Marinho](https://github.com/M4RINH0) e [João Artur](https://github.com/joao-artl |
+| `1.0` | 26/06/2024 | 26/06/2024 | Criando documento, introdução e checklist do artefato | [Eric Silveira](https://github.com/ericbky) e [Luiz Gustavo](https://github.com/LuizGust4vo) | [Arthur Alves](https://github.com/arthrok), [Diego Sousa](https://github.com/DiegoSousaLeite), [Douglas Marinho](https://github.com/M4RINH0) e [João Artur](https://github.com/joao-artl) |
