@@ -27,13 +27,13 @@ A Tabela 2 a seguir apresenta a verificação do artefato <a href="https://inter
 
 | ID  | Descrição | Avaliação | Observações |
 | --- | --------- | :-------: | :---------: |
-| 1   | O planejamento estabelece os objetivos e o escopo para avaliar os resultados?<a id="anchor_10" href="#REF10">^10^</a>  |     Sim     |-|
-| 2   | O planejamento define o método de avaliação dos resultados?<a id="anchor_10" href="#REF10">^10^</a> |     Sim     |-|
-| 3   | O planejamento apresenta os participantes selecionados?<a id="anchor_10" href="#REF10">^10^</a>   |     Incompleto    |-|
-| 4   | O perfil dos participantes selecionados está alinhado com o perfil de usuário?<a id="anchor_10" href="#REF10">^10^</a>   |     Sim     |-|
-| 5   | O planejamento fornece instruções sobre as sugestões de melhorias?<a id="anchor_10" href="#REF10">^10^</a>  |     Sim     |-|
-| 6   | O planejamento inclui uma seção para feedback dos usuários?<a id="anchor_10" href="#REF10">^10^</a>|     Sim     |-|
-| 7   | O planejamento identifica um tópico para resumir os principais resultados?<a id="anchor_10" href="#REF10">^10^</a> |     Sim     |-|
+| 1  | O planejamento estabelece os objetivos e o escopo para avaliar os resultados?<a id="anchor_10" href="#REF10">^10^</a>  |     Sim     |-|
+| 2  | O planejamento define o método de avaliação dos resultados?<a id="anchor_10" href="#REF10">^10^</a> |     Sim     |-|
+| 3  | O planejamento apresenta os participantes selecionados?<a id="anchor_10" href="#REF10">^10^</a>   |     Incompleto    | O número de participantes e avaliadores não é apresentado |
+| 4  | O perfil dos participantes selecionados está alinhado com o perfil de usuário?<a id="anchor_10" href="#REF10">^10^</a>   |     Sim     |-|
+| 5  | O planejamento fornece instruções sobre as sugestões de melhorias?<a id="anchor_10" href="#REF10">^10^</a>  |     Sim     |-|
+| 6  | O planejamento inclui uma seção para feedback dos usuários?<a id="anchor_10" href="#REF10">^10^</a>|     Sim     |-|
+| 7  | O planejamento identifica um tópico para resumir os principais resultados?<a id="anchor_10" href="#REF10">^10^</a> |     Sim     |-|
 | 8  | O planejamento esclarece que os resultados devem remeter às questões que motivaram o estudo?<a id="anchor_10" href="#REF10">^10^</a> |     Sim     |-|
 | 9  | O planejamento contempla um plano para o reprojeto do sistema, se necessário?<a id="anchor_10" href="#REF10">^10^</a>|     Sim     |-|
 
@@ -42,25 +42,37 @@ A Tabela 2 a seguir apresenta a verificação do artefato <a href="https://inter
 <font size="3"><p style="text-align: center">Fonte: [Eric Silveira](https://github.com/ericbky) e [Luiz Gustavo](https://github.com/LuizGust4vo).</p></font>
 
 
-
 ## <a>Gravação da Verificação</a>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/KZSG7IjYF8Y?si=KGCUBWHdW7AMllaI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
-
 ## <a>Referência Bibliografica</a>
-
-> <a id="REF1" href="#anchor_1"> 1. </a> Diana Fournier. As 6 metas de Usabilidade. MEDIUM, 2016. Disponível em: https://medium.com/vivareal-ux-chapter/as-6-metas-de-usabilidade-9491442fd56a. Acesso em: 6 de junho de 2024.
+> <a id="REF1" href="#anchor_1">1. </a>Gerência e Qualidade de Software - Aula 05 - Verificação e Validação. UNIVESP. Disponível em: <https://www.youtube.com/watch?v=1Y-1zz6rZxo&t=205s>. Acesso em: 06 de junho de 2024 às 12:00.
+> 
+> <a id="REF2" href="#anchor_2">2. </a>SERRANO, Milene. SERRANO, Maurício. Apresentação: Requisitos - Aula 23. Página 19.
+> 
+> <a id="REF3" href="#anchor_3">3.</a> Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) *Interação Humano-Computador e Experiência do usuário.* Capítulo 11. Planejamento da Avaliação de IHC, tópico 11.2 O que Avaliar?, página 264. Autopublicação. ISBN: 978-65-00-19677-1.
+>
+> <a id="REF4" href="#anchor_4">4.</a> Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) *Interação Humano-Computador e Experiência do usuário.* Capítulo 11. Planejamento da Avaliação de IHC, tópico 11.2 O que Avaliar?, página 266. Autopublicação. ISBN: 978-65-00-19677-1.
+>
+> <a id="REF5" href="#anchor_5">5.</a> Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) *Interação Humano-Computador e Experiência do usuário.* Capítulo 11. Planejamento da Avaliação de IHC, tópico 11.6 Qual Tipo de Método de Avaliação Escolher?, página 272. Autopublicação. ISBN: 978-65-00-19677-1.
+>
+> <a id="REF6" href="#anchor_6">6.</a> Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) *Interação Humano-Computador e Experiência do usuário.* Capítulo 11. Planejamento da Avaliação de IHC, tópico 11.7.2 Preparação, página 274 e 275. Autopublicação. ISBN: 978-65-00-19677-1.
+>
+> <a id="REF7" href="#anchor_7">7.</a> Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) *Interação Humano-Computador e Experiência do usuário.* Capítulo 11. Planejamento da Avaliação de IHC, tópico 11.7.2 Preparação, página 276. Autopublicação. ISBN: 978-65-00-19677-1.
+>
+> <a id="REF8" href="#anchor_8">8.</a> Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) *Interação Humano-Computador e Experiência do usuário.* Capítulo 11. Planejamento da Avaliação de IHC, 11.7.4 Interpretação, página 278 e 279. Autopublicação. ISBN: 978-65-00-19677-1.
+>
+> <a id="REF9" href="#anchor_9">9.</a> Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) *Interação Humano-Computador e Experiência do usuário.* Capítulo 11. Planejamento da Avaliação de IHC,11.8 O Framework DECIDE, página 279 e 280. Autopublicação. ISBN: 978-65-00-19677-1.
+> 
+> <a id="REF10" href="#anchor_10">10.</a> Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) *Interação Humano-Computador e Experiência do usuário.* Capítulo 11 Planejamento da Avaliação de IHC, tópico 11.7.5 Consolidação e Relato dos Resultados, página 279 . Autopublicação. ISBN: 978-65-00-19677-1.
 
 
 ## <a>Bibliografia</a>
-
-> <a>1. </a> Diana Fournier. As 6 metas de Usabilidade. MEDIUM, 2016. Disponível em: https://medium.com/vivareal-ux-chapter/as-6-metas-de-usabilidade-9491442fd56a. Acesso em: 6 de junho de 2024.
-
-> <a>2. </a>Projeto da disciplina Interação Humano-Computador. Bilheteria Digital. Disponível em: <https://interacao-humano-computador.github.io/2023.1-BilheteriaDigital/verificacao/grupo2/etapa3/planejamento-verificacao-etapa3-grupo2/>. Acesso em 06 de junho de 2024.>
-
-> <a>3. </a> Projeto da disciplina Interação Humano-Computador. Dominio Público. Disponível em: <https://interacao-humano-computador.github.io/2023.2-Dominio-Publico/verficacao/verificacao_grupo_5/etapa_analise_requisitos/planejamento_avaliacao/>. Acesso em 06 de junho de 2024.
+> <a>1. </a>Gerência e Qualidade de Software - Aula 05 - Verificação e Validação. UNIVESP. Disponível em: <https://www.youtube.com/watch?v=1Y-1zz6rZxo&t=205s>. Acesso em: 05 de junho de 2024 às 12:00.
+> 
+> <a>2. </a>SERRANO, Milene. SERRANO, Maurício. Apresentação: Requisitos - Aula 23.
 
 
 ## <a>Histórico de Versão</a>
