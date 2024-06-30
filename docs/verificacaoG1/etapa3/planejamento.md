@@ -29,12 +29,13 @@ O responsável pelo planejamento da verificação da entrega 3 será o integrant
 
 </center>
 
-<font size="3"><p style="text-align: center"><b>Fonte: </b> [Eric Silveira](https://github.com/ericbky) e [Luiz Gustavo](https://github.com/LuizGust4vo).</p></font>
+<font size="3"><p style="text-align: center"><b>Fonte: </b> [João Artur](https://github.com/joao-artl).</p></font>
 
 Os resultados obtidos após as verificações serão exibidos na respectiva guia destacadas a seguir:
 
-
-INSERIR LINKS DOS ARTEFATOS
+- <a href="https://interacao-humano-computador.github.io/2024.1-CD-MOJ/verificacaoG1/etapa3/principiosGerais/">Princípios Gerais do Projeto</a>
+- <a href="https://interacao-humano-computador.github.io/2024.1-CD-MOJ/verificacaoG1/etapa3/metaUsabilidade/">Metas de Usabilidade</a>
+- <a href="https://interacao-humano-computador.github.io/2024.1-CD-MOJ/verificacaoG1/etapa3/guiaEstilo/">Guia de Estilo</a>
 
 
 ## <a>Checklists</a>
@@ -157,3 +158,4 @@ A tabela 5 a seguir demonstra o checklist referente as verificações desse arte
 | ------- | ------ | ------ | ------- | -------- | -------- |
 | `1.0` | 26/06/2024 | 26/06/2024 | Criação do documento com Introdução, Metodologia e Características da Verificação dos artefatos e Checklists dos artefatos. | [João Artur](https://github.com/joao-artl)|[Diego Sousa](https://github.com/DiegoSousaLeite)|
 | `1.1` | 26/06/2024 | 26/06/2024 | Atualizando as Características da Verificação dos Artefatos. | [Eric Silveira](https://github.com/ericbky) e [Luiz Gustavo](https://github.com/LuizGust4vo)|[Diego Sousa](https://github.com/DiegoSousaLeite)|
+| `1.2` | 30/06/2024 | 30/06/2024 | Criação do documento com Introdução, Metodologia e Características da Verificação dos artefatos e Checklists dos artefatos. | [João Artur](https://github.com/joao-artl)|[Diego Sousa](https://github.com/DiegoSousaLeite)|
