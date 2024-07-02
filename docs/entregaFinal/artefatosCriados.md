@@ -117,6 +117,9 @@ Ao longo do projeto, foram elaborados 78 artefatos, distribuídos nas tabelas de
 
     </center>
 
+## <a>Bibliografia</a>
+> <a>1. </a> HENRIQUE, Matheus; FERREIRA, Rafael. Artefatos criados. Repositório do Grupo Bilheteria Digital da disciplina de Interação Humano Computador da Universidade de Brasília, 2023. Disponível em: https://interacao-humano-computador.github.io/2023.1-BilheteriaDigital/entrega-final/artefatos-criados/. Acesso em: 02/07/2024.
+
 
 ## <a>Histórico de Versão</a>
 
