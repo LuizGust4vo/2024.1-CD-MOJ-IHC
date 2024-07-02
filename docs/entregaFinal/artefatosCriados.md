@@ -1,0 +1,30 @@
+## <a> Introdução </a>
+
+Este documento tem como objetivo apresentar tabelas sintetizadas com todos os artefatos criados em cada etapa do projeto, incluindo o autor e o revisor de cada um. A intenção é manter uma documentação clara e organizada, proporcionando uma visão geral das atividades realizadas em cada fase. Essa abordagem pode ser utilizada como um guia de referência, auxiliando na comunicação entre os membros da equipe e na identificação de possíveis lacunas ou sobreposições nas responsabilidades.
+
+Ao longo do projeto, foram elaborados 78 artefatos, distribuídos nas tabelas de 1 a 9, conforme detalhado nos tópicos de cada entrega apresentados a seguir.
+
+## Entrega 1
+
+??? abstract "Tabela 1"
+
+    <center>
+
+    **Tabela 1** - Artefatos da entrega 1
+
+    | Artefato                                                 | Descrição                                                         | Autor(es)                                                                                                                                                                                         | Revisor(es)                                                                                                                                                                                                                                      |
+    | -------------------------------------------------------- | ----------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+    | [Home](../index.md)                                      | Introdução sobre o projeto e membros da equipe.                   | [Arthur Alves](https://github.com/Arthrok), [Diego Sousa](https://github.com/DiegoSousaLeite) e [Eric Silveira](https://github.com/ericbky) | [Arthur Alves](https://github.com/Arthrok), [Diego Sousa](https://github.com/DiegoSousaLeite) e  [João Artur](https://github.com/joao-artl)|
+    | **Planejamento**                                         |                                                                   |                                                                                                                                                                                                   |                                                                                                                                                                                                                                                  |
+    | [Cronograma](../planejamento/cronograma.md)              | Cronograma planejado e executado do projeto.                      | [Douglas Marinho](https://github.com/M4RINH0), [Eric Silveira](https://github.com/ericbky) e  [João Artur](https://github.com/joao-artl)                   | [Arthur Alves](https://github.com/Arthrok), [Diego Sousa](https://github.com/DiegoSousaLeite) e  [João Artur](https://github.com/joao-artl)                                                |
+    | [Ferramentas](../planejamento/ferramentas.md)            | Ferramentas utilizadas durante o projeto.                         |[Douglas Marinho](https://github.com/M4RINH0)            | [Diego Sousa](https://github.com/DiegoSousaLeite)                                                                                                                          |
+    | [Metodologia](../planejamento/metodologia.md)            | Descrição da metodologia de desenvolvimento utilizada no projeto. | [Douglas Marinho](https://github.com/M4RINH0), [Eric Silveira](https://github.com/ericbky) e  [João Artur](https://github.com/joao-artl)                   | [Douglas Marinho](https://github.com/M4RINH0) e  [João Artur](https://github.com/joao-artl)                   |
+    | [Sites Avaliados](../planejamento/sitesAvaliados.md)    | Avaliação dos sites candidatos à escolha.                         | [Diego Sousa](https://github.com/DiegoSousaLeite) e [Eric Silveira](https://github.com/ericbky)   | [Arthur Alves](https://github.com/Arthrok) e [Eric Silveira](https://github.com/ericbky)                                                                                                                                                                                                      |
+    | [Site Escolhido](../planejamento/siteEscolhido.md)      | Critérios e motivações da escolha do site escolhido.              | [Diego Sousa](https://github.com/DiegoSousaLeite)    | [Arthur Alves](https://github.com/Arthrok) e [Eric Silveira](https://github.com/ericbky)                                                                                              |
+    | [Processo de Design](../planejamento/processosDesign.md) | Critérios e motivações da escolha do site escolhido.              | [João Artur](https://github.com/joao-artl) e [Luiz Gustavo](https://github.com/LuizGust4vo)      | [Arthur Alves](https://github.com/Arthrok) e [Eric Silveira](https://github.com/ericbky)                                                                                                                                                      |
+
+    _Fonte: [Diego Sousa](https://github.com/DiegoSousaLeite)_
+
+    </center>
+
+    [Arthur Alves](https://github.com/Arthrok),[João Artur](https://github.com/joao-artl), [Diego Sousa](https://github.com/DiegoSousaLeite),[Douglas Marinho](https://github.com/M4RINH0), [Luiz Gustavo](https://github.com/LuizGust4vo) e [Eric Silveira](https://github.com/ericbky)
